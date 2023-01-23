@@ -1,0 +1,10280 @@
+1
+00:00:03,540 --> 00:00:06,200
+yes
+
+2
+00:00:06,919 --> 00:00:10,320
+I've done my best now to restart the
+
+3
+00:00:10,320 --> 00:00:11,179
+stream
+
+4
+00:00:11,179 --> 00:00:13,920
+maybe you can ask whether it's it's
+
+5
+00:00:13,920 --> 00:00:17,279
+working it's difficult for me to check
+
+6
+00:00:17,279 --> 00:00:18,960
+I thought I had been doing what I've
+
+7
+00:00:18,960 --> 00:00:20,880
+been doing last week it seemed to work
+
+8
+00:00:20,880 --> 00:00:21,840
+then
+
+9
+00:00:21,840 --> 00:00:25,199
+but um also for those who use the
+
+10
+00:00:25,199 --> 00:00:27,660
+streams to to study
+
+11
+00:00:27,660 --> 00:00:30,420
+I think it makes more sense to use last
+
+12
+00:00:30,420 --> 00:00:33,020
+year's stream also for today's lecture
+
+13
+00:00:33,020 --> 00:00:35,579
+for those who are following now because
+
+14
+00:00:35,579 --> 00:00:38,340
+I I prefer to teach for the ones here
+
+15
+00:00:38,340 --> 00:00:41,399
+meaning that I will be in front of my
+
+16
+00:00:41,399 --> 00:00:44,910
+screen I should also put that on again
+
+17
+00:00:44,910 --> 00:00:45,840
+[Music]
+
+18
+00:00:45,840 --> 00:00:46,559
+um
+
+19
+00:00:46,559 --> 00:00:49,260
+or in between in the classroom and that
+
+20
+00:00:49,260 --> 00:00:51,539
+will not be recorded and last year I've
+
+21
+00:00:51,539 --> 00:00:53,579
+just been streaming from my office
+
+22
+00:00:53,579 --> 00:00:55,260
+because we were not
+
+23
+00:00:55,260 --> 00:00:58,020
+supposed to have lectures anymore so I
+
+24
+00:00:58,020 --> 00:00:59,760
+feel that it's better to
+
+25
+00:00:59,760 --> 00:01:02,520
+for all the last year's team and also
+
+26
+00:01:02,520 --> 00:01:04,979
+for the ones who can't be here today but
+
+27
+00:01:04,979 --> 00:01:07,500
+also in case you want to study the
+
+28
+00:01:07,500 --> 00:01:11,460
+slides are 1990 99 the same
+
+29
+00:01:11,460 --> 00:01:14,220
+so um I think it makes more sense to use
+
+30
+00:01:14,220 --> 00:01:17,340
+last year's live stream also for last
+
+31
+00:01:17,340 --> 00:01:20,400
+week's class
+
+32
+00:01:20,400 --> 00:01:22,380
+thank you
+
+33
+00:01:22,380 --> 00:01:24,299
+um
+
+34
+00:01:24,299 --> 00:01:26,280
+do you have any information about the
+
+35
+00:01:26,280 --> 00:01:28,759
+stream now
+
+36
+00:01:28,860 --> 00:01:31,259
+you think it's working
+
+37
+00:01:31,259 --> 00:01:34,740
+okay and I'll I'll do my best to
+
+38
+00:01:34,740 --> 00:01:38,400
+move it in that direction
+
+39
+00:01:38,400 --> 00:01:39,600
+um
+
+40
+00:01:39,600 --> 00:01:41,820
+okay so let's suppose that the stream is
+
+41
+00:01:41,820 --> 00:01:42,740
+working
+
+42
+00:01:42,740 --> 00:01:46,740
+if not everyone can rely on last year's
+
+43
+00:01:46,740 --> 00:01:48,600
+team
+
+44
+00:01:48,600 --> 00:01:50,340
+um
+
+45
+00:01:50,340 --> 00:01:52,560
+okay I think quite many of you are here
+
+46
+00:01:52,560 --> 00:01:54,299
+like I don't know how many students have
+
+47
+00:01:54,299 --> 00:01:56,640
+expected to have I think 70 or 80
+
+48
+00:01:56,640 --> 00:01:59,540
+percent this year
+
+49
+00:01:59,700 --> 00:02:03,060
+um could the ideal of social mix so I I
+
+50
+00:02:03,060 --> 00:02:06,600
+told you already I told you already that
+
+51
+00:02:06,600 --> 00:02:09,360
+in many cities across the world there
+
+52
+00:02:09,360 --> 00:02:11,819
+has been a concern with segregation it
+
+53
+00:02:11,819 --> 00:02:14,640
+has been supposed that segregation has
+
+54
+00:02:14,640 --> 00:02:16,560
+negative effects
+
+55
+00:02:16,560 --> 00:02:19,920
+on uh poor people for example and that
+
+56
+00:02:19,920 --> 00:02:22,379
+you're worse off when you're poor when
+
+57
+00:02:22,379 --> 00:02:24,780
+you're living in a neighborhood where
+
+58
+00:02:24,780 --> 00:02:28,080
+with a concentration of poverty
+
+59
+00:02:28,080 --> 00:02:30,660
+rather than in a mixed neighborhood
+
+60
+00:02:30,660 --> 00:02:33,660
+where you have both Working Class People
+
+61
+00:02:33,660 --> 00:02:36,800
+and another philosophy
+
+62
+00:02:37,800 --> 00:02:40,980
+um already in the 19th century in the
+
+63
+00:02:40,980 --> 00:02:45,239
+hey days of the Industrial Revolution
+
+64
+00:02:45,239 --> 00:02:48,239
+um you have very different groups
+
+65
+00:02:48,239 --> 00:02:50,819
+um the capitalistic bourgeoisie and the
+
+66
+00:02:50,819 --> 00:02:53,400
+utopian socialists yeah so both the
+
+67
+00:02:53,400 --> 00:02:56,519
+Bourgeois and the Socialists who were
+
+68
+00:02:56,519 --> 00:02:58,080
+afraid
+
+69
+00:02:58,080 --> 00:03:01,080
+or who were thinking that
+
+70
+00:03:01,080 --> 00:03:03,840
+um concentrations of laborers in
+
+71
+00:03:03,840 --> 00:03:06,540
+particular neighborhoods of the city for
+
+72
+00:03:06,540 --> 00:03:08,580
+example here in Brussels in modern Bay
+
+73
+00:03:08,580 --> 00:03:14,400
+at that time or an antwer in um and for
+
+74
+00:03:14,400 --> 00:03:16,440
+the good house but this would have
+
+75
+00:03:16,440 --> 00:03:18,659
+negative effects
+
+76
+00:03:18,659 --> 00:03:22,140
+and the bourgeoisie was afraid that
+
+77
+00:03:22,140 --> 00:03:24,959
+concentrations of laborers might lead to
+
+78
+00:03:24,959 --> 00:03:26,640
+Revolutions
+
+79
+00:03:26,640 --> 00:03:29,280
+that socialist thinking would become
+
+80
+00:03:29,280 --> 00:03:31,319
+dominant with these neighborhoods and
+
+81
+00:03:31,319 --> 00:03:32,940
+that you would never report that people
+
+82
+00:03:32,940 --> 00:03:36,360
+would get on the streets okay and the
+
+83
+00:03:36,360 --> 00:03:40,080
+utopian socialists they were scared that
+
+84
+00:03:40,080 --> 00:03:40,620
+um
+
+85
+00:03:40,620 --> 00:03:43,760
+this these concentrations of laborers
+
+86
+00:03:43,760 --> 00:03:45,540
+would
+
+87
+00:03:45,540 --> 00:03:47,879
+um make it more difficult to strive for
+
+88
+00:03:47,879 --> 00:03:49,980
+an egalitarian society
+
+89
+00:03:49,980 --> 00:03:52,680
+and so on both ends of the political
+
+90
+00:03:52,680 --> 00:03:54,360
+Spectrum you had people who were
+
+91
+00:03:54,360 --> 00:03:56,760
+thinking that in places such as
+
+92
+00:03:56,760 --> 00:03:58,799
+Manchester or ginto Brussels where you
+
+93
+00:03:58,799 --> 00:04:01,319
+have these new uh working class
+
+94
+00:04:01,319 --> 00:04:04,200
+neighborhoods that this was something
+
+95
+00:04:04,200 --> 00:04:07,739
+bad to be counteracted
+
+96
+00:04:07,739 --> 00:04:09,900
+this ideal is still very dominant
+
+97
+00:04:09,900 --> 00:04:11,280
+nowadays
+
+98
+00:04:11,280 --> 00:04:13,799
+and here you see a quote
+
+99
+00:04:13,799 --> 00:04:15,110
+from
+
+100
+00:04:15,110 --> 00:04:16,560
+[Music]
+
+101
+00:04:16,560 --> 00:04:19,858
+well the Brussels Capital Region quite
+
+102
+00:04:19,858 --> 00:04:22,500
+an old one but I think current policy
+
+103
+00:04:22,500 --> 00:04:24,320
+documents you would find similar quotes
+
+104
+00:04:24,320 --> 00:04:27,120
+stating that contrary to the American
+
+105
+00:04:27,120 --> 00:04:30,180
+city the ideal type for the European
+
+106
+00:04:30,180 --> 00:04:33,419
+city is based on a mix of functions and
+
+107
+00:04:33,419 --> 00:04:34,500
+people
+
+108
+00:04:34,500 --> 00:04:36,240
+I think it's important to make a
+
+109
+00:04:36,240 --> 00:04:38,639
+distinction between these two things on
+
+110
+00:04:38,639 --> 00:04:40,919
+the one hand they refer to a functional
+
+111
+00:04:40,919 --> 00:04:44,759
+mix meaning that they would like to
+
+112
+00:04:44,759 --> 00:04:46,560
+strive for neighborhoods where you have
+
+113
+00:04:46,560 --> 00:04:48,900
+a mix of the residential function
+
+114
+00:04:48,900 --> 00:04:51,720
+apartments and houses
+
+115
+00:04:51,720 --> 00:04:56,220
+and for example offices
+
+116
+00:04:56,220 --> 00:04:59,340
+or shops saying that well it's not good
+
+117
+00:04:59,340 --> 00:05:02,040
+to have neighborhoods where you only
+
+118
+00:05:02,040 --> 00:05:03,060
+have
+
+119
+00:05:03,060 --> 00:05:05,460
+a residential friction and other
+
+120
+00:05:05,460 --> 00:05:07,020
+neighborhoods where you only have
+
+121
+00:05:07,020 --> 00:05:08,699
+offices
+
+122
+00:05:08,699 --> 00:05:11,060
+and so we strive for
+
+123
+00:05:11,060 --> 00:05:13,620
+Brussels with neighborhoods where you
+
+124
+00:05:13,620 --> 00:05:15,900
+have a functional mix
+
+125
+00:05:15,900 --> 00:05:18,000
+yeah but then the other thing this is
+
+126
+00:05:18,000 --> 00:05:20,820
+what we are interested in today is
+
+127
+00:05:20,820 --> 00:05:24,660
+saying well we also want Brussels like
+
+128
+00:05:24,660 --> 00:05:27,000
+other European cities to have
+
+129
+00:05:27,000 --> 00:05:30,660
+neighborhoods with a mix of people poor
+
+130
+00:05:30,660 --> 00:05:33,360
+people and rich people
+
+131
+00:05:33,360 --> 00:05:35,039
+and in Brussels there have been many
+
+132
+00:05:35,039 --> 00:05:39,060
+different moments where this
+
+133
+00:05:39,060 --> 00:05:41,759
+this topic of social mix has been
+
+134
+00:05:41,759 --> 00:05:43,080
+agenda
+
+135
+00:05:43,080 --> 00:05:45,840
+I think those of you
+
+136
+00:05:45,840 --> 00:05:48,780
+have not arrive to vessels only a month
+
+137
+00:05:48,780 --> 00:05:51,360
+ago I might have heard of these
+
+138
+00:05:51,360 --> 00:05:53,820
+discussions around Creator books the
+
+139
+00:05:53,820 --> 00:05:57,740
+social housing Estates on my list
+
+140
+00:05:57,740 --> 00:06:00,120
+so in the periphery of the Brussels
+
+141
+00:06:00,120 --> 00:06:03,419
+Capital Region and therefore yeah quite
+
+142
+00:06:03,419 --> 00:06:06,720
+some media reports about crime
+
+143
+00:06:06,720 --> 00:06:09,060
+yeah and then the issue of well you have
+
+144
+00:06:09,060 --> 00:06:10,500
+all these
+
+145
+00:06:10,500 --> 00:06:12,060
+to be
+
+146
+00:06:12,060 --> 00:06:14,639
+accommodated on the social housing
+
+147
+00:06:14,639 --> 00:06:17,160
+estate in uh in Brussels and in Belgium
+
+148
+00:06:17,160 --> 00:06:20,340
+more generally you need to fall below a
+
+149
+00:06:20,340 --> 00:06:22,500
+certain income
+
+150
+00:06:22,500 --> 00:06:26,039
+stressful yeah meaning that it's mainly
+
+151
+00:06:26,039 --> 00:06:28,860
+the poorest of the poor that you will
+
+152
+00:06:28,860 --> 00:06:30,720
+concentrate on these social housing
+
+153
+00:06:30,720 --> 00:06:32,120
+instance
+
+154
+00:06:32,120 --> 00:06:35,280
+and so then you had discussions well is
+
+155
+00:06:35,280 --> 00:06:37,639
+that a good thing is this not leading to
+
+156
+00:06:37,639 --> 00:06:42,240
+this culture where crime is uh or common
+
+157
+00:06:42,240 --> 00:06:45,660
+and conservative politicians would raise
+
+158
+00:06:45,660 --> 00:06:47,520
+this kind of dog service
+
+159
+00:06:47,520 --> 00:06:49,440
+Progressive politicians would wonder
+
+160
+00:06:49,440 --> 00:06:52,919
+well is that then a neighborhood where
+
+161
+00:06:52,919 --> 00:06:55,319
+it is easy for poor people to climb the
+
+162
+00:06:55,319 --> 00:06:58,380
+social network wouldn't it be easier to
+
+163
+00:06:58,380 --> 00:07:01,259
+be socially mobile when you are not only
+
+164
+00:07:01,259 --> 00:07:04,500
+surrounded by other poor people but when
+
+165
+00:07:04,500 --> 00:07:07,680
+you are living between poor and rich
+
+166
+00:07:07,680 --> 00:07:10,160
+people alive
+
+167
+00:07:12,740 --> 00:07:16,680
+a neighborhood in underlift and
+
+168
+00:07:16,680 --> 00:07:19,620
+obviously also in the wake of these
+
+169
+00:07:19,620 --> 00:07:23,639
+terrorist attacks in 2015 there were a
+
+170
+00:07:23,639 --> 00:07:26,039
+lot of concerns also in the
+
+171
+00:07:26,039 --> 00:07:27,360
+international league
+
+172
+00:07:27,360 --> 00:07:30,960
+about more of me and there were reports
+
+173
+00:07:30,960 --> 00:07:33,000
+about more than make as difficult as a
+
+174
+00:07:33,000 --> 00:07:34,139
+ghetto
+
+175
+00:07:34,139 --> 00:07:37,199
+it's been looking at the statistics
+
+176
+00:07:37,199 --> 00:07:39,120
+I think
+
+177
+00:07:39,120 --> 00:07:42,060
+is the municipality most
+
+178
+00:07:42,060 --> 00:07:46,680
+people of Moroccan and origin the
+
+179
+00:07:46,680 --> 00:07:49,620
+boost followers of Islam but it's still
+
+180
+00:07:49,620 --> 00:07:51,419
+less than half
+
+181
+00:07:51,419 --> 00:07:54,180
+so in the in international media it was
+
+182
+00:07:54,180 --> 00:07:57,300
+often reported as this model made was a
+
+183
+00:07:57,300 --> 00:08:00,000
+municipality with only
+
+184
+00:08:00,000 --> 00:08:02,000
+uh
+
+185
+00:08:02,000 --> 00:08:03,599
+Moroccan
+
+186
+00:08:03,599 --> 00:08:06,900
+people and people of Moroccan Origins
+
+187
+00:08:06,900 --> 00:08:08,759
+and when you look at the statistics that
+
+188
+00:08:08,759 --> 00:08:10,919
+was not the case nonetheless
+
+189
+00:08:10,919 --> 00:08:14,220
+they were concerns hopefully but also
+
+190
+00:08:14,220 --> 00:08:16,080
+conditionally
+
+191
+00:08:16,080 --> 00:08:20,759
+um about mobile Bank being a safe haven
+
+192
+00:08:20,759 --> 00:08:22,919
+for terrorists and breeding graph or
+
+193
+00:08:22,919 --> 00:08:23,639
+there
+
+194
+00:08:23,639 --> 00:08:26,580
+are affected you have this concentration
+
+195
+00:08:26,580 --> 00:08:31,640
+of people of the same origin was
+
+196
+00:08:31,640 --> 00:08:36,599
+then the reason to be to be concerned
+
+197
+00:08:36,599 --> 00:08:40,200
+so both when it comes social Mobility
+
+198
+00:08:40,200 --> 00:08:42,539
+and when it comes to
+
+199
+00:08:42,539 --> 00:08:46,920
+cultural integration and newcomers there
+
+200
+00:08:46,920 --> 00:08:50,040
+are concerns in a city such as Brussels
+
+201
+00:08:50,040 --> 00:08:53,459
+about the concentration of either people
+
+202
+00:08:53,459 --> 00:08:56,940
+or people of foreign origin these are
+
+203
+00:08:56,940 --> 00:09:00,480
+two different issues social mobility and
+
+204
+00:09:00,480 --> 00:09:03,959
+social cultural integration and so I
+
+205
+00:09:03,959 --> 00:09:06,920
+hint was there a question
+
+206
+00:09:07,560 --> 00:09:09,560
+um
+
+207
+00:09:13,140 --> 00:09:16,440
+no I am I'm trying to explain you
+
+208
+00:09:16,440 --> 00:09:18,600
+I'm not saying that there is that these
+
+209
+00:09:18,600 --> 00:09:21,240
+are examples one is the social picks but
+
+210
+00:09:21,240 --> 00:09:23,100
+I'm trying to explain you that in many
+
+211
+00:09:23,100 --> 00:09:25,200
+cities across the roads and I will start
+
+212
+00:09:25,200 --> 00:09:27,779
+from a couple of religion examples this
+
+213
+00:09:27,779 --> 00:09:30,000
+ideal or social mix is high on the
+
+214
+00:09:30,000 --> 00:09:32,279
+political object and I'm referring to
+
+215
+00:09:32,279 --> 00:09:35,519
+this paper boss issue and modern-day
+
+216
+00:09:35,519 --> 00:09:37,500
+after the pillars the text has two
+
+217
+00:09:37,500 --> 00:09:40,080
+moments where social mixtures highly
+
+218
+00:09:40,080 --> 00:09:43,080
+debated local media and in the case of
+
+219
+00:09:43,080 --> 00:09:44,700
+these terrorist attacks also is
+
+220
+00:09:44,700 --> 00:09:46,940
+international
+
+221
+00:09:49,080 --> 00:09:52,080
+um Brussels we moved to Ghent
+
+222
+00:09:52,080 --> 00:09:54,540
+and a former colleague of mine
+
+223
+00:09:54,540 --> 00:09:56,519
+has written a nice book about
+
+224
+00:09:56,519 --> 00:09:58,940
+gentrification
+
+225
+00:09:58,940 --> 00:10:01,040
+his name is
+
+226
+00:10:01,040 --> 00:10:03,720
+so for those who know the Dutch who are
+
+227
+00:10:03,720 --> 00:10:06,360
+interested in a piece of things they
+
+228
+00:10:06,360 --> 00:10:08,220
+they find some interesting literature
+
+229
+00:10:08,220 --> 00:10:08,940
+there
+
+230
+00:10:08,940 --> 00:10:11,880
+and you see a quote from an elder man of
+
+231
+00:10:11,880 --> 00:10:13,440
+the City of Kent
+
+232
+00:10:13,440 --> 00:10:16,560
+uh talking about for those who know
+
+233
+00:10:16,560 --> 00:10:20,360
+neighborhoods such as Bridge support
+
+234
+00:10:20,360 --> 00:10:22,560
+neighborhoods that have a similar
+
+235
+00:10:22,560 --> 00:10:23,640
+history
+
+236
+00:10:23,640 --> 00:10:27,000
+as modern big in Brussels or
+
+237
+00:10:27,000 --> 00:10:27,680
+um
+
+238
+00:10:27,680 --> 00:10:31,200
+in Antwerp neighborhoods that have
+
+239
+00:10:31,200 --> 00:10:33,800
+developed in this 19th century
+
+240
+00:10:33,800 --> 00:10:37,620
+industrial industrialization
+
+241
+00:10:37,620 --> 00:10:39,000
+and
+
+242
+00:10:39,000 --> 00:10:42,240
+um so neighborhoods with
+
+243
+00:10:42,240 --> 00:10:43,740
+um
+
+244
+00:10:43,740 --> 00:10:46,500
+higher than average percentage of
+
+245
+00:10:46,500 --> 00:10:48,899
+unemployment higher than average
+
+246
+00:10:48,899 --> 00:10:51,899
+percentage of people also a higher than
+
+247
+00:10:51,899 --> 00:10:55,680
+average percentage of people of foreign
+
+248
+00:10:55,680 --> 00:10:58,740
+what was this elder man saying well when
+
+249
+00:10:58,740 --> 00:11:01,220
+I attract young families
+
+250
+00:11:01,220 --> 00:11:04,740
+preferably with a job preferably double
+
+251
+00:11:04,740 --> 00:11:08,339
+income families that will improve my
+
+252
+00:11:08,339 --> 00:11:09,600
+social tissue
+
+253
+00:11:09,600 --> 00:11:15,060
+my textbooks and my neighborhood life
+
+254
+00:11:15,060 --> 00:11:17,399
+I think these are different concerns the
+
+255
+00:11:17,399 --> 00:11:18,839
+tech space
+
+256
+00:11:18,839 --> 00:11:21,360
+is something something important I'm
+
+257
+00:11:21,360 --> 00:11:24,360
+sorry I'm in Belgium about 40 to 50
+
+258
+00:11:24,360 --> 00:11:27,540
+percent of the municipal budget comes
+
+259
+00:11:27,540 --> 00:11:30,720
+from local Texas most of it is a
+
+260
+00:11:30,720 --> 00:11:33,420
+percentage on the local income tax and
+
+261
+00:11:33,420 --> 00:11:35,519
+percentage on the
+
+262
+00:11:35,519 --> 00:11:38,579
+um on the income tax meaning that if you
+
+263
+00:11:38,579 --> 00:11:40,860
+have more rich people in your
+
+264
+00:11:40,860 --> 00:11:43,800
+municipality that you will have a higher
+
+265
+00:11:43,800 --> 00:11:46,700
+Municipal budget
+
+266
+00:11:46,700 --> 00:11:49,800
+and the other part comes from lent and
+
+267
+00:11:49,800 --> 00:11:51,720
+house value
+
+268
+00:11:51,720 --> 00:11:54,300
+um but so why does this elder man again
+
+269
+00:11:54,300 --> 00:11:57,420
+find or that attract young families
+
+270
+00:11:57,420 --> 00:11:59,399
+preferably with a joke
+
+271
+00:11:59,399 --> 00:12:02,940
+middle class of the white families is to
+
+272
+00:12:02,940 --> 00:12:05,399
+improve this local Tech space to have
+
+273
+00:12:05,399 --> 00:12:10,019
+more budget for the city of cats but on
+
+274
+00:12:10,019 --> 00:12:11,700
+top of that
+
+275
+00:12:11,700 --> 00:12:13,920
+he's saying it's also important to
+
+276
+00:12:13,920 --> 00:12:17,240
+improve my social tissue and I will go
+
+277
+00:12:17,240 --> 00:12:20,540
+further into that but often there the
+
+278
+00:12:20,540 --> 00:12:24,060
+underlying thought is that for example
+
+279
+00:12:24,060 --> 00:12:27,060
+when you have rich and poor people then
+
+280
+00:12:27,060 --> 00:12:28,140
+you have
+
+281
+00:12:28,140 --> 00:12:30,540
+families with the job and families
+
+282
+00:12:30,540 --> 00:12:32,820
+without a job that you will get diverse
+
+283
+00:12:32,820 --> 00:12:35,640
+social networks for example and then in
+
+284
+00:12:35,640 --> 00:12:38,579
+these networks jobs can be found or
+
+285
+00:12:38,579 --> 00:12:41,220
+people can be helped with homework Etc
+
+286
+00:12:41,220 --> 00:12:43,399
+and so this
+
+287
+00:12:43,399 --> 00:12:47,160
+ID for the importance to attract young
+
+288
+00:12:47,160 --> 00:12:50,220
+families prefer preferably connections
+
+289
+00:12:50,220 --> 00:12:54,060
+it's not only for to improved Tech space
+
+290
+00:12:54,060 --> 00:12:57,060
+of the city but also to improve the
+
+291
+00:12:57,060 --> 00:13:00,920
+social tissue and neighborhood life
+
+292
+00:13:01,139 --> 00:13:04,920
+in very much a similar way and we moved
+
+293
+00:13:04,920 --> 00:13:07,800
+to the city of Antwerp and we have been
+
+294
+00:13:07,800 --> 00:13:10,579
+visiting this undcredible port
+
+295
+00:13:10,579 --> 00:13:13,079
+neighborhoods the neighborhood where I
+
+296
+00:13:13,079 --> 00:13:16,380
+think 25 of the newcomers in Antwerp
+
+297
+00:13:16,380 --> 00:13:19,500
+passed through before moving to other
+
+298
+00:13:19,500 --> 00:13:21,360
+parts of the city and neighborhood that
+
+299
+00:13:21,360 --> 00:13:23,579
+is quite similar to this transition zone
+
+300
+00:13:23,579 --> 00:13:26,399
+that Burgess was describing in 19th
+
+301
+00:13:26,399 --> 00:13:28,380
+century Chicago
+
+302
+00:13:28,380 --> 00:13:30,540
+and I've been talking there about a lot
+
+303
+00:13:30,540 --> 00:13:31,800
+of regulations
+
+304
+00:13:31,800 --> 00:13:35,459
+and then affected shopkeepers in the
+
+305
+00:13:35,459 --> 00:13:38,820
+neighborhood but also
+
+306
+00:13:38,820 --> 00:13:42,060
+regulations that concern the subdivision
+
+307
+00:13:42,060 --> 00:13:43,860
+of houses
+
+308
+00:13:43,860 --> 00:13:46,760
+and you see there that in the previous
+
+309
+00:13:46,760 --> 00:13:50,639
+governance agreement in Antwerp it was
+
+310
+00:13:50,639 --> 00:13:53,459
+stated that the city wants a larger
+
+311
+00:13:53,459 --> 00:13:57,000
+share of single-family dwellings in this
+
+312
+00:13:57,000 --> 00:13:59,339
+particular neighborhood in the housing
+
+313
+00:13:59,339 --> 00:14:03,000
+Supply in order to attract families I
+
+314
+00:14:03,000 --> 00:14:05,399
+always find it interesting to see this
+
+315
+00:14:05,399 --> 00:14:08,220
+kind of words often youngsters means
+
+316
+00:14:08,220 --> 00:14:11,700
+young people or foreigners what you see
+
+317
+00:14:11,700 --> 00:14:13,860
+here is that families is used to call
+
+318
+00:14:13,860 --> 00:14:15,180
+this mantis
+
+319
+00:14:15,180 --> 00:14:19,200
+double income families often wide
+
+320
+00:14:19,200 --> 00:14:21,300
+structures so that is why the
+
+321
+00:14:21,300 --> 00:14:23,220
+transformation of single-family
+
+322
+00:14:23,220 --> 00:14:26,279
+dwellings into smaller housing entities
+
+323
+00:14:26,279 --> 00:14:29,040
+is not desirable and for those who join
+
+324
+00:14:29,040 --> 00:14:31,320
+to enter we have been discussing how
+
+325
+00:14:31,320 --> 00:14:33,959
+could you support the arrival function
+
+326
+00:14:33,959 --> 00:14:36,480
+in this neighborhood well when people
+
+327
+00:14:36,480 --> 00:14:38,579
+are looking for a very cheap place to
+
+328
+00:14:38,579 --> 00:14:41,220
+live and they will rent a room for even
+
+329
+00:14:41,220 --> 00:14:43,079
+just a mattress
+
+330
+00:14:43,079 --> 00:14:45,000
+and that's what they look for the
+
+331
+00:14:45,000 --> 00:14:48,120
+cheapest roof above their heads what you
+
+332
+00:14:48,120 --> 00:14:50,639
+see here is that the city of Antwerp is
+
+333
+00:14:50,639 --> 00:14:53,160
+not supporting the Bible version but
+
+334
+00:14:53,160 --> 00:14:57,360
+finds it important to bring another kind
+
+335
+00:14:57,360 --> 00:15:00,500
+of people uh to this neighborhood namely
+
+336
+00:15:00,500 --> 00:15:03,480
+richer families
+
+337
+00:15:03,480 --> 00:15:06,180
+so again you see efforts here
+
+338
+00:15:06,180 --> 00:15:07,680
+to
+
+339
+00:15:07,680 --> 00:15:08,940
+um
+
+340
+00:15:08,940 --> 00:15:11,940
+to earn this unto elephant North into a
+
+341
+00:15:11,940 --> 00:15:13,740
+socially mixed neighborhood where you
+
+342
+00:15:13,740 --> 00:15:18,959
+have newcomers next to uh white families
+
+343
+00:15:18,959 --> 00:15:21,480
+who can afford
+
+344
+00:15:21,480 --> 00:15:25,019
+to buy such a big house
+
+345
+00:15:25,019 --> 00:15:28,139
+just for for the use of one of one
+
+346
+00:15:28,139 --> 00:15:30,320
+family
+
+347
+00:15:30,320 --> 00:15:33,300
+in the art in the article by Tom Slater
+
+348
+00:15:33,300 --> 00:15:36,779
+and you've also seen references to
+
+349
+00:15:36,779 --> 00:15:39,180
+the situation in the UK
+
+350
+00:15:39,180 --> 00:15:42,420
+and the United States and and he refers
+
+351
+00:15:42,420 --> 00:15:46,860
+to this housing market renewal projects
+
+352
+00:15:46,860 --> 00:15:48,720
+where
+
+353
+00:15:48,720 --> 00:15:51,420
+um different in different parts of the
+
+354
+00:15:51,420 --> 00:15:52,639
+country
+
+355
+00:15:52,639 --> 00:15:55,680
+neighborhoods which were mainly
+
+356
+00:15:55,680 --> 00:15:59,160
+inhabited by poor people often poor
+
+357
+00:15:59,160 --> 00:16:01,500
+people of foreign origin you had
+
+358
+00:16:01,500 --> 00:16:04,380
+demolition projects and you had the
+
+359
+00:16:04,380 --> 00:16:07,980
+creation of new dwellings that tried to
+
+360
+00:16:07,980 --> 00:16:11,600
+cater for different audiences
+
+361
+00:16:11,600 --> 00:16:14,760
+and again you see the
+
+362
+00:16:14,760 --> 00:16:18,120
+this is a quote from the artist later
+
+363
+00:16:18,120 --> 00:16:21,959
+you see that the ID was that
+
+364
+00:16:21,959 --> 00:16:24,980
+um in these neighborhoods that have been
+
+365
+00:16:24,980 --> 00:16:29,220
+transformed uh that the inhabitants the
+
+366
+00:16:29,220 --> 00:16:31,740
+people who used to live there were
+
+367
+00:16:31,740 --> 00:16:34,320
+seriously disadvantaged by where they
+
+368
+00:16:34,320 --> 00:16:37,680
+lived and the idea was that living in
+
+369
+00:16:37,680 --> 00:16:40,560
+such a neighborhood being poor in such a
+
+370
+00:16:40,560 --> 00:16:41,660
+neighborhood
+
+371
+00:16:41,660 --> 00:16:46,259
+accessor based poverty makes it worse
+
+372
+00:16:46,259 --> 00:16:48,180
+about basically living in such a
+
+373
+00:16:48,180 --> 00:16:50,339
+neighborhood is worse than living in
+
+374
+00:16:50,339 --> 00:16:51,480
+another name
+
+375
+00:16:51,480 --> 00:16:53,759
+and that it will be more difficult to
+
+376
+00:16:53,759 --> 00:16:56,040
+find out of poverty in such a
+
+377
+00:16:56,040 --> 00:16:59,100
+neighborhood other parts of the city so
+
+378
+00:16:59,100 --> 00:17:03,480
+for this reason I was a big problem and
+
+379
+00:17:03,480 --> 00:17:07,020
+project to basically demolish much of
+
+380
+00:17:07,020 --> 00:17:09,419
+the housing in these neighborhoods and
+
+381
+00:17:09,419 --> 00:17:12,540
+to build new houses that catered for
+
+382
+00:17:12,540 --> 00:17:15,500
+different audiences
+
+383
+00:17:17,099 --> 00:17:20,040
+um Slater also refers to this hope six
+
+384
+00:17:20,040 --> 00:17:23,520
+program in the UK and the U.S sorry
+
+385
+00:17:23,520 --> 00:17:27,059
+for example Cabrini Green a neighborhood
+
+386
+00:17:27,059 --> 00:17:29,760
+a couple of miles to the north of the
+
+387
+00:17:29,760 --> 00:17:32,820
+loop in Chicago last week I've been
+
+388
+00:17:32,820 --> 00:17:35,400
+talking quite a bit about Chicago a
+
+389
+00:17:35,400 --> 00:17:37,380
+neighborhood with a very bad reputation
+
+390
+00:17:37,380 --> 00:17:39,539
+for drug use
+
+391
+00:17:39,539 --> 00:17:43,020
+and many crime and many other things
+
+392
+00:17:43,020 --> 00:17:45,960
+and again what has been done there is
+
+393
+00:17:45,960 --> 00:17:47,640
+that many of these
+
+394
+00:17:47,640 --> 00:17:50,820
+apartment books have been torn down have
+
+395
+00:17:50,820 --> 00:17:53,539
+been demolished and that
+
+396
+00:17:53,539 --> 00:17:57,120
+you houses have been built again trying
+
+397
+00:17:57,120 --> 00:17:59,640
+to cater for another kind of it's trying
+
+398
+00:17:59,640 --> 00:18:02,460
+to bring the middle class to a
+
+399
+00:18:02,460 --> 00:18:04,860
+neighborhood that was previously mainly
+
+400
+00:18:04,860 --> 00:18:07,380
+inhabited
+
+401
+00:18:07,380 --> 00:18:10,559
+and then in the separation of the PS you
+
+402
+00:18:10,559 --> 00:18:12,299
+might have heard of this function system
+
+403
+00:18:12,299 --> 00:18:15,600
+where many of the original residents of
+
+404
+00:18:15,600 --> 00:18:17,460
+the neighborhood such as that brother
+
+405
+00:18:17,460 --> 00:18:20,700
+voucher and basically to give them a
+
+406
+00:18:20,700 --> 00:18:22,140
+discount on
+
+407
+00:18:22,140 --> 00:18:25,860
+their parents price in other parts of
+
+408
+00:18:25,860 --> 00:18:28,440
+the city trying to encourage them to
+
+409
+00:18:28,440 --> 00:18:30,500
+move to better off
+
+410
+00:18:30,500 --> 00:18:35,039
+neighborhoods in other parts of Chicago
+
+411
+00:18:35,039 --> 00:18:38,220
+so again you see attempts to mix
+
+412
+00:18:38,220 --> 00:18:40,380
+neighborhoods
+
+413
+00:18:40,380 --> 00:18:43,559
+in the conviction that the concentration
+
+414
+00:18:43,559 --> 00:18:47,580
+of poverty is bad that it leads to crime
+
+415
+00:18:47,580 --> 00:18:51,000
+and it leads to drug use and that it is
+
+416
+00:18:51,000 --> 00:18:54,840
+bad for these inhabitants
+
+417
+00:18:54,840 --> 00:18:56,580
+South Africa
+
+418
+00:18:56,580 --> 00:18:58,880
+yeah
+
+419
+00:19:02,039 --> 00:19:04,980
+well I think the outcome
+
+420
+00:19:04,980 --> 00:19:05,580
+um
+
+421
+00:19:05,580 --> 00:19:07,740
+there are many many papers about this
+
+422
+00:19:07,740 --> 00:19:09,960
+and many scholars are looking at
+
+423
+00:19:09,960 --> 00:19:12,780
+different sites of this metal
+
+424
+00:19:12,780 --> 00:19:13,860
+but
+
+425
+00:19:13,860 --> 00:19:14,580
+um
+
+426
+00:19:14,580 --> 00:19:17,520
+I think in the article by Tom Slater and
+
+427
+00:19:17,520 --> 00:19:18,679
+page
+
+428
+00:19:18,679 --> 00:19:23,039
+369 I see here it is stated that No
+
+429
+00:19:23,039 --> 00:19:25,500
+Effects have been reported for a number
+
+430
+00:19:25,500 --> 00:19:27,240
+of outcomes
+
+431
+00:19:27,240 --> 00:19:30,240
+and that adverse effects on the delete
+
+432
+00:19:30,240 --> 00:19:32,400
+delinquency
+
+433
+00:19:32,400 --> 00:19:34,919
+and physical health of
+
+434
+00:19:34,919 --> 00:19:37,679
+um adolescent males in particular have
+
+435
+00:19:37,679 --> 00:19:39,000
+been reported
+
+436
+00:19:39,000 --> 00:19:41,520
+um but positive effects on adult mental
+
+437
+00:19:41,520 --> 00:19:43,679
+health and education and health of young
+
+438
+00:19:43,679 --> 00:19:46,440
+women so it depends very much
+
+439
+00:19:46,440 --> 00:19:48,059
+what you're looking at
+
+440
+00:19:48,059 --> 00:19:49,919
+but in any case
+
+441
+00:19:49,919 --> 00:19:52,380
+studies who tried and to find out like
+
+442
+00:19:52,380 --> 00:19:54,720
+what happened to the people who moved to
+
+443
+00:19:54,720 --> 00:19:57,539
+middle class neighborhoods and found
+
+444
+00:19:57,539 --> 00:20:00,780
+fairly adverse effects and in any case
+
+445
+00:20:00,780 --> 00:20:04,020
+one good question whether such a
+
+446
+00:20:04,020 --> 00:20:06,260
+well because the
+
+447
+00:20:06,260 --> 00:20:08,120
+project
+
+448
+00:20:08,120 --> 00:20:12,720
+was the best one to try and improve the
+
+449
+00:20:12,720 --> 00:20:15,480
+situation of poor people in Chicago
+
+450
+00:20:15,480 --> 00:20:17,340
+yeah
+
+451
+00:20:17,340 --> 00:20:19,559
+I will discuss the the effects of such
+
+452
+00:20:19,559 --> 00:20:22,080
+programs in more detail but before doing
+
+453
+00:20:22,080 --> 00:20:24,240
+that I wanted to highlight that in many
+
+454
+00:20:24,240 --> 00:20:27,360
+countries across the world us UK many
+
+455
+00:20:27,360 --> 00:20:28,679
+Belgian cities
+
+456
+00:20:28,679 --> 00:20:31,860
+and basically all over Western Europe in
+
+457
+00:20:31,860 --> 00:20:33,500
+South Africa
+
+458
+00:20:33,500 --> 00:20:36,360
+attends have been made to create
+
+459
+00:20:36,360 --> 00:20:38,340
+socially mixed neighborhoods in the
+
+460
+00:20:38,340 --> 00:20:41,100
+conviction that's a segregation as a
+
+461
+00:20:41,100 --> 00:20:44,039
+concentration of poverty is bad for
+
+462
+00:20:44,039 --> 00:20:46,919
+people living in uh
+
+463
+00:20:46,919 --> 00:20:49,340
+foreign
+
+464
+00:21:14,220 --> 00:21:16,919
+[Music]
+
+465
+00:21:16,919 --> 00:21:19,980
+of projects that you see here are about
+
+466
+00:21:19,980 --> 00:21:22,140
+bringing the middle class to
+
+467
+00:21:22,140 --> 00:21:25,260
+neighborhoods which used to be uh
+
+468
+00:21:25,260 --> 00:21:27,919
+predominantly predominantly
+
+469
+00:21:27,919 --> 00:21:30,000
+dysfunction program that I was just
+
+470
+00:21:30,000 --> 00:21:33,000
+talking about is also doing the other
+
+471
+00:21:33,000 --> 00:21:34,320
+way in doing it the other way around
+
+472
+00:21:34,320 --> 00:21:37,679
+because it tries to bring poor people
+
+473
+00:21:37,679 --> 00:21:40,679
+um to middle class neighborhoods so this
+
+474
+00:21:40,679 --> 00:21:43,140
+is also a project where
+
+475
+00:21:43,140 --> 00:21:45,419
+middle class neighborhoods are also
+
+476
+00:21:45,419 --> 00:21:47,520
+becoming more more mixed
+
+477
+00:21:47,520 --> 00:21:49,740
+because by giving these rent subsidies
+
+478
+00:21:49,740 --> 00:21:53,240
+through this voucher system it allows
+
+479
+00:21:53,240 --> 00:21:54,799
+people
+
+480
+00:21:54,799 --> 00:21:57,240
+underprivileged people to move to a
+
+481
+00:21:57,240 --> 00:22:00,600
+better of parts of the city as well
+
+482
+00:22:00,600 --> 00:22:03,059
+but I will I will come back to that
+
+483
+00:22:03,059 --> 00:22:03,659
+um
+
+484
+00:22:03,659 --> 00:22:05,400
+for now
+
+485
+00:22:05,400 --> 00:22:06,960
+well
+
+486
+00:22:06,960 --> 00:22:09,539
+we it's good that you already started
+
+487
+00:22:09,539 --> 00:22:11,280
+wondering about every
+
+488
+00:22:11,280 --> 00:22:12,419
+ethical difference
+
+489
+00:22:12,419 --> 00:22:14,640
+but as I said for now it's it's
+
+490
+00:22:14,640 --> 00:22:16,799
+important that you see that
+
+491
+00:22:16,799 --> 00:22:19,080
+in many parts in many corners of the
+
+492
+00:22:19,080 --> 00:22:20,760
+world this
+
+493
+00:22:20,760 --> 00:22:24,600
+um ideal of socially mixed socially
+
+494
+00:22:24,600 --> 00:22:28,080
+mixed neighborhoods seems to be a very
+
+495
+00:22:28,080 --> 00:22:30,919
+stable kind of idea
+
+496
+00:22:30,919 --> 00:22:34,559
+and it's very predominant among policy
+
+497
+00:22:34,559 --> 00:22:38,460
+makers both on the left and on the right
+
+498
+00:22:38,460 --> 00:22:40,320
+so on both ends of the political
+
+499
+00:22:40,320 --> 00:22:44,360
+Spectrum you find this pretty poor
+
+500
+00:22:44,360 --> 00:22:47,820
+neighborhoods that house people of
+
+501
+00:22:47,820 --> 00:22:50,419
+different origins or people of different
+
+502
+00:22:50,419 --> 00:22:53,820
+socio-economic efforts
+
+503
+00:22:53,820 --> 00:22:56,100
+two questions we need to ask about this
+
+504
+00:22:56,100 --> 00:22:59,760
+is it possible then to create social
+
+505
+00:22:59,760 --> 00:23:02,120
+indexed mixed neighborhoods and then
+
+506
+00:23:02,120 --> 00:23:05,520
+third and is it or second the second
+
+507
+00:23:05,520 --> 00:23:11,340
+question is it a desirable to do that
+
+508
+00:23:11,340 --> 00:23:13,140
+and
+
+509
+00:23:13,140 --> 00:23:16,740
+the article white illustrator gives or
+
+510
+00:23:16,740 --> 00:23:19,559
+turns later gives in this article a very
+
+511
+00:23:19,559 --> 00:23:20,940
+clear answer
+
+512
+00:23:20,940 --> 00:23:24,120
+referring to this whole six
+
+513
+00:23:24,120 --> 00:23:27,960
+program in the United States and housing
+
+514
+00:23:27,960 --> 00:23:31,320
+markets renewal in the UK is stating
+
+515
+00:23:31,320 --> 00:23:32,940
+that what have they done they have
+
+516
+00:23:32,940 --> 00:23:34,919
+basically just shifted over the
+
+517
+00:23:34,919 --> 00:23:37,740
+elsewhere this has not been a remedy to
+
+518
+00:23:37,740 --> 00:23:40,140
+Poverty this has just made poor people
+
+519
+00:23:40,140 --> 00:23:43,380
+elsewhere in the city
+
+520
+00:23:43,380 --> 00:23:46,460
+the mode of production that shapes Urban
+
+521
+00:23:46,460 --> 00:23:49,020
+environments which we live
+
+522
+00:23:49,020 --> 00:23:51,659
+it's referring to the capitalistic
+
+523
+00:23:51,659 --> 00:23:55,260
+system there the system of the the mode
+
+524
+00:23:55,260 --> 00:23:57,919
+of production of capitalism
+
+525
+00:23:57,919 --> 00:24:01,679
+produces concentrations of poverty that
+
+526
+00:24:01,679 --> 00:24:02,760
+many
+
+527
+00:24:02,760 --> 00:24:06,780
+policy makers as we have seen rejoice in
+
+528
+00:24:06,780 --> 00:24:09,840
+breaking up yet that same mode of
+
+529
+00:24:09,840 --> 00:24:13,620
+production churning intact produces
+
+530
+00:24:13,620 --> 00:24:16,500
+further concentrations just down the
+
+531
+00:24:16,500 --> 00:24:17,280
+street
+
+532
+00:24:17,280 --> 00:24:21,179
+I still remember one of my former
+
+533
+00:24:21,179 --> 00:24:23,580
+professors saying that well many of
+
+534
+00:24:23,580 --> 00:24:26,280
+these attempts to create socially mixed
+
+535
+00:24:26,280 --> 00:24:29,100
+neighborhoods by attracting middle class
+
+536
+00:24:29,100 --> 00:24:30,440
+people
+
+537
+00:24:30,440 --> 00:24:32,000
+to
+
+538
+00:24:32,000 --> 00:24:35,400
+for example poor neighborhoods
+
+539
+00:24:35,400 --> 00:24:37,500
+in Brussels has just shifted this
+
+540
+00:24:37,500 --> 00:24:41,340
+poverty elsewhere and for that reason he
+
+541
+00:24:41,340 --> 00:24:42,360
+um
+
+542
+00:24:42,360 --> 00:24:45,840
+he made this comparison with moving
+
+543
+00:24:45,840 --> 00:24:48,179
+chairs on the deck of the Titanic people
+
+544
+00:24:48,179 --> 00:24:51,059
+remain poor that you just make them move
+
+545
+00:24:51,059 --> 00:24:54,260
+somewhere else but this does not
+
+546
+00:24:54,260 --> 00:24:56,880
+improve their socio-economic position
+
+547
+00:24:56,880 --> 00:24:59,820
+this does not help them to climb to
+
+548
+00:24:59,820 --> 00:25:02,760
+social media in in the text 5 and again
+
+549
+00:25:02,760 --> 00:25:05,220
+all you've also also seen this reference
+
+550
+00:25:05,220 --> 00:25:07,260
+to water but
+
+551
+00:25:07,260 --> 00:25:10,100
+oops
+
+552
+00:25:10,740 --> 00:25:12,840
+so when you look at that
+
+553
+00:25:12,840 --> 00:25:15,419
+um it it seems to be very hard to create
+
+554
+00:25:15,419 --> 00:25:17,100
+a social mix
+
+555
+00:25:17,100 --> 00:25:20,460
+yeah the same goes for Brussels I've
+
+556
+00:25:20,460 --> 00:25:23,000
+been referring to this article by
+
+557
+00:25:23,000 --> 00:25:26,580
+material by clicking already in chapter
+
+558
+00:25:26,580 --> 00:25:28,799
+one
+
+559
+00:25:28,799 --> 00:25:31,919
+um and basically what mature has been
+
+560
+00:25:31,919 --> 00:25:35,580
+doing is to study people moving out of
+
+561
+00:25:35,580 --> 00:25:37,860
+gentrifying neighborhoods in bristles
+
+562
+00:25:37,860 --> 00:25:41,640
+what happens to people who move out of
+
+563
+00:25:41,640 --> 00:25:44,039
+neighborhoods in Brussels that are
+
+564
+00:25:44,039 --> 00:25:45,140
+gentrified
+
+565
+00:25:45,140 --> 00:25:48,360
+and basically he made a distinction
+
+566
+00:25:48,360 --> 00:25:51,900
+between different clusters of people and
+
+567
+00:25:51,900 --> 00:25:54,659
+if I'm correct then cluster one
+
+568
+00:25:54,659 --> 00:25:57,059
+consisted mainly of Highly Educated
+
+569
+00:25:57,059 --> 00:26:00,000
+young professionals where do they move
+
+570
+00:26:00,000 --> 00:26:02,520
+as neighborhoods in Brussels gentrified
+
+571
+00:26:02,520 --> 00:26:07,559
+they move to Antwerp and Yash and also
+
+572
+00:26:07,559 --> 00:26:10,559
+some of the municipalities of rabba one
+
+573
+00:26:10,559 --> 00:26:13,559
+law and these are municipalities
+
+574
+00:26:13,559 --> 00:26:16,080
+these people find a joke in another city
+
+575
+00:26:16,080 --> 00:26:18,720
+in another part of Belgium they move out
+
+576
+00:26:18,720 --> 00:26:20,580
+of this gentrifying neighborhoods and
+
+577
+00:26:20,580 --> 00:26:21,419
+they
+
+578
+00:26:21,419 --> 00:26:23,940
+move to a place closer to the place
+
+579
+00:26:23,940 --> 00:26:26,880
+where they cook and that's where it is
+
+580
+00:26:26,880 --> 00:26:28,500
+cluster two
+
+581
+00:26:28,500 --> 00:26:32,039
+consisted of more working philosophy
+
+582
+00:26:32,039 --> 00:26:34,700
+last people with a lower than average
+
+583
+00:26:34,700 --> 00:26:37,980
+income where do they move
+
+584
+00:26:37,980 --> 00:26:40,679
+first of all to
+
+585
+00:26:40,679 --> 00:26:42,120
+um
+
+586
+00:26:42,120 --> 00:26:46,260
+well municipalities along the canal
+
+587
+00:26:46,260 --> 00:26:49,740
+and such as Holland and hillford
+
+588
+00:26:49,740 --> 00:26:52,200
+I don't know how familiar all of you are
+
+589
+00:26:52,200 --> 00:26:54,240
+with the geography of Belgium already
+
+590
+00:26:54,240 --> 00:26:57,000
+but these are also municipalities small
+
+591
+00:26:57,000 --> 00:26:59,340
+towns that have gone through a process
+
+592
+00:26:59,340 --> 00:27:01,380
+of industrialization and where you will
+
+593
+00:27:01,380 --> 00:27:03,960
+find small houses that will be cheaper
+
+594
+00:27:03,960 --> 00:27:06,539
+than the houses you would find in these
+
+595
+00:27:06,539 --> 00:27:09,240
+gentrified team records in Brussels yeah
+
+596
+00:27:09,240 --> 00:27:11,120
+so what you see here is that
+
+597
+00:27:11,120 --> 00:27:14,340
+gentrification comes with displacement
+
+598
+00:27:14,340 --> 00:27:17,039
+for example through a municipality such
+
+599
+00:27:17,039 --> 00:27:19,820
+as Villanova
+
+600
+00:27:19,860 --> 00:27:22,559
+but as you see these clusters you can
+
+601
+00:27:22,559 --> 00:27:27,559
+find rather far from Brussels
+
+602
+00:27:30,659 --> 00:27:32,240
+many
+
+603
+00:27:32,240 --> 00:27:37,980
+towns cities in this 19th century built
+
+604
+00:27:37,980 --> 00:27:40,380
+of industrialization in person in
+
+605
+00:27:40,380 --> 00:27:42,960
+Belgium so these are municipalities
+
+606
+00:27:42,960 --> 00:27:46,500
+where you would find housing or a rather
+
+607
+00:27:46,500 --> 00:27:48,419
+cheap price
+
+608
+00:27:48,419 --> 00:27:51,179
+yeah so if you follow material by
+
+609
+00:27:51,179 --> 00:27:53,580
+clicking his arguments then you would
+
+610
+00:27:53,580 --> 00:27:56,580
+see well what happens here is that by
+
+611
+00:27:56,580 --> 00:28:00,000
+trying to improve
+
+612
+00:28:00,000 --> 00:28:03,720
+the lives of poor people in Brussels
+
+613
+00:28:03,720 --> 00:28:06,900
+through creating the social mix
+
+614
+00:28:06,900 --> 00:28:09,299
+attracting the middle class to these
+
+615
+00:28:09,299 --> 00:28:11,940
+neighborhoods what you see is that these
+
+616
+00:28:11,940 --> 00:28:14,220
+people move
+
+617
+00:28:14,220 --> 00:28:17,960
+are displaced to other municipalities
+
+618
+00:28:17,960 --> 00:28:22,440
+they also have concentrations of poor
+
+619
+00:28:22,440 --> 00:28:26,299
+people that but they are located in much
+
+620
+00:28:26,299 --> 00:28:29,820
+worse situations locations when it comes
+
+621
+00:28:29,820 --> 00:28:32,520
+to finding a job
+
+622
+00:28:32,520 --> 00:28:35,279
+and so what is happening here this is
+
+623
+00:28:35,279 --> 00:28:37,679
+Shifting the chairs on the deck of the
+
+624
+00:28:37,679 --> 00:28:41,159
+Titanic poverty still exists but by
+
+625
+00:28:41,159 --> 00:28:43,080
+attracting the middle class to some
+
+626
+00:28:43,080 --> 00:28:45,179
+neighborhoods or Brussels you move
+
+627
+00:28:45,179 --> 00:28:47,940
+poverty elsewhere
+
+628
+00:28:47,940 --> 00:28:50,640
+to places where people can afford to
+
+629
+00:28:50,640 --> 00:28:51,600
+live
+
+630
+00:28:51,600 --> 00:28:53,299
+and these are
+
+631
+00:28:53,299 --> 00:28:55,559
+neighborhoods that we have been visiting
+
+632
+00:28:55,559 --> 00:28:58,440
+in inshallah for example
+
+633
+00:28:58,440 --> 00:29:01,740
+where buying a house or renting an
+
+634
+00:29:01,740 --> 00:29:04,320
+apartment will be much cheaper than at
+
+635
+00:29:04,320 --> 00:29:08,299
+least in in section or some of the other
+
+636
+00:29:08,299 --> 00:29:12,200
+gentrifying parts of Brussels
+
+637
+00:29:12,539 --> 00:29:15,480
+this map shows something very similar
+
+638
+00:29:15,480 --> 00:29:17,580
+for Android
+
+639
+00:29:17,580 --> 00:29:20,880
+those who join to antler might recognize
+
+640
+00:29:20,880 --> 00:29:24,120
+its first ring the medieval answer the
+
+641
+00:29:24,120 --> 00:29:26,360
+second ring
+
+642
+00:29:26,360 --> 00:29:30,539
+19th century industrial antler
+
+643
+00:29:30,539 --> 00:29:33,059
+um and what it what is not
+
+644
+00:29:33,059 --> 00:29:35,059
+um
+
+645
+00:29:35,059 --> 00:29:39,600
+visualizes is a synthesis index of this
+
+646
+00:29:39,600 --> 00:29:41,520
+advantage and you see that in some
+
+647
+00:29:41,520 --> 00:29:44,700
+neighborhoods there are no big changes
+
+648
+00:29:44,700 --> 00:29:47,220
+uh in the last years in this index they
+
+649
+00:29:47,220 --> 00:29:48,779
+are yellow
+
+650
+00:29:48,779 --> 00:29:50,940
+for example Louis ball
+
+651
+00:29:50,940 --> 00:29:53,100
+social housing Estates that we have
+
+652
+00:29:53,100 --> 00:29:55,620
+visited remains yellow situation there
+
+653
+00:29:55,620 --> 00:29:57,480
+does not really change
+
+654
+00:29:57,480 --> 00:30:00,360
+you also see other parts of the city
+
+655
+00:30:00,360 --> 00:30:03,000
+for example a luncheon
+
+656
+00:30:03,000 --> 00:30:06,179
+at the area around the museum that we
+
+657
+00:30:06,179 --> 00:30:08,340
+have been growing up
+
+658
+00:30:08,340 --> 00:30:11,520
+you see that this is blue yeah and many
+
+659
+00:30:11,520 --> 00:30:15,120
+of the inner city neighborhoods in
+
+660
+00:30:15,120 --> 00:30:18,779
+entrepreneurs for example are also blue
+
+661
+00:30:18,779 --> 00:30:20,100
+yeah
+
+662
+00:30:20,100 --> 00:30:22,440
+at the same time you see that other
+
+663
+00:30:22,440 --> 00:30:27,260
+parts of the city for example medicine
+
+664
+00:30:27,260 --> 00:30:30,840
+outside of this 19th century well that
+
+665
+00:30:30,840 --> 00:30:33,659
+you see a worsening of the synthesis
+
+666
+00:30:33,659 --> 00:30:37,740
+that's also here through this map you
+
+667
+00:30:37,740 --> 00:30:40,440
+could see that well some neighborhoods
+
+668
+00:30:40,440 --> 00:30:42,600
+are attracting or middle class people
+
+669
+00:30:42,600 --> 00:30:46,559
+but poverty is shifted elsewhere in the
+
+670
+00:30:46,559 --> 00:30:49,140
+city is moving to other parts of the
+
+671
+00:30:49,140 --> 00:30:52,380
+urban region and this map is just uh
+
+672
+00:30:52,380 --> 00:30:54,480
+giving you the situation for the
+
+673
+00:30:54,480 --> 00:30:57,179
+municipality of the city of Antwerp but
+
+674
+00:30:57,179 --> 00:30:59,580
+if you would include the whole province
+
+675
+00:30:59,580 --> 00:31:02,100
+of that or you might see that for
+
+676
+00:31:02,100 --> 00:31:03,559
+example
+
+677
+00:31:03,559 --> 00:31:06,600
+for people who know culture
+
+678
+00:31:06,600 --> 00:31:08,580
+um
+
+679
+00:31:08,580 --> 00:31:11,340
+the Drupal region
+
+680
+00:31:11,340 --> 00:31:14,460
+we have display factories factors in the
+
+681
+00:31:14,460 --> 00:31:16,980
+past that you would see a worsening of
+
+682
+00:31:16,980 --> 00:31:18,419
+the situation
+
+683
+00:31:18,419 --> 00:31:21,659
+so we can try to attract middle class
+
+684
+00:31:21,659 --> 00:31:23,820
+people that's what the city of Ventura
+
+685
+00:31:23,820 --> 00:31:25,980
+Pacific building you can try to attract
+
+686
+00:31:25,980 --> 00:31:28,740
+the middle classes back to the city
+
+687
+00:31:28,740 --> 00:31:32,159
+but this displaces
+
+688
+00:31:32,159 --> 00:31:34,440
+people from these neighborhoods who
+
+689
+00:31:34,440 --> 00:31:36,600
+cannot afford to live there anymore so
+
+690
+00:31:36,600 --> 00:31:40,260
+this moves over the elsewhere
+
+691
+00:31:40,260 --> 00:31:43,260
+Russian
+
+692
+00:31:48,260 --> 00:31:51,299
+well I I'm a submitted I don't know all
+
+693
+00:31:51,299 --> 00:31:53,880
+the applications in this in the specific
+
+694
+00:31:53,880 --> 00:31:56,299
+index but I guess it will be about
+
+695
+00:31:56,299 --> 00:31:58,760
+average income
+
+696
+00:31:58,760 --> 00:32:01,020
+unemployment and maybe some other
+
+697
+00:32:01,020 --> 00:32:03,539
+complicators that say something about
+
+698
+00:32:03,539 --> 00:32:06,679
+this thing
+
+699
+00:32:07,559 --> 00:32:11,059
+um but I should have I should have put
+
+700
+00:32:11,580 --> 00:32:14,059
+so much of what we see here
+
+701
+00:32:14,059 --> 00:32:17,640
+confirms this ID of Slater when clicking
+
+702
+00:32:17,640 --> 00:32:19,740
+in that well trying to create a social
+
+703
+00:32:19,740 --> 00:32:24,000
+mix in some parts of the city will
+
+704
+00:32:24,000 --> 00:32:27,360
+shift poverty will make poverty move
+
+705
+00:32:27,360 --> 00:32:30,240
+elsewhere I will create
+
+706
+00:32:30,240 --> 00:32:33,360
+that's what Slater said will create
+
+707
+00:32:33,360 --> 00:32:35,520
+other concentrations
+
+708
+00:32:35,520 --> 00:32:39,440
+of poverty this is just down the street
+
+709
+00:32:39,440 --> 00:32:42,059
+inshallahua for the case of this
+
+710
+00:32:42,059 --> 00:32:44,760
+gentrifying neighborhoods Over Us in
+
+711
+00:32:44,760 --> 00:32:47,520
+bone for This Ginger flying so that's
+
+712
+00:32:47,520 --> 00:32:50,640
+verb in medicine in government in other
+
+713
+00:32:50,640 --> 00:32:54,860
+parts of these Urban regions
+
+714
+00:32:55,380 --> 00:32:59,600
+there are examples in the world where
+
+715
+00:32:59,600 --> 00:33:02,700
+mixed neighborhoods are being created
+
+716
+00:33:02,700 --> 00:33:04,980
+but that is only possible
+
+717
+00:33:04,980 --> 00:33:09,419
+when City councils or governments can
+
+718
+00:33:09,419 --> 00:33:11,880
+have a serious impact
+
+719
+00:33:11,880 --> 00:33:14,659
+open
+
+720
+00:33:14,940 --> 00:33:17,460
+upon who's living in in specific
+
+721
+00:33:17,460 --> 00:33:19,200
+neighborhoods
+
+722
+00:33:19,200 --> 00:33:22,640
+um in some parts of the world
+
+723
+00:33:23,460 --> 00:33:26,640
+um Scholars write about inclusionary
+
+724
+00:33:26,640 --> 00:33:30,299
+housing or inclusionary zoning
+
+725
+00:33:30,299 --> 00:33:32,539
+forcing for example real estate
+
+726
+00:33:32,539 --> 00:33:36,539
+developers who develop a high tower full
+
+727
+00:33:36,539 --> 00:33:37,919
+of apartments
+
+728
+00:33:37,919 --> 00:33:39,539
+to
+
+729
+00:33:39,539 --> 00:33:40,200
+um
+
+730
+00:33:40,200 --> 00:33:43,919
+dedicates a certain percentage of these
+
+731
+00:33:43,919 --> 00:33:47,039
+residents residential units to people
+
+732
+00:33:47,039 --> 00:33:49,140
+who fall below a certain income
+
+733
+00:33:49,140 --> 00:33:50,519
+threshold
+
+734
+00:33:50,519 --> 00:33:53,460
+and so you can create
+
+735
+00:33:53,460 --> 00:33:56,120
+a socially mixed neighborhood
+
+736
+00:33:56,120 --> 00:33:59,159
+if you force
+
+737
+00:33:59,159 --> 00:34:01,679
+real estate Developers
+
+738
+00:34:01,679 --> 00:34:03,059
+to
+
+739
+00:34:03,059 --> 00:34:04,380
+um
+
+740
+00:34:04,380 --> 00:34:07,740
+well in in newly built projects
+
+741
+00:34:07,740 --> 00:34:11,699
+to have a certain percentage of
+
+742
+00:34:11,699 --> 00:34:16,739
+Apartments of for people of a certain if
+
+743
+00:34:16,739 --> 00:34:19,139
+they fall below a certain inconsistent
+
+744
+00:34:19,139 --> 00:34:21,540
+in Antwerp I've been talking about this
+
+745
+00:34:21,540 --> 00:34:23,460
+caltex neighborhood
+
+746
+00:34:23,460 --> 00:34:26,339
+this was the length of the port in
+
+747
+00:34:26,339 --> 00:34:30,540
+public hands and so the city council
+
+748
+00:34:30,540 --> 00:34:34,500
+could also sell this land to Developers
+
+749
+00:34:34,500 --> 00:34:37,918
+with a lot of conditions and so
+
+750
+00:34:37,918 --> 00:34:41,399
+developers could buy this lens under the
+
+751
+00:34:41,399 --> 00:34:46,500
+condition that's that they built 25 of
+
+752
+00:34:46,500 --> 00:34:48,839
+the residential units for social housing
+
+753
+00:34:48,839 --> 00:34:55,159
+15 rent 10 to buy and that they
+
+754
+00:34:55,159 --> 00:34:59,099
+reserved 50 of the units at affordable
+
+755
+00:34:59,099 --> 00:35:00,480
+prices
+
+756
+00:35:00,480 --> 00:35:03,599
+and that was not fairly affordable but
+
+757
+00:35:03,599 --> 00:35:05,700
+at least you could not ask whatever you
+
+758
+00:35:05,700 --> 00:35:08,160
+wanted these prices could not Skyrocket
+
+759
+00:35:08,160 --> 00:35:11,099
+could not ask whatever you wanted for
+
+760
+00:35:11,099 --> 00:35:14,280
+these residential units and so you could
+
+761
+00:35:14,280 --> 00:35:16,800
+argue a socially mixed neighborhood has
+
+762
+00:35:16,800 --> 00:35:20,160
+been developed here almost from scratch
+
+763
+00:35:20,160 --> 00:35:23,099
+there's all these white blocks that you
+
+764
+00:35:23,099 --> 00:35:25,859
+see here are new and only the brown ones
+
+765
+00:35:25,859 --> 00:35:28,020
+existed but that was possible because
+
+766
+00:35:28,020 --> 00:35:31,380
+the lens was publicly owned and could be
+
+767
+00:35:31,380 --> 00:35:33,480
+sold to developers under the condition
+
+768
+00:35:33,480 --> 00:35:38,240
+that they reserved this kind of uh
+
+769
+00:35:38,240 --> 00:35:41,339
+units for certain categories of people
+
+770
+00:35:41,339 --> 00:35:44,000
+and then we could look who is able to
+
+771
+00:35:44,000 --> 00:35:48,060
+rent or buy these units well in the belt
+
+772
+00:35:48,060 --> 00:35:50,040
+in case you need to fall below a certain
+
+773
+00:35:50,040 --> 00:35:53,520
+income at thresholds in order to be able
+
+774
+00:35:53,520 --> 00:35:57,960
+to eligible to be eligible for a social
+
+775
+00:35:57,960 --> 00:35:58,980
+housing
+
+776
+00:35:58,980 --> 00:36:01,380
+yeah the same goes for this
+
+777
+00:36:01,380 --> 00:36:04,140
+affordability
+
+778
+00:36:04,140 --> 00:36:06,480
+um criteria
+
+779
+00:36:06,480 --> 00:36:07,980
+um I don't know what how what was the
+
+780
+00:36:07,980 --> 00:36:11,099
+price exactly but I see here that um you
+
+781
+00:36:11,099 --> 00:36:14,839
+could earn up to 58 000 Euro of family
+
+782
+00:36:14,839 --> 00:36:18,119
+uh almost 4 000 Euro added for each
+
+783
+00:36:18,119 --> 00:36:20,700
+additional person so these are quite
+
+784
+00:36:20,700 --> 00:36:24,660
+uh quite High I think already but the
+
+785
+00:36:24,660 --> 00:36:26,700
+bottom line is that these developers
+
+786
+00:36:26,700 --> 00:36:28,320
+could not just build whatever they
+
+787
+00:36:28,320 --> 00:36:30,000
+wanted
+
+788
+00:36:30,000 --> 00:36:31,680
+that they needed to meet certain
+
+789
+00:36:31,680 --> 00:36:33,660
+criteria and that they also needed to
+
+790
+00:36:33,660 --> 00:36:36,420
+reserve quite a bit of number of units
+
+791
+00:36:36,420 --> 00:36:38,640
+for people
+
+792
+00:36:38,640 --> 00:36:41,700
+belong to different income computers
+
+793
+00:36:41,700 --> 00:36:44,820
+at the lowest income categories social
+
+794
+00:36:44,820 --> 00:36:47,420
+housing
+
+795
+00:36:48,320 --> 00:36:52,020
+so associately mixed neighborhoods when
+
+796
+00:36:52,020 --> 00:36:54,480
+it comes to Green goals yeah when it
+
+797
+00:36:54,480 --> 00:36:56,940
+comes to poverty and wealth could be
+
+798
+00:36:56,940 --> 00:36:59,520
+created but that was only possible
+
+799
+00:36:59,520 --> 00:37:02,220
+because there was a serious intervention
+
+800
+00:37:02,220 --> 00:37:04,859
+of the city council
+
+801
+00:37:04,859 --> 00:37:09,359
+in in this in Belgium
+
+802
+00:37:09,359 --> 00:37:12,060
+the the government or public authorities
+
+803
+00:37:12,060 --> 00:37:14,940
+are not really able to intervene that
+
+804
+00:37:14,940 --> 00:37:18,780
+much in terms because it's only laser
+
+805
+00:37:18,780 --> 00:37:21,000
+flop there's six percent of the units
+
+806
+00:37:21,000 --> 00:37:24,780
+which are social housing in Brussels are
+
+807
+00:37:24,780 --> 00:37:28,200
+10 and all the rest
+
+808
+00:37:28,200 --> 00:37:30,480
+um with a couple of exceptions minor
+
+809
+00:37:30,480 --> 00:37:32,760
+exceptions all the risk is the market
+
+810
+00:37:32,760 --> 00:37:36,780
+it's either people's own house or people
+
+811
+00:37:36,780 --> 00:37:40,500
+who rent a house from another office
+
+812
+00:37:40,500 --> 00:37:42,599
+but there are cities across the world
+
+813
+00:37:42,599 --> 00:37:45,960
+where you have 50 social housing okay
+
+814
+00:37:45,960 --> 00:37:49,140
+enough for example or Amsterdam is
+
+815
+00:37:49,140 --> 00:37:52,040
+another city a high percentage
+
+816
+00:37:52,040 --> 00:37:55,320
+it also means that as a council you can
+
+817
+00:37:55,320 --> 00:37:58,260
+intervene quite a bit the rule is where
+
+818
+00:37:58,260 --> 00:38:00,839
+in the Belgian case where
+
+819
+00:38:00,839 --> 00:38:03,720
+about 90 of the people need to find a
+
+820
+00:38:03,720 --> 00:38:07,260
+house or accommodation on the market you
+
+821
+00:38:07,260 --> 00:38:09,960
+will see that attempts to create a
+
+822
+00:38:09,960 --> 00:38:12,420
+social mix quickly lead to displacement
+
+823
+00:38:12,420 --> 00:38:14,940
+and quickly lead to concentrations of
+
+824
+00:38:14,940 --> 00:38:19,820
+poverty elsewhere in uh
+
+825
+00:38:22,560 --> 00:38:25,320
+particular house mix looks like and how
+
+826
+00:38:25,320 --> 00:38:28,980
+much facility councils can intervene in
+
+827
+00:38:28,980 --> 00:38:31,619
+in the house
+
+828
+00:38:31,619 --> 00:38:33,619
+um
+
+829
+00:38:44,720 --> 00:38:47,520
+there has been a time when the social
+
+830
+00:38:47,520 --> 00:38:50,220
+Housing Association sold kind of quite
+
+831
+00:38:50,220 --> 00:38:53,420
+some units
+
+832
+00:38:55,140 --> 00:38:56,700
+in any case there's a little bit of
+
+833
+00:38:56,700 --> 00:38:59,000
+Courage
+
+834
+00:38:59,400 --> 00:39:03,540
+and this type of models are attractive
+
+835
+00:39:03,540 --> 00:39:05,760
+for the developers right this question
+
+836
+00:39:05,760 --> 00:39:08,820
+about like I would think developers are
+
+837
+00:39:08,820 --> 00:39:11,160
+thinking about profits yeah as long as
+
+838
+00:39:11,160 --> 00:39:12,960
+they as long as they can still make
+
+839
+00:39:12,960 --> 00:39:15,540
+profits this is possible
+
+840
+00:39:15,540 --> 00:39:18,000
+and the same goes for this inclusionary
+
+841
+00:39:18,000 --> 00:39:21,060
+housing as long as a developer is able
+
+842
+00:39:21,060 --> 00:39:21,839
+to
+
+843
+00:39:21,839 --> 00:39:26,060
+make profits then this is awesome
+
+844
+00:39:26,060 --> 00:39:29,460
+in this case I don't think that the
+
+845
+00:39:29,460 --> 00:39:31,380
+developer said to pay a lot of money for
+
+846
+00:39:31,380 --> 00:39:34,200
+the city to get this piece of
+
+847
+00:39:34,200 --> 00:39:38,180
+them and because they were also asked to
+
+848
+00:39:39,900 --> 00:39:41,760
+because they had to develop the parts
+
+849
+00:39:41,760 --> 00:39:43,619
+and the streets
+
+850
+00:39:43,619 --> 00:39:46,320
+and they had to take there to develop
+
+851
+00:39:46,320 --> 00:39:48,720
+this social housing
+
+852
+00:39:48,720 --> 00:39:51,119
+so the city could have earned much more
+
+853
+00:39:51,119 --> 00:39:53,579
+money by selling this piece of land for
+
+854
+00:39:53,579 --> 00:39:55,440
+the highest price to a developer who
+
+855
+00:39:55,440 --> 00:39:57,660
+wanted to build a Sparkles for the
+
+856
+00:39:57,660 --> 00:40:00,300
+wealthiest of people that shows to do
+
+857
+00:40:00,300 --> 00:40:01,380
+things different
+
+858
+00:40:01,380 --> 00:40:03,119
+and there are many parts of the world
+
+859
+00:40:03,119 --> 00:40:08,000
+where we have these kind of schemes
+
+860
+00:40:21,480 --> 00:40:24,480
+hello
+
+861
+00:40:27,660 --> 00:40:29,660
+um
+
+862
+00:40:31,560 --> 00:40:35,160
+okay is social mix feasible the answer
+
+863
+00:40:35,160 --> 00:40:36,660
+is yes
+
+864
+00:40:36,660 --> 00:40:39,240
+it is feasible it is possible to create
+
+865
+00:40:39,240 --> 00:40:42,599
+socially mixed neighborhoods but it is
+
+866
+00:40:42,599 --> 00:40:44,640
+very hard to do that in a situation
+
+867
+00:40:44,640 --> 00:40:47,579
+where the market rings
+
+868
+00:40:47,579 --> 00:40:49,020
+because then
+
+869
+00:40:49,020 --> 00:40:51,359
+trying to attract middle class families
+
+870
+00:40:51,359 --> 00:40:54,320
+to a poor neighborhood will lead to
+
+871
+00:40:54,320 --> 00:40:56,820
+displacement of poor families to other
+
+872
+00:40:56,820 --> 00:40:59,280
+parts of the urban region in this case
+
+873
+00:40:59,280 --> 00:41:02,520
+that will not happen because you reserve
+
+874
+00:41:02,520 --> 00:41:07,320
+25 of the neighborhood to people who
+
+875
+00:41:07,320 --> 00:41:10,320
+fall below the certificate
+
+876
+00:41:10,320 --> 00:41:13,320
+and as long as these units are social
+
+877
+00:41:13,320 --> 00:41:18,000
+housing is 25 will remain there for this
+
+878
+00:41:18,000 --> 00:41:19,260
+population
+
+879
+00:41:19,260 --> 00:41:21,119
+and so you
+
+880
+00:41:21,119 --> 00:41:22,940
+allow
+
+881
+00:41:22,940 --> 00:41:25,619
+for people to live
+
+882
+00:41:25,619 --> 00:41:27,540
+in a neighborhood
+
+883
+00:41:27,540 --> 00:41:29,099
+where
+
+884
+00:41:29,099 --> 00:41:30,320
+50
+
+885
+00:41:30,320 --> 00:41:33,660
+belongs to middle class for the upper
+
+886
+00:41:33,660 --> 00:41:37,560
+middle class at 25 percent
+
+887
+00:41:37,560 --> 00:41:39,420
+um hope these units goes to very rich
+
+888
+00:41:39,420 --> 00:41:41,160
+people who can afford to spend one
+
+889
+00:41:41,160 --> 00:41:43,820
+million euros
+
+890
+00:41:44,579 --> 00:41:47,540
+another question
+
+891
+00:41:48,119 --> 00:41:51,720
+and like this could be like
+
+892
+00:41:51,720 --> 00:41:53,820
+social takes early in this one
+
+893
+00:41:53,820 --> 00:41:54,960
+particularly
+
+894
+00:41:54,960 --> 00:41:58,980
+radius area in the city but then
+
+895
+00:41:58,980 --> 00:42:00,000
+wouldn't this be like our classic
+
+896
+00:42:00,000 --> 00:42:02,700
+example actually should wear like um
+
+897
+00:42:02,700 --> 00:42:04,500
+capital is being
+
+898
+00:42:04,500 --> 00:42:06,839
+for illness because even I mean just
+
+899
+00:42:06,839 --> 00:42:09,540
+from experiences your housing I don't
+
+900
+00:42:09,540 --> 00:42:10,140
+know
+
+901
+00:42:10,140 --> 00:42:13,619
+example usually these are like very
+
+902
+00:42:13,619 --> 00:42:17,280
+up-to-date luxury buildings and um there
+
+903
+00:42:17,280 --> 00:42:20,300
+are so affordable and social housing
+
+904
+00:42:20,300 --> 00:42:24,859
+however this then changes
+
+905
+00:42:26,420 --> 00:42:31,520
+so it might there might be different
+
+906
+00:42:31,980 --> 00:42:34,800
+but then the general effect would
+
+907
+00:42:34,800 --> 00:42:35,700
+actually
+
+908
+00:42:35,700 --> 00:42:37,140
+benefit
+
+909
+00:42:37,140 --> 00:42:40,140
+development
+
+910
+00:42:41,099 --> 00:42:44,040
+found it not like actually the people
+
+911
+00:42:44,040 --> 00:42:46,440
+who are living there beforehand and
+
+912
+00:42:46,440 --> 00:42:49,980
+maybe have to preserve it
+
+913
+00:42:49,980 --> 00:42:52,040
+um
+
+914
+00:42:54,200 --> 00:42:56,940
+but I think in this case you talk about
+
+915
+00:42:56,940 --> 00:42:58,680
+people who lived there we're just
+
+916
+00:42:58,680 --> 00:43:01,140
+understand already that was not so much
+
+917
+00:43:01,140 --> 00:43:02,760
+the case here because you only had a
+
+918
+00:43:02,760 --> 00:43:04,680
+couple of hundreds people you developed
+
+919
+00:43:04,680 --> 00:43:07,680
+a neighborhood for thousands of people
+
+920
+00:43:07,680 --> 00:43:09,839
+um it was a neighborhood that was uh
+
+921
+00:43:09,839 --> 00:43:13,940
+more to related I was not so much
+
+922
+00:43:15,020 --> 00:43:17,280
+put in this
+
+923
+00:43:17,280 --> 00:43:20,520
+wouldn't this just be another example of
+
+924
+00:43:20,520 --> 00:43:22,520
+gentrification
+
+925
+00:43:22,520 --> 00:43:27,680
+and not really attempting to solve
+
+926
+00:43:28,200 --> 00:43:31,520
+or trying to
+
+927
+00:43:31,740 --> 00:43:34,460
+purchases
+
+928
+00:43:40,500 --> 00:43:42,900
+but like is it it depends how you how
+
+929
+00:43:42,900 --> 00:43:44,400
+you define it
+
+930
+00:43:44,400 --> 00:43:46,920
+also you would say gentrification comes
+
+931
+00:43:46,920 --> 00:43:49,560
+with displacement and displacement would
+
+932
+00:43:49,560 --> 00:43:52,800
+be an essential part of gentrification
+
+933
+00:43:52,800 --> 00:43:54,800
+in this case
+
+934
+00:43:54,800 --> 00:43:57,660
+there might be a displacement of the
+
+935
+00:43:57,660 --> 00:44:01,500
+people who lived in these brown houses
+
+936
+00:44:01,500 --> 00:44:03,900
+and will live there already
+
+937
+00:44:03,900 --> 00:44:05,460
+before the rest of the neighborhood
+
+938
+00:44:05,460 --> 00:44:07,680
+before the white parts of the main route
+
+939
+00:44:07,680 --> 00:44:10,099
+were being constructed
+
+940
+00:44:10,099 --> 00:44:14,160
+but there will not be a displacement in
+
+941
+00:44:14,160 --> 00:44:18,240
+this 25 units which are either rented
+
+942
+00:44:18,240 --> 00:44:21,900
+out or sold as social house because you
+
+943
+00:44:21,900 --> 00:44:23,339
+will need to fall below a certain
+
+944
+00:44:23,339 --> 00:44:26,700
+incompatible in order to buy or rent
+
+945
+00:44:26,700 --> 00:44:29,339
+these places and no matter what happens
+
+946
+00:44:29,339 --> 00:44:31,560
+in the rest of the neighborhood as
+
+947
+00:44:31,560 --> 00:44:35,119
+humans will still remain
+
+948
+00:44:35,599 --> 00:44:38,460
+reserved for people probably not
+
+949
+00:44:38,460 --> 00:44:41,579
+income threshold so this is a way to
+
+950
+00:44:41,579 --> 00:44:44,160
+make sure that this place
+
+951
+00:44:44,160 --> 00:44:46,740
+even if you buy this kind of
+
+952
+00:44:46,740 --> 00:44:49,680
+so you will not be able to sell them
+
+953
+00:44:49,680 --> 00:44:52,200
+and if you rent them out
+
+954
+00:44:52,200 --> 00:44:54,000
+then this is also under the condition
+
+955
+00:44:54,000 --> 00:44:57,500
+that fall below the circle
+
+956
+00:45:05,240 --> 00:45:08,300
+everything else
+
+957
+00:45:08,300 --> 00:45:11,040
+as this whole area has been gentrified
+
+958
+00:45:11,040 --> 00:45:12,839
+there has been urban renewal in this
+
+959
+00:45:12,839 --> 00:45:15,300
+whole area so it's only in this very
+
+960
+00:45:15,300 --> 00:45:17,579
+small part where you they were able to
+
+961
+00:45:17,579 --> 00:45:21,079
+create the social studies
+
+962
+00:45:21,800 --> 00:45:25,319
+yeah yeah one important thing is the
+
+963
+00:45:25,319 --> 00:45:27,300
+scale the scale at which we discuss
+
+964
+00:45:27,300 --> 00:45:29,940
+things that we are talking about a very
+
+965
+00:45:29,940 --> 00:45:32,339
+small scale the neighborhood of a couple
+
+966
+00:45:32,339 --> 00:45:34,800
+of thousand people but indeed if you
+
+967
+00:45:34,800 --> 00:45:37,260
+discuss it at a scale of Antwerp then
+
+968
+00:45:37,260 --> 00:45:39,200
+you would see that this whole area
+
+969
+00:45:39,200 --> 00:45:43,079
+around this red square that we've just
+
+970
+00:45:43,079 --> 00:45:45,420
+been talking about has been going
+
+971
+00:45:45,420 --> 00:45:48,740
+through an improvement of this
+
+972
+00:45:48,740 --> 00:45:51,119
+disadvantaged index and has been going
+
+973
+00:45:51,119 --> 00:45:53,960
+through a very very
+
+974
+00:45:53,960 --> 00:45:57,599
+strong gentrification sorry that's
+
+975
+00:45:57,599 --> 00:45:59,280
+you're completely just a very fair
+
+976
+00:45:59,280 --> 00:46:03,420
+cooler I'm sorry but then I'm just
+
+977
+00:46:03,420 --> 00:46:05,940
+curious how it works here like
+
+978
+00:46:05,940 --> 00:46:07,260
+um
+
+979
+00:46:07,260 --> 00:46:08,520
+developers can get
+
+980
+00:46:08,520 --> 00:46:10,740
+tactics or like benefits from the garden
+
+981
+00:46:10,740 --> 00:46:12,420
+for providing sir
+
+982
+00:46:12,420 --> 00:46:13,920
+called public housing because that's how
+
+983
+00:46:13,920 --> 00:46:15,060
+it works
+
+984
+00:46:15,060 --> 00:46:17,579
+well I don't know about these these tax
+
+985
+00:46:17,579 --> 00:46:20,520
+rebates but for sure the lens price for
+
+986
+00:46:20,520 --> 00:46:23,220
+which they were able to acquire this
+
+987
+00:46:23,220 --> 00:46:25,380
+well the price for which they were able
+
+988
+00:46:25,380 --> 00:46:26,339
+to
+
+989
+00:46:26,339 --> 00:46:29,760
+buy this piece of land from city council
+
+990
+00:46:29,760 --> 00:46:33,720
+was much lower than it would have been
+
+991
+00:46:33,720 --> 00:46:37,920
+just a market with a gate
+
+992
+00:46:37,920 --> 00:46:40,319
+okay is it is it
+
+993
+00:46:40,319 --> 00:46:44,060
+yeah yeah more questions
+
+994
+00:46:52,260 --> 00:46:56,599
+but um I know
+
+995
+00:47:05,099 --> 00:47:08,220
+okay now we move to the next question is
+
+996
+00:47:08,220 --> 00:47:12,060
+it then good or bad is it desirable to
+
+997
+00:47:12,060 --> 00:47:14,760
+create such a neighbor now what you say
+
+998
+00:47:14,760 --> 00:47:17,339
+is that well the kind of shops that you
+
+999
+00:47:17,339 --> 00:47:18,780
+find
+
+1000
+00:47:18,780 --> 00:47:22,859
+the most dictators for the meats and the
+
+1001
+00:47:22,859 --> 00:47:26,760
+desires of this 75 percent of residents
+
+1002
+00:47:26,760 --> 00:47:29,760
+and a lot of tourists and visitors who
+
+1003
+00:47:29,760 --> 00:47:32,640
+like to visit that part of the city
+
+1004
+00:47:32,640 --> 00:47:34,740
+and so that could be a reason to say
+
+1005
+00:47:34,740 --> 00:47:37,140
+well it's not desirable to do this
+
+1006
+00:47:37,140 --> 00:47:39,839
+because these people will not find cheap
+
+1007
+00:47:39,839 --> 00:47:43,020
+food in the area or the kind of
+
+1008
+00:47:43,020 --> 00:47:45,119
+a product statement like they would like
+
+1009
+00:47:45,119 --> 00:47:48,300
+to buy but that shows that we are moving
+
+1010
+00:47:48,300 --> 00:47:50,940
+to uh the next question
+
+1011
+00:47:50,940 --> 00:47:54,440
+is social mix uh
+
+1012
+00:47:54,480 --> 00:47:57,119
+and I guess it would be time for a break
+
+1013
+00:47:57,119 --> 00:48:00,119
+I'm running a bit behind schedule
+
+1014
+00:48:00,119 --> 00:48:03,260
+I'm wondering there is a three-hour
+
+1015
+00:48:03,260 --> 00:48:07,319
+and three hours are dedicated to
+
+1016
+00:48:07,319 --> 00:48:10,020
+urban geography last week I've been
+
+1017
+00:48:10,020 --> 00:48:13,380
+limiting my last two hours would it be a
+
+1018
+00:48:13,380 --> 00:48:15,180
+big problem if I would go if it's over
+
+1019
+00:48:15,180 --> 00:48:19,280
+these two hours of course
+
+1020
+00:48:20,660 --> 00:48:23,280
+okay I'll I'll just go through the
+
+1021
+00:48:23,280 --> 00:48:24,720
+slides and
+
+1022
+00:48:24,720 --> 00:48:27,720
+we'll see we'll see uh what time what
+
+1023
+00:48:27,720 --> 00:48:29,640
+time but I think it's better to have a
+
+1024
+00:48:29,640 --> 00:48:31,980
+break now before moving to this next
+
+1025
+00:48:31,980 --> 00:48:36,440
+question is it desirable create this uh
+
+1026
+00:48:36,440 --> 00:48:40,640
+five minutes and then we continue
+
+1027
+00:48:52,550 --> 00:48:55,629
+[Music]
+
+1028
+00:49:12,240 --> 00:49:13,670
+thank you
+
+1029
+00:49:13,670 --> 00:49:16,729
+[Music]
+
+1030
+00:49:22,380 --> 00:49:25,640
+very random questions
+
+1031
+00:49:50,180 --> 00:49:53,180
+thank you
+
+1032
+00:50:14,520 --> 00:50:17,520
+yes
+
+1033
+00:50:25,640 --> 00:50:28,640
+thank you
+
+1034
+00:50:50,040 --> 00:50:52,920
+uh
+
+1035
+00:50:52,920 --> 00:50:55,920
+questions
+
+1036
+00:51:21,180 --> 00:51:24,180
+anyways
+
+1037
+00:51:27,599 --> 00:51:29,400
+there is
+
+1038
+00:51:29,400 --> 00:51:32,400
+Paris
+
+1039
+00:52:06,440 --> 00:52:09,559
+thank you
+
+1040
+00:52:26,900 --> 00:52:29,960
+thank you
+
+1041
+00:52:31,099 --> 00:52:34,099
+thank you
+
+1042
+00:52:49,500 --> 00:52:51,500
+um
+
+1043
+00:53:02,320 --> 00:53:05,439
+[Music]
+
+1044
+00:53:12,440 --> 00:53:15,440
+thank you
+
+1045
+00:53:41,099 --> 00:53:44,099
+questions
+
+1046
+00:54:11,900 --> 00:54:14,900
+thank you
+
+1047
+00:54:24,920 --> 00:54:27,920
+thank you
+
+1048
+00:54:36,720 --> 00:54:39,619
+is it
+
+1049
+00:54:40,040 --> 00:54:44,420
+maybe I should have known this earlier
+
+1050
+00:54:47,300 --> 00:54:51,300
+so let's continue with this uh in the
+
+1051
+00:54:51,300 --> 00:54:55,760
+next question my social mixed desire
+
+1052
+00:54:59,660 --> 00:55:03,000
+I think I might need to skip question
+
+1053
+00:55:03,000 --> 00:55:05,280
+number four
+
+1054
+00:55:05,280 --> 00:55:08,819
+um or part number four and in any case I
+
+1055
+00:55:08,819 --> 00:55:10,859
+believe it's time to uh
+
+1056
+00:55:10,859 --> 00:55:14,720
+to go into the arguments here
+
+1057
+00:55:15,059 --> 00:55:15,720
+um
+
+1058
+00:55:15,720 --> 00:55:20,160
+sure the overarching Assumption amongst
+
+1059
+00:55:20,160 --> 00:55:21,599
+policy makers
+
+1060
+00:55:21,599 --> 00:55:25,559
+and also the dominant hypothesis amongst
+
+1061
+00:55:25,559 --> 00:55:27,660
+researchers
+
+1062
+00:55:27,660 --> 00:55:30,680
+seems to be that where you live
+
+1063
+00:55:30,680 --> 00:55:33,780
+affects your life chances
+
+1064
+00:55:33,780 --> 00:55:37,920
+yeah whether you live in Antwerp
+
+1065
+00:55:37,920 --> 00:55:40,920
+in this line blocking
+
+1066
+00:55:40,920 --> 00:55:44,940
+this social housing estate believe
+
+1067
+00:55:44,940 --> 00:55:48,900
+or whether you live as a poor person in
+
+1068
+00:55:48,900 --> 00:55:51,599
+alternate North where you have all these
+
+1069
+00:55:51,599 --> 00:55:53,640
+shops
+
+1070
+00:55:53,640 --> 00:55:57,240
+and ethnic bars and you have
+
+1071
+00:55:57,240 --> 00:56:00,000
+employment close by Etc
+
+1072
+00:56:00,000 --> 00:56:02,400
+that makes a difference
+
+1073
+00:56:02,400 --> 00:56:05,220
+yeah so the basic question
+
+1074
+00:56:05,220 --> 00:56:08,819
+of researchers has been can impoverished
+
+1075
+00:56:08,819 --> 00:56:11,339
+neighborhoods neighborhoods with a
+
+1076
+00:56:11,339 --> 00:56:14,400
+concentration of poverty can they make
+
+1077
+00:56:14,400 --> 00:56:18,200
+their residents worse
+
+1078
+00:56:20,760 --> 00:56:21,720
+because
+
+1079
+00:56:21,720 --> 00:56:24,900
+maybe two observations before our look
+
+1080
+00:56:24,900 --> 00:56:27,599
+into the different arguments the
+
+1081
+00:56:27,599 --> 00:56:28,819
+different
+
+1082
+00:56:28,819 --> 00:56:31,260
+ways in which this question has been
+
+1083
+00:56:31,260 --> 00:56:32,359
+answered
+
+1084
+00:56:32,359 --> 00:56:34,859
+observation number one is that
+
+1085
+00:56:34,859 --> 00:56:36,240
+researchers
+
+1086
+00:56:36,240 --> 00:56:39,000
+working in different sub-disciplines
+
+1087
+00:56:39,000 --> 00:56:42,119
+I've been showing you this diagram last
+
+1088
+00:56:42,119 --> 00:56:43,680
+week already
+
+1089
+00:56:43,680 --> 00:56:45,599
+research is working in different
+
+1090
+00:56:45,599 --> 00:56:48,480
+sub-disciplines of human geography or
+
+1091
+00:56:48,480 --> 00:56:51,599
+Urban studies more broadly have been
+
+1092
+00:56:51,599 --> 00:56:54,359
+answering this question differently
+
+1093
+00:56:54,359 --> 00:56:56,760
+and where would you position translator
+
+1094
+00:56:56,760 --> 00:56:58,559
+on the map
+
+1095
+00:56:58,559 --> 00:57:02,339
+what kind of Joker is he
+
+1096
+00:57:02,339 --> 00:57:04,440
+do you have an ID
+
+1097
+00:57:04,440 --> 00:57:07,200
+Marxist geographer writing about the
+
+1098
+00:57:07,200 --> 00:57:09,660
+capitalistic moment of production
+
+1099
+00:57:09,660 --> 00:57:12,900
+and he's a Marxist geographer
+
+1100
+00:57:12,900 --> 00:57:16,559
+and he's mainly interested in
+
+1101
+00:57:16,559 --> 00:57:19,319
+socio-economic
+
+1102
+00:57:19,319 --> 00:57:20,940
+issues
+
+1103
+00:57:20,940 --> 00:57:21,900
+yeah
+
+1104
+00:57:21,900 --> 00:57:24,180
+what happens to poor people when they
+
+1105
+00:57:24,180 --> 00:57:25,920
+live in a poor neighborhood
+
+1106
+00:57:25,920 --> 00:57:28,020
+other geographers have been asking
+
+1107
+00:57:28,020 --> 00:57:30,119
+different researchers for example
+
+1108
+00:57:30,119 --> 00:57:33,500
+relating to ethnicultural
+
+1109
+00:57:33,500 --> 00:57:37,319
+segregation as of all article wide by
+
+1110
+00:57:37,319 --> 00:57:40,020
+for example deals with
+
+1111
+00:57:40,020 --> 00:57:42,420
+ethnic segregation
+
+1112
+00:57:42,420 --> 00:57:46,020
+and not with social economic signage
+
+1113
+00:57:46,020 --> 00:57:48,960
+a Marxist geographer such as Tom Slater
+
+1114
+00:57:48,960 --> 00:57:51,680
+will be interested in
+
+1115
+00:57:51,680 --> 00:57:54,480
+socio-economic segregation where the
+
+1116
+00:57:54,480 --> 00:57:56,819
+poor and rich people live and is that
+
+1117
+00:57:56,819 --> 00:57:58,020
+meaningful
+
+1118
+00:57:58,020 --> 00:58:00,059
+in the eradication of poverty for
+
+1119
+00:58:00,059 --> 00:58:00,900
+example
+
+1120
+00:58:00,900 --> 00:58:03,059
+so you see the different geographers
+
+1121
+00:58:03,059 --> 00:58:06,059
+have been asking different research
+
+1122
+00:58:06,059 --> 00:58:09,119
+questions when it comes to these effects
+
+1123
+00:58:09,119 --> 00:58:10,800
+of segregation
+
+1124
+00:58:10,800 --> 00:58:12,480
+they have also been using different
+
+1125
+00:58:12,480 --> 00:58:14,940
+research methodologies
+
+1126
+00:58:14,940 --> 00:58:19,319
+we use large service they have a survey
+
+1127
+00:58:19,319 --> 00:58:23,339
+of 1 000 people in order to answer these
+
+1128
+00:58:23,339 --> 00:58:25,319
+questions or do you have qualitative
+
+1129
+00:58:25,319 --> 00:58:27,240
+research where you interviewed 30
+
+1130
+00:58:27,240 --> 00:58:29,160
+families
+
+1131
+00:58:29,160 --> 00:58:32,220
+number 13 30 people living in a
+
+1132
+00:58:32,220 --> 00:58:34,339
+neighborhood or displaced from looking
+
+1133
+00:58:34,339 --> 00:58:37,680
+so different research methodologies and
+
+1134
+00:58:37,680 --> 00:58:41,000
+then you've also been reading
+
+1135
+00:58:41,960 --> 00:58:44,000
+that there might also be different
+
+1136
+00:58:44,000 --> 00:58:47,040
+ideological underpinnings
+
+1137
+00:58:47,040 --> 00:58:49,680
+uh underlying the work of these
+
+1138
+00:58:49,680 --> 00:58:52,200
+different so I think it is important for
+
+1139
+00:58:52,200 --> 00:58:54,780
+you to understand that just like I
+
+1140
+00:58:54,780 --> 00:58:57,359
+argued last week for the causes of
+
+1141
+00:58:57,359 --> 00:59:00,000
+segregation and the different arguments
+
+1142
+00:59:00,000 --> 00:59:01,500
+that have been
+
+1143
+00:59:01,500 --> 00:59:04,319
+even for why people live
+
+1144
+00:59:04,319 --> 00:59:07,020
+in segregated neighborhoods but also
+
+1145
+00:59:07,020 --> 00:59:09,540
+when it comes to these effects of
+
+1146
+00:59:09,540 --> 00:59:11,640
+segregation and the broad literature
+
+1147
+00:59:11,640 --> 00:59:14,280
+around it the people working in
+
+1148
+00:59:14,280 --> 00:59:15,920
+different positions and different
+
+1149
+00:59:15,920 --> 00:59:18,540
+sub-disciplines of human geography
+
+1150
+00:59:18,540 --> 00:59:21,359
+geography have been giving different
+
+1151
+00:59:21,359 --> 00:59:26,220
+answers to these questions
+
+1152
+00:59:26,220 --> 00:59:28,260
+another remark
+
+1153
+00:59:28,260 --> 00:59:31,380
+that I want to give before going to the
+
+1154
+00:59:31,380 --> 00:59:34,260
+answers to that question is that it is
+
+1155
+00:59:34,260 --> 00:59:36,000
+important
+
+1156
+00:59:36,000 --> 00:59:39,960
+to see that studies on neighborhood
+
+1157
+00:59:39,960 --> 00:59:44,520
+affects their birth marks what do I mean
+
+1158
+00:59:44,520 --> 00:59:48,420
+with it is that it matters rare a study
+
+1159
+00:59:48,420 --> 00:59:51,059
+takes place and often for example
+
+1160
+00:59:51,059 --> 00:59:55,520
+literature of the effects of segregation
+
+1161
+00:59:55,520 --> 00:59:58,099
+studies conducted in the United States
+
+1162
+00:59:58,099 --> 01:00:01,079
+that the conclusions of these studies
+
+1163
+01:00:01,079 --> 01:00:03,660
+have been used for example to influence
+
+1164
+01:00:03,660 --> 01:00:06,599
+policy in Western Europe
+
+1165
+01:00:06,599 --> 01:00:08,579
+and while it is
+
+1166
+01:00:08,579 --> 01:00:11,520
+quite important to see the differences
+
+1167
+01:00:11,520 --> 01:00:13,920
+between these different contexts last
+
+1168
+01:00:13,920 --> 01:00:15,480
+week I have been highlighting for
+
+1169
+01:00:15,480 --> 01:00:18,359
+example that and when it comes to
+
+1170
+01:00:18,359 --> 01:00:21,480
+desegregation in dishes and it turns out
+
+1171
+01:00:21,480 --> 01:00:24,540
+that segregation in the United States is
+
+1172
+01:00:24,540 --> 01:00:27,480
+much stronger more prevalent than it is
+
+1173
+01:00:27,480 --> 01:00:28,920
+in Europe
+
+1174
+01:00:28,920 --> 01:00:30,900
+yeah so that's an important difference
+
+1175
+01:00:30,900 --> 01:00:33,480
+when you take the conclusions from one
+
+1176
+01:00:33,480 --> 01:00:35,040
+country to the other
+
+1177
+01:00:35,040 --> 01:00:38,880
+the welfare states in Western Europe has
+
+1178
+01:00:38,880 --> 01:00:41,339
+been much more developed than in the
+
+1179
+01:00:41,339 --> 01:00:43,140
+United States so when it comes to
+
+1180
+01:00:43,140 --> 01:00:45,540
+poverty and the eradication of poverty
+
+1181
+01:00:45,540 --> 01:00:48,420
+this is a completely different issue in
+
+1182
+01:00:48,420 --> 01:00:50,520
+a western European context than a disc
+
+1183
+01:00:50,520 --> 01:00:53,700
+major Latin America
+
+1184
+01:00:53,700 --> 01:00:56,280
+so it's important
+
+1185
+01:00:56,280 --> 01:01:00,119
+that you contextualize studies on
+
+1186
+01:01:00,119 --> 01:01:02,579
+segregation in the United States for
+
+1187
+01:01:02,579 --> 01:01:04,700
+example and then you just do not
+
+1188
+01:01:04,700 --> 01:01:08,119
+transfer these conclusions to
+
+1189
+01:01:08,119 --> 01:01:10,799
+to Europe
+
+1190
+01:01:10,799 --> 01:01:13,799
+many of the
+
+1191
+01:01:13,799 --> 01:01:15,180
+um
+
+1192
+01:01:15,180 --> 01:01:18,180
+studies on neighborhood effects and the
+
+1193
+01:01:18,180 --> 01:01:20,460
+effects of segregation have been
+
+1194
+01:01:20,460 --> 01:01:23,220
+conducted in the Netherlands and also
+
+1195
+01:01:23,220 --> 01:01:25,980
+this Dutch context is a very peculiar
+
+1196
+01:01:25,980 --> 01:01:27,119
+way
+
+1197
+01:01:27,119 --> 01:01:31,319
+and where for example concerns about the
+
+1198
+01:01:31,319 --> 01:01:33,420
+bailiff that's what you see there a
+
+1199
+01:01:33,420 --> 01:01:36,780
+particular neighborhood in Amsterdam
+
+1200
+01:01:36,780 --> 01:01:39,299
+have been quite important in stimulating
+
+1201
+01:01:39,299 --> 01:01:41,960
+This research field
+
+1202
+01:01:41,960 --> 01:01:45,980
+I'm doing for time
+
+1203
+01:01:47,180 --> 01:01:50,160
+but this far right politicians in the
+
+1204
+01:01:50,160 --> 01:01:51,960
+Netherlands have always been brother but
+
+1205
+01:01:51,960 --> 01:01:54,420
+for two decades already have been a very
+
+1206
+01:01:54,420 --> 01:01:57,599
+vulgar yeah and that's also important to
+
+1207
+01:01:57,599 --> 01:02:00,299
+understand why and this research field
+
+1208
+01:02:00,299 --> 01:02:02,880
+has been sort of developed in the
+
+1209
+01:02:02,880 --> 01:02:05,000
+Netherlands so important to
+
+1210
+01:02:05,000 --> 01:02:07,980
+provincialize distance and to understand
+
+1211
+01:02:07,980 --> 01:02:11,700
+that a study in Vienna or in Antwerp or
+
+1212
+01:02:11,700 --> 01:02:14,940
+in Brussels or in the United States that
+
+1213
+01:02:14,940 --> 01:02:17,339
+it's important to contextualize and to
+
+1214
+01:02:17,339 --> 01:02:19,380
+understand the specificities of this
+
+1215
+01:02:19,380 --> 01:02:22,640
+particular context
+
+1216
+01:02:22,640 --> 01:02:27,180
+I have seven answers to this question I
+
+1217
+01:02:27,180 --> 01:02:30,119
+remember the question can impoverished
+
+1218
+01:02:30,119 --> 01:02:32,579
+neighborhoods make their residence worse
+
+1219
+01:02:32,579 --> 01:02:35,280
+off or when I'm interested in ethnic
+
+1220
+01:02:35,280 --> 01:02:38,339
+cultural segregation and neighborhoods
+
+1221
+01:02:38,339 --> 01:02:41,880
+with the concentration of uh people for
+
+1222
+01:02:41,880 --> 01:02:46,319
+origin make integration more difficult
+
+1223
+01:02:46,319 --> 01:02:48,720
+yeah
+
+1224
+01:02:48,720 --> 01:02:50,160
+um
+
+1225
+01:02:50,160 --> 01:02:53,819
+seven different arguments the first one
+
+1226
+01:02:53,819 --> 01:02:57,240
+The Social Network archives I think many
+
+1227
+01:02:57,240 --> 01:02:59,460
+of you might have heard of the work of
+
+1228
+01:02:59,460 --> 01:03:00,900
+Robert Putnam
+
+1229
+01:03:00,900 --> 01:03:03,720
+focusing on social capital or the social
+
+1230
+01:03:03,720 --> 01:03:05,760
+capital the connections among
+
+1231
+01:03:05,760 --> 01:03:08,400
+individuals the social networks the
+
+1232
+01:03:08,400 --> 01:03:11,839
+Norms of reciprocity reciprocity and
+
+1233
+01:03:11,839 --> 01:03:14,579
+trustworthiness that arise from
+
+1234
+01:03:14,579 --> 01:03:17,520
+making a distinction between owning
+
+1235
+01:03:17,520 --> 01:03:20,400
+Capital what is bombing Capital these
+
+1236
+01:03:20,400 --> 01:03:23,339
+are social networks connections Norms of
+
+1237
+01:03:23,339 --> 01:03:26,760
+reciprocity between socially homogeneous
+
+1238
+01:03:26,760 --> 01:03:29,819
+people for example people of the same
+
+1239
+01:03:29,819 --> 01:03:32,400
+ethnicity are people of the same social
+
+1240
+01:03:32,400 --> 01:03:34,520
+and economic group
+
+1241
+01:03:34,520 --> 01:03:36,720
+distinction between bonding and
+
+1242
+01:03:36,720 --> 01:03:39,180
+breaching and approaching Capital being
+
+1243
+01:03:39,180 --> 01:03:42,299
+actions networks launch of reciprocity
+
+1244
+01:03:42,299 --> 01:03:45,000
+and trustworthiness during socially
+
+1245
+01:03:45,000 --> 01:03:46,740
+heterogeneous
+
+1246
+01:03:46,740 --> 01:03:48,540
+for example people of different
+
+1247
+01:03:48,540 --> 01:03:49,859
+ethnicities
+
+1248
+01:03:49,859 --> 01:03:53,700
+are people of different social economics
+
+1249
+01:03:53,700 --> 01:03:56,940
+and the argument is often that reaching
+
+1250
+01:03:56,940 --> 01:04:00,540
+capital is important for social Mobility
+
+1251
+01:04:00,540 --> 01:04:03,960
+yeah for example if you're poor
+
+1252
+01:04:03,960 --> 01:04:08,099
+from your middle class neighbor you will
+
+1253
+01:04:08,099 --> 01:04:10,440
+get to hear about jobs
+
+1254
+01:04:10,440 --> 01:04:13,200
+and it is a person who's working I mean
+
+1255
+01:04:13,200 --> 01:04:15,059
+there is a job opportunity in the office
+
+1256
+01:04:15,059 --> 01:04:17,099
+where this person learns he might share
+
+1257
+01:04:17,099 --> 01:04:19,799
+this knowledge that she might share it
+
+1258
+01:04:19,799 --> 01:04:22,440
+with is for her name
+
+1259
+01:04:22,440 --> 01:04:26,099
+to work and when you do not speak Dutch
+
+1260
+01:04:26,099 --> 01:04:28,319
+it might be good to have this white
+
+1261
+01:04:28,319 --> 01:04:31,079
+middle class family this Empire City
+
+1262
+01:04:31,079 --> 01:04:33,540
+Council was so interested in living next
+
+1263
+01:04:33,540 --> 01:04:36,960
+to you because you maybe they can help
+
+1264
+01:04:36,960 --> 01:04:40,380
+yourself or daughter with homework
+
+1265
+01:04:40,380 --> 01:04:42,660
+um as they Stitch and so these are the
+
+1266
+01:04:42,660 --> 01:04:46,799
+IDS behind this argument saying that
+
+1267
+01:04:46,799 --> 01:04:48,480
+well it's good
+
+1268
+01:04:48,480 --> 01:04:50,880
+to have mixed neighborhoods because
+
+1269
+01:04:50,880 --> 01:04:54,200
+these mixed neighborhoods will lead to
+
+1270
+01:04:54,200 --> 01:04:56,660
+heterogeneous networks they will lead to
+
+1271
+01:04:56,660 --> 01:04:59,280
+breaching capital and that will be
+
+1272
+01:04:59,280 --> 01:05:01,619
+important that will be to the benefits
+
+1273
+01:05:01,619 --> 01:05:04,200
+of poor people living in such a
+
+1274
+01:05:04,200 --> 01:05:05,280
+neighborhood
+
+1275
+01:05:05,280 --> 01:05:08,339
+and so one reason why you would want to
+
+1276
+01:05:08,339 --> 01:05:11,280
+create a socialist neighborhood is
+
+1277
+01:05:11,280 --> 01:05:13,920
+because you want to create heterogeneous
+
+1278
+01:05:13,920 --> 01:05:16,559
+social networks because you assume that
+
+1279
+01:05:16,559 --> 01:05:20,280
+bridging Capital will help poor people
+
+1280
+01:05:20,280 --> 01:05:23,760
+to be socially mobile and to join them
+
+1281
+01:05:23,760 --> 01:05:27,420
+to for example through education or true
+
+1282
+01:05:27,420 --> 01:05:28,740
+choice
+
+1283
+01:05:28,740 --> 01:05:30,660
+and so this is one of the seven
+
+1284
+01:05:30,660 --> 01:05:32,099
+arguments
+
+1285
+01:05:32,099 --> 01:05:37,940
+that underpins this ideal of social mix
+
+1286
+01:05:37,940 --> 01:05:41,220
+but when we study how people live
+
+1287
+01:05:41,220 --> 01:05:44,339
+it turns out that
+
+1288
+01:05:44,339 --> 01:05:47,819
+people are rather Mobile in a city do
+
+1289
+01:05:47,819 --> 01:05:49,799
+not limit their lives to a particular
+
+1290
+01:05:49,799 --> 01:05:50,940
+neighborhood
+
+1291
+01:05:50,940 --> 01:05:53,280
+and that many of the social networks
+
+1292
+01:05:53,280 --> 01:05:55,260
+that develop in a neighborhood spend
+
+1293
+01:05:55,260 --> 01:05:58,260
+different neighborhood borders and this
+
+1294
+01:05:58,260 --> 01:06:00,200
+is a study from
+
+1295
+01:06:00,200 --> 01:06:03,900
+in China looking at the social networks
+
+1296
+01:06:03,900 --> 01:06:06,599
+of people living in four different types
+
+1297
+01:06:06,599 --> 01:06:09,299
+of neighborhoods and in each of these
+
+1298
+01:06:09,299 --> 01:06:11,880
+neighborhoods the conclusion is that
+
+1299
+01:06:11,880 --> 01:06:14,579
+most people get to know people through
+
+1300
+01:06:14,579 --> 01:06:16,380
+work
+
+1301
+01:06:16,380 --> 01:06:23,520
+yeah and spent time with colleagues also
+
+1302
+01:06:23,520 --> 01:06:26,180
+um after after working hours
+
+1303
+01:06:26,180 --> 01:06:29,160
+and many people also get to know people
+
+1304
+01:06:29,160 --> 01:06:31,079
+through kinship
+
+1305
+01:06:31,079 --> 01:06:34,079
+from a childhood through the schools of
+
+1306
+01:06:34,079 --> 01:06:36,559
+their children
+
+1307
+01:06:36,660 --> 01:06:39,720
+and they are actually quite a small
+
+1308
+01:06:39,720 --> 01:06:44,160
+amount of social networks in each of
+
+1309
+01:06:44,160 --> 01:06:45,720
+these neighborhoods less than that
+
+1310
+01:06:45,720 --> 01:06:47,340
+percent
+
+1311
+01:06:47,340 --> 01:06:47,760
+[Music]
+
+1312
+01:06:47,760 --> 01:06:48,900
+um
+
+1313
+01:06:48,900 --> 01:06:51,000
+what um when you look at the social
+
+1314
+01:06:51,000 --> 01:06:52,920
+connections of these people there is a
+
+1315
+01:06:52,920 --> 01:06:55,380
+quite a small amount that helps in these
+
+1316
+01:06:55,380 --> 01:06:57,720
+neighborhoods and no matter in which of
+
+1317
+01:06:57,720 --> 01:06:59,460
+the four types of neighborhoods they
+
+1318
+01:06:59,460 --> 01:07:00,780
+look
+
+1319
+01:07:00,780 --> 01:07:03,660
+people seem to develop mostly
+
+1320
+01:07:03,660 --> 01:07:05,720
+bones
+
+1321
+01:07:05,720 --> 01:07:09,960
+connections networks with people from
+
+1322
+01:07:09,960 --> 01:07:11,760
+outside the snake
+
+1323
+01:07:11,760 --> 01:07:14,700
+and so this idea that by bringing the
+
+1324
+01:07:14,700 --> 01:07:16,859
+middle class for example to the middle
+
+1325
+01:07:16,859 --> 01:07:19,140
+class to a cool neighborhood that this
+
+1326
+01:07:19,140 --> 01:07:21,660
+would be a way to create these social
+
+1327
+01:07:21,660 --> 01:07:24,599
+networks and when you look at this then
+
+1328
+01:07:24,599 --> 01:07:27,059
+these social networks also develop
+
+1329
+01:07:27,059 --> 01:07:29,280
+outside the neighborhood so why to focus
+
+1330
+01:07:29,280 --> 01:07:31,200
+so much on that neighborhood where
+
+1331
+01:07:31,200 --> 01:07:33,180
+people live
+
+1332
+01:07:33,180 --> 01:07:37,400
+very culturally kind of like
+
+1333
+01:07:37,400 --> 01:07:40,619
+culture e
+
+1334
+01:07:40,619 --> 01:07:42,619
+ffort
+
+1335
+01:07:44,700 --> 01:07:46,740
+in other countries you mean yeah the
+
+1336
+01:07:46,740 --> 01:07:49,760
+situation would be different
+
+1337
+01:07:52,740 --> 01:07:54,059
+donations
+
+1338
+01:07:54,059 --> 01:07:56,339
+well I told you it's important to
+
+1339
+01:07:56,339 --> 01:07:58,440
+understand the context of this of this
+
+1340
+01:07:58,440 --> 01:07:59,339
+study
+
+1341
+01:07:59,339 --> 01:08:01,859
+but in any case also for for Western
+
+1342
+01:08:01,859 --> 01:08:03,900
+European cities if you if you would
+
+1343
+01:08:03,900 --> 01:08:06,599
+study this process over time I think you
+
+1344
+01:08:06,599 --> 01:08:10,440
+would find out that connections are less
+
+1345
+01:08:10,440 --> 01:08:12,780
+neighborhood based than they used to I
+
+1346
+01:08:12,780 --> 01:08:14,579
+can imagine that this neighborhood will
+
+1347
+01:08:14,579 --> 01:08:16,080
+still be important
+
+1348
+01:08:16,080 --> 01:08:20,640
+and people still get to know a lot of
+
+1349
+01:08:20,640 --> 01:08:21,479
+um
+
+1350
+01:08:21,479 --> 01:08:24,238
+other families for example through their
+
+1351
+01:08:24,238 --> 01:08:26,640
+children through the school in many
+
+1352
+01:08:26,640 --> 01:08:28,140
+countries of the world we have a school
+
+1353
+01:08:28,140 --> 01:08:30,479
+pitching system where living in a
+
+1354
+01:08:30,479 --> 01:08:32,339
+neighborhood me sending your kids to the
+
+1355
+01:08:32,339 --> 01:08:34,500
+same school and so for sure there are
+
+1356
+01:08:34,500 --> 01:08:36,799
+many reasons why this would be different
+
+1357
+01:08:36,799 --> 01:08:41,100
+in other countries but overall I think
+
+1358
+01:08:41,100 --> 01:08:42,238
+this argument
+
+1359
+01:08:42,238 --> 01:08:44,880
+truth that there are also many social
+
+1360
+01:08:44,880 --> 01:08:47,460
+networks that the total outsides the
+
+1361
+01:08:47,460 --> 01:08:49,380
+neighborhood of course there are also
+
+1362
+01:08:49,380 --> 01:08:51,299
+studies that focus on burning produce
+
+1363
+01:08:51,299 --> 01:08:52,679
+and say well these people are less
+
+1364
+01:08:52,679 --> 01:08:54,960
+mobile than rich people and so it's
+
+1365
+01:08:54,960 --> 01:08:56,698
+exactly for these poor people that this
+
+1366
+01:08:56,698 --> 01:08:58,500
+neighborhood is an important
+
+1367
+01:08:58,500 --> 01:09:00,620
+uh
+
+1368
+01:09:00,620 --> 01:09:04,259
+ground of network population
+
+1369
+01:09:04,259 --> 01:09:07,259
+much more than it is for rich people
+
+1370
+01:09:07,259 --> 01:09:09,899
+and if you do not have a job if you do
+
+1371
+01:09:09,899 --> 01:09:11,640
+not have the money to buy a bus ticket
+
+1372
+01:09:11,640 --> 01:09:13,738
+now that's neighborhood context will be
+
+1373
+01:09:13,738 --> 01:09:16,979
+an important one for social networks to
+
+1374
+01:09:16,979 --> 01:09:19,198
+be develop that's also for different
+
+1375
+01:09:19,198 --> 01:09:20,939
+categories of people this might be
+
+1376
+01:09:20,939 --> 01:09:22,460
+different
+
+1377
+01:09:22,460 --> 01:09:25,080
+but still I think it's important to see
+
+1378
+01:09:25,080 --> 01:09:27,238
+that networks do not only develop inside
+
+1379
+01:09:27,238 --> 01:09:29,339
+a neighborhood that there are also
+
+1380
+01:09:29,339 --> 01:09:33,600
+networks in other parts of other parts
+
+1381
+01:09:33,600 --> 01:09:34,979
+of the city
+
+1382
+01:09:34,979 --> 01:09:37,020
+or with people living in other parts of
+
+1383
+01:09:37,020 --> 01:09:39,140
+this
+
+1384
+01:09:40,080 --> 01:09:41,160
+um
+
+1385
+01:09:41,160 --> 01:09:42,719
+drawing
+
+1386
+01:09:42,719 --> 01:09:47,399
+white double income families
+
+1387
+01:09:47,399 --> 01:09:52,140
+to a neighborhood such as model make and
+
+1388
+01:09:52,140 --> 01:09:54,660
+if it's possible will that then make
+
+1389
+01:09:54,660 --> 01:09:58,860
+these networks diverse a study by Sabina
+
+1390
+01:09:58,860 --> 01:10:01,460
+Rick and Mike
+
+1391
+01:10:01,460 --> 01:10:05,880
+in a German cities I think it was Marx
+
+1392
+01:10:05,880 --> 01:10:08,060
+law in the old area
+
+1393
+01:10:08,060 --> 01:10:11,880
+and they have been interviewing uh the
+
+1394
+01:10:11,880 --> 01:10:12,780
+white
+
+1395
+01:10:12,780 --> 01:10:15,960
+uh middle class people in this example
+
+1396
+01:10:15,960 --> 01:10:17,340
+two women
+
+1397
+01:10:17,340 --> 01:10:19,739
+about their social meds and there is
+
+1398
+01:10:19,739 --> 01:10:21,659
+quite a lot on this diagram I might need
+
+1399
+01:10:21,659 --> 01:10:24,600
+to explain it so you see the women in
+
+1400
+01:10:24,600 --> 01:10:26,460
+the middle and then you have different
+
+1401
+01:10:26,460 --> 01:10:28,260
+scales
+
+1402
+01:10:28,260 --> 01:10:30,840
+you know the neighborhoods you have the
+
+1403
+01:10:30,840 --> 01:10:33,239
+city you have Germany and you have
+
+1404
+01:10:33,239 --> 01:10:36,540
+outside of Germany and so people
+
+1405
+01:10:36,540 --> 01:10:39,300
+who are the important people in your
+
+1406
+01:10:39,300 --> 01:10:43,679
+life ask that and we put them on this
+
+1407
+01:10:43,679 --> 01:10:45,239
+diagram saying well there are people
+
+1408
+01:10:45,239 --> 01:10:47,400
+inside the neighborhoods people living
+
+1409
+01:10:47,400 --> 01:10:49,080
+in the same city but you also know
+
+1410
+01:10:49,080 --> 01:10:51,000
+people in the same country and people
+
+1411
+01:10:51,000 --> 01:10:53,340
+also living roles and for different
+
+1412
+01:10:53,340 --> 01:10:55,199
+people you would get to different
+
+1413
+01:10:55,199 --> 01:10:59,280
+diagrams and what they also did is to
+
+1414
+01:10:59,280 --> 01:11:01,380
+map a contact frequency
+
+1415
+01:11:01,380 --> 01:11:04,020
+so if you have frequent contacts this
+
+1416
+01:11:04,020 --> 01:11:07,860
+error will be more bold than it is for
+
+1417
+01:11:07,860 --> 01:11:10,800
+people so you can have a rare complex
+
+1418
+01:11:10,800 --> 01:11:14,820
+and then they also met the level of
+
+1419
+01:11:14,820 --> 01:11:20,820
+Education an indicator for a class
+
+1420
+01:11:20,820 --> 01:11:22,679
+room saying well are these people that
+
+1421
+01:11:22,679 --> 01:11:27,060
+you frequent are they people of with the
+
+1422
+01:11:27,060 --> 01:11:29,760
+same educational background
+
+1423
+01:11:29,760 --> 01:11:32,580
+middle class people high education
+
+1424
+01:11:32,580 --> 01:11:35,460
+Highly Educated or are these people who
+
+1425
+01:11:35,460 --> 01:11:38,360
+do not have Universal qualifications
+
+1426
+01:11:38,360 --> 01:11:41,580
+now the other thing that you see here is
+
+1427
+01:11:41,580 --> 01:11:43,800
+the type of relation between frequent
+
+1428
+01:11:43,800 --> 01:11:45,600
+these people or do they provide you with
+
+1429
+01:11:45,600 --> 01:11:48,980
+emotional support or instrumentals
+
+1430
+01:11:48,980 --> 01:11:52,739
+materials or a good talk for example on
+
+1431
+01:11:52,739 --> 01:11:55,260
+the issues so it's quite a complex not
+
+1432
+01:11:55,260 --> 01:11:58,620
+but what you see is that first of all
+
+1433
+01:11:58,620 --> 01:12:02,040
+just like in the Chinese example many
+
+1434
+01:12:02,040 --> 01:12:05,699
+people have social networks that are
+
+1435
+01:12:05,699 --> 01:12:07,380
+part of a social network with people
+
+1436
+01:12:07,380 --> 01:12:09,900
+living outside the neighborhoods and
+
+1437
+01:12:09,900 --> 01:12:12,179
+what you also see there is that most of
+
+1438
+01:12:12,179 --> 01:12:14,400
+the connections that these middle class
+
+1439
+01:12:14,400 --> 01:12:16,679
+women in these underprivileged
+
+1440
+01:12:16,679 --> 01:12:19,800
+neighborhoods develop are with other
+
+1441
+01:12:19,800 --> 01:12:22,500
+people with the same educational
+
+1442
+01:12:22,500 --> 01:12:25,140
+qualification so the idea that's
+
+1443
+01:12:25,140 --> 01:12:27,659
+bringing middle class people to another
+
+1444
+01:12:27,659 --> 01:12:30,199
+privileged neighborhood will create
+
+1445
+01:12:30,199 --> 01:12:33,120
+heterogeneous social networks in which
+
+1446
+01:12:33,120 --> 01:12:34,980
+you find poor and rich people people
+
+1447
+01:12:34,980 --> 01:12:37,739
+does not seem to hold true here because
+
+1448
+01:12:37,739 --> 01:12:39,960
+the middle class people that you attract
+
+1449
+01:12:39,960 --> 01:12:42,480
+to these neighborhoods create mostly
+
+1450
+01:12:42,480 --> 01:12:44,820
+social bonds with people like them with
+
+1451
+01:12:44,820 --> 01:12:47,760
+other middle thoughts
+
+1452
+01:12:47,760 --> 01:12:50,159
+the episode is bridging capital
+
+1453
+01:12:50,159 --> 01:12:52,260
+that was the reason why you wanted to
+
+1454
+01:12:52,260 --> 01:12:54,719
+make this neighborhood there's not
+
+1455
+01:12:54,719 --> 01:12:57,560
+really developed
+
+1456
+01:12:58,980 --> 01:13:01,380
+another argument is that
+
+1457
+01:13:01,380 --> 01:13:03,840
+creating a mixed neighborhood
+
+1458
+01:13:03,840 --> 01:13:07,920
+might disrupt the strong ties that exist
+
+1459
+01:13:07,920 --> 01:13:10,920
+there already the only Capital that
+
+1460
+01:13:10,920 --> 01:13:13,860
+exists and the strong forms of social
+
+1461
+01:13:13,860 --> 01:13:17,040
+economic emotional support that people
+
+1462
+01:13:17,040 --> 01:13:19,560
+of the same ethnicity for example
+
+1463
+01:13:19,560 --> 01:13:22,860
+provide when they live in a neighborhood
+
+1464
+01:13:22,860 --> 01:13:25,760
+part of the city
+
+1465
+01:13:25,760 --> 01:13:28,800
+so residents living in this interested
+
+1466
+01:13:28,800 --> 01:13:32,400
+parts of cities Slater argued fall back
+
+1467
+01:13:32,400 --> 01:13:34,380
+on what they know and what they have
+
+1468
+01:13:34,380 --> 01:13:38,820
+each other is bonding capital is crucial
+
+1469
+01:13:38,820 --> 01:13:42,360
+in the lives of poor people in the lives
+
+1470
+01:13:42,360 --> 01:13:44,400
+of newcomers who have just arrived to
+
+1471
+01:13:44,400 --> 01:13:46,380
+the city they will look for core ethics
+
+1472
+01:13:46,380 --> 01:13:47,760
+first
+
+1473
+01:13:47,760 --> 01:13:50,520
+and if you create a mix if you want to
+
+1474
+01:13:50,520 --> 01:13:52,320
+create a mixed neighborhood in these
+
+1475
+01:13:52,320 --> 01:13:54,960
+parts of cloud for example by attracting
+
+1476
+01:13:54,960 --> 01:13:57,360
+another class they will displace some
+
+1477
+01:13:57,360 --> 01:13:59,219
+people and that will disrupt this
+
+1478
+01:13:59,219 --> 01:14:01,620
+bonding Capital Network system
+
+1479
+01:14:01,620 --> 01:14:03,260
+yeah so
+
+1480
+01:14:03,260 --> 01:14:06,840
+what I'm trying to do
+
+1481
+01:14:06,840 --> 01:14:09,420
+is to say well there is an argument
+
+1482
+01:14:09,420 --> 01:14:11,580
+there why you would create a mixed
+
+1483
+01:14:11,580 --> 01:14:14,280
+neighborhood but you also have
+
+1484
+01:14:14,280 --> 01:14:18,179
+a couple of counter arguments as to why
+
+1485
+01:14:18,179 --> 01:14:21,120
+argument might not work or the whole
+
+1486
+01:14:21,120 --> 01:14:23,340
+reason underlying that argument might
+
+1487
+01:14:23,340 --> 01:14:24,600
+not work
+
+1488
+01:14:24,600 --> 01:14:26,699
+social networks
+
+1489
+01:14:26,699 --> 01:14:29,280
+yeah Social Capital owning and bridging
+
+1490
+01:14:29,280 --> 01:14:30,300
+capital
+
+1491
+01:14:30,300 --> 01:14:34,260
+I guess you you got the point there
+
+1492
+01:14:34,260 --> 01:14:37,980
+a second argument is called underclass
+
+1493
+01:14:37,980 --> 01:14:40,020
+Art
+
+1494
+01:14:40,020 --> 01:14:41,820
+and this is an argument that has
+
+1495
+01:14:41,820 --> 01:14:44,100
+developed in the United States in the
+
+1496
+01:14:44,100 --> 01:14:46,320
+1980s
+
+1497
+01:14:46,320 --> 01:14:48,540
+and at that time there was a big
+
+1498
+01:14:48,540 --> 01:14:49,980
+discussion
+
+1499
+01:14:49,980 --> 01:14:52,560
+between structuralists
+
+1500
+01:14:52,560 --> 01:14:55,560
+who look at the causes of poverty in the
+
+1501
+01:14:55,560 --> 01:14:57,600
+declining economic base
+
+1502
+01:14:57,600 --> 01:15:00,300
+and for example Marxist geographers
+
+1503
+01:15:00,300 --> 01:15:02,159
+saying well there is a shift from a
+
+1504
+01:15:02,159 --> 01:15:05,699
+fullness to a post for this capitalism
+
+1505
+01:15:05,699 --> 01:15:08,040
+and this makes it harder for these
+
+1506
+01:15:08,040 --> 01:15:10,080
+people to quiet job
+
+1507
+01:15:10,080 --> 01:15:12,360
+or the arguments that you've heard in
+
+1508
+01:15:12,360 --> 01:15:13,860
+the classes by that Apostles about
+
+1509
+01:15:13,860 --> 01:15:15,300
+polarization
+
+1510
+01:15:15,300 --> 01:15:19,020
+is there a declining job markets
+
+1511
+01:15:19,020 --> 01:15:21,239
+so you're looking for structural causes
+
+1512
+01:15:21,239 --> 01:15:24,000
+of poverty and on the other hand you had
+
+1513
+01:15:24,000 --> 01:15:27,840
+cultures except poverty is dead because
+
+1514
+01:15:27,840 --> 01:15:31,080
+you have a culture of poverty
+
+1515
+01:15:31,080 --> 01:15:34,260
+poor people have certain attitudes have
+
+1516
+01:15:34,260 --> 01:15:37,080
+a certain behavior and this keeps them
+
+1517
+01:15:37,080 --> 01:15:40,219
+in poverty so that was an important
+
+1518
+01:15:40,219 --> 01:15:42,780
+discussion between these two
+
+1519
+01:15:42,780 --> 01:15:45,420
+and this underclass argument
+
+1520
+01:15:45,420 --> 01:15:47,880
+is part of this cultural history of
+
+1521
+01:15:47,880 --> 01:15:51,840
+looking at poverty yeah who is this
+
+1522
+01:15:51,840 --> 01:15:53,520
+underclass
+
+1523
+01:15:53,520 --> 01:15:56,400
+they're not talking about all poor
+
+1524
+01:15:56,400 --> 01:15:58,199
+people in the case of the United States
+
+1525
+01:15:58,199 --> 01:16:01,440
+in the 1980s 33 million people were
+
+1526
+01:16:01,440 --> 01:16:04,800
+consistent who was this underclass that
+
+1527
+01:16:04,800 --> 01:16:08,280
+was a minority in this minority five
+
+1528
+01:16:08,280 --> 01:16:11,100
+million people yeah people who followed
+
+1529
+01:16:11,100 --> 01:16:12,659
+below the
+
+1530
+01:16:12,659 --> 01:16:14,960
+income threshold for which they are
+
+1531
+01:16:14,960 --> 01:16:18,179
+considered to be poor disproportionately
+
+1532
+01:16:18,179 --> 01:16:22,080
+Black and Hispanic minority in this poor
+
+1533
+01:16:22,080 --> 01:16:24,300
+minority but what defines them it's not
+
+1534
+01:16:24,300 --> 01:16:27,120
+so much the poverty or their base but
+
+1535
+01:16:27,120 --> 01:16:28,739
+their behavior
+
+1536
+01:16:28,739 --> 01:16:32,460
+okay there's probably lawlessness drug
+
+1537
+01:16:32,460 --> 01:16:35,400
+use out of Redwood Birds lack of
+
+1538
+01:16:35,400 --> 01:16:38,040
+employment welfare dependency and school
+
+1539
+01:16:38,040 --> 01:16:39,060
+faith
+
+1540
+01:16:39,060 --> 01:16:42,120
+and also these culturalists blame the
+
+1541
+01:16:42,120 --> 01:16:43,140
+poor
+
+1542
+01:16:43,140 --> 01:16:45,659
+to be poor because of their own behavior
+
+1543
+01:16:45,659 --> 01:16:46,860
+and
+
+1544
+01:16:46,860 --> 01:16:49,260
+the way they look different
+
+1545
+01:16:49,260 --> 01:16:52,500
+and so this is this underclass argument
+
+1546
+01:16:52,500 --> 01:16:55,880
+so what is the argument exactly that in
+
+1547
+01:16:55,880 --> 01:16:58,860
+ketos or in neighborhoods where you find
+
+1548
+01:16:58,860 --> 01:17:02,159
+the concentration of poor people that
+
+1549
+01:17:02,159 --> 01:17:04,800
+you find more unemployment more welfare
+
+1550
+01:17:04,800 --> 01:17:07,080
+dependency more early School Leaving
+
+1551
+01:17:07,080 --> 01:17:10,380
+more truancy or criminality more
+
+1552
+01:17:10,380 --> 01:17:13,620
+gambling more direct abuse more alcohol
+
+1553
+01:17:13,620 --> 01:17:17,159
+abuse more out of Bedford Sports teenage
+
+1554
+01:17:17,159 --> 01:17:20,040
+pregnancy more dysfunctional values
+
+1555
+01:17:20,040 --> 01:17:23,280
+whatever that may aim due to
+
+1556
+01:17:23,280 --> 01:17:24,260
+okay
+
+1557
+01:17:24,260 --> 01:17:27,179
+socialization affects within these
+
+1558
+01:17:27,179 --> 01:17:28,739
+things
+
+1559
+01:17:28,739 --> 01:17:30,960
+if you grow up in a neighborhood like
+
+1560
+01:17:30,960 --> 01:17:31,800
+that
+
+1561
+01:17:31,800 --> 01:17:34,620
+and your peers
+
+1562
+01:17:34,620 --> 01:17:36,840
+the people of your age the people that
+
+1563
+01:17:36,840 --> 01:17:39,179
+you frequent
+
+1564
+01:17:39,179 --> 01:17:43,040
+will have a higher chance to be
+
+1565
+01:17:43,040 --> 01:17:46,739
+criminals or gamblers or drug users or
+
+1566
+01:17:46,739 --> 01:17:48,960
+alcohol abusers Etc
+
+1567
+01:17:48,960 --> 01:17:51,239
+and that is why in such neighborhood you
+
+1568
+01:17:51,239 --> 01:17:54,060
+find more of this
+
+1569
+01:17:54,060 --> 01:17:57,360
+we also find a lack of role models with
+
+1570
+01:17:57,360 --> 01:18:00,120
+a job without a drug addiction without
+
+1571
+01:18:00,120 --> 01:18:01,920
+an alcohol
+
+1572
+01:18:01,920 --> 01:18:05,460
+IC and who were not teenage mothers Etc
+
+1573
+01:18:05,460 --> 01:18:07,320
+so there's a lack of
+
+1574
+01:18:07,320 --> 01:18:09,600
+positive role models
+
+1575
+01:18:09,600 --> 01:18:11,719
+and you also have this peer group effect
+
+1576
+01:18:11,719 --> 01:18:16,020
+and so why are you worse of living as a
+
+1577
+01:18:16,020 --> 01:18:19,199
+poor person in a poor neighborhood the
+
+1578
+01:18:19,199 --> 01:18:21,659
+argument of this culture this was that
+
+1579
+01:18:21,659 --> 01:18:25,260
+is because you have these Norms you have
+
+1580
+01:18:25,260 --> 01:18:27,239
+a lack of these role models and you have
+
+1581
+01:18:27,239 --> 01:18:30,000
+these peer group effects which made it
+
+1582
+01:18:30,000 --> 01:18:32,159
+well that's why it's your worst of
+
+1583
+01:18:32,159 --> 01:18:34,460
+living
+
+1584
+01:18:34,920 --> 01:18:36,480
+they also refer to physical
+
+1585
+01:18:36,480 --> 01:18:38,760
+infrastructure institutional networks
+
+1586
+01:18:38,760 --> 01:18:40,620
+the argument was
+
+1587
+01:18:40,620 --> 01:18:42,780
+that but this has been quite an
+
+1588
+01:18:42,780 --> 01:18:45,120
+important argument many policy makers
+
+1589
+01:18:45,120 --> 01:18:47,699
+have been facing
+
+1590
+01:18:47,699 --> 01:18:50,699
+or helping arguing for socialists
+
+1591
+01:18:50,699 --> 01:18:53,100
+because of this
+
+1592
+01:18:53,100 --> 01:18:56,580
+because they were convinced that living
+
+1593
+01:18:56,580 --> 01:19:00,659
+in a poor neighborhood increased the
+
+1594
+01:19:00,659 --> 01:19:03,300
+chances that you found a job less
+
+1595
+01:19:03,300 --> 01:19:06,420
+important than you leave school early
+
+1596
+01:19:06,420 --> 01:19:09,659
+and because of of your friends doing the
+
+1597
+01:19:09,659 --> 01:19:11,280
+saying that you don't go to school
+
+1598
+01:19:11,280 --> 01:19:13,380
+because your friends would do so as well
+
+1599
+01:19:13,380 --> 01:19:15,179
+that you would turn into a criminal
+
+1600
+01:19:15,179 --> 01:19:17,640
+because this is the example that you
+
+1601
+01:19:17,640 --> 01:19:20,420
+have seen mostly
+
+1602
+01:19:22,739 --> 01:19:26,100
+okay now even when there would be a link
+
+1603
+01:19:26,100 --> 01:19:28,679
+between what is on the left and these
+
+1604
+01:19:28,679 --> 01:19:30,540
+poor neighborhoods then it can still be
+
+1605
+01:19:30,540 --> 01:19:33,000
+wonders whether what is the causal
+
+1606
+01:19:33,000 --> 01:19:34,199
+relationship
+
+1607
+01:19:34,199 --> 01:19:36,060
+between these two
+
+1608
+01:19:36,060 --> 01:19:38,940
+here on the map you have Chicago again a
+
+1609
+01:19:38,940 --> 01:19:41,040
+city that we are getting quite familiar
+
+1610
+01:19:41,040 --> 01:19:44,100
+with you see the poverty level
+
+1611
+01:19:44,100 --> 01:19:46,920
+in these neighborhoods that the darker
+
+1612
+01:19:46,920 --> 01:19:49,739
+the red the poorer the neighborhoods are
+
+1613
+01:19:49,739 --> 01:19:51,780
+and you see
+
+1614
+01:19:51,780 --> 01:19:55,560
+people arrested
+
+1615
+01:19:56,060 --> 01:20:00,540
+for a drug use or
+
+1616
+01:20:00,540 --> 01:20:03,780
+something like this the possession of of
+
+1617
+01:20:03,780 --> 01:20:05,040
+Turks
+
+1618
+01:20:05,040 --> 01:20:08,340
+and what you see there is that uh
+
+1619
+01:20:08,340 --> 01:20:11,520
+there is a correlation
+
+1620
+01:20:11,520 --> 01:20:13,020
+between
+
+1621
+01:20:13,020 --> 01:20:16,020
+poverty and the concentration of poverty
+
+1622
+01:20:16,020 --> 01:20:19,080
+this neighborhood and the use of quality
+
+1623
+01:20:19,080 --> 01:20:22,320
+correct and coping is much scattered
+
+1624
+01:20:22,320 --> 01:20:25,800
+much more scattered and but you also see
+
+1625
+01:20:25,800 --> 01:20:29,340
+that in the other neighborhoods where
+
+1626
+01:20:29,340 --> 01:20:32,280
+you have a concentration of poverty that
+
+1627
+01:20:32,280 --> 01:20:35,580
+is much less the case
+
+1628
+01:20:35,580 --> 01:20:38,460
+now I can also wonder to what extent
+
+1629
+01:20:38,460 --> 01:20:40,380
+this graph
+
+1630
+01:20:40,380 --> 01:20:46,560
+is the result of real drug use or the
+
+1631
+01:20:46,560 --> 01:20:48,540
+policing of these Neighbors
+
+1632
+01:20:48,540 --> 01:20:50,640
+if you have a police force that is much
+
+1633
+01:20:50,640 --> 01:20:51,540
+more
+
+1634
+01:20:51,540 --> 01:20:54,360
+on the outlook for drug use in certain
+
+1635
+01:20:54,360 --> 01:20:55,980
+neighborhoods well that it's logical
+
+1636
+01:20:55,980 --> 01:20:58,020
+that this will show up in English
+
+1637
+01:20:58,020 --> 01:20:59,280
+statistics
+
+1638
+01:20:59,280 --> 01:21:02,040
+so there are many reasons why one could
+
+1639
+01:21:02,040 --> 01:21:04,739
+raise concerns about the causal
+
+1640
+01:21:04,739 --> 01:21:07,140
+relationship in this case between drug
+
+1641
+01:21:07,140 --> 01:21:09,300
+use on the one hand and the
+
+1642
+01:21:09,300 --> 01:21:11,820
+concentration of poverty on public so it
+
+1643
+01:21:11,820 --> 01:21:14,820
+could start to criticize like how these
+
+1644
+01:21:14,820 --> 01:21:16,860
+statistics came about one can also see
+
+1645
+01:21:16,860 --> 01:21:19,500
+that for certain drugs there seems to be
+
+1646
+01:21:19,500 --> 01:21:22,739
+a correlation for other circles one can
+
+1647
+01:21:22,739 --> 01:21:24,420
+also see that you have concentrated
+
+1648
+01:21:24,420 --> 01:21:28,260
+poverty that corresponds with a lot of
+
+1649
+01:21:28,260 --> 01:21:30,420
+arrests for drug use but that you also
+
+1650
+01:21:30,420 --> 01:21:31,980
+have neighborhoods with concentration
+
+1651
+01:21:31,980 --> 01:21:34,980
+concentrated poverty organ specialists
+
+1652
+01:21:34,980 --> 01:21:37,860
+so there are many reasons why we would
+
+1653
+01:21:37,860 --> 01:21:39,540
+start to question whether there is a
+
+1654
+01:21:39,540 --> 01:21:42,120
+real cause of relation relationship
+
+1655
+01:21:42,120 --> 01:21:44,940
+concentration of poverty on the one hand
+
+1656
+01:21:44,940 --> 01:21:47,699
+and all these other indicators here on
+
+1657
+01:21:47,699 --> 01:21:51,120
+the slide on the other hand
+
+1658
+01:21:51,120 --> 01:21:54,840
+and another another argument against
+
+1659
+01:21:54,840 --> 01:21:57,739
+this underclass argument would be well
+
+1660
+01:21:57,739 --> 01:22:00,960
+again socialization
+
+1661
+01:22:00,960 --> 01:22:04,380
+be disappears to not only live in these
+
+1662
+01:22:04,380 --> 01:22:05,219
+neighborhoods
+
+1663
+01:22:05,219 --> 01:22:08,219
+these Role Models do not only live in
+
+1664
+01:22:08,219 --> 01:22:10,560
+the neighborhood and Barack Obama could
+
+1665
+01:22:10,560 --> 01:22:12,179
+also be around
+
+1666
+01:22:12,179 --> 01:22:14,699
+yeah engine can can get these Role
+
+1667
+01:22:14,699 --> 01:22:17,699
+Models through TV or the the music that
+
+1668
+01:22:17,699 --> 01:22:21,719
+you're missing so why this focus on the
+
+1669
+01:22:21,719 --> 01:22:23,699
+neighborhood again
+
+1670
+01:22:23,699 --> 01:22:26,520
+third argument for social cohesion
+
+1671
+01:22:26,520 --> 01:22:28,199
+arguments
+
+1672
+01:22:28,199 --> 01:22:30,719
+and here you see
+
+1673
+01:22:30,719 --> 01:22:33,960
+um the basic line of thought
+
+1674
+01:22:33,960 --> 01:22:37,620
+of this of this argument where the
+
+1675
+01:22:37,620 --> 01:22:40,140
+ethnic minorities live isolated from
+
+1676
+01:22:40,140 --> 01:22:43,260
+native touch they have less contact with
+
+1677
+01:22:43,260 --> 01:22:45,960
+Native touch consequently they do not
+
+1678
+01:22:45,960 --> 01:22:49,080
+acquire an adequate command of the Dutch
+
+1679
+01:22:49,080 --> 01:22:51,780
+language are not likely to adopt such
+
+1680
+01:22:51,780 --> 01:22:55,020
+Norms values and will not succeed in
+
+1681
+01:22:55,020 --> 01:22:57,420
+socioeconomic terms
+
+1682
+01:22:57,420 --> 01:23:00,780
+so here you see a mixing of arguments
+
+1683
+01:23:00,780 --> 01:23:03,540
+about ethnic segregation
+
+1684
+01:23:03,540 --> 01:23:06,179
+and socio-economic Mobility
+
+1685
+01:23:06,179 --> 01:23:08,820
+saying that well if you live
+
+1686
+01:23:08,820 --> 01:23:10,440
+in a neighborhood with a high
+
+1687
+01:23:10,440 --> 01:23:13,260
+concentration of people of foreign
+
+1688
+01:23:13,260 --> 01:23:14,460
+background
+
+1689
+01:23:14,460 --> 01:23:16,980
+who speak their mother tongue and who
+
+1690
+01:23:16,980 --> 01:23:20,219
+are less good in speaking Dutch
+
+1691
+01:23:20,219 --> 01:23:24,000
+and if you have less contact with
+
+1692
+01:23:24,000 --> 01:23:26,940
+native Dutch people then you will not
+
+1693
+01:23:26,940 --> 01:23:30,900
+acquire an adequate comment language you
+
+1694
+01:23:30,900 --> 01:23:33,540
+are not likely to evoke Dutch morals and
+
+1695
+01:23:33,540 --> 01:23:36,620
+values and therefore
+
+1696
+01:23:36,620 --> 01:23:40,800
+succeeds another argument that has been
+
+1697
+01:23:40,800 --> 01:23:43,440
+quite an important
+
+1698
+01:23:43,440 --> 01:23:46,260
+in the kind of rhetorics and the kind of
+
+1699
+01:23:46,260 --> 01:23:49,380
+discourse of policy makers advocating a
+
+1700
+01:23:49,380 --> 01:23:50,520
+social mix
+
+1701
+01:23:50,520 --> 01:23:53,580
+saying for example it's not good that in
+
+1702
+01:23:53,580 --> 01:23:54,840
+modern Bank you have a high
+
+1703
+01:23:54,840 --> 01:23:58,219
+concentration of foreign
+
+1704
+01:23:58,940 --> 01:24:01,380
+why is that not good well these people
+
+1705
+01:24:01,380 --> 01:24:04,380
+will not get to speak Dutch and they
+
+1706
+01:24:04,380 --> 01:24:08,460
+will not integrate to use that word they
+
+1707
+01:24:08,460 --> 01:24:11,640
+will not adults touch notes and values
+
+1708
+01:24:11,640 --> 01:24:14,340
+and that will make it harder for them to
+
+1709
+01:24:14,340 --> 01:24:17,640
+climb to social media
+
+1710
+01:24:17,640 --> 01:24:21,540
+again one can Wonder yeah is it only in
+
+1711
+01:24:21,540 --> 01:24:24,060
+the neighborhood that people could get a
+
+1712
+01:24:24,060 --> 01:24:26,300
+chance to develop this kind of
+
+1713
+01:24:26,300 --> 01:24:29,300
+relationships with Native touch even
+
+1714
+01:24:29,300 --> 01:24:33,420
+arguments true you could look at what is
+
+1715
+01:24:33,420 --> 01:24:35,520
+researchers do I will not go into the
+
+1716
+01:24:35,520 --> 01:24:37,620
+into all the details that they say about
+
+1717
+01:24:37,620 --> 01:24:40,460
+as own that's a place where people
+
+1718
+01:24:40,460 --> 01:24:43,260
+develop social networks you've got
+
+1719
+01:24:43,260 --> 01:24:44,940
+leisure activities through which people
+
+1720
+01:24:44,940 --> 01:24:46,860
+can develop
+
+1721
+01:24:46,860 --> 01:24:49,199
+you've got work and you've got the
+
+1722
+01:24:49,199 --> 01:24:51,719
+transport between these three different
+
+1723
+01:24:51,719 --> 01:24:54,120
+so it's important to look at all these
+
+1724
+01:24:54,120 --> 01:24:56,340
+domains and to see what happens between
+
+1725
+01:24:56,340 --> 01:24:57,540
+people
+
+1726
+01:24:57,540 --> 01:24:59,280
+and then you might see that this
+
+1727
+01:24:59,280 --> 01:25:01,020
+neighborhood in which these people live
+
+1728
+01:25:01,020 --> 01:25:03,600
+is less important
+
+1729
+01:25:03,600 --> 01:25:06,120
+another counter argument with focus on
+
+1730
+01:25:06,120 --> 01:25:08,820
+the importance of local culture it's
+
+1731
+01:25:08,820 --> 01:25:11,280
+only because you have a concentration of
+
+1732
+01:25:11,280 --> 01:25:13,920
+people of a certain ethnic background
+
+1733
+01:25:13,920 --> 01:25:17,340
+for example that you can support
+
+1734
+01:25:17,340 --> 01:25:19,760
+the shop that sells
+
+1735
+01:25:19,760 --> 01:25:22,380
+ethnic products that sell the food that
+
+1736
+01:25:22,380 --> 01:25:24,780
+sells the food from the home group where
+
+1737
+01:25:24,780 --> 01:25:27,600
+it allows you to have a church or an
+
+1738
+01:25:27,600 --> 01:25:30,199
+association by focusing on a particular
+
+1739
+01:25:30,199 --> 01:25:33,060
+ethnic group and these kind of places
+
+1740
+01:25:33,060 --> 01:25:36,420
+might be very important they will act as
+
+1741
+01:25:36,420 --> 01:25:38,460
+a protective space they will act as a
+
+1742
+01:25:38,460 --> 01:25:40,739
+safe space in which these people feel
+
+1743
+01:25:40,739 --> 01:25:43,020
+like they've gone and this feeling of
+
+1744
+01:25:43,020 --> 01:25:45,179
+belonging might be very important for
+
+1745
+01:25:45,179 --> 01:25:50,400
+them to and to find a life in this new
+
+1746
+01:25:50,400 --> 01:25:53,159
+country where they are living
+
+1747
+01:25:53,159 --> 01:25:57,500
+the social cohesion argument
+
+1748
+01:25:57,540 --> 01:26:00,719
+a fourth argument will focus on local
+
+1749
+01:26:00,719 --> 01:26:02,100
+services
+
+1750
+01:26:02,100 --> 01:26:06,480
+yeah and it will say that for example in
+
+1751
+01:26:06,480 --> 01:26:09,080
+in
+
+1752
+01:26:09,980 --> 01:26:12,540
+neighborhoods with the concentration of
+
+1753
+01:26:12,540 --> 01:26:15,120
+poverty that you will have less public
+
+1754
+01:26:15,120 --> 01:26:17,400
+and private Services there will be less
+
+1755
+01:26:17,400 --> 01:26:21,360
+shops there will be less Banks and you
+
+1756
+01:26:21,360 --> 01:26:23,820
+might also have less Public Service
+
+1757
+01:26:23,820 --> 01:26:27,480
+these are examples from lootball social
+
+1758
+01:26:27,480 --> 01:26:29,100
+housing estate that I've been talking
+
+1759
+01:26:29,100 --> 01:26:33,179
+about today already and the closure of a
+
+1760
+01:26:33,179 --> 01:26:36,300
+bank and there is no ATM anymore in our
+
+1761
+01:26:36,300 --> 01:26:37,440
+paper
+
+1762
+01:26:37,440 --> 01:26:39,600
+the argument could go well if there
+
+1763
+01:26:39,600 --> 01:26:41,699
+would be more middle class people then
+
+1764
+01:26:41,699 --> 01:26:44,159
+there would be higher interest from
+
+1765
+01:26:44,159 --> 01:26:48,500
+Banks to have an ATM
+
+1766
+01:26:48,600 --> 01:26:53,820
+or other other ships
+
+1767
+01:26:53,820 --> 01:26:56,400
+Chicago
+
+1768
+01:26:56,400 --> 01:26:58,800
+food deserts I don't know whether you've
+
+1769
+01:26:58,800 --> 01:27:01,380
+ever heard about this term but if you
+
+1770
+01:27:01,380 --> 01:27:04,139
+look at healthy foods
+
+1771
+01:27:04,139 --> 01:27:08,580
+grocery shops where can you find them if
+
+1772
+01:27:08,580 --> 01:27:12,020
+you see a map with these different
+
+1773
+01:27:12,020 --> 01:27:16,100
+racial groups I remember it is this
+
+1774
+01:27:16,100 --> 01:27:18,060
+self-identification in the case of
+
+1775
+01:27:18,060 --> 01:27:20,040
+America that is a survey for which
+
+1776
+01:27:20,040 --> 01:27:22,380
+racial group to itself identifiably
+
+1777
+01:27:22,380 --> 01:27:24,860
+identified you see neighborhoods
+
+1778
+01:27:24,860 --> 01:27:27,800
+predominantly white black Hispanic Asian
+
+1779
+01:27:27,800 --> 01:27:31,320
+diverse and you see that in many of
+
+1780
+01:27:31,320 --> 01:27:33,300
+these black neighborhoods which are also
+
+1781
+01:27:33,300 --> 01:27:36,000
+the tourist neighborhoods you find that
+
+1782
+01:27:36,000 --> 01:27:39,060
+it's very hard to find healthy food it's
+
+1783
+01:27:39,060 --> 01:27:40,980
+very hard to find fresh vegetables like
+
+1784
+01:27:40,980 --> 01:27:43,679
+fruit because the shops are so far
+
+1785
+01:27:43,679 --> 01:27:46,679
+yeah so the argument would be that it's
+
+1786
+01:27:46,679 --> 01:27:48,480
+better to create mixed neighborhoods
+
+1787
+01:27:48,480 --> 01:27:50,880
+because that will attract a diverse set
+
+1788
+01:27:50,880 --> 01:27:52,560
+of
+
+1789
+01:27:52,560 --> 01:27:55,739
+um shops and services to these
+
+1790
+01:27:55,739 --> 01:27:57,360
+neighborhoods
+
+1791
+01:27:57,360 --> 01:27:59,699
+we've already been talking about this
+
+1792
+01:27:59,699 --> 01:28:02,340
+that the question of course is what kind
+
+1793
+01:28:02,340 --> 01:28:04,380
+of shops and what kind of services do
+
+1794
+01:28:04,380 --> 01:28:06,360
+you get in the case of this Mentor
+
+1795
+01:28:06,360 --> 01:28:09,000
+eyelasher District one person said well
+
+1796
+01:28:09,000 --> 01:28:10,260
+but this people will not feel
+
+1797
+01:28:10,260 --> 01:28:13,260
+comfortable shops and they will also not
+
+1798
+01:28:13,260 --> 01:28:15,239
+find the products they would like to
+
+1799
+01:28:15,239 --> 01:28:16,560
+find
+
+1800
+01:28:16,560 --> 01:28:20,760
+that's also in gentrifying neighborhoods
+
+1801
+01:28:20,760 --> 01:28:22,800
+and what kind of
+
+1802
+01:28:22,800 --> 01:28:24,780
+shops do you find there
+
+1803
+01:28:24,780 --> 01:28:27,300
+is a shops catering for
+
+1804
+01:28:27,300 --> 01:28:29,280
+people who look for the cheapest food
+
+1805
+01:28:29,280 --> 01:28:32,719
+possible because they have only five
+
+1806
+01:28:32,719 --> 01:28:36,480
+euro to spend in in the last three days
+
+1807
+01:28:36,480 --> 01:28:37,620
+of the month
+
+1808
+01:28:37,620 --> 01:28:42,060
+or is it cafes or restaurants who try to
+
+1809
+01:28:42,060 --> 01:28:44,000
+cater for these
+
+1810
+01:28:44,000 --> 01:28:46,739
+incoming Gentry Fighters
+
+1811
+01:28:46,739 --> 01:28:49,139
+so it's important to look at the
+
+1812
+01:28:49,139 --> 01:28:51,600
+different shaded demands that will
+
+1813
+01:28:51,600 --> 01:28:55,080
+result from creating a mixed and so the
+
+1814
+01:28:55,080 --> 01:28:56,880
+question is if you've mixed name routes
+
+1815
+01:28:56,880 --> 01:29:00,060
+will these shops and services cater for
+
+1816
+01:29:00,060 --> 01:29:02,239
+these poor people
+
+1817
+01:29:02,239 --> 01:29:04,980
+because if that's not the case then it
+
+1818
+01:29:04,980 --> 01:29:07,920
+will displace the shops that existed
+
+1819
+01:29:07,920 --> 01:29:10,320
+there already ended catered For This
+
+1820
+01:29:10,320 --> 01:29:11,760
+audience
+
+1821
+01:29:11,760 --> 01:29:13,860
+in answer we've also been talking about
+
+1822
+01:29:13,860 --> 01:29:15,260
+a lot of these
+
+1823
+01:29:15,260 --> 01:29:18,000
+specialized services that you might get
+
+1824
+01:29:18,000 --> 01:29:19,860
+in neighborhoods
+
+1825
+01:29:19,860 --> 01:29:21,739
+and at least
+
+1826
+01:29:21,739 --> 01:29:26,100
+money transfer short steps or Food Shops
+
+1827
+01:29:26,100 --> 01:29:30,659
+like some African vegetables or
+
+1828
+01:29:30,659 --> 01:29:33,420
+Thai ingredients
+
+1829
+01:29:33,420 --> 01:29:35,639
+and the question is if you try to mix
+
+1830
+01:29:35,639 --> 01:29:37,920
+these neighborhoods to these kind of
+
+1831
+01:29:37,920 --> 01:29:39,900
+shops and these kind of services still
+
+1832
+01:29:39,900 --> 01:29:44,400
+be able to to be to remain or will they
+
+1833
+01:29:44,400 --> 01:29:46,920
+also be displaced because this place
+
+1834
+01:29:46,920 --> 01:29:50,460
+will be involved by a fancy coffee shop
+
+1835
+01:29:50,460 --> 01:29:54,840
+that is mainly catered for these Gentry
+
+1836
+01:29:54,840 --> 01:29:57,659
+farmers so questions around shops
+
+1837
+01:29:57,659 --> 01:29:59,940
+Services catering for different
+
+1838
+01:29:59,940 --> 01:30:02,940
+audiences
+
+1839
+01:30:03,540 --> 01:30:06,179
+argument that you find in the literature
+
+1840
+01:30:06,179 --> 01:30:08,400
+is a political one
+
+1841
+01:30:08,400 --> 01:30:11,179
+starting from the observation that many
+
+1842
+01:30:11,179 --> 01:30:13,940
+neighborhood associations for example
+
+1843
+01:30:13,940 --> 01:30:19,739
+are well mainly run by middle class
+
+1844
+01:30:19,739 --> 01:30:21,900
+and that middle class people are are
+
+1845
+01:30:21,900 --> 01:30:24,540
+much more focal in expressing their
+
+1846
+01:30:24,540 --> 01:30:26,340
+concerns about the people
+
+1847
+01:30:26,340 --> 01:30:28,860
+and so one could say that well by
+
+1848
+01:30:28,860 --> 01:30:31,380
+attracting the middle class to a poor
+
+1849
+01:30:31,380 --> 01:30:33,480
+neighborhood this neighborhood will be
+
+1850
+01:30:33,480 --> 01:30:37,159
+higher on the political agenda
+
+1851
+01:30:37,620 --> 01:30:40,199
+um and I I have this quote there from
+
+1852
+01:30:40,199 --> 01:30:42,780
+that I read at the end of the Excursion
+
+1853
+01:30:42,780 --> 01:30:45,780
+inshallah in my channel for people
+
+1854
+01:30:45,780 --> 01:30:47,940
+stating well there are also taxpayers
+
+1855
+01:30:47,940 --> 01:30:50,340
+why don't you listen to us
+
+1856
+01:30:50,340 --> 01:30:53,100
+yeah so the idea is that by mixing
+
+1857
+01:30:53,100 --> 01:30:56,159
+neighborhoods you will put these
+
+1858
+01:30:56,159 --> 01:30:59,219
+neighborhoods higher Jim
+
+1859
+01:30:59,219 --> 01:31:02,639
+I'm in Belgium people from outside the
+
+1860
+01:31:02,639 --> 01:31:05,940
+EU without a built-in passport we are
+
+1861
+01:31:05,940 --> 01:31:07,260
+able to vote
+
+1862
+01:31:07,260 --> 01:31:09,120
+but this will not be the case in every
+
+1863
+01:31:09,120 --> 01:31:11,100
+country and so you can have a
+
+1864
+01:31:11,100 --> 01:31:13,679
+neighborhood with a lot of people from
+
+1865
+01:31:13,679 --> 01:31:16,679
+outside the room who do not have a say
+
+1866
+01:31:16,679 --> 01:31:19,199
+in vocal politics and why would this
+
+1867
+01:31:19,199 --> 01:31:23,100
+local mayor address the concerns of
+
+1868
+01:31:23,100 --> 01:31:24,780
+people living
+
+1869
+01:31:24,780 --> 01:31:27,540
+any of these people are not able to
+
+1870
+01:31:27,540 --> 01:31:31,320
+Express their needs and to put a stamp
+
+1871
+01:31:31,320 --> 01:31:33,120
+on the political agenda then why would
+
+1872
+01:31:33,120 --> 01:31:35,639
+you do so the argument is well middle
+
+1873
+01:31:35,639 --> 01:31:37,679
+class people are
+
+1874
+01:31:37,679 --> 01:31:40,320
+able they have these connections with
+
+1875
+01:31:40,320 --> 01:31:42,719
+politicians or at least they will be
+
+1876
+01:31:42,719 --> 01:31:45,500
+listened to
+
+1877
+01:31:45,840 --> 01:31:47,960
+um
+
+1878
+01:31:48,300 --> 01:31:51,840
+well in I'm not going to go into into
+
+1879
+01:31:51,840 --> 01:31:54,120
+that into that example
+
+1880
+01:31:54,120 --> 01:31:56,159
+um but it dealt with the Emperor of
+
+1881
+01:31:56,159 --> 01:31:57,600
+Highway
+
+1882
+01:31:57,600 --> 01:32:00,360
+and that issue of air pollution to the
+
+1883
+01:32:00,360 --> 01:32:01,920
+observation that most of the
+
+1884
+01:32:01,920 --> 01:32:04,199
+neighborhoods lying next to that Highway
+
+1885
+01:32:04,199 --> 01:32:07,380
+are rather so one good question what
+
+1886
+01:32:07,380 --> 01:32:09,659
+would happen with this whole issue of
+
+1887
+01:32:09,659 --> 01:32:12,780
+the whole debate around the highway if
+
+1888
+01:32:12,780 --> 01:32:15,480
+these neighborhoods could not be your
+
+1889
+01:32:15,480 --> 01:32:17,940
+neighborhoods bogus income but rather
+
+1890
+01:32:17,940 --> 01:32:21,980
+than they were the highest activities
+
+1891
+01:32:23,400 --> 01:32:25,800
+so the political arguments
+
+1892
+01:32:25,800 --> 01:32:28,199
+by mixing neighborhoods we will put them
+
+1893
+01:32:28,199 --> 01:32:30,239
+higher on the political agent
+
+1894
+01:32:30,239 --> 01:32:32,340
+of course the issue isn't my report
+
+1895
+01:32:32,340 --> 01:32:36,560
+she's not listened to poor people
+
+1896
+01:32:38,960 --> 01:32:41,820
+political agenda without these middle
+
+1897
+01:32:41,820 --> 01:32:44,520
+class residents
+
+1898
+01:32:44,520 --> 01:32:46,679
+the sixth argument is a bit different
+
+1899
+01:32:46,679 --> 01:32:49,679
+the spatial mismatch does not focus so
+
+1900
+01:32:49,679 --> 01:32:53,699
+much on the issue of segregation but if
+
+1901
+01:32:53,699 --> 01:32:57,179
+you follow these five dimensions of
+
+1902
+01:32:57,179 --> 01:32:57,840
+um
+
+1903
+01:32:57,840 --> 01:33:00,179
+Messi and London it focuses on
+
+1904
+01:33:00,179 --> 01:33:03,360
+concentration clustering where do poor
+
+1905
+01:33:03,360 --> 01:33:05,460
+people live in which part of the city
+
+1906
+01:33:05,460 --> 01:33:07,560
+are these neighborhoods with the
+
+1907
+01:33:07,560 --> 01:33:11,100
+concentration of poverty and this is a
+
+1908
+01:33:11,100 --> 01:33:13,980
+diagram from Cape Town quite an old one
+
+1909
+01:33:13,980 --> 01:33:16,380
+but it's still very much the game the
+
+1910
+01:33:16,380 --> 01:33:19,440
+case where do you have job opportunities
+
+1911
+01:33:19,440 --> 01:33:22,460
+in light and where do you have
+
+1912
+01:33:22,460 --> 01:33:25,440
+population where do people live and
+
+1913
+01:33:25,440 --> 01:33:28,739
+where do they where where could they
+
+1914
+01:33:28,739 --> 01:33:31,199
+and most of the job opportunities are
+
+1915
+01:33:31,199 --> 01:33:32,940
+still in the previously white
+
+1916
+01:33:32,940 --> 01:33:35,699
+neighborhoods particularly in essential
+
+1917
+01:33:35,699 --> 01:33:38,340
+business district of Cape Town but most
+
+1918
+01:33:38,340 --> 01:33:41,760
+of the poor people in Cape Town are
+
+1919
+01:33:41,760 --> 01:33:44,159
+living quite far away from these places
+
+1920
+01:33:44,159 --> 01:33:46,139
+so there is a mismatch between the
+
+1921
+01:33:46,139 --> 01:33:49,080
+places where it's good lift and the
+
+1922
+01:33:49,080 --> 01:33:51,960
+places where the good potential work and
+
+1923
+01:33:51,960 --> 01:33:53,940
+so it's not just important to focus on
+
+1924
+01:33:53,940 --> 01:33:56,820
+segregation and the fact that poverty is
+
+1925
+01:33:56,820 --> 01:33:58,020
+concentrated
+
+1926
+01:33:58,020 --> 01:34:00,600
+in these more peripheral neighborhoods
+
+1927
+01:34:00,600 --> 01:34:01,980
+in the case
+
+1928
+01:34:01,980 --> 01:34:04,139
+but you need to focus then also on the
+
+1929
+01:34:04,139 --> 01:34:06,120
+distance between various neighborhoods
+
+1930
+01:34:06,120 --> 01:34:08,159
+are and the places where these people
+
+1931
+01:34:08,159 --> 01:34:10,620
+could work so there's this the spatial
+
+1932
+01:34:10,620 --> 01:34:13,199
+mismatch argument focusing on the
+
+1933
+01:34:13,199 --> 01:34:16,320
+mismatch between place of residence and
+
+1934
+01:34:16,320 --> 01:34:20,840
+potential places of the world
+
+1935
+01:34:21,300 --> 01:34:24,900
+Western European cities tend to have a
+
+1936
+01:34:24,900 --> 01:34:27,540
+better public transport than North
+
+1937
+01:34:27,540 --> 01:34:29,880
+American for southern
+
+1938
+01:34:29,880 --> 01:34:32,280
+so one could argue this argument will
+
+1939
+01:34:32,280 --> 01:34:34,679
+hold less true in the case of Brussels
+
+1940
+01:34:34,679 --> 01:34:37,560
+for example because even if you live in
+
+1941
+01:34:37,560 --> 01:34:40,080
+Philadelphia there are good training
+
+1942
+01:34:40,080 --> 01:34:44,179
+connections to Apple short places
+
+1943
+01:34:44,760 --> 01:34:46,679
+um this is a map
+
+1944
+01:34:46,679 --> 01:34:49,260
+for Brussels
+
+1945
+01:34:49,260 --> 01:34:52,679
+job density you see two clusters the
+
+1946
+01:34:52,679 --> 01:34:53,880
+inner city
+
+1947
+01:34:53,880 --> 01:34:56,639
+and all these offices and the area
+
+1948
+01:34:56,639 --> 01:34:59,659
+around the airport
+
+1949
+01:35:00,060 --> 01:35:01,679
+um where the poor people in Brussels
+
+1950
+01:35:01,679 --> 01:35:05,219
+live mostly in this 19th century belt
+
+1951
+01:35:05,219 --> 01:35:09,060
+around beginners meaning that there's
+
+1952
+01:35:09,060 --> 01:35:11,400
+not so much of a spatial mismatch if you
+
+1953
+01:35:11,400 --> 01:35:14,040
+live in Mozambique you can walk to many
+
+1954
+01:35:14,040 --> 01:35:16,380
+job opportunities of course the question
+
+1955
+01:35:16,380 --> 01:35:19,500
+like this where do you have both skilled
+
+1956
+01:35:19,500 --> 01:35:21,719
+job properties
+
+1957
+01:35:21,719 --> 01:35:24,000
+so if you don't need a lot of Education
+
+1958
+01:35:24,000 --> 01:35:25,920
+when you see that more or less the same
+
+1959
+01:35:25,920 --> 01:35:27,960
+clusters
+
+1960
+01:35:27,960 --> 01:35:30,960
+their scores as Jobs shift
+
+1961
+01:35:30,960 --> 01:35:34,260
+towards the airport the issue is what
+
+1962
+01:35:34,260 --> 01:35:36,420
+are the transport connections between
+
+1963
+01:35:36,420 --> 01:35:39,620
+Golden Bank St
+
+1964
+01:35:39,620 --> 01:35:44,100
+Josephs and these areas where you find
+
+1965
+01:35:44,100 --> 01:35:48,120
+the growth of most new or most new jobs
+
+1966
+01:35:48,120 --> 01:35:50,100
+and in the case of Brussels the issue
+
+1967
+01:35:50,100 --> 01:35:51,300
+will also be
+
+1968
+01:35:51,300 --> 01:35:53,639
+what are the language requirements for
+
+1969
+01:35:53,639 --> 01:35:55,620
+these jobs because these are jobs
+
+1970
+01:35:55,620 --> 01:36:00,360
+flounders what kind of touch proficiency
+
+1971
+01:36:00,360 --> 01:36:03,060
+do you need and often for these jobs
+
+1972
+01:36:03,060 --> 01:36:05,400
+that will be touched and French maybe
+
+1973
+01:36:05,400 --> 01:36:09,659
+also English so just language wise these
+
+1974
+01:36:09,659 --> 01:36:14,040
+jobs are already quite difficult
+
+1975
+01:36:14,040 --> 01:36:16,199
+so the spatial mismatch argument
+
+1976
+01:36:16,199 --> 01:36:19,320
+focusing on the location of these poor
+
+1977
+01:36:19,320 --> 01:36:21,360
+neighborhoods so it's not just
+
+1978
+01:36:21,360 --> 01:36:23,400
+how mixed these neighborhoods are
+
+1979
+01:36:23,400 --> 01:36:25,380
+whether poor and richness side by side
+
+1980
+01:36:25,380 --> 01:36:27,840
+but where do these concentrations of
+
+1981
+01:36:27,840 --> 01:36:30,420
+poverty occur
+
+1982
+01:36:30,420 --> 01:36:33,300
+last argument stigmatism
+
+1983
+01:36:33,300 --> 01:36:36,360
+and this is an argument that Slater has
+
+1984
+01:36:36,360 --> 01:36:38,400
+been writing about it is important to
+
+1985
+01:36:38,400 --> 01:36:41,340
+look what happens outside of these
+
+1986
+01:36:41,340 --> 01:36:43,380
+neighborhoods understood
+
+1987
+01:36:43,380 --> 01:36:46,500
+you know why is it harder to climb the
+
+1988
+01:36:46,500 --> 01:36:49,080
+social leather to embroider out for all
+
+1989
+01:36:49,080 --> 01:36:51,480
+of the equivalents because teachers who
+
+1990
+01:36:51,480 --> 01:36:54,179
+live outside this neighborhood come with
+
+1991
+01:36:54,179 --> 01:36:57,360
+a set of stereotypes about pupils in
+
+1992
+01:36:57,360 --> 01:37:00,360
+these schools and that will not give
+
+1993
+01:37:00,360 --> 01:37:01,520
+them the same
+
+1994
+01:37:01,520 --> 01:37:04,860
+educational chances as people going to a
+
+1995
+01:37:04,860 --> 01:37:06,540
+school in other games
+
+1996
+01:37:06,540 --> 01:37:09,480
+or if your postcode is I don't know what
+
+1997
+01:37:09,480 --> 01:37:12,840
+is the postcode if you apply for a job
+
+1998
+01:37:12,840 --> 01:37:16,080
+and you okay
+
+1999
+01:37:16,080 --> 01:37:19,260
+if you apply for a joke and this is your
+
+2000
+01:37:19,260 --> 01:37:20,400
+address is there
+
+2001
+01:37:20,400 --> 01:37:22,560
+debt and potential employers might
+
+2002
+01:37:22,560 --> 01:37:25,199
+already come the set of stereotypes why
+
+2003
+01:37:25,199 --> 01:37:26,760
+not too high
+
+2004
+01:37:26,760 --> 01:37:31,380
+so why would it be good then to create a
+
+2005
+01:37:31,380 --> 01:37:34,139
+social mix well one could create or what
+
+2006
+01:37:34,139 --> 01:37:36,600
+could argue for a social mix because
+
+2007
+01:37:36,600 --> 01:37:40,260
+that will reduce the stigma located or
+
+2008
+01:37:40,260 --> 01:37:44,280
+the stigma attached to these things
+
+2009
+01:37:44,280 --> 01:37:47,219
+and of course there might also be other
+
+2010
+01:37:47,219 --> 01:37:49,920
+ways to work on that stigma you don't
+
+2011
+01:37:49,920 --> 01:37:52,139
+need a mix to do that you also can make
+
+2012
+01:37:52,139 --> 01:37:53,940
+people living outside this neighborhood
+
+2013
+01:37:53,940 --> 01:37:55,860
+which you can make them aware of
+
+2014
+01:37:55,860 --> 01:37:59,780
+and what has really happened inside
+
+2015
+01:38:00,480 --> 01:38:03,239
+and so but this stigmatization my
+
+2016
+01:38:03,239 --> 01:38:06,060
+potential employers or teachers or
+
+2017
+01:38:06,060 --> 01:38:08,280
+policemen who work in these
+
+2018
+01:38:08,280 --> 01:38:10,260
+neighborhoods but who do not live there
+
+2019
+01:38:10,260 --> 01:38:14,100
+could be another argument as to why a
+
+2020
+01:38:14,100 --> 01:38:17,460
+social mix is necessary
+
+2021
+01:38:17,460 --> 01:38:19,260
+yes
+
+2022
+01:38:19,260 --> 01:38:22,199
+so are people living in impoverished is
+
+2023
+01:38:22,199 --> 01:38:23,940
+it well does it make does it matter
+
+2024
+01:38:23,940 --> 01:38:26,400
+whether you are poor enough
+
+2025
+01:38:26,400 --> 01:38:29,159
+mostly poor neighborhood surrounded by
+
+2026
+01:38:29,159 --> 01:38:32,820
+people like you or whether you live as a
+
+2027
+01:38:32,820 --> 01:38:34,980
+poor person in a mixed neighborhood does
+
+2028
+01:38:34,980 --> 01:38:37,380
+that matter there are seven arguments
+
+2029
+01:38:37,380 --> 01:38:40,260
+that I have given now as to why that
+
+2030
+01:38:40,260 --> 01:38:42,060
+could matter
+
+2031
+01:38:42,060 --> 01:38:45,000
+okay for each of these seven I've also
+
+2032
+01:38:45,000 --> 01:38:48,560
+given a couple of counter arguments
+
+2033
+01:38:48,560 --> 01:38:52,560
+as to why creating a mix could actually
+
+2034
+01:38:52,560 --> 01:38:56,520
+be a bad thing to distract the ties that
+
+2035
+01:38:56,520 --> 01:38:59,699
+exist already yeah or is not necessary
+
+2036
+01:38:59,699 --> 01:39:02,460
+because people find peers and Role
+
+2037
+01:39:02,460 --> 01:39:04,860
+Models outside the neighborhood
+
+2038
+01:39:04,860 --> 01:39:08,040
+or people will middle class people
+
+2039
+01:39:08,040 --> 01:39:10,940
+arrive in these neighborhoods will not
+
+2040
+01:39:10,940 --> 01:39:14,520
+create uh social networks with the
+
+2041
+01:39:14,520 --> 01:39:16,880
+people
+
+2042
+01:39:16,920 --> 01:39:19,320
+Etc so for each of these arguments I've
+
+2043
+01:39:19,320 --> 01:39:24,179
+given a couple of counter arguments
+
+2044
+01:39:24,179 --> 01:39:26,820
+what about the privileged
+
+2045
+01:39:26,820 --> 01:39:29,040
+I will skip that
+
+2046
+01:39:29,040 --> 01:39:31,679
+in Tom Slater's paper you will find many
+
+2047
+01:39:31,679 --> 01:39:34,679
+arguments for that
+
+2048
+01:39:34,679 --> 01:39:39,139
+um I will get to a small conclusion
+
+2049
+01:39:39,540 --> 01:39:42,600
+okay so when we discuss this ideal
+
+2050
+01:39:42,600 --> 01:39:45,600
+social mix and we discuss the question
+
+2051
+01:39:45,600 --> 01:39:48,960
+is social mix feasible is social Mis
+
+2052
+01:39:48,960 --> 01:39:52,620
+desirable then what is my take on it I
+
+2053
+01:39:52,620 --> 01:39:54,719
+think Avis romaville
+
+2054
+01:39:54,719 --> 01:39:56,699
+who has been doing a lot of work on
+
+2055
+01:39:56,699 --> 01:40:00,060
+housing here in Brussels has summarized
+
+2056
+01:40:00,060 --> 01:40:01,920
+this quite well
+
+2057
+01:40:01,920 --> 01:40:04,980
+the concept of social mixed you rights
+
+2058
+01:40:04,980 --> 01:40:09,360
+which now legitimizes a good part of the
+
+2059
+01:40:09,360 --> 01:40:12,300
+regional interventions in the area of
+
+2060
+01:40:12,300 --> 01:40:14,580
+housing here in Brussels she's talking
+
+2061
+01:40:14,580 --> 01:40:17,400
+about the Brussels capital region and
+
+2062
+01:40:17,400 --> 01:40:20,280
+how the ideal of social mix for the
+
+2063
+01:40:20,280 --> 01:40:23,280
+concept of social mix has legitimized a
+
+2064
+01:40:23,280 --> 01:40:25,080
+good part of this intervention
+
+2065
+01:40:25,080 --> 01:40:28,139
+is according to her not very convinced
+
+2066
+01:40:28,139 --> 01:40:29,520
+convinced
+
+2067
+01:40:29,520 --> 01:40:34,020
+the gentrification which is underway in
+
+2068
+01:40:34,020 --> 01:40:35,699
+the central neighborhoods
+
+2069
+01:40:35,699 --> 01:40:38,040
+in those neighborhoods where
+
+2070
+01:40:38,040 --> 01:40:41,100
+these authorities are doing making a big
+
+2071
+01:40:41,100 --> 01:40:44,520
+effort to attract military
+
+2072
+01:40:44,520 --> 01:40:47,880
+indicates that when there is a mix
+
+2073
+01:40:47,880 --> 01:40:51,900
+it is only a Prelude to the eviction of
+
+2074
+01:40:51,900 --> 01:40:54,420
+the most disadvantaged via the
+
+2075
+01:40:54,420 --> 01:40:57,120
+mechanisms of a completely deregulated
+
+2076
+01:40:57,120 --> 01:41:01,320
+real estate markets we live in a city
+
+2077
+01:41:01,320 --> 01:41:05,900
+but only ten percent of the total
+
+2078
+01:41:05,900 --> 01:41:09,540
+residential units our social housing
+
+2079
+01:41:09,540 --> 01:41:12,659
+yeah there is almost no control over the
+
+2080
+01:41:12,659 --> 01:41:15,000
+remaining 90 percent
+
+2081
+01:41:15,000 --> 01:41:17,820
+and so if you try to attract
+
+2082
+01:41:17,820 --> 01:41:20,040
+middle class residents
+
+2083
+01:41:20,040 --> 01:41:23,820
+to this 19th century
+
+2084
+01:41:23,820 --> 01:41:25,620
+an industrial neighborhoods around
+
+2085
+01:41:25,620 --> 01:41:28,260
+Brussels if you do that then it will
+
+2086
+01:41:28,260 --> 01:41:30,659
+push out over the elsewhere you've seen
+
+2087
+01:41:30,659 --> 01:41:32,880
+it in the snap of I clicking where do
+
+2088
+01:41:32,880 --> 01:41:35,040
+these poor people moving out of a
+
+2089
+01:41:35,040 --> 01:41:36,900
+gentrifying neighborhood so that they
+
+2090
+01:41:36,900 --> 01:41:39,179
+move to build world
+
+2091
+01:41:39,179 --> 01:41:44,300
+to ask to dedicate to however
+
+2092
+01:41:44,659 --> 01:41:48,060
+you move poverty elsewhere
+
+2093
+01:41:48,060 --> 01:41:51,840
+so when there is a mix it can exist for
+
+2094
+01:41:51,840 --> 01:41:54,000
+a while but then it's only a produced to
+
+2095
+01:41:54,000 --> 01:41:55,800
+the eviction of the most disadvantages
+
+2096
+01:41:55,800 --> 01:41:59,460
+because rents will go up eventually
+
+2097
+01:41:59,460 --> 01:42:01,260
+and these poor people that live there
+
+2098
+01:42:01,260 --> 01:42:03,659
+are not able to afford these rents I
+
+2099
+01:42:03,659 --> 01:42:06,179
+will need to move elsewhere to find a
+
+2100
+01:42:06,179 --> 01:42:07,139
+place
+
+2101
+01:42:07,139 --> 01:42:10,320
+so this social makes feasible
+
+2102
+01:42:10,320 --> 01:42:12,920
+in the case of Brussels with very little
+
+2103
+01:42:12,920 --> 01:42:16,679
+uh controlled of authorities on the
+
+2104
+01:42:16,679 --> 01:42:19,500
+housing markets no this is not feasible
+
+2105
+01:42:19,500 --> 01:42:20,880
+she said
+
+2106
+01:42:20,880 --> 01:42:23,820
+is it desirable a second question that I
+
+2107
+01:42:23,820 --> 01:42:26,820
+asked even if this eviction could be
+
+2108
+01:42:26,820 --> 01:42:30,900
+avoided even if you think of a situation
+
+2109
+01:42:30,900 --> 01:42:35,460
+25 social housing every 50 percent and
+
+2110
+01:42:35,460 --> 01:42:38,280
+you will not evict this poor people from
+
+2111
+01:42:38,280 --> 01:42:40,860
+these neighborhoods then she argues
+
+2112
+01:42:40,860 --> 01:42:43,920
+there is nothing to indicate that these
+
+2113
+01:42:43,920 --> 01:42:46,320
+disadvantaged populations would
+
+2114
+01:42:46,320 --> 01:42:49,440
+eventually benefit in any way from this
+
+2115
+01:42:49,440 --> 01:42:51,420
+mix
+
+2116
+01:42:51,420 --> 01:42:54,540
+and why because the attraction of this
+
+2117
+01:42:54,540 --> 01:42:57,300
+building of families would change the
+
+2118
+01:42:57,300 --> 01:43:01,260
+shops will not lead to this
+
+2119
+01:43:01,260 --> 01:43:04,199
+heterogeneous networks that these policy
+
+2120
+01:43:04,199 --> 01:43:07,139
+makers dream
+
+2121
+01:43:07,139 --> 01:43:10,080
+that will not lead to the kind of social
+
+2122
+01:43:10,080 --> 01:43:14,540
+cohesion that underlies this
+
+2123
+01:43:14,540 --> 01:43:17,219
+social cognition
+
+2124
+01:43:17,219 --> 01:43:19,800
+does not
+
+2125
+01:43:19,800 --> 01:43:22,500
+um make the kind of role models
+
+2126
+01:43:22,500 --> 01:43:24,900
+with people who believed in this
+
+2127
+01:43:24,900 --> 01:43:26,760
+underclass argument
+
+2128
+01:43:26,760 --> 01:43:29,580
+and we're hoping for Etc
+
+2129
+01:43:29,580 --> 01:43:31,739
+and so she's arguing in the case of
+
+2130
+01:43:31,739 --> 01:43:34,400
+Brussels again it's important to
+
+2131
+01:43:34,400 --> 01:43:36,840
+provincialize these studies and to
+
+2132
+01:43:36,840 --> 01:43:38,460
+understand the complexity of the
+
+2133
+01:43:38,460 --> 01:43:41,840
+Brussels case only 10 social housing
+
+2134
+01:43:41,840 --> 01:43:45,320
+poverty at this moment concentrated in
+
+2135
+01:43:45,320 --> 01:43:47,940
+neighborhoods with quite a good voltage
+
+2136
+01:43:47,940 --> 01:43:50,760
+very close to these jobs and so there
+
+2137
+01:43:50,760 --> 01:43:53,159
+are many particularities that we need to
+
+2138
+01:43:53,159 --> 01:43:55,920
+understand but what she is arguing is
+
+2139
+01:43:55,920 --> 01:43:58,560
+that the kind of social mix that this
+
+2140
+01:43:58,560 --> 01:44:00,300
+Brussels Capital feature tries to tries
+
+2141
+01:44:00,300 --> 01:44:02,880
+to create leads to the displacement of
+
+2142
+01:44:02,880 --> 01:44:06,060
+people to neighborhoods to parts of the
+
+2143
+01:44:06,060 --> 01:44:08,820
+city which are much much less connected
+
+2144
+01:44:08,820 --> 01:44:10,560
+through job opportunities
+
+2145
+01:44:10,560 --> 01:44:13,440
+where you find much less shops and
+
+2146
+01:44:13,440 --> 01:44:15,600
+services
+
+2147
+01:44:15,600 --> 01:44:17,960
+Etc so too much
+
+2148
+01:44:17,960 --> 01:44:21,719
+worst locations actually and even if
+
+2149
+01:44:21,719 --> 01:44:23,880
+this kind of mix could be realized she
+
+2150
+01:44:23,880 --> 01:44:27,540
+argues then this is not desirable and
+
+2151
+01:44:27,540 --> 01:44:29,580
+disadvantaged population will not
+
+2152
+01:44:29,580 --> 01:44:31,800
+benefit from this this will not help
+
+2153
+01:44:31,800 --> 01:44:34,860
+them to climb the social benefit and she
+
+2154
+01:44:34,860 --> 01:44:37,679
+will draw on all the seven counter
+
+2155
+01:44:37,679 --> 01:44:42,199
+arguments that I've given uh to uh
+
+2156
+01:44:42,199 --> 01:44:46,340
+substantiate this claim
+
+2157
+01:44:47,040 --> 01:44:49,080
+so
+
+2158
+01:44:49,080 --> 01:44:51,900
+well I think when you
+
+2159
+01:44:51,900 --> 01:44:55,199
+I remember that I once asked an exam
+
+2160
+01:44:55,199 --> 01:44:57,360
+question such as put yourself the shoes
+
+2161
+01:44:57,360 --> 01:45:00,300
+of the man of Antwerp you are now the
+
+2162
+01:45:00,300 --> 01:45:03,060
+mayor of network but you
+
+2163
+01:45:03,060 --> 01:45:04,020
+um
+
+2164
+01:45:04,020 --> 01:45:06,719
+promulgate social mixed policies or not
+
+2165
+01:45:06,719 --> 01:45:08,880
+the question was a bit more complicated
+
+2166
+01:45:08,880 --> 01:45:12,119
+but summary I think it's important that
+
+2167
+01:45:12,119 --> 01:45:13,920
+when you have such a question when you
+
+2168
+01:45:13,920 --> 01:45:17,100
+ever work for a city or when you need to
+
+2169
+01:45:17,100 --> 01:45:19,679
+discuss this from an academic point of
+
+2170
+01:45:19,679 --> 01:45:21,119
+view I think there are a couple of
+
+2171
+01:45:21,119 --> 01:45:23,699
+questions that you need to ask
+
+2172
+01:45:23,699 --> 01:45:27,300
+yeah the first one is whom are we
+
+2173
+01:45:27,300 --> 01:45:29,300
+talking about
+
+2174
+01:45:29,300 --> 01:45:32,219
+why do we treat why do we want to create
+
+2175
+01:45:32,219 --> 01:45:34,080
+a social mix
+
+2176
+01:45:34,080 --> 01:45:36,420
+is it because we say well this is the
+
+2177
+01:45:36,420 --> 01:45:40,139
+interest under privilege or I've skipped
+
+2178
+01:45:40,139 --> 01:45:41,639
+now most of this
+
+2179
+01:45:41,639 --> 01:45:43,920
+a part of the class could it also be in
+
+2180
+01:45:43,920 --> 01:45:46,320
+interest of the privilege I remember we
+
+2181
+01:45:46,320 --> 01:45:49,380
+were in Prescott one of the Richard
+
+2182
+01:45:49,380 --> 01:45:53,639
+richer richest municipalities of Belgium
+
+2183
+01:45:53,639 --> 01:45:55,980
+and some of you said well it'd be good
+
+2184
+01:45:55,980 --> 01:45:59,280
+to have some uh more diverse details
+
+2185
+01:45:59,280 --> 01:46:02,100
+because people might for example change
+
+2186
+01:46:02,100 --> 01:46:04,260
+the way they think about poor people if
+
+2187
+01:46:04,260 --> 01:46:07,139
+they have some of them living books by
+
+2188
+01:46:07,139 --> 01:46:10,199
+you see that all of the arguments
+
+2189
+01:46:10,199 --> 01:46:13,199
+so far have been dealing with the under
+
+2190
+01:46:13,199 --> 01:46:15,600
+privilege so for that reason I think
+
+2191
+01:46:15,600 --> 01:46:17,699
+it's important to ask
+
+2192
+01:46:17,699 --> 01:46:20,040
+what about the crystals
+
+2193
+01:46:20,040 --> 01:46:22,739
+and in the discussion
+
+2194
+01:46:22,739 --> 01:46:24,960
+seminars that we have next week there
+
+2195
+01:46:24,960 --> 01:46:27,420
+will be one paper that I've written
+
+2196
+01:46:27,420 --> 01:46:29,360
+together
+
+2197
+01:46:29,360 --> 01:46:32,340
+that deals with it so we have a chance
+
+2198
+01:46:32,340 --> 01:46:34,920
+to come back to this true I think I'll
+
+2199
+01:46:34,920 --> 01:46:36,900
+discussions
+
+2200
+01:46:36,900 --> 01:46:40,219
+do we only focus on
+
+2201
+01:46:40,219 --> 01:46:42,900
+socioeconomic segregation are also are
+
+2202
+01:46:42,900 --> 01:46:44,820
+we also interested in this ethnic
+
+2203
+01:46:44,820 --> 01:46:47,820
+arguments have you seen for example in
+
+2204
+01:46:47,820 --> 01:46:50,520
+the social cohesion argument the two
+
+2205
+01:46:50,520 --> 01:46:52,980
+were conflated and so do we want to
+
+2206
+01:46:52,980 --> 01:46:56,639
+create a social mix in the interest of
+
+2207
+01:46:56,639 --> 01:46:59,219
+ethnic minorities or does the ethnic
+
+2208
+01:46:59,219 --> 01:47:00,420
+majority
+
+2209
+01:47:00,420 --> 01:47:02,940
+if that still exists because more and
+
+2210
+01:47:02,940 --> 01:47:05,580
+more cities in Belgium do not have an
+
+2211
+01:47:05,580 --> 01:47:07,920
+ethnic majority
+
+2212
+01:47:07,920 --> 01:47:10,380
+but we also
+
+2213
+01:47:10,380 --> 01:47:12,900
+think about this group and we want to
+
+2214
+01:47:12,900 --> 01:47:15,780
+promulgate search boxes
+
+2215
+01:47:15,780 --> 01:47:18,540
+are we interested in the second
+
+2216
+01:47:18,540 --> 01:47:22,139
+residence who are there already or are
+
+2217
+01:47:22,139 --> 01:47:25,199
+we mainly thinking about newcomers or
+
+2218
+01:47:25,199 --> 01:47:26,520
+arrivals
+
+2219
+01:47:26,520 --> 01:47:29,580
+and so I think this question for whom do
+
+2220
+01:47:29,580 --> 01:47:31,679
+we want to create a social effects in
+
+2221
+01:47:31,679 --> 01:47:35,159
+whose interests is the first one that
+
+2222
+01:47:35,159 --> 01:47:36,980
+you should ask
+
+2223
+01:47:36,980 --> 01:47:41,400
+a second one is the issue of scale
+
+2224
+01:47:41,400 --> 01:47:44,159
+I told you last week already scheduled
+
+2225
+01:47:44,159 --> 01:47:46,560
+is the Crux of the matter if you want to
+
+2226
+01:47:46,560 --> 01:47:49,440
+calculate segregation in dishes it
+
+2227
+01:47:49,440 --> 01:47:52,560
+matters at which scale you do so in
+
+2228
+01:47:52,560 --> 01:47:53,940
+Belgium we have this very small
+
+2229
+01:47:53,940 --> 01:47:56,639
+statistical units and for that reason we
+
+2230
+01:47:56,639 --> 01:47:58,020
+find that there's
+
+2231
+01:47:58,020 --> 01:48:01,619
+high levels of segregation but if you
+
+2232
+01:48:01,619 --> 01:48:04,199
+would make the statistical units bigger
+
+2233
+01:48:04,199 --> 01:48:07,460
+then there would be less signage
+
+2234
+01:48:07,460 --> 01:48:10,699
+your comments about the Reds Square
+
+2235
+01:48:10,699 --> 01:48:13,320
+relates to this we can create a social
+
+2236
+01:48:13,320 --> 01:48:16,679
+mix in this very small neighborhood and
+
+2237
+01:48:16,679 --> 01:48:19,260
+if you would look at the bigger picture
+
+2238
+01:48:19,260 --> 01:48:21,600
+if you would look at this I mentioned
+
+2239
+01:48:21,600 --> 01:48:24,840
+area as a whole then you would find out
+
+2240
+01:48:24,840 --> 01:48:27,000
+that there is no social business mostly
+
+2241
+01:48:27,000 --> 01:48:29,340
+wealthy people who have settled there
+
+2242
+01:48:29,340 --> 01:48:31,500
+and so I think scale
+
+2243
+01:48:31,500 --> 01:48:34,440
+is a very important issue as well as the
+
+2244
+01:48:34,440 --> 01:48:37,080
+question where do we want to create
+
+2245
+01:48:37,080 --> 01:48:38,639
+assumptions
+
+2246
+01:48:38,639 --> 01:48:40,619
+I think that most of
+
+2247
+01:48:40,619 --> 01:48:44,159
+the social mix literature is concerned
+
+2248
+01:48:44,159 --> 01:48:46,199
+with this disadvantaged neighborhoods
+
+2249
+01:48:46,199 --> 01:48:49,560
+the focus is on these neighborhoods and
+
+2250
+01:48:49,560 --> 01:48:52,199
+the need to create Associates
+
+2251
+01:48:52,199 --> 01:48:54,659
+if you would look at more than make you
+
+2252
+01:48:54,659 --> 01:48:56,639
+would look at socio-economic position of
+
+2253
+01:48:56,639 --> 01:48:58,739
+people and if you would look at the
+
+2254
+01:48:58,739 --> 01:49:01,619
+ethnic maker of this neighborhood you
+
+2255
+01:49:01,619 --> 01:49:03,719
+will find out that modern day is maybe
+
+2256
+01:49:03,719 --> 01:49:06,420
+the most socially mixed neighborhoods or
+
+2257
+01:49:06,420 --> 01:49:08,760
+Brussels if not Belgium
+
+2258
+01:49:08,760 --> 01:49:11,159
+and most of the homogeneous
+
+2259
+01:49:11,159 --> 01:49:14,119
+neighborhoods are white Suburban
+
+2260
+01:49:14,119 --> 01:49:16,860
+municipalities so why are we only
+
+2261
+01:49:16,860 --> 01:49:19,860
+concerned with this disadvantaged
+
+2262
+01:49:19,860 --> 01:49:22,860
+neighborhoods Hawaii are we not
+
+2263
+01:49:22,860 --> 01:49:25,860
+concerned with the homogeneity of many
+
+2264
+01:49:25,860 --> 01:49:27,900
+of these Suburban groups
+
+2265
+01:49:27,900 --> 01:49:30,780
+which are better off is there a need to
+
+2266
+01:49:30,780 --> 01:49:34,020
+create a social mix as well or not and
+
+2267
+01:49:34,020 --> 01:49:36,360
+I've inverse cards for those who joined
+
+2268
+01:49:36,360 --> 01:49:38,880
+to enter by talking about the way they
+
+2269
+01:49:38,880 --> 01:49:41,040
+protested against the trend against the
+
+2270
+01:49:41,040 --> 01:49:44,119
+local Asylum Center against any attempt
+
+2271
+01:49:44,119 --> 01:49:47,940
+to uh well to to make this
+
+2272
+01:49:47,940 --> 01:49:50,940
+municipality
+
+2273
+01:49:50,940 --> 01:49:53,639
+I could even argue that most of the
+
+2274
+01:49:53,639 --> 01:49:56,100
+literature and most of the concerns of
+
+2275
+01:49:56,100 --> 01:50:00,080
+policy makers Target only those
+
+2276
+01:50:00,080 --> 01:50:03,320
+disadvantaged neighborhoods which are
+
+2277
+01:50:03,320 --> 01:50:06,780
+centrifiable which have the potential to
+
+2278
+01:50:06,780 --> 01:50:09,840
+attract middle class newcomers because
+
+2279
+01:50:09,840 --> 01:50:12,300
+that's good for the next but then the
+
+2280
+01:50:12,300 --> 01:50:15,540
+question becomes rare is this possible
+
+2281
+01:50:15,540 --> 01:50:19,080
+and then enter we have been on this
+
+2282
+01:50:19,080 --> 01:50:22,679
+triangular Square Bowling plane well if
+
+2283
+01:50:22,679 --> 01:50:24,300
+you look at the houses there there are
+
+2284
+01:50:24,300 --> 01:50:26,580
+many fancy
+
+2285
+01:50:26,580 --> 01:50:27,719
+um houses
+
+2286
+01:50:27,719 --> 01:50:29,880
+which are
+
+2287
+01:50:29,880 --> 01:50:35,760
+potential homes for rich uh families
+
+2288
+01:50:35,760 --> 01:50:37,679
+but if you move more to the north you
+
+2289
+01:50:37,679 --> 01:50:40,980
+only find very small houses which will
+
+2290
+01:50:40,980 --> 01:50:42,840
+never attract this kind of
+
+2291
+01:50:42,840 --> 01:50:45,179
+where do you have debates about social
+
+2292
+01:50:45,179 --> 01:50:48,119
+mix about the need to gentrify
+
+2293
+01:50:48,119 --> 01:50:51,080
+neighborhoods well only in certain
+
+2294
+01:50:51,080 --> 01:50:56,360
+in a limited amount is disadvantages
+
+2295
+01:50:56,420 --> 01:50:59,400
+so I think this rare question is an
+
+2296
+01:50:59,400 --> 01:51:02,820
+important one where are we interested to
+
+2297
+01:51:02,820 --> 01:51:04,199
+create the solutions
+
+2298
+01:51:04,199 --> 01:51:06,000
+you will notice that these discussions
+
+2299
+01:51:06,000 --> 01:51:08,820
+focus on a very limited number of paper
+
+2300
+01:51:08,820 --> 01:51:11,699
+you know the issue is never discussed in
+
+2301
+01:51:11,699 --> 01:51:15,119
+other parts of the city
+
+2302
+01:51:15,119 --> 01:51:18,420
+it's also important to look at the issue
+
+2303
+01:51:18,420 --> 01:51:21,840
+of scaling I already discussed that but
+
+2304
+01:51:21,840 --> 01:51:24,540
+here again many of our Maps only focus
+
+2305
+01:51:24,540 --> 01:51:26,580
+on Antwerp or the Brussels capital
+
+2306
+01:51:26,580 --> 01:51:29,159
+region while I've told you that many of
+
+2307
+01:51:29,159 --> 01:51:31,440
+these quarterback effects
+
+2308
+01:51:31,440 --> 01:51:34,020
+have consequences in other parts of the
+
+2309
+01:51:34,020 --> 01:51:36,360
+urban region or even other parts of the
+
+2310
+01:51:36,360 --> 01:51:39,239
+country if housing prices in Brussels go
+
+2311
+01:51:39,239 --> 01:51:43,080
+out business effects inshallahua this
+
+2312
+01:51:43,080 --> 01:51:46,500
+makes us walking around in Machinery to
+
+2313
+01:51:46,500 --> 01:51:48,239
+see the property there
+
+2314
+01:51:48,239 --> 01:51:51,260
+okay or we go to Chrome search
+
+2315
+01:51:51,260 --> 01:51:54,300
+in French quite far away from Brussels
+
+2316
+01:51:54,300 --> 01:51:55,860
+effect
+
+2317
+01:51:55,860 --> 01:51:58,860
+s or Nino over leading it yeah all these
+
+2318
+01:51:58,860 --> 01:52:01,739
+municipalities are affected by this
+
+2319
+01:52:01,739 --> 01:52:03,420
+gentrification of
+
+2320
+01:52:03,420 --> 01:52:05,159
+us and so it's important that we discuss
+
+2321
+01:52:05,159 --> 01:52:08,159
+this issue at the scale of
+
+2322
+01:52:08,159 --> 01:52:12,199
+at least the urban region
+
+2323
+01:52:12,600 --> 01:52:15,900
+so for whom in whose interest do we want
+
+2324
+01:52:15,900 --> 01:52:18,719
+to create social mix where
+
+2325
+01:52:18,719 --> 01:52:20,460
+so you want to do that which
+
+2326
+01:52:20,460 --> 01:52:22,260
+neighborhoods are we actually talking
+
+2327
+01:52:22,260 --> 01:52:23,219
+about
+
+2328
+01:52:23,219 --> 01:52:25,440
+and then I think it's also important to
+
+2329
+01:52:25,440 --> 01:52:28,020
+focus on this why question
+
+2330
+01:52:28,020 --> 01:52:30,480
+if you want to create a social gifts to
+
+2331
+01:52:30,480 --> 01:52:32,520
+counter poverty
+
+2332
+01:52:32,520 --> 01:52:35,219
+or even to stimulate this cultural
+
+2333
+01:52:35,219 --> 01:52:37,920
+integration and I think that there might
+
+2334
+01:52:37,920 --> 01:52:41,760
+be many policy Alternatives which are
+
+2335
+01:52:41,760 --> 01:52:42,840
+less
+
+2336
+01:52:42,840 --> 01:52:46,139
+costly and which may have much bigger
+
+2337
+01:52:46,139 --> 01:52:48,300
+effects
+
+2338
+01:52:48,300 --> 01:52:50,340
+yeah I'm not going to go too much into
+
+2339
+01:52:50,340 --> 01:52:53,820
+this but you can imagine that you can
+
+2340
+01:52:53,820 --> 01:52:57,659
+try to combat poverty not through the
+
+2341
+01:52:57,659 --> 01:52:59,880
+spatial intervention
+
+2342
+01:52:59,880 --> 01:53:03,900
+but through other accounts social
+
+2343
+01:53:03,900 --> 01:53:07,280
+welfare Etc
+
+2344
+01:53:07,440 --> 01:53:10,560
+is it to improve the local Tech space
+
+2345
+01:53:10,560 --> 01:53:12,540
+we've seen this quote from this elder
+
+2346
+01:53:12,540 --> 01:53:15,060
+man of cats and I think for many Belgian
+
+2347
+01:53:15,060 --> 01:53:17,159
+cities this will be an important one why
+
+2348
+01:53:17,159 --> 01:53:21,000
+do we find gentrification importance
+
+2349
+01:53:21,000 --> 01:53:24,300
+yeah and why do we want to attract the
+
+2350
+01:53:24,300 --> 01:53:27,179
+middle class to the city it is because
+
+2351
+01:53:27,179 --> 01:53:30,480
+that is good for our Municipal budget
+
+2352
+01:53:30,480 --> 01:53:33,300
+yeah but then even then I will always
+
+2353
+01:53:33,300 --> 01:53:35,820
+eat this rhetoric of this is in the
+
+2354
+01:53:35,820 --> 01:53:38,699
+interest of the people that included and
+
+2355
+01:53:38,699 --> 01:53:40,920
+this will eventually help them to find
+
+2356
+01:53:40,920 --> 01:53:43,560
+the social media
+
+2357
+01:53:43,560 --> 01:53:46,800
+create social mix to counter racist or
+
+2358
+01:53:46,800 --> 01:53:50,880
+classes stereotypes what would that mean
+
+2359
+01:53:50,880 --> 01:53:53,360
+I guess that would mean that we would
+
+2360
+01:53:53,360 --> 01:53:57,179
+rethink where and for whom we try to
+
+2361
+01:53:57,179 --> 01:54:00,179
+create a social mix and you see that in
+
+2362
+01:54:00,179 --> 01:54:02,940
+most of the policy discourse this is
+
+2363
+01:54:02,940 --> 01:54:05,280
+quite absent
+
+2364
+01:54:05,280 --> 01:54:09,060
+however if stigmatization is one of the
+
+2365
+01:54:09,060 --> 01:54:14,179
+reasons why living in modern day
+
+2366
+01:54:15,540 --> 01:54:17,639
+makes your life more difficult than
+
+2367
+01:54:17,639 --> 01:54:20,520
+other parts of the city but it is about
+
+2368
+01:54:20,520 --> 01:54:23,159
+stigmatization and discrimination and
+
+2369
+01:54:23,159 --> 01:54:25,800
+what kind of spatial interventions that
+
+2370
+01:54:25,800 --> 01:54:27,719
+would be needed to counter these
+
+2371
+01:54:27,719 --> 01:54:29,659
+stereotypes I think you would create
+
+2372
+01:54:29,659 --> 01:54:33,119
+social media completely and different
+
+2373
+01:54:33,119 --> 01:54:34,739
+way
+
+2374
+01:54:34,739 --> 01:54:38,460
+so this is a bit of an open-ended
+
+2375
+01:54:38,460 --> 01:54:39,139
+um
+
+2376
+01:54:39,139 --> 01:54:43,320
+conclusion with a lot of questions but I
+
+2377
+01:54:43,320 --> 01:54:44,460
+hope that
+
+2378
+01:54:44,460 --> 01:54:47,580
+by giving you Arguments for social mix
+
+2379
+01:54:47,580 --> 01:54:50,280
+and counter arguments guests
+
+2380
+01:54:50,280 --> 01:54:53,400
+and by encouraging you to think about
+
+2381
+01:54:53,400 --> 01:54:55,139
+the context
+
+2382
+01:54:55,139 --> 01:54:58,500
+in which you want to create a social mix
+
+2383
+01:54:58,500 --> 01:55:00,719
+or not that you are able to think
+
+2384
+01:55:00,719 --> 01:55:03,960
+critically about the effects of
+
+2385
+01:55:03,960 --> 01:55:07,080
+segregation and the needs to create a
+
+2386
+01:55:07,080 --> 01:55:09,300
+social mix or launch
+
+2387
+01:55:09,300 --> 01:55:11,760
+yeah
+
+2388
+01:55:11,760 --> 01:55:15,480
+um five plus seven I propose that
+
+2389
+01:55:15,480 --> 01:55:19,619
+um we almost leave it here for now we
+
+2390
+01:55:19,619 --> 01:55:21,719
+still have time to discuss all these
+
+2391
+01:55:21,719 --> 01:55:25,199
+issues next week in the seminar all
+
+2392
+01:55:25,199 --> 01:55:27,360
+these texts will deal again with
+
+2393
+01:55:27,360 --> 01:55:30,179
+patterns of segregation and the effects
+
+2394
+01:55:30,179 --> 01:55:32,940
+of saying so I think it's good that we
+
+2395
+01:55:32,940 --> 01:55:35,520
+have time to discuss this
+
+2396
+01:55:35,520 --> 01:55:39,119
+next week Monday for the geographers
+
+2397
+01:55:39,119 --> 01:55:42,480
+and the people from planning and have
+
+2398
+01:55:42,480 --> 01:55:45,060
+awesome students is this information
+
+2399
+01:55:45,060 --> 01:55:46,980
+correct
+
+2400
+01:55:46,980 --> 01:55:49,860
+next week Monday we have eight
+
+2401
+01:55:49,860 --> 01:55:53,639
+papers eight presentations to discuss
+
+2402
+01:55:53,639 --> 01:55:55,400
+I don't see any
+
+2403
+01:55:55,400 --> 01:55:57,900
+comments so I suppose that this is the
+
+2404
+01:55:57,900 --> 01:56:00,360
+schedule as it is and then next week
+
+2405
+01:56:00,360 --> 01:56:04,580
+Tuesday and Thursday we have two other
+
+2406
+01:56:04,580 --> 01:56:08,760
+seminars for students from moose
+
+2407
+01:56:08,760 --> 01:56:13,320
+and Thursday students from four cities
+
+2408
+01:56:13,320 --> 01:56:16,020
+yeah is that correct
+
+2409
+01:56:16,020 --> 01:56:19,739
+yes all your presentations are there you
+
+2410
+01:56:19,739 --> 01:56:22,580
+find your names
+
+2411
+01:56:23,880 --> 01:56:27,020
+this is the information
+
+2412
+01:56:27,860 --> 01:56:30,300
+10 minutes
+
+2413
+01:56:30,300 --> 01:56:33,420
+and we will I will need to be rather
+
+2414
+01:56:33,420 --> 01:56:36,560
+um strict which is 10 minutes
+
+2415
+01:56:36,560 --> 01:56:38,400
+maximum
+
+2416
+01:56:38,400 --> 01:56:42,179
+especially having AIDS presentations in
+
+2417
+01:56:42,179 --> 01:56:45,420
+the first seminar but also in the other
+
+2418
+01:56:45,420 --> 01:56:51,719
+seminars I prefer to uh keep the time
+
+2419
+01:56:51,719 --> 01:56:55,020
+and to limit these presentations to 10
+
+2420
+01:56:55,020 --> 01:56:56,639
+minutes because otherwise there's not
+
+2421
+01:56:56,639 --> 01:56:58,739
+enough time for discussion these are
+
+2422
+01:56:58,739 --> 01:57:01,619
+discussion seminars not presentations
+
+2423
+01:57:01,619 --> 01:57:03,840
+so limit your presentations to 10
+
+2424
+01:57:03,840 --> 01:57:07,020
+minutes include a slide with title names
+
+2425
+01:57:07,020 --> 01:57:09,659
+email I don't know all of you so it's
+
+2426
+01:57:09,659 --> 01:57:12,060
+important that I'm able to mark the
+
+2427
+01:57:12,060 --> 01:57:14,040
+presentations to connect this with the
+
+2428
+01:57:14,040 --> 01:57:16,800
+right students remember that I need a
+
+2429
+01:57:16,800 --> 01:57:19,679
+core court or arguments a link with the
+
+2430
+01:57:19,679 --> 01:57:21,480
+required readings
+
+2431
+01:57:21,480 --> 01:57:24,000
+remember that we also expect all
+
+2432
+01:57:24,000 --> 01:57:27,840
+students who have read all the papers of
+
+2433
+01:57:27,840 --> 01:57:29,400
+the required readings
+
+2434
+01:57:29,400 --> 01:57:31,980
+so I'm supposed that Slater has been
+
+2435
+01:57:31,980 --> 01:57:35,520
+read by Kevin Olsen and preserve and the
+
+2436
+01:57:35,520 --> 01:57:38,280
+textbook a chapter like what's your name
+
+2437
+01:57:38,280 --> 01:57:40,860
+and then important
+
+2438
+01:57:40,860 --> 01:57:44,960
+in order to not to lose too much time
+
+2439
+01:57:44,960 --> 01:57:48,780
+with technical issues I would like all
+
+2440
+01:57:48,780 --> 01:57:51,360
+of you to send your PowerPoints or ETF
+
+2441
+01:57:51,360 --> 01:57:53,159
+or whatever you're going to use to
+
+2442
+01:57:53,159 --> 01:57:56,099
+support your presentation at least 30
+
+2443
+01:57:56,099 --> 01:57:59,340
+minutes before the seminar to my email
+
+2444
+01:57:59,340 --> 01:58:00,360
+address
+
+2445
+01:58:00,360 --> 01:58:03,239
+whether we transfer link if necessary
+
+2446
+01:58:03,239 --> 01:58:06,239
+and if you want me to check with the
+
+2447
+01:58:06,239 --> 01:58:10,460
+presentation works on my computer
+
+2448
+01:58:10,460 --> 01:58:13,800
+then I suggest you to do that maybe
+
+2449
+01:58:13,800 --> 01:58:16,679
+already the evening before and then ask
+
+2450
+01:58:16,679 --> 01:58:19,020
+me maybe check whether the PowerPoint
+
+2451
+01:58:19,020 --> 01:58:22,139
+approach or do it in a PDF so that's the
+
+2452
+01:58:22,139 --> 01:58:24,360
+different PowerPoint versions things may
+
+2453
+01:58:24,360 --> 01:58:26,599
+change
+
+2454
+01:58:27,420 --> 01:58:29,520
+but please send them before the
+
+2455
+01:58:29,520 --> 01:58:32,420
+presentation so that I have the time
+
+2456
+01:58:32,420 --> 01:58:37,520
+so let me know whose time with swapping
+
+2457
+01:58:37,520 --> 01:58:40,099
+laptops and
+
+2458
+01:58:40,099 --> 01:58:42,679
+laptops that can't make the connection
+
+2459
+01:58:42,679 --> 01:58:46,580
+with the screen Etc
+
+2460
+01:58:46,800 --> 01:58:49,139
+just to make sure that we are all able
+
+2461
+01:58:49,139 --> 01:58:51,599
+to present and that we have time to
+
+2462
+01:58:51,599 --> 01:58:53,699
+receivers and that will also allow us to
+
+2463
+01:58:53,699 --> 01:58:57,360
+discuss everything that has been said
+
+2464
+01:58:57,360 --> 01:59:00,679
+and last decision
+
+2465
+01:59:01,320 --> 01:59:03,239
+okay then I would look forward to see
+
+2466
+01:59:03,239 --> 01:59:05,110
+you next week
+
+2467
+01:59:05,110 --> 01:59:08,210
+[Music]
+
+2468
+01:59:29,820 --> 01:59:32,599
+all right
+
+2469
+01:59:49,639 --> 01:59:53,300
+this is so stupid
+
+2470
+01:59:58,980 --> 02:00:02,360
+not talking about questions
+
+2471
+02:00:03,060 --> 02:00:06,060
+foreign
+
+2472
+02:00:35,360 --> 02:00:38,420
+thank you
+
+2473
+02:01:11,179 --> 02:01:14,239
+thank you
+
+2474
+02:01:26,580 --> 02:01:29,580
+again
+
+2475
+02:01:40,580 --> 02:01:42,599
+yes I
+
+2476
+02:01:42,599 --> 02:01:45,599
+like bye
+
+2477
+02:01:53,119 --> 02:01:56,540
+yes and yes
+
+2478
+02:01:58,830 --> 02:02:01,920
+[Music]
+
+2479
+02:02:02,179 --> 02:02:05,179
+when the first version
+
+2480
+02:02:05,179 --> 02:02:07,440
+yes and then these people have been
+
+2481
+02:02:07,440 --> 02:02:12,420
+added to the list yes
+
+2482
+02:02:24,900 --> 02:02:26,880
+maybe there could be a way
+
+2483
+02:02:26,880 --> 02:02:29,360
+that yeah
+
+2484
+02:02:30,540 --> 02:02:34,560
+if not for next week then for
+
+2485
+02:02:34,560 --> 02:02:37,199
+what would you prefer to do it
+
+2486
+02:02:37,199 --> 02:02:40,199
+but
+
+2487
+02:02:46,159 --> 02:02:51,260
+yeah because now it's hard for me
+
+2488
+02:02:56,580 --> 02:02:58,220
+okay yeah
+
+2489
+02:02:58,220 --> 02:03:01,329
+[Music]
+
+2490
+02:03:10,619 --> 02:03:12,980
+yeah
+
+2491
+02:03:14,000 --> 02:03:17,400
+I've done it next week so it's
+
+2492
+02:03:17,400 --> 02:03:20,400
+foreign
+
+2493
+02:03:43,120 --> 02:03:46,210
+[Music]
+
+2494
+02:03:52,199 --> 02:03:54,739
+sure
+
+2495
+02:04:08,099 --> 02:04:12,179
+so the first thing is can we call like
+
+2496
+02:04:12,179 --> 02:04:14,760
+any project that things to attract
+
+2497
+02:04:14,760 --> 02:04:18,480
+investment or hence the apology of life
+
+2498
+02:04:18,480 --> 02:04:22,139
+in a neighborhood like this uh doing a
+
+2499
+02:04:22,139 --> 02:04:25,560
+taxi and this kind of products can we
+
+2500
+02:04:25,560 --> 02:04:28,260
+call they are social mix projects
+
+2501
+02:04:28,260 --> 02:04:31,260
+because
+
+2502
+02:04:32,000 --> 02:04:35,540
+that's 100
+
+2503
+02:04:40,800 --> 02:04:44,219
+you still have a project
+
+2504
+02:04:44,219 --> 02:04:46,139
+improve
+
+2505
+02:04:46,139 --> 02:04:49,099
+public spaces
+
+2506
+02:04:58,139 --> 02:05:01,619
+so like do they say that they are social
+
+2507
+02:05:01,619 --> 02:05:04,440
+based projects like openly
+
+2508
+02:05:04,440 --> 02:05:07,260
+so in some of these I've shown you some
+
+2509
+02:05:07,260 --> 02:05:11,659
+some parts from policy games
+
+2510
+02:05:14,639 --> 02:05:17,520
+okay
+
+2511
+02:05:17,520 --> 02:05:20,159
+in order to attract another kind of
+
+2512
+02:05:20,159 --> 02:05:21,900
+presence
+
+2513
+02:05:21,900 --> 02:05:24,320
+yes
+
+2514
+02:05:32,520 --> 02:05:34,619
+do you have any other if you have
+
+2515
+02:05:34,619 --> 02:05:37,679
+already used some references that talk
+
+2516
+02:05:37,679 --> 02:05:39,980
+about Brussels
+
+2517
+02:05:39,980 --> 02:05:42,540
+in the presentation I haven't shown that
+
+2518
+02:05:42,540 --> 02:05:43,440
+but
+
+2519
+02:05:43,440 --> 02:05:45,659
+there is quite a rich people Geography
+
+2520
+02:05:45,659 --> 02:05:48,599
+okay so it finally shows papers I will
+
+2521
+02:05:48,599 --> 02:05:50,099
+find something well I think you will
+
+2522
+02:05:50,099 --> 02:05:52,380
+find a lot of women who benefits from
+
+2523
+02:05:52,380 --> 02:05:54,179
+home ownership support policies in
+
+2524
+02:05:54,179 --> 02:05:55,980
+Brussels that's where this this quote
+
+2525
+02:05:55,980 --> 02:05:58,280
+comes from
+
+2526
+02:05:58,280 --> 02:06:00,840
+clicking and moving in out of Brussels
+
+2527
+02:06:00,840 --> 02:06:03,540
+much of his work is on gentrification
+
+2528
+02:06:03,540 --> 02:06:05,159
+but you will also see that some of his
+
+2529
+02:06:05,159 --> 02:06:06,599
+papers deal with
+
+2530
+02:06:06,599 --> 02:06:09,060
+social mix in relation to uh
+
+2531
+02:06:09,060 --> 02:06:12,179
+gentrification specifically so there's a
+
+2532
+02:06:12,179 --> 02:06:14,420
+lot of work
+
+2533
+02:06:14,420 --> 02:06:17,099
+yeah from here
+
+2534
+02:06:17,099 --> 02:06:19,619
+uh and the other thing that I don't know
+
+2535
+02:06:19,619 --> 02:06:21,179
+if I'm mistaken but I have the
+
+2536
+02:06:21,179 --> 02:06:23,940
+impression that there is not actually
+
+2537
+02:06:23,940 --> 02:06:27,420
+evidence that social actually works like
+
+2538
+02:06:27,420 --> 02:06:30,060
+you presented some arguments
+
+2539
+02:06:30,060 --> 02:06:32,760
+but they're not
+
+2540
+02:06:32,760 --> 02:06:34,880
+recorded life is
+
+2541
+02:06:34,880 --> 02:06:38,940
+more like suppositions and
+
+2542
+02:06:38,940 --> 02:06:42,900
+well I think the infamous
+
+2543
+02:06:43,679 --> 02:06:46,400
+trying to find out the
+
+2544
+02:06:46,400 --> 02:06:48,960
+effects and and showing that there are
+
+2545
+02:06:48,960 --> 02:06:51,119
+some cases where
+
+2546
+02:06:51,119 --> 02:06:53,219
+people might benefit from such things
+
+2547
+02:06:53,219 --> 02:06:56,420
+but even any questions
+
+2548
+02:06:58,580 --> 02:07:01,560
+mixed neighborhood so it's quite costly
+
+2549
+02:07:01,560 --> 02:07:04,219
+yes what would happen
+
+2550
+02:07:04,219 --> 02:07:07,560
+the structural problems if you reduce
+
+2551
+02:07:07,560 --> 02:07:09,360
+all this money to
+
+2552
+02:07:09,360 --> 02:07:12,440
+try and comment over
+
+2553
+02:07:13,020 --> 02:07:14,820
+again so even
+
+2554
+02:07:14,820 --> 02:07:19,159
+turns out social response
+
+2555
+02:07:21,480 --> 02:07:26,580
+just yeah so so even even if you could
+
+2556
+02:07:26,580 --> 02:07:29,760
+turn out that by creating social mix you
+
+2557
+02:07:29,760 --> 02:07:31,440
+improve
+
+2558
+02:07:31,440 --> 02:07:33,719
+the situation
+
+2559
+02:07:33,719 --> 02:07:36,780
+any questions that is what would happen
+
+2560
+02:07:36,780 --> 02:07:37,800
+so
+
+2561
+02:07:37,800 --> 02:07:40,320
+it should try and attack it
+
+2562
+02:07:40,320 --> 02:07:43,820
+it's not through spatial
+
+2563
+02:07:44,340 --> 02:07:47,699
+we're trying to okay
+
+2564
+02:07:47,699 --> 02:07:50,599
+yes
+
+2565
+02:07:52,520 --> 02:07:54,800
+thank you
+
+2566
+02:07:54,800 --> 02:07:58,800
+improving schools
+
+2567
+02:08:05,179 --> 02:08:07,980
+we have also time to discuss next next
+
+2568
+02:08:07,980 --> 02:08:10,760
+yes
+
+2569
+02:08:16,470 --> 02:08:19,609
+[Applause]
+
+2570
+02:08:26,159 --> 02:08:28,460
+foreign
+
