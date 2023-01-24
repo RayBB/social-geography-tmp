@@ -1163,16 +1163,16 @@ Can you compare the argument being made with other perspectives or perspective f
 [BLANK_AUDIO]
 
 00:29:50
->> You have found important?
+You have found important?
 
 00:29:54
->> Yeah, this is going to be a real sound.
+Yeah, this is going to be a real sound.
 
 00:29:56
->> Yeah, I have no idea.
+Yeah, I have no idea.
 
 00:30:02
->> When I move, I have you pressure.
+When I move, I have you pressure.
 
 00:30:09
 Okay, let's try to continue.
@@ -3629,7 +3629,7 @@ Yeah?
 [ Inaudible ]
 
 01:33:14
->> Yeah, yeah.
+Yeah, yeah.
 
 01:33:15
 Absolutely. Yeah.
@@ -3644,13 +3644,13 @@ Yeah.
 Okay.
 
 01:33:20
->> Everyone in this?
+Everyone in this?
 
 01:33:21
->> Yeah.
+Yeah.
 
 01:33:24
->> I would say that's a lot of the which we will space.
+I would say that's a lot of the which we will space.
 
 01:33:32
 But not for geometrical, you know, the idea is that we can't explain what the problem comes in.
@@ -4472,10 +4472,10 @@ What does that mean?
 [BLANK_AUDIO]
 
 01:56:09
->> What does that mean?
+What does that mean?
 
 01:56:16
->> [INAUDIBLE]
+[INAUDIBLE]
 
 01:56:25
 [ Inaudible ]
@@ -4550,7 +4550,7 @@ Bye.
 [ Inaudible ]
 
 01:57:45
->> Carried.
+Carried.
 
 01:57:46
 And okay.
@@ -4688,7 +4688,7 @@ shapes the questions you ask and I try to address that.
 [ Inaudible ]
 
 02:00:35
->> Yeah. So knowledge production as a power-related process.
+Yeah. So knowledge production as a power-related process.
 
 02:00:40
 where some boys are sound louder than others.
@@ -5289,7 +5289,7 @@ And see you next week.
 [ Music ]
 
 00:00:25
->> Welcome everybody and evening.
+Welcome everybody and evening.
 
 00:00:28
 Welcome to the second session.
@@ -8688,7 +8688,7 @@ Yeah.
 [ Inaudible ]
 
 01:14:30
->> Yeah, that was also the kind of, yeah, there's a hub and spoke system.
+Yeah, that was also the kind of, yeah, there's a hub and spoke system.
 
 01:14:34
 People write about papers flying where you don't want to go.
@@ -9717,7 +9717,7 @@ it's a Northern America Western Europe
 and then has a bit of presence elsewhere.
 
 01:36:45
->> Yeah. >> I'm just thinking, like, this thing is like, about 50, just, yeah, I think, like, it's like that.
+Yeah. >> I'm just thinking, like, this thing is like, about 50, just, yeah, I think, like, it's like that.
 
 01:36:50
 Like, it's like a whole life, like, you know, in relationship that a global that type of business.
@@ -9726,13 +9726,13 @@ Like, it's like a whole life, like, you know, in relationship that a global that
 Like, I don't know if you have a good case. >> Yeah, absolutely.
 
 01:36:55
->> You know, that's a good case. >> For making sense, you know, which I found in a bit,
+You know, that's a good case. >> For making sense, you know, which I found in a bit,
 
 01:36:59
 a lot lower probably not, but the money, but like, how many people, you know,
 
 01:37:07
->> I agree 300%.
+I agree 300%.
 
 01:37:13
 So the question is, does this represent cities and globalization or does it represent
@@ -13354,7 +13354,7 @@ Yeah.
 [ Inaudible ]
 
 00:48:29
->> So yeah, the steward has a lot of local policy networks towards creating some kind
+So yeah, the steward has a lot of local policy networks towards creating some kind
 
 00:48:30
 of business climate.
@@ -13438,13 +13438,13 @@ Yeah?
 [ Inaudible ]
 
 00:51:15
->> Awesome.
+Awesome.
 
 00:51:17
 Yeah. At the end,
 
 00:51:22
->> Yeah, I was thinking also on a really awesome
+Yeah, I was thinking also on a really awesome
 
 00:51:25
 living responsibility for social record justice.
@@ -13489,19 +13489,19 @@ way, it's not the time to make him the worker, physically, but also educating th
 feeding, educating and socializing into particular working culture.
 
 00:52:30
->> Yeah.
+Yeah.
 
 00:52:39
->> [INAUDIBLE]
+[INAUDIBLE]
 
 00:52:48
 [INAUDIBLE]
 
 00:52:49
->> Yeah.
+Yeah.
 
 00:52:54
->> [INAUDIBLE]
+[INAUDIBLE]
 
 00:52:59
 Like, reality is, for example, like, they provide like,
@@ -17315,52 +17315,52 @@ tickets for those over 26. A bit more expensive.
 So I'll give them to you.
 
 00:06:45
->> That means that you are responsible for that.
+That means that you are responsible for that.
 
 00:06:47
->> That's good.
+That's good.
 
 00:06:52
->> That means that you are responsible for that.
+That means that you are responsible for that.
 
 00:06:53
->> Yeah.
+Yeah.
 
 00:06:55
->> That's good.
+That's good.
 
 00:06:56
->> That's good.
+That's good.
 
 00:06:57
->> Yeah.
+Yeah.
 
 00:06:59
->> It's good.
+It's good.
 
 00:07:00
->> It's good.
+It's good.
 
 00:07:01
->> Yeah.
+Yeah.
 
 00:07:03
->> I think it's good.
+I think it's good.
 
 00:07:04
->> I think it's good.
+I think it's good.
 
 00:07:05
->> Yeah.
+Yeah.
 
 00:07:06
->> I think it's good.
+I think it's good.
 
 00:07:07
->> I think it's good.
+I think it's good.
 
 00:07:08
->> All right.
+All right.
 
 00:07:25
 So it's important that you meet on time, the 22/8 next week Tuesday we are leaving
@@ -18866,7 +18866,7 @@ It will not be a lot, so you can find elements of basically all three models
 on the map. So when you look at this close, what do you see? Who sees that?
 
 00:48:41
->> For now, when you see a question, it might be a question, but it's too sweet to be a find that's
+For now, when you see a question, it might be a question, but it's too sweet to be a find that's
 
 00:48:48
 right out. >> Mm-hm. You find these kind of sectors.
@@ -19928,16 +19928,16 @@ You're able to apply that to another one.
 Yeah?
 
 01:14:50
->> I was touched.
+I was touched.
 
 01:14:51
->> What are we doing?
+What are we doing?
 
 01:14:54
->> Don't anyone have to take time?
+Don't anyone have to take time?
 
 01:14:55
->> Yes.
+Yes.
 
 01:14:59
 the following model.
@@ -20522,13 +20522,13 @@ I'm calculating something at the scale of the city.
 And for that, I need to calculate this measure for these four neighborhoods.
 
 01:29:04
->> Okay, you can add on this.
+Okay, you can add on this.
 
 01:29:09
->> And then I think I realized I know how to do it.
+And then I think I realized I know how to do it.
 
 01:29:15
->> And then I need to make the sum of this number in each of these.
+And then I need to make the sum of this number in each of these.
 
 01:29:24
 So that will be sum of 1 plus 1/3 of 2.
@@ -21050,7 +21050,7 @@ in a different part of the city.
 Why is that?
 
 01:43:53
->> Tell me when it comes to creation or in coming city, they will often choose the name
+Tell me when it comes to creation or in coming city, they will often choose the name
 
 01:43:58
 of the book, for example, like the world age of tea, coming to come to sign for,
@@ -21077,34 +21077,34 @@ Okay, so it could be about what you're able to afford and the financial limits t
 [ Inaudible ]
 
 01:45:14
->> Okay.
+Okay.
 
 01:45:14
->> Okay.
+Okay.
 
 01:45:14
->> Okay.
+Okay.
 
 01:45:14
->> Okay.
+Okay.
 
 01:45:15
->> Okay.
+Okay.
 
 01:45:16
->> Yeah.
+Yeah.
 
 01:45:17
->> Yeah.
+Yeah.
 
 01:45:24
->> There are many explanations.
+There are many explanations.
 
 01:45:25
->> Yeah.
+Yeah.
 
 01:45:30
->> And it is important for me, but I'm going to try to do
+And it is important for me, but I'm going to try to do
 
 01:45:35
 in a very short period of time is to run through a couple of typical explanations.
@@ -22641,7 +22641,7 @@ Like, you know, there's a target.
 [ Inaudible ]
 
 00:21:08
->> I don't know what to say.
+I don't know what to say.
 
 00:21:09
 I don't know how to make the definition of inclusion.
@@ -23910,7 +23910,7 @@ which I propose to continue.
 [ Inaudible ]
 
 00:54:51
->> So let's continue with this question
+So let's continue with this question
 
 00:54:53
 by social mixed desire.
@@ -27138,7 +27138,7 @@ So it would try and...
 [inaudible]
 
 02:08:09
->> Yes, and back for five. >> Yes, and back for five. >> Yes, I think. >> The military. >> I think it's fine. >> In ruling, schools, schools, schools, schools. >> Okay. >> Thank you very much. >> Thank you very much. >> We have also planned to discuss next next. >> Yes, I think.
+Yes, and back for five. >> Yes, and back for five. >> Yes, I think. >> The military. >> I think it's fine. >> In ruling, schools, schools, schools, schools. >> Okay. >> Thank you very much. >> Thank you very much. >> We have also planned to discuss next next. >> Yes, I think.
 
 02:08:38
 [Music]
@@ -28105,7 +28105,7 @@ Anyways.
 [ Inaudible ]
 
 00:15:53
->> So these are some of the main shifts that you should understand as being part
+So these are some of the main shifts that you should understand as being part
 
 00:15:55
 of, let's say, the cultural term, the cultural terms.
@@ -29572,7 +29572,7 @@ Wow
 [ Inaudible ]
 
 00:43:12
->> Yeah, that's a screen because otherwise there's a lot of ears.
+Yeah, that's a screen because otherwise there's a lot of ears.
 
 00:43:16
 [ Inaudible ]
@@ -30826,7 +30826,7 @@ All right, let's continue.
 [ Inaudible ]
 
 01:12:36
->> Yeah, okay. Let's go.
+Yeah, okay. Let's go.
 
 01:12:39
 So we're still in the symbolic economy part.
@@ -38099,10 +38099,10 @@ Guatemala
 [MUSIC]
 
 01:59:41
->> [INAUDIBLE]
+[INAUDIBLE]
 
 01:59:50
->> [INAUDIBLE]
+[INAUDIBLE]
 
 01:59:52
 (crowd cheering)
