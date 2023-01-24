@@ -1,3 +1,5 @@
+Transcribed by youtube
+
 # 1 Introduction: Urban geographical tradition(s)
 
 00:00:36
