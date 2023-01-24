@@ -1,6 +1,6 @@
 Transcribed with tiny Whisper
 
-[Go to Youtube version](/youtube).
+[Go to YouTube version](/youtube).
 
 # 1 Introduction: Urban geographical tradition(s)
 
