@@ -842,7 +842,7 @@ So there's please select either and to a I would say or either shall it run. Yes
 The answer by trade is actually right how about the Wilfern-Rössen pointer? No. No.
 
 00:21:15
-- Okay, thank you, I'm gonna go by train.
+Okay, thank you, I'm gonna go by train.
 
 00:21:19
 And then I don't think it's even the entire day,
@@ -2201,13 +2201,13 @@ governance structure. For urban and maybe think more about what is the like leve
 and the living situation of people.
 
 00:56:52
-- Okay.
+Okay.
 
 00:56:53
-- Mm-hmm.
+Mm-hmm.
 
 00:56:55
-- Kind of more, like a descriptor versus like,
+Kind of more, like a descriptor versus like,
 
 00:57:00
 thing that everybody is like,
@@ -2216,13 +2216,13 @@ thing that everybody is like,
 waiting to your work for just anyone.
 
 00:57:04
-- Yeah, yeah, yeah, yeah.
+Yeah, yeah, yeah, yeah.
 
 00:57:07
 There was a hand so your eyes somewhere, yeah, at the back.
 
 00:57:11
-- Yeah, I'm just gonna sit behind the other thing.
+Yeah, I'm just gonna sit behind the other thing.
 
 00:57:13
 They have a boundary and they're kind of like
@@ -2231,7 +2231,7 @@ They have a boundary and they're kind of like
 of the public's common control committee.
 
 00:57:18
-- The question of the next question
+The question of the next question
 
 00:57:20
 is that you have some combination of that
@@ -2243,7 +2243,7 @@ to you,
 and you're very familiar with the committee.
 
 00:57:29
-- Yeah, so it's a administrative unit
+Yeah, so it's a administrative unit
 
 00:57:32
 with elected officials, et cetera,
@@ -3008,13 +3008,13 @@ they can be quite misleading.
 Okay.
 
 01:17:11
-- Thank you.
+Thank you.
 
 01:17:12
-- Yeah.
+Yeah.
 
 01:17:13
-- One thing that's not like trying to get it out
+One thing that's not like trying to get it out
 
 01:17:16
 for the clinical care of the
@@ -3026,7 +3026,7 @@ and the other, it's only the amount of the number
 of people living there or.
 
 01:17:22
-- That's a good question.
+That's a good question.
 
 01:17:23
 I don't know it by heart,
@@ -4577,28 +4577,28 @@ And I think it's right here.
 And I like to thank the market for that.
 
 01:58:02
-- And what should we care about?
+And what should we care about?
 
 01:58:05
-- Christine.
+Christine.
 
 01:58:06
 (audience laughs)
 
 01:58:07
-- True.
+True.
 
 01:58:08
-- And please.
+And please.
 
 01:58:09
-- Yeah.
+Yeah.
 
 01:58:10
 Any particular process yet?
 
 01:58:14
-- I think I just like being fully and totally
+I think I just like being fully and totally
 
 01:58:19
 having an approach that is politically engaged
@@ -5586,7 +5586,7 @@ when you call the migration of high-perfiting
 those doors to go home, we'll see you.
 
 00:08:40
-- Okay, thank you.
+Okay, thank you.
 
 00:08:44
 So if something with these are the seats of corporate power
@@ -5652,7 +5652,7 @@ to acknowledge to people who are in this community as well.
 Okay, one of the things, yeah.
 
 00:10:17
-- I think about, I think that they,
+I think about, I think that they,
 
 00:10:20
 I think government has been telling,
@@ -5667,7 +5667,7 @@ rural, that affects, you know,
 like, separate people, all of the people.
 
 00:10:32
-- It's kind of the Benjamin Barber argument,
+It's kind of the Benjamin Barber argument,
 
 00:10:34
 what if Mayor Siru to the world,
@@ -6378,7 +6378,7 @@ What is the expectation of these production activities?
 I mean, it was the question when I was reading the text.
 
 00:26:18
-- Yeah, I mean, obviously it would depend on the city
+Yeah, I mean, obviously it would depend on the city
 
 00:26:22
 that we're talking about, but think about what happens
@@ -6456,7 +6456,7 @@ and moving everything in the world
 to have kind of summer.
 
 00:27:44
-- Yes, yeah, indeed.
+Yes, yeah, indeed.
 
 00:27:47
 I mean, and sometimes a little bit of confusion there
@@ -7698,7 +7698,7 @@ Yes?
 OK.
 
 00:53:54
-- I think that's the public early days,
+I think that's the public early days,
 
 00:53:56
 but I think that's what we have all about,
@@ -7710,7 +7710,7 @@ how open and forward to performance
 that's been happening.
 
 00:54:06
-- No, I was taking care of my children.
+No, I was taking care of my children.
 
 00:54:09
 But I think that's a good point.
@@ -8175,13 +8175,13 @@ not only in each of those that you serve,
 but more broadly to the economy.
 
 01:03:53
-- But I don't understand what drives this company
+But I don't understand what drives this company
 
 01:03:57
 to gather instead of providing for example.
 
 01:03:59
-- Okay, well, I have a whole lecture on that
+Okay, well, I have a whole lecture on that
 
 01:04:01
 and I can look at the lessons, right?
@@ -8661,16 +8661,16 @@ This is also a commercial model for a company
 where you hear, absolutely.
 
 01:13:59
-- You're very, very bad at the department.
+You're very, very bad at the department.
 
 01:14:01
-- Absolutely, yeah, all right, yes.
+Absolutely, yeah, all right, yes.
 
 01:14:04
 (muffled speaking)
 
 01:14:11
-- That's exactly the same.
+That's exactly the same.
 
 01:14:13
 I mean, it's debatable.
@@ -8682,7 +8682,7 @@ I mean, are you measuring economic importance
 or are you measuring economic control?
 
 01:14:18
-- Yeah.
+Yeah.
 
 01:14:26
 [ Inaudible ]
@@ -10578,7 +10578,7 @@ or overarching debate,
 even if you're studying very diverse places.
 
 01:59:11
-- Now, yeah, I won't say too much about this two cases
+Now, yeah, I won't say too much about this two cases
 
 01:59:13
 because it's also part of our discussion seminar,
@@ -11061,7 +11061,7 @@ and how it remains often undiscovered
 or something that we'll talk about next week.
 
 02:09:18
-- Yeah, and this is kind of battle of representation
+Yeah, and this is kind of battle of representation
 
 02:09:20
 is ongoing, this is a bit of a data figure
@@ -11833,7 +11833,7 @@ So just to get started a little bit, some maps.
 Was there a question?
 
 00:04:36
-- I'm like, what,
+I'm like, what,
 
 00:04:39
 I could be honest, I could be honest.
@@ -11848,16 +11848,16 @@ because we don't break it.
 You know, it's a must.
 
 00:04:43
-- Yes.
+Yes.
 
 00:04:44
-- It's a must.
+It's a must.
 
 00:04:45
-- Straight forward.
+Straight forward.
 
 00:04:47
-- I understand, yes, it was a bit back.
+I understand, yes, it was a bit back.
 
 00:04:49
 So let's try to have a break somewhere
@@ -12097,7 +12097,7 @@ public for instance, China town there to the north, perhaps also the mission whi
 which the mother neighborhood, yes.
 
 00:12:49
-- Because in the city that there's a piece right there,
+Because in the city that there's a piece right there,
 
 00:12:50
 they can have a key room that will
@@ -12106,10 +12106,10 @@ they can have a key room that will
 get up, that can be normalized towards the specific.
 
 00:12:57
-- You know what I mean about that?
+You know what I mean about that?
 
 00:12:59
-- No, I think it's, if you look at the scale,
+No, I think it's, if you look at the scale,
 
 00:13:01
 it's the same everywhere, right?
@@ -13246,10 +13246,10 @@ the salary is not distributing.
 So you have the larger company getting larger.
 
 00:45:37
-- What do you mean with trickle down, logics?
+What do you mean with trickle down, logics?
 
 00:45:38
-- Yes.
+Yes.
 
 00:45:41
 So, I mean, the right to recover that is, of course,
@@ -14251,10 +14251,10 @@ Yeah.
 And there was no really an attraction in the off-grid.
 
 01:11:21
-- Oh, sorry.
+Oh, sorry.
 
 01:11:27
-- Yeah, no, but it's kind of these examples of landmark buildings.
+Yeah, no, but it's kind of these examples of landmark buildings.
 
 01:11:31
 They're quite often they're used in large-scale reconversion.
@@ -16024,7 +16024,7 @@ All theization doesn't really seem to hold.
 Yep, there's a question.
 
 01:56:28
-- I'm doing the question.
+I'm doing the question.
 
 01:56:31
 There are the scores for our game
@@ -16039,7 +16039,7 @@ They tried to also include one formal,
 yeah, the general point or something.
 
 01:56:46
-- I think that's one of the reasons,
+I think that's one of the reasons,
 
 01:56:48
 that's a very good point.
@@ -16558,7 +16558,7 @@ and cultural institutions.
 I mean, these are not kind of super spectacular.
 
 02:09:29
-- I think sometimes we find it's kind of,
+I think sometimes we find it's kind of,
 
 02:09:30
 it become a big fan of Bazaar.
@@ -17909,7 +17909,7 @@ What kind of other bases could you have
 rather than commercial best show?
 
 00:22:21
-- Right.
+Right.
 
 00:22:25
 In the horizon, if you go to a city,
@@ -18392,7 +18392,7 @@ we'll also be able to,
 to these suburban developments in bringing forward.
 
 00:34:59
-- So I have a question about the French private,
+So I have a question about the French private,
 
 00:35:01
 and it seems like all of the stuff,
@@ -18407,7 +18407,7 @@ like it seems like the party is important,
 it seems like the French is too.
 
 00:35:08
-- I'm sorry.
+I'm sorry.
 
 00:35:11
 How do you feel that they're rent?
@@ -19478,19 +19478,19 @@ Don't know so much about song in regulation.
 When exactly it must become a state.
 
 01:03:12
-- I'm gonna mention the problem with the questionnaire
+I'm gonna mention the problem with the questionnaire
 
 01:03:14
 and the single that--
 
 01:03:17
-- Uh-huh, okay, and can you read it?
+Uh-huh, okay, and can you read it?
 
 01:03:18
 Or not to know?
 
 01:03:22
-- So I said that to, well, I will ever look
+So I said that to, well, I will ever look
 
 01:03:24
 whether I can I can see.
@@ -20444,7 +20444,7 @@ which are worthwhile, I will leave it.
 That a question.
 
 01:27:31
-- Oh, I would sort of make for an honest example,
+Oh, I would sort of make for an honest example,
 
 01:27:35
 with the one hundred black residents in one end,
@@ -22203,10 +22203,10 @@ and social control in the future.
 As I said, was there a question?
 
 00:09:11
-- So, the structure of five people?
+So, the structure of five people?
 
 00:09:16
-- No, I am trying to explain you.
+No, I am trying to explain you.
 
 00:09:19
 I'm not saying that there is a desire to plan
@@ -22629,7 +22629,7 @@ and the concentration of poverty is bad
 for people living in just the situation.
 
 00:20:52
-- One question, okay, yeah.
+One question, okay, yeah.
 
 00:20:55
 Why is there this idea that I can't speak?
@@ -23298,10 +23298,10 @@ because the councils can interfere in the housing.
 (mumbling)
 
 00:38:44
-- So it's a place?
+So it's a place?
 
 00:38:48
-- There has been a time when the social housing association
+There has been a time when the social housing association
 
 00:38:53
 sold out of the white, some units, that they know it is.
@@ -27033,7 +27033,7 @@ Don't blame the taxi in this kind of project.
 Can we call the our social mix projects?
 
 02:04:30
-- But they also have a project.
+But they also have a project.
 
 02:04:34
 So, we should also say that that's 100%.
@@ -33965,7 +33965,7 @@ the everyday life experiences of the pleasant etc. This talk about this
 in for politics and matters stuff.
 
 00:32:15
-- Absolutely, no, it's very much part of the same reasoning.
+Absolutely, no, it's very much part of the same reasoning.
 
 00:32:17
 So one of the other books that I could have mentioned
@@ -35477,7 +35477,7 @@ which actually leads to a fair amount of critique
 also within your artistic community.
 
 01:05:32
-- Yeah, and I wouldn't say that this is necessarily
+Yeah, and I wouldn't say that this is necessarily
 
 01:05:33
 like a bad or a good thing.
@@ -36350,10 +36350,10 @@ and wants to be a leader and a new place for art
 and culture in Brussels.
 
 01:24:54
-- Yes.
+Yes.
 
 01:24:58
-- I wonder what your take on that was also working with
+I wonder what your take on that was also working with
 
 01:25:00
 with the association that you mentioned,
@@ -36365,7 +36365,7 @@ you must be seeing also a different side of the influence
 of local government in Brussels on that.
 
 01:25:10
-- Yeah, exactly.
+Yeah, exactly.
 
 01:25:11
 Yeah.
@@ -37529,7 +37529,7 @@ Yeah, just unmute yourself and start talking
 because I don't see anyone in my screen.
 
 01:48:16
-- Okay, I would just like to share with you
+Okay, I would just like to share with you
 
 01:48:18
 and with me, can be interested
@@ -37538,7 +37538,7 @@ and with me, can be interested
 and the project of Sandoff tourism.
 
 01:48:25
-- Oh, that's Mico Sanchez in Lisbon.
+Oh, that's Mico Sanchez in Lisbon.
 
 01:48:28
 He might be the sound of tourism in the city
@@ -37547,7 +37547,7 @@ He might be the sound of tourism in the city
 and it's pretty interesting to his staff.
 
 01:48:32
-- Thanks, thanks a lot.
+Thanks, thanks a lot.
 
 01:48:34
 I don't know, Jia, so I'll check it out.
@@ -38483,7 +38483,7 @@ Yeah!
 (crowd cheering)
 
 02:06:26
-- It got in place.
+It got in place.
 
 02:06:36
 [MUSIC]
@@ -38994,7 +38994,7 @@ Why study transport when studying cities?
 Why is that important or not?
 
 00:11:22
-- I did actually expect transport to be part
+I did actually expect transport to be part
 
 00:11:28
 the study because to me at least it alters the way the city is structured, sometimes it's
@@ -39012,7 +39012,7 @@ makes a big difference with how with a geographic air development. So to me it's
 I think it's a key factor.
 
 00:11:52
-- Right, so we would have some impact on the urban form
+Right, so we would have some impact on the urban form
 
 00:11:55
 on, I'd say, the spatial arrangement of the city.
@@ -39024,7 +39024,7 @@ Why else, there are many reasons as you can imagine,
 but what comes to your mind?
 
 00:12:07
-- I think it also like Matilda already mentioned before,
+I think it also like Matilda already mentioned before,
 
 00:12:11
 one main aspect is sustainability and cities
@@ -39063,10 +39063,10 @@ to look for a job and go back again. So eight hours, they're spending in
 in causal.
 
 00:13:09
-- Right, right.
+Right, right.
 
 00:13:10
-- So transport is, well,
+So transport is, well,
 
 00:13:13
 without transport is difficult to get around the city
@@ -39744,7 +39744,7 @@ The draw we see is linked to a conradive because we saw something like this.
 with lessons of Nick?
 
 00:25:13
-- Yeah, I would say so.
+Yeah, I would say so.
 
 00:25:16
 I think that it's one of the ways of,
@@ -40527,7 +40527,7 @@ And the next slide, does anybody have a clue
 where this city is?
 
 00:42:02
-- Chalua. - Very good.
+Chalua. - Very good.
 
 00:42:04
 Well done, yes, this is the...
@@ -40626,10 +40626,10 @@ Any non-belgence?
 The X-word, the X-word.
 
 00:43:29
-- That tell me.
+That tell me.
 
 00:43:30
-- The Atomium.
+The Atomium.
 
 00:43:33
 And why would the Atomium be, well, okay,
@@ -42279,7 +42279,7 @@ of time and space and quantity was something that took a very long time and it w
 in place until end of the even 17 or 18 centuries. So it took a very long time to actually make sure
 
 01:21:32
-- sorry - make sure that all inhabitants of a given nation state of a given territory would actually
+sorry - make sure that all inhabitants of a given nation state of a given territory would actually
 
 01:21:37
 subjugate themselves to the usage of a unified - that's the word I was looking for - unified
@@ -43242,10 +43242,10 @@ Not change the way that we look at the car,
 the change the way we look at the transport.
 
 01:42:20
-- Your prices?
+Your prices?
 
 01:42:23
-- The oil prices, I guess somebody already mentioned
+The oil prices, I guess somebody already mentioned
 
 01:42:24
 that in one of the classes.
@@ -43749,7 +43749,7 @@ We still have 12 minutes,
 so we might as well use them.
 
 01:53:29
-- I might try to initiate a little discussion here
+I might try to initiate a little discussion here
 
 01:53:33
 about popularity of cars and
@@ -43839,7 +43839,7 @@ to making commercials for SUV cars, which I
 have found really strange.
 
 01:55:59
-- Well, yeah, I think it's happening.
+Well, yeah, I think it's happening.
 
 01:56:01
 I was considering to put another graph
@@ -43932,7 +43932,7 @@ of the companies having giving cars to their employees,
 which has sparked the bait.
 
 01:58:16
-- Yes, in Belgium in fact,
+Yes, in Belgium in fact,
 
 01:58:18
 most of new cars being sold,
@@ -47404,7 +47404,7 @@ Somebody who loves this, somebody who hates this,
 and for whatever reason?
 
 01:09:55
-- I agree with you, everyone,
+I agree with you, everyone,
 
 01:09:58
 because it was a place.
@@ -47437,16 +47437,16 @@ like like M.E.B. and the steep public transport,
 to pass because the lane was cut.
 
 01:10:31
-- Yeah.
+Yeah.
 
 01:10:36
-- So they waited for four, four, two hours to go to another place
+So they waited for four, four, two hours to go to another place
 
 01:10:38
 when it set to us, five minutes was two hours.
 
 01:10:43
-- So you need to affect it the other modes of,
+So you need to affect it the other modes of,
 
 01:10:44
 of trying to not only the car,
@@ -47455,10 +47455,10 @@ of trying to not only the car,
 but also public transport.
 
 01:10:47
-- Yeah.
+Yeah.
 
 01:10:47
-- Yeah.
+Yeah.
 
 01:10:50
 The victim was public transport and I guess in,
@@ -47473,10 +47473,10 @@ when you have a prestige project like that,
 You need to consider all of transport modes and not only pedestrians.
 
 01:11:03
-- Praise each project.
+Praise each project.
 
 01:11:05
-- I think also it's an important thing.
+I think also it's an important thing.
 
 01:11:10
 Also like an element to add maybe is that it's terrible
@@ -47503,7 +47503,7 @@ of course lots of people use the area.
 So then it's really not nice to cycle there.
 
 01:11:30
-- Yes, I share these impressions.
+Yes, I share these impressions.
 
 01:11:32
 I mean, these are not only impressions
