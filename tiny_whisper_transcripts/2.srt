@@ -1,0 +1,8520 @@
+1
+00:00:00,000 --> 00:00:22,760
+[ Music ]
+
+2
+00:00:22,760 --> 00:00:25,160
+>> Welcome everybody and evening.
+
+3
+00:00:25,160 --> 00:00:28,340
+Welcome to the second session.
+
+4
+00:00:28,340 --> 00:00:39,620
+of urban social geography. Thanks for being here despite the live stream and the
+
+5
+00:00:39,620 --> 00:00:45,900
+recording. I think it really makes sense to be here so we can have a bit of an
+
+6
+00:00:45,900 --> 00:00:54,580
+interactive session. How did you arrive in Brussels first week? Everything going
+
+7
+00:00:54,580 --> 00:00:55,580
+Okay, yeah.
+
+8
+00:00:55,580 --> 00:00:58,900
+Yeah, okay.
+
+9
+00:00:58,900 --> 00:01:01,500
+Your landing still a little bit.
+
+10
+00:01:01,500 --> 00:01:08,900
+How did you find a stonselow for those attending?
+
+11
+00:01:08,900 --> 00:01:12,780
+Did someone attend?
+
+12
+00:01:12,780 --> 00:01:14,420
+Stonselows, yeah.
+
+13
+00:01:14,420 --> 00:01:18,980
+Then I'll live up to your expectations more or less.
+
+14
+00:01:22,740 --> 00:01:27,380
+And you find it weird and they started with over 50%
+
+15
+00:01:27,380 --> 00:01:29,700
+of the urban population lifts and cities.
+
+16
+00:01:29,700 --> 00:01:31,580
+That was on the first slide.
+
+17
+00:01:31,580 --> 00:01:34,100
+OK.
+
+18
+00:01:34,100 --> 00:01:36,220
+We didn't have a deal that she would put that on there.
+
+19
+00:01:36,220 --> 00:01:40,340
+But I can see her critical minds.
+
+20
+00:01:40,340 --> 00:01:44,780
+You can start thinking about first slides so that we have
+
+21
+00:01:44,780 --> 00:01:45,780
+her answers here.
+
+22
+00:01:45,780 --> 00:01:47,020
+Ready?
+
+23
+00:01:47,020 --> 00:01:48,020
+OK.
+
+24
+00:01:48,020 --> 00:01:50,100
+Today we'll be talking about--
+
+25
+00:01:50,100 --> 00:01:57,100
+I could say an important chunk of research into urban geography.
+
+26
+00:01:57,100 --> 00:02:03,100
+Most of my geographers, yes.
+
+27
+00:02:03,100 --> 00:02:09,100
+I haven't. No, last week that. Yeah, it didn't work.
+
+28
+00:02:09,100 --> 00:02:11,100
+Yeah, you remember? Yes.
+
+29
+00:02:11,100 --> 00:02:14,100
+Okay. That's what, no, this system doesn't work.
+
+30
+00:02:14,100 --> 00:02:16,100
+I'm not sure why.
+
+31
+00:02:16,100 --> 00:02:21,100
+have a singing voice, so I'll try to project my ideas.
+
+32
+00:02:21,100 --> 00:02:25,900
+And if you don't hear it, I can give it a bit higher or louder.
+
+33
+00:02:25,900 --> 00:02:29,540
+But maybe we should be a little bit quiet
+
+34
+00:02:29,540 --> 00:02:31,740
+and then that will help as well.
+
+35
+00:02:31,740 --> 00:02:33,900
+So, rural cities, global cities,
+
+36
+00:02:33,900 --> 00:02:36,300
+one of the big debates I think in urban geography
+
+37
+00:02:36,300 --> 00:02:37,860
+and urban cities more widely.
+
+38
+00:02:37,860 --> 00:02:42,820
+It's also a very long standing debate going back
+
+39
+00:02:42,820 --> 00:02:47,940
+at least the eighties, which probably also explains what you had to read all
+
+40
+00:02:47,940 --> 00:02:55,540
+stuff that you may or may not find outdated. I hope it's not outdated. They're
+
+41
+00:02:55,540 --> 00:02:59,980
+all text but I think it's still relevant in one way or another and we'll also
+
+42
+00:02:59,980 --> 00:03:04,380
+try to discuss that a little bit. Now what's the structure of today? There's
+
+43
+00:03:04,380 --> 00:03:13,660
+three main parts of this lecture. First of all, we're going to discuss, I mean very generally,
+
+44
+00:03:13,660 --> 00:03:17,900
+the centrality of cities and city regions in the global economy and we'll take you through
+
+45
+00:03:17,900 --> 00:03:23,220
+three complementary views, I've used that built on one another by Joe Friedman, Sosca,
+
+46
+00:03:23,220 --> 00:03:29,780
+Sosca, and Alan Scott. Secondly, so that's kind of a conceptual theoretical discussion.
+
+47
+00:03:29,780 --> 00:03:36,220
+Secondly, we'll have more of a methodological discussion, which deals with how given these
+
+48
+00:03:36,220 --> 00:03:41,840
+concepts how we can actually measure and say something empirical about world cities and
+
+49
+00:03:41,840 --> 00:03:43,580
+global cities.
+
+50
+00:03:43,580 --> 00:03:49,540
+And one of the main methodologies there is the methodology by GOG, which is the globalization
+
+51
+00:03:49,540 --> 00:03:55,700
+and world cities research network, which was founded somewhere in the 1990s by Peter Taylor.
+
+52
+00:03:55,700 --> 00:04:01,020
+has been one of the main, you could say, empirical methodological contributions to the
+
+53
+00:04:01,020 --> 00:04:04,620
+debate from that period.
+
+54
+00:04:04,620 --> 00:04:13,460
+And third of all, as we'll learn, there was some kind of a dominance by Gorg, if you will,
+
+55
+00:04:13,460 --> 00:04:18,260
+in this area of cities in globalization.
+
+56
+00:04:18,260 --> 00:04:24,940
+And there is a dominant voice, there is also quite a bit of friendly and unfriendly critique
+
+57
+00:04:24,940 --> 00:04:33,660
+criticism toward this particular framing of global safety and world safety formation.
+
+58
+00:04:33,660 --> 00:04:41,660
+And I think going into these debates is actually quite telling as to how we define global
+
+59
+00:04:41,660 --> 00:04:48,380
+cities where we think that that criticism is justified, whereas perhaps less justified,
+
+60
+00:04:48,380 --> 00:04:52,300
+very beautiful with other kind of issues. And I'll be talking about four of those
+
+61
+00:04:52,300 --> 00:04:57,980
+points of criticism. One you could call the post-colonial critique, a social
+
+62
+00:04:57,980 --> 00:05:02,660
+constructivist critique, people that talk about state riskailing on the role of
+
+63
+00:05:02,660 --> 00:05:07,900
+the state and then finally some brilliant minds that had something to say
+
+64
+00:05:07,900 --> 00:05:13,220
+about financialization, okay, and that may alter our reading of what actually
+
+65
+00:05:13,220 --> 00:05:23,420
+happens in global cities. But before we start, my question to you, why are cities central
+
+66
+00:05:23,420 --> 00:05:29,140
+in the global economy and what would it mean to say that cities are actually powerful,
+
+67
+00:05:29,140 --> 00:05:36,820
+economically powerful? Take a minute, talk to your neighbor right-time few notes and think
+
+68
+00:05:36,820 --> 00:05:45,780
+about what your own should-could be. Go ahead.
+
+69
+00:05:45,780 --> 00:05:48,780
+(audience laughing)
+
+70
+00:05:48,780 --> 00:05:51,780
+(audience laughing)
+
+71
+00:05:51,780 --> 00:05:54,780
+(audience laughing)
+
+72
+00:05:54,780 --> 00:06:22,780
+[ Background noise ]
+
+73
+00:06:22,780 --> 00:06:25,540
+(people talking)
+
+74
+00:06:25,540 --> 00:06:28,540
+(people chattering)
+
+75
+00:06:28,540 --> 00:06:31,540
+(people chattering)
+
+76
+00:06:31,540 --> 00:06:34,460
+(people chattering)
+
+77
+00:06:34,460 --> 00:06:44,460
+[ Music ]
+
+78
+00:06:44,460 --> 00:06:47,460
+(people chattering)
+
+79
+00:06:47,460 --> 00:07:16,460
+[ Background Sounds ]
+
+80
+00:07:16,460 --> 00:07:26,460
+Okay, first idea is the most creative walks.
+
+81
+00:07:26,460 --> 00:07:37,460
+Yeah, so how are cities central and global economy and why how can we see that you're powerful?
+
+82
+00:07:37,460 --> 00:07:41,460
+Is he burning hand?
+
+83
+00:07:41,460 --> 00:07:42,460
+Please, raise your hand.
+
+84
+00:07:42,460 --> 00:07:46,180
+I'm just celebrating focusing on either of us
+
+85
+00:07:46,180 --> 00:07:47,620
+to focus on.
+
+86
+00:07:47,620 --> 00:07:50,420
+And so basically, like in the papers
+
+87
+00:07:50,420 --> 00:07:52,420
+where we were kind of pointing out
+
+88
+00:07:52,420 --> 00:07:54,460
+that the [INAUDIBLE]
+
+89
+00:07:54,460 --> 00:08:00,860
+the congress centers of markets and of national companies.
+
+90
+00:08:00,860 --> 00:08:04,180
+And that's why it gets more and more forward sometimes
+
+91
+00:08:04,180 --> 00:08:06,960
+even more than the nation states are
+
+92
+00:08:06,960 --> 00:08:11,380
+motivated because they become a part of this international network
+
+93
+00:08:11,380 --> 00:08:13,580
+of those protocols they use.
+
+94
+00:08:13,580 --> 00:08:17,600
+And on the other hand, it's like most of the
+
+95
+00:08:17,600 --> 00:08:20,060
+effectiveness, most of the capital,
+
+96
+00:08:20,060 --> 00:08:24,740
+mostly not to be rural these days,
+
+97
+00:08:24,740 --> 00:08:29,700
+but also like function capital is placed in those big cities.
+
+98
+00:08:29,700 --> 00:08:32,340
+And that's why you have kind of helped this
+
+99
+00:08:32,340 --> 00:08:36,440
+when you call the migration of high-perfiting
+
+100
+00:08:36,440 --> 00:08:39,740
+those doors to go home, we'll see you.
+
+101
+00:08:39,740 --> 00:08:40,660
+- Okay, thank you.
+
+102
+00:08:40,660 --> 00:08:44,580
+So if something with these are the seats of corporate power
+
+103
+00:08:44,580 --> 00:08:48,780
+and perhaps it leads that goes around those corporations.
+
+104
+00:08:48,780 --> 00:08:52,380
+Okay, otherwise there's, yeah, the battery.
+
+105
+00:08:52,380 --> 00:08:54,620
+(mumbling)
+
+106
+00:08:54,620 --> 00:09:18,620
+[ Inaudible ]
+
+107
+00:09:18,620 --> 00:09:33,620
+Okay, so not just economic processes, but also the power of people and ideas culture's diversity.
+
+108
+00:09:33,620 --> 00:09:37,620
+Okay, all the ideas?
+
+109
+00:09:37,620 --> 00:09:38,620
+Yes.
+
+110
+00:09:38,620 --> 00:09:40,860
+This is built on the way, for example,
+
+111
+00:09:40,860 --> 00:09:42,840
+but flows, because this is the only thing
+
+112
+00:09:42,840 --> 00:09:46,060
+that we would do, that all these flows come together
+
+113
+00:09:46,060 --> 00:09:48,740
+in large cities, and then it becomes more than,
+
+114
+00:09:48,740 --> 00:09:50,940
+it goes from this large city to another large city,
+
+115
+00:09:50,940 --> 00:09:55,020
+a better, most better than the national level.
+
+116
+00:09:55,020 --> 00:09:56,620
+Instead of going from the large city
+
+117
+00:09:56,620 --> 00:09:59,020
+to the enterprise by venturing,
+
+118
+00:09:59,020 --> 00:10:02,180
+the most between cities and that's excellent.
+
+119
+00:10:02,180 --> 00:10:05,300
+And what is the substance of these flows?
+
+120
+00:10:05,300 --> 00:10:06,660
+It can be anything that can provide
+
+121
+00:10:06,660 --> 00:10:11,660
+to acknowledge to people who are in this community as well.
+
+122
+00:10:11,660 --> 00:10:14,660
+Okay, one of the things, yeah.
+
+123
+00:10:14,660 --> 00:10:17,660
+- I think about, I think that they,
+
+124
+00:10:17,660 --> 00:10:20,660
+I think government has been telling,
+
+125
+00:10:20,660 --> 00:10:24,660
+you know, they told me I like budget and make
+
+126
+00:10:24,660 --> 00:10:26,660
+rural, that affects, you know,
+
+127
+00:10:26,660 --> 00:10:29,660
+like, separate people, all of the people.
+
+128
+00:10:29,660 --> 00:10:32,660
+- It's kind of the Benjamin Barber argument,
+
+129
+00:10:32,660 --> 00:10:34,660
+what if Mayor Siru to the world,
+
+130
+00:10:34,660 --> 00:10:41,060
+world. There's a lot of context, you could say the main equipment centers are also important
+
+131
+00:10:41,060 --> 00:10:45,620
+political centers and the national economy and the national politics. And it seems to be also that
+
+132
+00:10:45,620 --> 00:10:50,340
+there are some kind of an extraterritorial or supernatural authority there as well.
+
+133
+00:10:50,340 --> 00:10:55,860
+Okay, thanks a lot for your answers. I think there's other options to talk about, but I think you
+
+134
+00:10:55,860 --> 00:11:02,820
+already got to some of the essential points. I'm going to show you a bit of a data list of figures,
+
+135
+00:11:03,380 --> 00:11:09,140
+But just to give a little bit of exhibits as to how important economic terms
+
+136
+00:11:09,140 --> 00:11:14,980
+then and perhaps also think that political terms, some world cities or world city regions or
+
+137
+00:11:14,980 --> 00:11:23,460
+global city regions are. This is a list and this is research by a certain man named Alombrecht
+
+138
+00:11:23,460 --> 00:11:30,180
+from the early North East. Nick compared the main, you could say leading metropolitan areas in
+
+139
+00:11:30,180 --> 00:11:36,260
+in Western Europe. So it's by no means an international comparison at the global scale.
+
+140
+00:11:36,260 --> 00:11:43,940
+But it's comparing Delta Metropolis. This is basically Amsterdam, Rotterdam, the Hague, etc.
+
+141
+00:11:43,940 --> 00:11:50,660
+The Flamish Diamond, which is roughly speaking Ghent Antwerp, Nervin Brussels,
+
+142
+00:11:50,660 --> 00:11:55,220
+which is kind of the economic heartland, if you still remember in Belgium,
+
+143
+00:11:55,860 --> 00:12:02,420
+Rairan-Rur area, which is Western Germany, kind of old industrial area, which is a large
+
+144
+00:12:02,420 --> 00:12:06,820
+conservation with a lot of industrial activity, or at least it used to be.
+
+145
+00:12:06,820 --> 00:12:12,740
+You, the France, this is basically Greater Paris and then Greater London is Greater London.
+
+146
+00:12:12,740 --> 00:12:17,380
+Okay? So comparing these five areas on a number of characteristics and you also see
+
+147
+00:12:17,380 --> 00:12:22,740
+the next figures, what he kind of finds is that these region city regions, much of
+
+148
+00:12:22,740 --> 00:12:25,820
+often areas are punching above their weight.
+
+149
+00:12:25,820 --> 00:12:28,820
+If you compare the share in a national surface,
+
+150
+00:12:28,820 --> 00:12:32,860
+so the size in terms of built up structure,
+
+151
+00:12:32,860 --> 00:12:36,980
+then the complete territory is actually quite small.
+
+152
+00:12:36,980 --> 00:12:42,420
+And you compare that to figures in population,
+
+153
+00:12:42,420 --> 00:12:46,340
+this largely outweigh the share in national territory.
+
+154
+00:12:46,340 --> 00:12:50,860
+And then when you look at the share of these areas in GDP,
+
+155
+00:12:50,860 --> 00:12:52,660
+which is kind of the value,
+
+156
+00:12:52,660 --> 00:12:56,020
+total value of all economic transactions,
+
+157
+00:12:56,020 --> 00:12:58,380
+which is a full measure in many ways,
+
+158
+00:12:58,380 --> 00:13:02,380
+but it's one way of starting to compare national economies.
+
+159
+00:13:02,380 --> 00:13:05,660
+We see that these areas actually
+
+160
+00:13:05,660 --> 00:13:06,580
+point about their rates.
+
+161
+00:13:06,580 --> 00:13:09,980
+So for instance, when you look at the Flemish diamond,
+
+162
+00:13:09,980 --> 00:13:12,900
+to take the Belgian example, 30% of national service,
+
+163
+00:13:12,900 --> 00:13:15,580
+52% of the population lives there,
+
+164
+00:13:15,580 --> 00:13:19,620
+but 63% of all economic activities actually
+
+165
+00:13:19,620 --> 00:13:22,020
+they place there.
+
+166
+00:13:22,020 --> 00:13:25,220
+More striking figures are even there for Paris.
+
+167
+00:13:25,220 --> 00:13:30,780
+London only 1% of the territory about, we
+
+168
+00:13:30,780 --> 00:13:34,620
+could say, 1/10 to 1/5 of the population,
+
+169
+00:13:34,620 --> 00:13:37,900
+but in terms of economic power,
+
+170
+00:13:37,900 --> 00:13:41,820
+especially in the case of Paris, it's way bigger than you
+
+171
+00:13:41,820 --> 00:13:42,780
+would in this.
+
+172
+00:13:42,780 --> 00:13:46,380
+So on large agglomeration and concentration,
+
+173
+00:13:46,380 --> 00:13:48,540
+of you could say economic transactions
+
+174
+00:13:48,540 --> 00:13:51,180
+that is taking place.
+
+175
+00:13:51,180 --> 00:13:53,560
+It also means that a lot of these places
+
+176
+00:13:53,560 --> 00:13:57,780
+tend to be richer than their hinterlands.
+
+177
+00:13:57,780 --> 00:14:01,020
+So it's kind of a runaway process at something
+
+178
+00:14:01,020 --> 00:14:03,500
+when these activities that are taking place there,
+
+179
+00:14:03,500 --> 00:14:05,580
+that generates more wealth per capita.
+
+180
+00:14:05,580 --> 00:14:07,660
+So this is GDP per head.
+
+181
+00:14:07,660 --> 00:14:11,060
+So it divides the value of economic activities
+
+182
+00:14:11,060 --> 00:14:14,540
+by the total population in that city.
+
+183
+00:14:14,540 --> 00:14:19,700
+So typically these places are richer than your pain
+
+184
+00:14:19,700 --> 00:14:24,500
+average and also compared to the rest of the encounter.
+
+185
+00:14:24,500 --> 00:14:26,940
+In that sense, when you look at Brussels,
+
+186
+00:14:26,940 --> 00:14:33,220
+Brussels is, you could say, the richest city in Belgium.
+
+187
+00:14:33,220 --> 00:14:36,620
+In principle, richer than the rest of Belgium.
+
+188
+00:14:36,620 --> 00:14:38,340
+But as we discussed last week, there's
+
+189
+00:14:38,340 --> 00:14:41,220
+a lot of this well actually in leaking to the periphery,
+
+190
+00:14:41,220 --> 00:14:44,620
+which is actually in flawless and mononia.
+
+191
+00:14:44,620 --> 00:14:46,700
+So it doesn't really show when you look at
+
+192
+00:14:46,700 --> 00:14:48,820
+at figures from the press of capital region,
+
+193
+00:14:48,820 --> 00:14:50,380
+but the same would actually apply.
+
+194
+00:14:50,380 --> 00:14:54,460
+Another way of looking at it is that,
+
+195
+00:14:54,460 --> 00:14:56,260
+and this was kind of referred to by
+
+196
+00:14:56,260 --> 00:14:59,460
+the concentration also of ideas innovation people.
+
+197
+00:14:59,460 --> 00:15:02,940
+It's very difficult to measure that.
+
+198
+00:15:02,940 --> 00:15:06,500
+One way of doing it is looking at patents, right?
+
+199
+00:15:06,500 --> 00:15:08,780
+Which is a kind of certification,
+
+200
+00:15:08,780 --> 00:15:13,780
+legal certification that something has been invented in one area or another,
+
+201
+00:15:13,780 --> 00:15:18,780
+a COVID vaccine, some kind of a chick, an algorithm, whatever.
+
+202
+00:15:18,780 --> 00:15:21,780
+And it has intellectual property on it.
+
+203
+00:15:21,780 --> 00:15:23,780
+So, and it can be commercialized in one way or not.
+
+204
+00:15:23,780 --> 00:15:29,780
+But it's a very, you could say, post hoc, exposed kind of measurement of places.
+
+205
+00:15:29,780 --> 00:15:32,780
+And there, there, there, a measure of innovation.
+
+206
+00:15:32,780 --> 00:15:35,780
+But it's a way to compare different areas.
+
+207
+00:15:35,780 --> 00:15:43,120
+What you see is that here it's a bit more mixed, a few, for instance, in France, you
+
+208
+00:15:43,120 --> 00:15:49,500
+see that Paris is actually outperforming the rest of the country.
+
+209
+00:15:49,500 --> 00:15:54,860
+This is far less the case in the UK, but it is the case in France's "The Flammish
+
+210
+00:15:54,860 --> 00:15:55,860
+Dark."
+
+211
+00:15:55,860 --> 00:16:01,860
+It's a bit more of a bit mixed picture, but we see that in general there's a tendency
+
+212
+00:16:01,860 --> 00:16:04,400
+to locate, you could say, innovative processes
+
+213
+00:16:04,400 --> 00:16:06,700
+as evidence to battles.
+
+214
+00:16:06,700 --> 00:16:10,300
+There's a lot of innovation that is not being measured here,
+
+215
+00:16:10,300 --> 00:16:12,860
+no social innovation, for instance.
+
+216
+00:16:12,860 --> 00:16:16,280
+It's really linked to technologies, high-end services
+
+217
+00:16:16,280 --> 00:16:18,620
+and these.
+
+218
+00:16:18,620 --> 00:16:24,180
+When you look at the structure of labor market,
+
+219
+00:16:24,180 --> 00:16:26,940
+you see that typically metropolitan areas
+
+220
+00:16:26,940 --> 00:16:34,860
+These also show a higher share of highly educated, highly educated work.
+
+221
+00:16:34,860 --> 00:16:41,620
+So substantially bigger, say in the delta metropolis,
+
+222
+00:16:41,620 --> 00:16:46,500
+it's 30% of highly educated people compared
+
+223
+00:16:46,500 --> 00:16:49,820
+to more or less 20% in the rest of the netlands.
+
+224
+00:16:49,820 --> 00:16:53,220
+And you can have a look at the other cities
+
+225
+00:16:53,220 --> 00:16:54,620
+to see how it fits.
+
+226
+00:16:54,620 --> 00:16:57,660
+So a different kind of labor market structure,
+
+227
+00:16:57,660 --> 00:17:00,260
+which tells us something about the kinds of activities
+
+228
+00:17:00,260 --> 00:17:01,940
+that are probably taking place there.
+
+229
+00:17:01,940 --> 00:17:08,100
+And another indicator there is when you look at
+
+230
+00:17:08,100 --> 00:17:11,980
+the employment figures across different kinds of sectors.
+
+231
+00:17:11,980 --> 00:17:15,740
+So there's the three sector model
+
+232
+00:17:15,740 --> 00:17:19,420
+that's agriculture industry and services.
+
+233
+00:17:19,420 --> 00:17:23,340
+And we see that obviously agriculture is very small,
+
+234
+00:17:23,340 --> 00:17:26,180
+but that's a constant everywhere,
+
+235
+00:17:26,180 --> 00:17:29,420
+but that there's a significant large share
+
+236
+00:17:29,420 --> 00:17:32,980
+and services in these metropolitan areas
+
+237
+00:17:32,980 --> 00:17:35,180
+than in the rest of the country.
+
+238
+00:17:35,180 --> 00:17:37,740
+So it's, these are places that are not marked
+
+239
+00:17:37,740 --> 00:17:41,260
+by industry, but by service economies.
+
+240
+00:17:41,260 --> 00:17:45,020
+So these are just a number of exhibits
+
+241
+00:17:45,020 --> 00:17:47,980
+that tell you something about the economic importance,
+
+242
+00:17:47,980 --> 00:17:52,020
+but it doesn't really tell you why these places are important.
+
+243
+00:17:52,020 --> 00:17:55,500
+It's just kind of a hint that something is going on.
+
+244
+00:17:55,500 --> 00:17:59,580
+And actually you already mentioned quite a few ideas
+
+245
+00:17:59,580 --> 00:18:02,100
+of how we can theorize the centrality
+
+246
+00:18:02,100 --> 00:18:05,380
+or at least conceptualize the centrality and power
+
+247
+00:18:05,380 --> 00:18:08,180
+in off cities in the global economy.
+
+248
+00:18:08,180 --> 00:18:14,300
+One of the main texts that is in the reader for this week
+
+249
+00:18:14,300 --> 00:18:16,900
+was this relatively hypothesis by John
+
+250
+00:18:16,900 --> 00:18:21,660
+to throw red it so you can just interrupt me
+
+251
+00:18:21,660 --> 00:18:24,460
+if you want to interject something.
+
+252
+00:18:24,460 --> 00:18:26,740
+But I just want to give you a number of notes
+
+253
+00:18:26,740 --> 00:18:31,300
+of my personal notes on what John Friedman was actually
+
+254
+00:18:31,300 --> 00:18:33,100
+writing about.
+
+255
+00:18:33,100 --> 00:18:38,460
+So a bit of context to this thesis or high hypothesis,
+
+256
+00:18:38,460 --> 00:18:43,220
+it's a hypothesis that groups a number of observations
+
+257
+00:18:43,220 --> 00:18:46,940
+from the 1980s tries to come up with a bit of a research
+
+258
+00:18:46,940 --> 00:18:51,140
+a gentle, that meets empirical testing.
+
+259
+00:18:51,140 --> 00:18:52,140
+Right?
+
+260
+00:18:52,140 --> 00:18:54,420
+But you need to understand a bit more of this context
+
+261
+00:18:54,420 --> 00:18:56,540
+of the 1980s.
+
+262
+00:18:56,540 --> 00:19:00,300
+People of my age have to have the habit of starting history
+
+263
+00:19:00,300 --> 00:19:03,100
+in the 1980s, because it was the decade they were born.
+
+264
+00:19:03,100 --> 00:19:04,940
+If I was 10 years older, I was probably
+
+265
+00:19:04,940 --> 00:19:06,540
+going to refer the 1970s.
+
+266
+00:19:06,540 --> 00:19:10,940
+But as a toddler, this was my context, right?
+
+267
+00:19:10,940 --> 00:19:16,140
+So you have to remember that 1980s was this emerging kind
+
+268
+00:19:16,140 --> 00:19:24,860
+idea that we would experience the end of the city. It was the rise of information and
+
+269
+00:19:24,860 --> 00:19:30,380
+communication technology on a very democratic large scale, not yet the internet, but that was
+
+270
+00:19:30,380 --> 00:19:37,740
+emerging in the 1990s and being democratized, cheap mass transportation became very cheap to fly around
+
+271
+00:19:37,740 --> 00:19:46,700
+the world, shipping became something that was very affordable and what we kind of see is a complete
+
+272
+00:19:46,700 --> 00:19:54,140
+restructuring of the economy, this kind of reaching its high day in the 1980s. It was already going
+
+273
+00:19:54,140 --> 00:20:01,500
+on in the 60s and 70s, but by the 1980s what became obvious is that we are in a new situation,
+
+274
+00:20:02,380 --> 00:20:09,660
+which we'd call the new international division of labor with new kinds of geographies of production,
+
+275
+00:20:09,660 --> 00:20:16,620
+much more to the global east and far less centered on the old industrial areas in,
+
+276
+00:20:16,620 --> 00:20:22,620
+say, European and America, what we've been discussing last week. And we see that this new
+
+277
+00:20:22,620 --> 00:20:30,540
+centrality of cities need theorize. If cities are not the places where a lot of goods are produced
+
+278
+00:20:30,540 --> 00:20:35,580
+and hence where you get some kind of a trade surplus when you start trading these commodities,
+
+279
+00:20:35,580 --> 00:20:40,780
+say textiles, etc. with other places in the world. What is then the kind of source of power
+
+280
+00:20:40,780 --> 00:20:46,620
+that cities actually hold? And what John Friedman comes up with is a look to answer this question.
+
+281
+00:20:46,620 --> 00:20:52,220
+We have to look at how cities are actually being inserted. And indeed an urban system that is not
+
+282
+00:20:52,220 --> 00:20:58,140
+only national but a separate national is actually a global urban system. You have to understand it
+
+283
+00:20:58,140 --> 00:21:04,860
+And most in the 1970s, a lot of the tradition in urban geography was looking at urban systems
+
+284
+00:21:04,860 --> 00:21:06,380
+in a very nationalist way.
+
+285
+00:21:06,380 --> 00:21:08,460
+It was a methodological nationalism.
+
+286
+00:21:08,460 --> 00:21:09,940
+It was looking at Argentina.
+
+287
+00:21:09,940 --> 00:21:13,060
+You have Buenos Aires, which was the central city.
+
+288
+00:21:13,060 --> 00:21:15,100
+And then you had a number of smaller towns.
+
+289
+00:21:15,100 --> 00:21:18,540
+But there was a huge concentration there.
+
+290
+00:21:18,540 --> 00:21:24,500
+And it left to some blind spot, as to what actually the position of these cities were
+
+291
+00:21:24,500 --> 00:21:28,140
+and processes that went beyond national economies.
+
+292
+00:21:28,140 --> 00:21:31,860
+And as these processes became ever more prominent,
+
+293
+00:21:31,860 --> 00:21:34,260
+it requested a huge--
+
+294
+00:21:34,260 --> 00:21:37,460
+you could say conceptual innovation that started
+
+295
+00:21:37,460 --> 00:21:40,220
+to emerge in 1970s and it is hence
+
+296
+00:21:40,220 --> 00:21:44,860
+the importance of freedom theorizing, conceptualizing
+
+297
+00:21:44,860 --> 00:21:46,700
+about world city.
+
+298
+00:21:46,700 --> 00:21:51,020
+So a global urban system and the kind of main underlying
+
+299
+00:21:51,020 --> 00:21:52,660
+hypothesis-- sorry, yes.
+
+300
+00:21:52,660 --> 00:22:02,820
+So the last part, what I was saying is that you have processes of globalization, which means
+
+301
+00:22:02,820 --> 00:22:09,200
+that the way that urban geographers were looking at urban systems, the king obsolete
+
+302
+00:22:09,200 --> 00:22:10,200
+in one way or another.
+
+303
+00:22:10,200 --> 00:22:17,540
+They were mostly linked to how economies were functioning at the national scale, looking
+
+304
+00:22:17,540 --> 00:22:21,200
+into, could say, where productivity is located, how could we
+
+305
+00:22:21,200 --> 00:22:24,760
+get flows organized, how capital flows, etc.
+
+306
+00:22:24,760 --> 00:22:33,320
+But as an increased share of the economy became, you could say, international or transnational.
+
+307
+00:22:33,320 --> 00:22:37,920
+Yes, the first thing that needed to happen was some kind of a conceptual framework or apparatus
+
+308
+00:22:37,920 --> 00:22:41,520
+that allowed to understand centrality at a different level.
+
+309
+00:22:41,520 --> 00:22:45,560
+But differently, instead of talking about national urban systems, people started talking
+
+310
+00:22:45,560 --> 00:22:52,440
+about global urban systems. But looking at centralities. So what
+
+311
+00:22:52,440 --> 00:22:58,040
+freedom kind of started to argue also on the basis of his reading of David
+
+312
+00:22:58,040 --> 00:23:03,120
+Harvey in 1970's Ammano Acastels is that we can only understand what goes on in
+
+313
+00:23:03,120 --> 00:23:07,560
+cities if we relate that to the position of these places in this global
+
+314
+00:23:07,560 --> 00:23:11,320
+urban system. So it's the kind of their function that they take in the global
+
+315
+00:23:11,320 --> 00:23:15,520
+economy or rather in this global urban system that will have to explain
+
+316
+00:23:15,520 --> 00:23:23,120
+what we find in certain places. Turn around on the other side of that corn is that this global
+
+317
+00:23:23,120 --> 00:23:29,120
+urban system or this global economy can also be embarked explained through what is going on in
+
+318
+00:23:29,120 --> 00:23:35,280
+P global cities or in this case world cities. We use the terminology. So, it's the processes that
+
+319
+00:23:35,280 --> 00:23:40,720
+emerge and are steered and controlled from these places that will have an impact on them.
+
+320
+00:23:41,680 --> 00:23:45,040
+larger macro processes in the global economy.
+
+321
+00:23:45,040 --> 00:23:48,280
+So that's kind of this dialectic global system,
+
+322
+00:23:48,280 --> 00:23:52,240
+macro level urban system world cities,
+
+323
+00:23:52,240 --> 00:23:56,240
+and they're kind of co-productive or co-constitative.
+
+324
+00:23:56,240 --> 00:24:02,680
+So one of the main excerpts are key observed excerpts there
+
+325
+00:24:02,680 --> 00:24:05,240
+from his world to the hypothesis, which is kind of very point
+
+326
+00:24:05,240 --> 00:24:08,160
+is key cities throughout the world are used
+
+327
+00:24:08,160 --> 00:24:10,120
+by global capital as basing points
+
+328
+00:24:10,120 --> 00:24:12,760
+in the spatial organization and articulation
+
+329
+00:24:12,760 --> 00:24:13,960
+of production and markets.
+
+330
+00:24:13,960 --> 00:24:17,040
+The resulting linkages make it possible to arrange a world
+
+331
+00:24:17,040 --> 00:24:19,480
+cities into a complex spatial hierarchy.
+
+332
+00:24:19,480 --> 00:24:25,840
+So it's about appreciating how indeed capital is--
+
+333
+00:24:25,840 --> 00:24:28,280
+and its actors--
+
+334
+00:24:28,280 --> 00:24:32,320
+is kind of basing itself in cities as they organize
+
+335
+00:24:32,320 --> 00:24:37,400
+global production and commercial activities.
+
+336
+00:24:37,400 --> 00:24:39,400
+So that was kind of the main focus.
+
+337
+00:24:39,400 --> 00:24:42,840
+And if we understand that, we will start explaining
+
+338
+00:24:42,840 --> 00:24:46,600
+why certain places are important and others less,
+
+339
+00:24:46,600 --> 00:24:50,360
+and why some cities are dependent on this process,
+
+340
+00:24:50,360 --> 00:24:53,240
+and why others are actually powerful.
+
+341
+00:24:53,240 --> 00:24:59,120
+So yeah, as I said, it's a period of view economic restructuring.
+
+342
+00:24:59,120 --> 00:25:03,760
+The laws of a lot of functions that were typically taking place
+
+343
+00:25:03,760 --> 00:25:06,760
+in cities, and I mean, John Friedman was writing
+
+344
+00:25:06,760 --> 00:25:12,160
+from Los Angeles, which was a very production-centered town
+
+345
+00:25:12,160 --> 00:25:13,480
+or city.
+
+346
+00:25:13,480 --> 00:25:15,320
+And it was losing functions.
+
+347
+00:25:15,320 --> 00:25:18,760
+What he observed was still a huge concentration
+
+348
+00:25:18,760 --> 00:25:24,720
+of skyscrapers, portraits, head porches.
+
+349
+00:25:24,720 --> 00:25:27,000
+But production had long left.
+
+350
+00:25:27,000 --> 00:25:30,440
+So this kind of conundrum was how do we explain that?
+
+351
+00:25:30,440 --> 00:25:32,440
+How do we make sense?
+
+352
+00:25:32,440 --> 00:25:35,200
+And indeed, as I've been explaining,
+
+353
+00:25:35,200 --> 00:25:39,280
+you had as the new international division of labor activities
+
+354
+00:25:39,280 --> 00:25:44,200
+that were being off-short to other parts of the globe.
+
+355
+00:25:44,200 --> 00:25:48,840
+And the emergence of a new set of enterprises, corporations,
+
+356
+00:25:48,840 --> 00:25:52,080
+multinational corporations, if you could say,
+
+357
+00:25:52,080 --> 00:25:54,840
+an American firm would be globalizing
+
+358
+00:25:54,840 --> 00:25:58,440
+or multinational corporations where it was actually kind of hard
+
+359
+00:25:58,440 --> 00:26:00,240
+to still identify to what extent
+
+360
+00:26:00,240 --> 00:26:01,920
+they were still connected with some territory.
+
+361
+00:26:01,920 --> 00:26:03,120
+Yes?
+
+362
+00:26:03,120 --> 00:26:08,120
+Let me say that the production activity has low left.
+
+363
+00:26:08,120 --> 00:26:11,120
+What is the expectation of these production activities?
+
+364
+00:26:11,120 --> 00:26:15,120
+I mean, it was the question when I was reading the text.
+
+365
+00:26:15,120 --> 00:26:18,280
+- Yeah, I mean, obviously it would depend on the city
+
+366
+00:26:18,280 --> 00:26:22,480
+that we're talking about, but think about what happens
+
+367
+00:26:22,480 --> 00:26:25,400
+in cities like Brussels, I mean textile industry,
+
+368
+00:26:25,400 --> 00:26:30,960
+all kinds of production facilities for consumer goods
+
+369
+00:26:30,960 --> 00:26:32,200
+that were initially
+
+370
+00:26:32,200 --> 00:26:35,200
+I mean, think about washing machines,
+
+371
+00:26:35,200 --> 00:26:38,200
+in editing that you use in the kitchen.
+
+372
+00:26:38,200 --> 00:26:43,200
+These were typically produced in the post-door era
+
+373
+00:26:43,200 --> 00:26:47,200
+in, you could say, the high income industrialized countries.
+
+374
+00:26:47,200 --> 00:26:51,200
+But because there was, you could say, pressure on the profitability
+
+375
+00:26:51,200 --> 00:26:55,200
+of these activities, because the wages were rather high.
+
+376
+00:26:55,200 --> 00:26:59,200
+These activities were offshore by a national,
+
+377
+00:26:59,200 --> 00:27:02,840
+emotional and not in national corporations.
+
+378
+00:27:02,840 --> 00:27:06,280
+And one of the main motivations was the search
+
+379
+00:27:06,280 --> 00:27:08,160
+for lower wages.
+
+380
+00:27:08,160 --> 00:27:13,320
+Or you could say, let's regulate labor markets
+
+381
+00:27:13,320 --> 00:27:17,640
+than what was occurring in the traditional industrial areas.
+
+382
+00:27:17,640 --> 00:27:18,640
+Yes?
+
+383
+00:27:18,640 --> 00:27:20,640
+[INAUDIBLE]
+
+384
+00:27:20,640 --> 00:27:22,640
+[INAUDIBLE]
+
+385
+00:27:22,640 --> 00:27:24,520
+You make other countries, others.
+
+386
+00:27:24,520 --> 00:27:28,440
+and this bill is in just one thing,
+
+387
+00:27:28,440 --> 00:27:31,440
+all the other firms are the big things.
+
+388
+00:27:31,440 --> 00:27:36,520
+So, so they need to be for a different experience
+
+389
+00:27:36,520 --> 00:27:39,120
+and moving everything in the world
+
+390
+00:27:39,120 --> 00:27:42,360
+to have kind of summer.
+
+391
+00:27:42,360 --> 00:27:44,640
+- Yes, yeah, indeed.
+
+392
+00:27:44,640 --> 00:27:47,840
+I mean, and sometimes a little bit of confusion there
+
+393
+00:27:47,840 --> 00:27:50,120
+because people sometimes say, okay,
+
+394
+00:27:50,120 --> 00:27:54,440
+the industrial activities shifted to the periphery.
+
+395
+00:27:54,440 --> 00:27:55,920
+So I think in the first instance,
+
+396
+00:27:55,920 --> 00:27:57,920
+it's the initial periphery of the city.
+
+397
+00:27:57,920 --> 00:27:59,960
+I mean, the volume is suburbs.
+
+398
+00:27:59,960 --> 00:28:02,200
+But I think even, and it had something to do with,
+
+399
+00:28:02,200 --> 00:28:03,680
+you can say more,
+
+400
+00:28:03,680 --> 00:28:06,400
+the urban geographies, the land trends,
+
+401
+00:28:06,400 --> 00:28:08,440
+the ground prices in cities,
+
+402
+00:28:08,440 --> 00:28:11,200
+because it's, I mean, in large surfaces.
+
+403
+00:28:11,200 --> 00:28:14,400
+And it's easier to organize the rifries,
+
+404
+00:28:14,400 --> 00:28:16,640
+but at the later stage, they would basically,
+
+405
+00:28:16,640 --> 00:28:19,800
+I mean, these activities were either cut
+
+406
+00:28:19,800 --> 00:28:21,760
+because of investment and technology
+
+407
+00:28:21,760 --> 00:28:23,360
+and because you needed less jobs.
+
+408
+00:28:23,360 --> 00:28:30,360
+to make the same products and for there were shifted to other places around the globe.
+
+409
+00:28:30,360 --> 00:28:34,360
+So this is kind of what started to occur.
+
+410
+00:28:34,360 --> 00:28:38,360
+I mean some people even in some industries it was already in the 1950s.
+
+411
+00:28:38,360 --> 00:28:41,360
+This didn't happen over a day.
+
+412
+00:28:41,360 --> 00:28:49,360
+But it culminated if you were in the 70s and then the early 80s, which was a period of crisis in a lot of cities.
+
+413
+00:28:49,360 --> 00:28:53,280
+So, yeah, this new type of corporate,
+
+414
+00:28:53,280 --> 00:28:55,280
+actable to national corporations,
+
+415
+00:28:55,280 --> 00:28:57,120
+transnational corporations,
+
+416
+00:28:57,120 --> 00:29:00,400
+and how they organize global production networks.
+
+417
+00:29:00,400 --> 00:29:02,640
+So, a production network that used to be
+
+418
+00:29:02,640 --> 00:29:04,520
+kind of regionalized,
+
+419
+00:29:04,520 --> 00:29:07,040
+or nationalized in one way or another,
+
+420
+00:29:07,040 --> 00:29:09,320
+relied on local suppliers,
+
+421
+00:29:09,320 --> 00:29:10,800
+ended up being global.
+
+422
+00:29:10,800 --> 00:29:15,520
+I mean, if you have tried to order a bike in the past one year,
+
+423
+00:29:15,520 --> 00:29:17,600
+you know what it means to depend on
+
+424
+00:29:17,600 --> 00:29:25,120
+global supply chains or production networks, it's just an intensely fine-tuned process.
+
+425
+00:29:25,120 --> 00:29:31,600
+If anything goes wrong, I don't know, a tanker blocking the Suez Canal or something.
+
+426
+00:29:31,600 --> 00:29:37,760
+It's a precarious situation, but that's the kind of reality global supply chains.
+
+427
+00:29:37,760 --> 00:29:42,000
+And it's a part of the economy that's extremely dominated by these multinational corporations.
+
+428
+00:29:42,000 --> 00:29:47,600
+just some figures. I mean, there's a timeline there in 1960, there's about 66 billion.
+
+429
+00:29:47,600 --> 00:29:54,160
+What was kind of foreign direct investment, sort of for the technical terms here, but it means
+
+430
+00:29:54,160 --> 00:30:01,040
+direct investment in setting up factories. So you build a plant somewhere else,
+
+431
+00:30:01,040 --> 00:30:07,760
+so like Mercedes-Benz builds a plant in Korea or something, I'm not sure if they did.
+
+432
+00:30:08,880 --> 00:30:12,280
+are two-yota builds of plans in Texas.
+
+433
+00:30:12,280 --> 00:30:14,800
+In this kind of foreign direct investment logic,
+
+434
+00:30:14,800 --> 00:30:16,680
+M, it boom basically.
+
+435
+00:30:16,680 --> 00:30:19,360
+And you look at the figure of the 2016,
+
+436
+00:30:19,360 --> 00:30:21,800
+I could update that, I should probably do that.
+
+437
+00:30:21,800 --> 00:30:23,800
+About the third of the global economy
+
+438
+00:30:23,800 --> 00:30:27,960
+is actually equivalent to these,
+
+439
+00:30:27,960 --> 00:30:29,360
+and the I think, yes.
+
+440
+00:30:29,360 --> 00:30:34,040
+Foreign direct investment.
+
+441
+00:30:34,040 --> 00:30:35,920
+It's not too important,
+
+442
+00:30:35,920 --> 00:30:38,280
+but you just have to understand
+
+443
+00:30:38,280 --> 00:30:41,920
+that this is a measure of transnational flows.
+
+444
+00:30:41,920 --> 00:30:45,920
+So it's a measure of what part of the economy
+
+445
+00:30:45,920 --> 00:30:50,920
+is not local but is actually global or transnational.
+
+446
+00:30:50,920 --> 00:30:54,680
+And it relates to the investment activities
+
+447
+00:30:54,680 --> 00:31:00,720
+while large corporations to set up greenfield investments
+
+448
+00:31:00,720 --> 00:31:01,840
+as a skull.
+
+449
+00:31:01,840 --> 00:31:05,680
+So imagine a greenfield where you put into factory
+
+450
+00:31:05,680 --> 00:31:13,920
+those such as Brownfield redevelopment, which is an ex-site, which is then a refurbished
+
+451
+00:31:13,920 --> 00:31:15,440
+or one way or another.
+
+452
+00:31:15,440 --> 00:31:19,000
+Okay, so these are those kind of activities.
+
+453
+00:31:19,000 --> 00:31:26,920
+So 90% of this global economy of this FDI is concentrated in these multinational corporations
+
+454
+00:31:26,920 --> 00:31:29,040
+and slowly getting to my point here.
+
+455
+00:31:29,040 --> 00:31:35,560
+This is also why John Freeman was looking at multinational corporations and their geographies
+
+456
+00:31:35,560 --> 00:31:39,000
+to identify and conceptualize world cities.
+
+457
+00:31:39,000 --> 00:31:40,780
+So for jump treatment,
+
+458
+00:31:40,780 --> 00:31:44,400
+treatment at the cities where a lot of these headquarters
+
+459
+00:31:44,400 --> 00:31:48,180
+by these international corporations were located,
+
+460
+00:31:48,180 --> 00:31:51,640
+were, I mean, those were those cities
+
+461
+00:31:51,640 --> 00:31:53,520
+that they identified as world cities.
+
+462
+00:31:53,520 --> 00:31:57,320
+So since they saw important in the global ecosystem.
+
+463
+00:31:57,320 --> 00:31:58,320
+Okay.
+
+464
+00:31:58,320 --> 00:32:02,360
+So as he says, world cities are then to be sites
+
+465
+00:32:02,360 --> 00:32:04,720
+for command and control.
+
+466
+00:32:04,720 --> 00:32:06,920
+And he really saw these corporate headquarters
+
+467
+00:32:06,920 --> 00:32:10,280
+as the place is that controls and command it
+
+468
+00:32:10,280 --> 00:32:13,640
+in various ways, either to governance systems
+
+469
+00:32:13,640 --> 00:32:17,400
+by decision making, by the internal structure,
+
+470
+00:32:17,400 --> 00:32:21,120
+how global production was being organized.
+
+471
+00:32:21,120 --> 00:32:23,920
+And his kind of methodological hypothesis
+
+472
+00:32:23,920 --> 00:32:29,400
+was if we map these headquarter geographies,
+
+473
+00:32:29,400 --> 00:32:33,560
+we will actually be able to map the global urban system.
+
+474
+00:32:33,560 --> 00:32:40,040
+And we'll also understand the relation between different kind of cities as to who controls
+
+475
+00:32:40,040 --> 00:32:41,280
+what.
+
+476
+00:32:41,280 --> 00:32:45,520
+So it's a way to look at the power in this global urban network.
+
+477
+00:32:45,520 --> 00:32:50,560
+Some places are more dominant, hold more command and control functions than others.
+
+478
+00:32:50,560 --> 00:32:51,560
+Okay.
+
+479
+00:32:51,560 --> 00:32:57,640
+So I then came up with this map or cartogram or whatever you want to call it.
+
+480
+00:32:57,640 --> 00:33:02,720
+And yeah, it's certainly dated because Soviet Union is still on there and it's not
+
+481
+00:33:02,720 --> 00:33:07,720
+not part of this figure, which is also debatable.
+
+482
+00:33:07,720 --> 00:33:11,400
+Maybe there were not, I mean, say,
+
+483
+00:33:11,400 --> 00:33:14,680
+your American corporate headquarters there,
+
+484
+00:33:14,680 --> 00:33:16,520
+but for sure there were links,
+
+485
+00:33:16,520 --> 00:33:21,520
+even with the Soviet Union and capitalist countries, for sure.
+
+486
+00:33:21,520 --> 00:33:25,440
+But the whole point is that what Friedman actually does here
+
+487
+00:33:25,440 --> 00:33:30,440
+is translate the critical tradition of world systems theory,
+
+488
+00:33:31,880 --> 00:33:34,560
+which is a way to explain uneven development
+
+489
+00:33:34,560 --> 00:33:37,800
+in the global economy to an urban framework.
+
+490
+00:33:37,800 --> 00:33:41,160
+So it identifies three kind of areas, globalization,
+
+491
+00:33:41,160 --> 00:33:44,400
+arenas, if you will, one centered on Asia,
+
+492
+00:33:44,400 --> 00:33:47,480
+one on North America, one on Western Europe.
+
+493
+00:33:47,480 --> 00:33:50,200
+And typically, it finds a power balance
+
+494
+00:33:50,200 --> 00:33:55,040
+where you have powerful cities with a lot of corporate headquarters
+
+495
+00:33:55,040 --> 00:33:58,040
+in, you could say, the northern part of the hemisphere
+
+496
+00:33:58,040 --> 00:34:01,760
+and more, you could say, subordinate roles
+
+497
+00:34:01,760 --> 00:34:03,920
+for countries in the global south.
+
+498
+00:34:03,920 --> 00:34:06,960
+So when you, for instance, look at Northern America,
+
+499
+00:34:06,960 --> 00:34:09,680
+you have Los Angeles, Chicago, and New York,
+
+500
+00:34:09,680 --> 00:34:13,160
+which are identified as core cities with a lot of headquarters.
+
+501
+00:34:13,160 --> 00:34:16,800
+And they're kind of organizational networks
+
+502
+00:34:16,800 --> 00:34:19,000
+stretch to the global periphery.
+
+503
+00:34:19,000 --> 00:34:21,440
+So there's connections with the Rio de Janeiro, for instance,
+
+504
+00:34:21,440 --> 00:34:23,080
+Buenos Aires.
+
+505
+00:34:23,080 --> 00:34:26,880
+And these are kind of semi peripheral cities
+
+506
+00:34:26,880 --> 00:34:30,000
+who also hold command and control functions
+
+507
+00:34:30,000 --> 00:34:34,880
+and headquarters, they're oriented towards these centers
+
+508
+00:34:34,880 --> 00:34:38,440
+in the global north, could be that there are subsidiaries
+
+509
+00:34:38,440 --> 00:34:41,760
+of large corporations that are organized in such a concept.
+
+510
+00:34:41,760 --> 00:34:45,040
+So it's a way to explain how power is distributed
+
+511
+00:34:45,040 --> 00:34:47,560
+in this global urban system, and also starts
+
+512
+00:34:47,560 --> 00:34:52,280
+to explain why perhaps some places benefit more
+
+513
+00:34:52,280 --> 00:34:55,720
+from this integration in the global urban system than others.
+
+514
+00:34:55,720 --> 00:35:00,040
+So it would probably lead to an accumulation of wealth
+
+515
+00:35:00,040 --> 00:35:03,480
+in cities in the global north, to some extent,
+
+516
+00:35:03,480 --> 00:35:06,520
+also in the Senate periphery, think about Rio de Janeiro.
+
+517
+00:35:06,520 --> 00:35:08,840
+But at the same time, it would also work
+
+518
+00:35:08,840 --> 00:35:12,160
+as some kind of a funnel of siphon
+
+519
+00:35:12,160 --> 00:35:16,960
+off a siphon actually of surface toward the global north.
+
+520
+00:35:16,960 --> 00:35:21,200
+For instance, a US corporation producing stuff
+
+521
+00:35:21,200 --> 00:35:27,920
+energy, data, in part there will be benefits locally but at the same time there will also
+
+522
+00:35:27,920 --> 00:35:32,360
+be an extraction of surface value to the global market.
+
+523
+00:35:32,360 --> 00:35:38,200
+So it's also a way to understand, believe in this global economy.
+
+524
+00:35:38,200 --> 00:35:44,320
+I know it's a lot, sometimes a lot of economic terms but just to give you an idea, a
+
+525
+00:35:44,320 --> 00:35:49,920
+restructured global economy and the imaginary of a global urban system and city-staking
+
+526
+00:35:49,920 --> 00:35:56,160
+and different role in that on the basis of their command and control functions which
+
+527
+00:35:56,160 --> 00:36:03,840
+frequently defines as headquarters functions. So that's world cities. World cities,
+
+528
+00:36:03,840 --> 00:36:09,200
+corporate headquarters, command and control. I'm just giving you a number of key concepts there.
+
+529
+00:36:09,200 --> 00:36:15,520
+A second way of theorizing it is, and that's why I also have the other texts,
+
+530
+00:36:15,520 --> 00:36:21,600
+I could have given you the entire book, the Global City, but it would have taken you a week,
+
+531
+00:36:21,600 --> 00:36:26,960
+probably, or at least a few days to actually read it. It's still in flight to Dusso, but it's a kind of
+
+532
+00:36:26,960 --> 00:36:34,720
+shorter kind of version of the argument, which kind of explains what centrality is to
+
+533
+00:36:34,720 --> 00:36:40,880
+Saskia Susson. Okay, but I'll give you a bit more context by referring also to her book,
+
+534
+00:36:40,880 --> 00:36:44,640
+the global city. So one of, you could say, what has been
+
+535
+00:36:44,640 --> 00:36:48,400
+argued to be one of the seminal pieces talking about cities in
+
+536
+00:36:48,400 --> 00:36:52,880
+globalization, it starts kind of from the same rooms as
+
+537
+00:36:52,880 --> 00:36:56,560
+Richmond. I mean, it had been a very intense conversation in
+
+538
+00:36:56,560 --> 00:37:00,640
+the 1980s about what is going on with cities, they have
+
+539
+00:37:00,640 --> 00:37:03,280
+shifting functions, they're faced with the industrialization,
+
+540
+00:37:03,280 --> 00:37:08,240
+etc. There's also fiscal crisis of the local state. A lot of
+
+541
+00:37:08,240 --> 00:37:12,000
+cities were in trouble if you saw the movie.
+
+542
+00:37:12,000 --> 00:37:14,800
+Pixie Driver with the young Robert Teneiro,
+
+543
+00:37:14,800 --> 00:37:20,040
+he's driving around the relaxed New York in a city
+
+544
+00:37:20,040 --> 00:37:21,320
+neighborhoods are in trouble.
+
+545
+00:37:21,320 --> 00:37:23,800
+There's a lot of blight.
+
+546
+00:37:23,800 --> 00:37:26,960
+So cities were struggling to think about what
+
+547
+00:37:26,960 --> 00:37:30,640
+our functions could be and what is going on, especially
+
+548
+00:37:30,640 --> 00:37:34,200
+in 1970s, is a complete restructuring of these urban
+
+549
+00:37:34,200 --> 00:37:35,240
+economies.
+
+550
+00:37:35,240 --> 00:37:38,840
+So for Susson, it's less only about, you could say,
+
+551
+00:37:38,840 --> 00:37:41,720
+new command and control function about headquarters.
+
+552
+00:37:41,720 --> 00:37:44,920
+She looks at the complete restructuring of urban economies
+
+553
+00:37:44,920 --> 00:37:46,960
+from, you could say, manufacturing jobs
+
+554
+00:37:46,960 --> 00:37:48,480
+to service economies.
+
+555
+00:37:48,480 --> 00:37:54,360
+So we already saw that the majority of economic activities
+
+556
+00:37:54,360 --> 00:37:56,920
+in metropolitan areas are services.
+
+557
+00:37:56,920 --> 00:38:01,240
+But she particularly focuses on a particular subset
+
+558
+00:38:01,240 --> 00:38:06,640
+of these services, which equals advanced producer services.
+
+559
+00:38:06,640 --> 00:38:08,720
+So in the coming months, you will probably
+
+560
+00:38:08,720 --> 00:38:11,360
+start to hate the notion of advanced producer
+
+561
+00:38:11,360 --> 00:38:15,320
+services or being treated by it.
+
+562
+00:38:15,320 --> 00:38:16,440
+But it's a kind of--
+
+563
+00:38:16,440 --> 00:38:18,120
+I mean, you probably never heard about it.
+
+564
+00:38:18,120 --> 00:38:21,800
+A night of the day I, before I ever read about it.
+
+565
+00:38:21,800 --> 00:38:27,080
+But it tells it's kind of trying to capture those very
+
+566
+00:38:27,080 --> 00:38:30,240
+sophisticated, if you will, professional services
+
+567
+00:38:30,240 --> 00:38:33,520
+and service inputs for other firms.
+
+568
+00:38:33,520 --> 00:38:37,560
+So in themselves, they don't really produce much.
+
+569
+00:38:37,560 --> 00:38:39,720
+But still, their input is very important
+
+570
+00:38:39,720 --> 00:38:41,480
+for other corporations.
+
+571
+00:38:41,480 --> 00:38:43,900
+Think about financial services,
+
+572
+00:38:43,900 --> 00:38:47,600
+law, management, consultancy, accounting,
+
+573
+00:38:47,600 --> 00:38:50,720
+and auditing, advertising, et cetera, et cetera.
+
+574
+00:38:50,720 --> 00:38:53,800
+So these are not really producing things
+
+575
+00:38:53,800 --> 00:38:57,960
+that you can buy and consume at some point.
+
+576
+00:38:59,000 --> 00:39:01,720
+This is actually very knowledge intensive,
+
+577
+00:39:01,720 --> 00:39:05,320
+sometimes it's also called knowledge intensive business services,
+
+578
+00:39:05,320 --> 00:39:08,160
+which are kind of consumed as the art produced.
+
+579
+00:39:08,160 --> 00:39:13,160
+So legal advice is kind of produced in face-to-face meetings.
+
+580
+00:39:13,160 --> 00:39:19,480
+Think about a corporation that wants to set up a shop
+
+581
+00:39:19,480 --> 00:39:24,040
+or a plant or an investment in China, a European firm.
+
+582
+00:39:24,040 --> 00:39:41,040
+Probably you want to check, I think we are too, with a large international law firm that can give you a lot of experience as to what the regulations are for investment and other China.
+
+583
+00:39:41,040 --> 00:39:44,880
+you would need dedicated financial services.
+
+584
+00:39:44,880 --> 00:39:49,200
+How do you finance your international expansion?
+
+585
+00:39:49,200 --> 00:39:55,280
+You would need the advice of auditing firms accounting firms
+
+586
+00:39:55,280 --> 00:39:58,240
+because probably you want to attract some further funding
+
+587
+00:39:58,240 --> 00:40:01,120
+by issuing, I don't know, stocks above,
+
+588
+00:40:01,120 --> 00:40:02,600
+or something like that.
+
+589
+00:40:02,600 --> 00:40:06,720
+So financial investors would want to look at your activities.
+
+590
+00:40:08,720 --> 00:40:14,560
+Advertising, yes, how are you going to sell your cookies, cars, et cetera in China?
+
+591
+00:40:14,560 --> 00:40:20,720
+You need to know something about the local market or local markets, the sensitivities.
+
+592
+00:40:20,720 --> 00:40:25,240
+So yeah, you may want to adapt your practices there.
+
+593
+00:40:25,240 --> 00:40:32,000
+You may need to advise of management consultants because you may say that you want to globalize, but how are you going to
+
+594
+00:40:32,200 --> 00:40:35,560
+manages process, what kind of responsibilities do you give
+
+595
+00:40:35,560 --> 00:40:37,320
+to your managers in China?
+
+596
+00:40:37,320 --> 00:40:39,520
+Then they have the autonomy to take decisions.
+
+597
+00:40:39,520 --> 00:40:44,760
+Will you work with the central command structure?
+
+598
+00:40:44,760 --> 00:40:47,360
+How will you think about the profitability
+
+599
+00:40:47,360 --> 00:40:48,840
+of your activities, et cetera?
+
+600
+00:40:48,840 --> 00:40:53,360
+I mean, it's not a course in business studies here,
+
+601
+00:40:53,360 --> 00:40:56,680
+but just imagine as a firm that you want to globalize,
+
+602
+00:40:56,680 --> 00:41:00,320
+there's a lot of things that enter into the picture.
+
+603
+00:41:00,320 --> 00:41:04,480
+And probably these kinds of inputs that you need
+
+604
+00:41:04,480 --> 00:41:06,040
+are so specialized,
+
+605
+00:41:06,040 --> 00:41:10,240
+does it make sense to start producing them yourself?
+
+606
+00:41:10,240 --> 00:41:15,320
+So you just buy very specialized inputs.
+
+607
+00:41:15,320 --> 00:41:18,400
+You get in touch with lawyers, consultants, et cetera.
+
+608
+00:41:18,400 --> 00:41:21,200
+They would fly in and charge the hell out of you
+
+609
+00:41:21,200 --> 00:41:26,200
+and then run off and maybe a direct advice was, okay.
+
+610
+00:41:26,200 --> 00:41:30,160
+So it shifts to the service economy.
+
+611
+00:41:30,160 --> 00:41:35,480
+but with the globalization of production and globalization of markets and financial markets,
+
+612
+00:41:35,480 --> 00:41:39,400
+we see that certain service firms are becoming increasingly important.
+
+613
+00:41:39,400 --> 00:41:46,960
+And these are these advanced producer services, services given to producing firms.
+
+614
+00:41:46,960 --> 00:41:53,040
+And what she says is, look, instead of looking at headquarters of corporations,
+
+615
+00:41:53,040 --> 00:42:00,080
+we best look not at the multinationals themselves, but we best look at where these APS
+
+616
+00:42:00,080 --> 00:42:02,280
+firms are located.
+
+617
+00:42:02,280 --> 00:42:06,120
+And it's not just that they have kind of cold control
+
+618
+00:42:06,120 --> 00:42:08,820
+over global productions, networks, as you could
+
+619
+00:42:08,820 --> 00:42:11,600
+imagine, corporate headquarters where
+
+620
+00:42:11,600 --> 00:42:16,920
+CEO with a big cigar takes a decision of slashing
+
+621
+00:42:16,920 --> 00:42:20,320
+10,000 jobs in Belgium or something.
+
+622
+00:42:20,320 --> 00:42:25,840
+It's more dilute, diluted form of control,
+
+623
+00:42:25,840 --> 00:42:29,080
+which he talks about, is more about control capabilities.
+
+624
+00:42:29,080 --> 00:42:33,760
+is the assemblage, or we could say,
+
+625
+00:42:33,760 --> 00:42:37,680
+in the entire mixture of these kind of service economies
+
+626
+00:42:37,680 --> 00:42:40,720
+that allows firms that use these services
+
+627
+00:42:40,720 --> 00:42:43,240
+to exert control of the global scale.
+
+628
+00:42:43,240 --> 00:42:45,440
+So multinational corporations that
+
+629
+00:42:45,440 --> 00:42:48,720
+have a long story to start short depends
+
+630
+00:42:48,720 --> 00:42:51,840
+on yet another set of players, advancement use the services
+
+631
+00:42:51,840 --> 00:42:55,040
+to actually be able to manage global production.
+
+632
+00:42:56,440 --> 00:43:01,800
+So that's kind of her reading, not just corporate headquarters, but look at these notes
+
+633
+00:43:01,800 --> 00:43:05,720
+of advanced producers.
+
+634
+00:43:05,720 --> 00:43:10,160
+And the second important element that she links to that and will talk more about that
+
+635
+00:43:10,160 --> 00:43:17,160
+next week, and because it's a slightly different topic, is that this APS economy, this high
+
+636
+00:43:17,160 --> 00:43:24,800
+and service economies, also is an important engine in producing polarization, the other kind
+
+637
+00:43:24,800 --> 00:43:31,440
+of process that could use polarized cities, but an important driver according to Susson
+
+638
+00:43:31,440 --> 00:43:41,120
+is the highly remunerated salary stop in these kind of activities and this will have an
+
+639
+00:43:41,120 --> 00:43:48,720
+effect on this city. So it produces an outcome where you have high and low skilled labor forces
+
+640
+00:43:48,720 --> 00:43:51,480
+in APS or around APS.
+
+641
+00:43:51,480 --> 00:43:53,400
+And at some point, it could also even
+
+642
+00:43:53,400 --> 00:43:57,680
+lead to what she calls the peripheralization of the core.
+
+643
+00:43:57,680 --> 00:44:02,040
+So there will be a drive also to boost informal labor
+
+644
+00:44:02,040 --> 00:44:06,920
+markets in parts of the local economy.
+
+645
+00:44:06,920 --> 00:44:11,360
+But we'll talk more about that next thing.
+
+646
+00:44:11,360 --> 00:44:15,120
+So that's her idea about global cities.
+
+647
+00:44:15,120 --> 00:44:17,480
+And in the end, global cities
+
+648
+00:44:17,480 --> 00:44:22,280
+a site for the production of specialized services needed by complex organizations for running
+
+649
+00:44:22,280 --> 00:44:27,180
+a spatially diverse dispersed network of factors offices and services out there.
+
+650
+00:44:27,180 --> 00:44:31,060
+The production of financial innovations and the making of markets both central to the
+
+651
+00:44:31,060 --> 00:44:34,080
+internationalization expansion of the financial industry.
+
+652
+00:44:34,080 --> 00:44:39,520
+So for Sussan it's both about and you're free to refer to Sussan because it rhymes
+
+653
+00:44:39,520 --> 00:44:45,240
+with lessons as other students have done so before and make movies about.
+
+654
+00:44:45,240 --> 00:44:49,760
+So it's both about global production networks but also the running of global financial
+
+655
+00:44:49,760 --> 00:44:50,920
+markets.
+
+656
+00:44:50,920 --> 00:44:55,560
+So it's not just the production of goods themselves but also connecting to the world of
+
+657
+00:44:55,560 --> 00:44:59,400
+finance to get investment in these production.
+
+658
+00:44:59,400 --> 00:45:03,160
+So that's what SARS-CoS-CoS-CoS is talking about.
+
+659
+00:45:03,160 --> 00:45:10,480
+And the paradox that she sees is that as there's a kind of a dispersion of activities
+
+660
+00:45:10,480 --> 00:45:14,800
+at the same time there's a growing need for concentration.
+
+661
+00:45:14,800 --> 00:45:16,880
+The more dispersed global production networks,
+
+662
+00:45:16,880 --> 00:45:18,640
+the common financial markets,
+
+663
+00:45:18,640 --> 00:45:21,520
+the more the need for centralized control
+
+664
+00:45:21,520 --> 00:45:23,840
+or control capabilities over these markets.
+
+665
+00:45:23,840 --> 00:45:27,280
+So that's kind of the paradox of cities,
+
+666
+00:45:27,280 --> 00:45:30,560
+despite the internet, et cetera,
+
+667
+00:45:30,560 --> 00:45:33,200
+or virtualization of activities,
+
+668
+00:45:33,200 --> 00:45:37,920
+there's a continued role for face-to-face interaction
+
+669
+00:45:37,920 --> 00:45:40,600
+and interpretation in limited set of cities.
+
+670
+00:45:41,680 --> 00:45:46,440
+So why are APS located in a limited number of cities?
+
+671
+00:45:46,440 --> 00:45:49,920
+Well, she talks about different kinds of thought dependence.
+
+672
+00:45:49,920 --> 00:45:53,440
+So it means that one situation establishes itself
+
+673
+00:45:53,440 --> 00:45:58,600
+is kind of the whole kinds of self-reinforcing mechanisms.
+
+674
+00:45:58,600 --> 00:46:03,540
+So if there's a concentration, there's a deep market
+
+675
+00:46:03,540 --> 00:46:04,440
+and services.
+
+676
+00:46:04,440 --> 00:46:06,360
+So if you go to London, for instance, you're
+
+677
+00:46:06,360 --> 00:46:09,800
+quite sure that you will find everything.
+
+678
+00:46:09,800 --> 00:46:12,240
+If you have these kind of services,
+
+679
+00:46:12,240 --> 00:46:14,640
+some kind of a labor market culture
+
+680
+00:46:14,640 --> 00:46:16,680
+where we'll emerge around that.
+
+681
+00:46:16,680 --> 00:46:19,520
+You'll find a specialized labor there.
+
+682
+00:46:19,520 --> 00:46:24,520
+And yeah, in a lot of world and global cities think about New York
+
+683
+00:46:24,520 --> 00:46:26,720
+or London, some kind of a Yup culture,
+
+684
+00:46:26,720 --> 00:46:28,720
+young urban professional culture,
+
+685
+00:46:28,720 --> 00:46:32,680
+has emerged within these kinds of APS firms.
+
+686
+00:46:32,680 --> 00:46:36,720
+There's also a lot of synergies between these firms
+
+687
+00:46:36,720 --> 00:46:38,720
+and I'll tell you a little bit more about that.
+
+688
+00:46:38,720 --> 00:46:42,880
+So also these different KBS firms work together
+
+689
+00:46:42,880 --> 00:46:46,240
+as they service their clients.
+
+690
+00:46:46,240 --> 00:46:50,680
+And what is even more striking is that these APS firms
+
+691
+00:46:50,680 --> 00:46:54,840
+in and of themselves also become global corporations.
+
+692
+00:46:54,840 --> 00:46:58,640
+So they also set up international networks
+
+693
+00:46:58,640 --> 00:47:00,960
+either to follow their clients
+
+694
+00:47:00,960 --> 00:47:05,960
+or to remain credible as a global, as a vehicle act.
+
+695
+00:47:05,960 --> 00:47:12,680
+So a number of reasons why this kind of geography reproduces itself and is increasingly anchored
+
+696
+00:47:12,680 --> 00:47:16,440
+in a number and a limited number of global cities.
+
+697
+00:47:16,440 --> 00:47:24,880
+So my barracks, for my dear colleague from the Metu-Yehan Kickingen, who did a kind of
+
+698
+00:47:24,880 --> 00:47:28,760
+nice set of maps on law firms and Brussels.
+
+699
+00:47:28,760 --> 00:47:33,720
+It's kind of interesting to see that the concentration in global cities, you could say,
+
+700
+00:47:33,720 --> 00:47:37,720
+when at the more abstract level also translate into clusters
+
+701
+00:47:37,720 --> 00:47:39,520
+at the metropolitan level.
+
+702
+00:47:39,520 --> 00:47:41,320
+And that tells us something about, you can say,
+
+703
+00:47:41,320 --> 00:47:44,440
+the more micro-sociologies and geographies
+
+704
+00:47:44,440 --> 00:47:46,160
+of these kind of professional serves.
+
+705
+00:47:46,160 --> 00:47:50,840
+So what you see is on the left-hand side, the law firms.
+
+706
+00:47:50,840 --> 00:47:55,200
+The big picture of foreign law firms, the smaller insect
+
+707
+00:47:55,200 --> 00:48:00,400
+map is Belt and Ferns, the number of commonalities
+
+708
+00:48:00,400 --> 00:48:07,120
+avenue in these which is kind of center of a very rich neighborhoods or set of neighborhoods
+
+709
+00:48:07,120 --> 00:48:11,860
+and some Brussels as a location of boats. I think Belgian,
+
+710
+00:48:11,860 --> 00:48:18,560
+a group of people. I love from the local garden offer. What is foreign law firms or what
+
+711
+00:48:18,560 --> 00:48:25,200
+is special? For the foreign law firms they're very much concentrated around the EU district.
+
+712
+00:48:25,200 --> 00:48:27,440
+Okay, so a lot of activities
+
+713
+00:48:27,440 --> 00:48:31,640
+I'd have something to do with the client or clients
+
+714
+00:48:31,640 --> 00:48:33,920
+that are located there, which is either directly
+
+715
+00:48:33,920 --> 00:48:38,920
+European Commission or firms that want to not be
+
+716
+00:48:38,920 --> 00:48:43,400
+European Commission.
+
+717
+00:48:43,400 --> 00:48:46,240
+And this is kind of a process that we'll talk a bit more
+
+718
+00:48:46,240 --> 00:48:51,240
+when we do the tour and Brussels in the end of next week.
+
+719
+00:48:51,640 --> 00:48:55,500
+So micro geographies are also produced micro clusters
+
+720
+00:48:55,500 --> 00:48:57,320
+produced at the urban level.
+
+721
+00:48:57,320 --> 00:49:00,680
+The same is Vincent Stu in London.
+
+722
+00:49:00,680 --> 00:49:04,040
+Some great work by Cook at all.
+
+723
+00:49:04,040 --> 00:49:06,440
+Not Captain Cook, but another cook.
+
+724
+00:49:06,440 --> 00:49:09,000
+So we cook top this figure.
+
+725
+00:49:09,000 --> 00:49:10,920
+Obviously what you see there is a city of London,
+
+726
+00:49:10,920 --> 00:49:14,440
+which is also a very particular jurisdiction
+
+727
+00:49:14,440 --> 00:49:15,560
+in and of itself.
+
+728
+00:49:15,560 --> 00:49:18,640
+It has some kind of an exceptional room
+
+729
+00:49:18,640 --> 00:49:21,600
+that doesn't follow the regulations of, you could say,
+
+730
+00:49:21,600 --> 00:49:25,120
+the continent in this case of the UK and enough itself.
+
+731
+00:49:25,120 --> 00:49:26,800
+It's governed in a very weird way.
+
+732
+00:49:26,800 --> 00:49:29,200
+I never recall how exactly.
+
+733
+00:49:29,200 --> 00:49:32,160
+I don't know if you can make sure that the bridge is themselves.
+
+734
+00:49:32,160 --> 00:49:34,720
+But it's kind of a self-port,
+
+735
+00:49:34,720 --> 00:49:37,040
+I mean, the self-regulate itself,
+
+736
+00:49:37,040 --> 00:49:43,200
+governed jurisdiction on the island,
+
+737
+00:49:43,200 --> 00:49:49,040
+where corporations also have a large say in.
+
+738
+00:49:49,040 --> 00:49:54,240
+So within the limits of the long run, you find particular regulations there.
+
+739
+00:49:54,240 --> 00:49:56,640
+That's why the stock exchanges located there.
+
+740
+00:49:56,640 --> 00:49:59,280
+And all the financial institutions are located around.
+
+741
+00:49:59,280 --> 00:50:03,920
+And then besides that, the specialized district, the legal district, etc.
+
+742
+00:50:03,920 --> 00:50:08,480
+So the tendency of seeking proximity is also evident there.
+
+743
+00:50:08,480 --> 00:50:15,440
+A bit more on this, because of ABS complex, as I said, these firms also
+
+744
+00:50:16,320 --> 00:50:23,760
+interacted one another. So this is some work we did in Brussels. We took a corporate survey
+
+745
+00:50:23,760 --> 00:50:31,600
+aimed at APS professionals so we sent the survey around with with legal experts, expert,
+
+746
+00:50:31,600 --> 00:50:37,920
+ICT experts, etcetera, bankers and they kind of listed how they interacted with other APS firms
+
+747
+00:50:37,920 --> 00:50:44,480
+either in their daily practice for themselves or as they were giving service to their customs.
+
+748
+00:50:44,480 --> 00:50:51,280
+Okay, and what you find is actually quite a bit of interaction with sector itself.
+
+749
+00:50:51,280 --> 00:50:56,160
+And also particularly between sectors in law and finance, law,
+
+750
+00:50:56,160 --> 00:50:59,920
+accounts, and law, and accounts in financial services.
+
+751
+00:50:59,920 --> 00:51:09,200
+So just imagine as a corporation, what often happens is that when you issue some kind of financial
+
+752
+00:51:09,200 --> 00:51:13,200
+of product, think about a share or something
+
+753
+00:51:13,200 --> 00:51:15,960
+or you want to go for a loan.
+
+754
+00:51:15,960 --> 00:51:18,880
+Namely the financial institution, we need a law firm.
+
+755
+00:51:18,880 --> 00:51:22,400
+That needs to kind of come up with the prospectus
+
+756
+00:51:22,400 --> 00:51:27,320
+or check the prospectus that is made by financial institutions,
+
+757
+00:51:27,320 --> 00:51:31,080
+auditors and accountants that have a look at it.
+
+758
+00:51:31,080 --> 00:51:36,080
+So this is a kind of connected thing to financial markets.
+
+759
+00:51:36,080 --> 00:51:38,280
+What we also found is quite some interaction
+
+760
+00:51:38,280 --> 00:51:40,920
+between ICT and financial services.
+
+761
+00:51:40,920 --> 00:51:42,080
+This has something to do with,
+
+762
+00:51:42,080 --> 00:51:44,080
+you can say the virtualization of finance
+
+763
+00:51:44,080 --> 00:51:46,000
+that is currently going on.
+
+764
+00:51:46,000 --> 00:51:49,600
+So quite a bit of interdependencies
+
+765
+00:51:49,600 --> 00:51:52,360
+between different sectors will also explain
+
+766
+00:51:52,360 --> 00:51:54,720
+why does a need for proximity?
+
+767
+00:51:54,720 --> 00:51:55,880
+Yes, that's a question.
+
+768
+00:51:55,880 --> 00:52:00,800
+That's a very good question.
+
+769
+00:52:00,800 --> 00:52:05,360
+What do I remember from these percentages?
+
+770
+00:52:05,360 --> 00:52:08,600
+I think, all right.
+
+771
+00:52:08,600 --> 00:52:12,200
+So I think that it's standardized to the,
+
+772
+00:52:12,200 --> 00:52:13,680
+you could say the largest link.
+
+773
+00:52:13,680 --> 00:52:16,440
+So we looked at, you could say the intensity of interactions.
+
+774
+00:52:16,440 --> 00:52:19,200
+And we found that within financial services,
+
+775
+00:52:19,200 --> 00:52:20,760
+this has the strongest link.
+
+776
+00:52:20,760 --> 00:52:23,760
+So it's a relative scale.
+
+777
+00:52:23,760 --> 00:52:24,760
+So that's the strongest link.
+
+778
+00:52:24,760 --> 00:52:27,000
+It's 100%.
+
+779
+00:52:27,000 --> 00:52:29,840
+And then when you for instance look at the duration
+
+780
+00:52:29,840 --> 00:52:32,480
+between law and financial services,
+
+781
+00:52:32,480 --> 00:52:37,680
+the strength of the time between law and finance is only half of the kind of relations
+
+782
+00:52:37,680 --> 00:52:39,720
+within the finance itself.
+
+783
+00:52:39,720 --> 00:52:45,920
+It was measured in a different way.
+
+784
+00:52:45,920 --> 00:52:48,680
+It's measured by frequency.
+
+785
+00:52:48,680 --> 00:52:58,000
+So on a regular basis, how much do you hire advice in, you could say, "No, it's
+
+786
+00:52:58,000 --> 00:53:01,280
+or et cetera.
+
+787
+00:53:01,280 --> 00:53:04,920
+But there's other ways of measuring that for sure.
+
+788
+00:53:04,920 --> 00:53:07,200
+So it's one way of doing that.
+
+789
+00:53:07,200 --> 00:53:12,560
+So yes, this kind of gravitational pull towards other actors
+
+790
+00:53:12,560 --> 00:53:15,720
+in this APS complex explains kind of the reproduction
+
+791
+00:53:15,720 --> 00:53:17,160
+of global cities.
+
+792
+00:53:17,160 --> 00:53:20,400
+And another one was indeed this globalization
+
+793
+00:53:20,400 --> 00:53:23,960
+of strategies of APS firms themselves.
+
+794
+00:53:23,960 --> 00:53:26,000
+So they're both clustered and they're
+
+795
+00:53:26,000 --> 00:53:30,520
+globalized at the same time, deloed--
+
+796
+00:53:30,520 --> 00:53:34,120
+well, I mean, it's part of its branding process.
+
+797
+00:53:34,120 --> 00:53:36,400
+HSBC is the same thing.
+
+798
+00:53:36,400 --> 00:53:39,200
+So it's playing on both being global and tapping
+
+799
+00:53:39,200 --> 00:53:41,320
+into local knowledge.
+
+800
+00:53:41,320 --> 00:53:43,560
+You may think about that what we want,
+
+801
+00:53:43,560 --> 00:53:46,760
+but it's certainly part of their corporate strategy,
+
+802
+00:53:46,760 --> 00:53:51,240
+the geographical strategy, et cetera.
+
+803
+00:53:51,240 --> 00:53:52,240
+Yes?
+
+804
+00:53:52,240 --> 00:53:52,760
+OK.
+
+805
+00:53:52,760 --> 00:53:54,760
+- I think that's the public early days,
+
+806
+00:53:54,760 --> 00:53:56,640
+but I think that's what we have all about,
+
+807
+00:53:56,640 --> 00:54:00,160
+how open and forward to performance
+
+808
+00:54:00,160 --> 00:54:02,160
+that's been happening.
+
+809
+00:54:02,160 --> 00:54:06,160
+- No, I was taking care of my children.
+
+810
+00:54:06,160 --> 00:54:09,680
+But I think that's a good point.
+
+811
+00:54:09,680 --> 00:54:14,680
+I mean, I think for sure, there has been a tremendous impact
+
+812
+00:54:14,680 --> 00:54:15,640
+on business travel.
+
+813
+00:54:15,640 --> 00:54:20,080
+But it's also kind of a long discussion
+
+814
+00:54:20,080 --> 00:54:22,320
+as to what extent you need business travel
+
+815
+00:54:22,320 --> 00:54:25,680
+these are the video conferencing and all the kinds of things.
+
+816
+00:54:25,680 --> 00:54:30,800
+So there's already quite a bit of research in there.
+
+817
+00:54:30,800 --> 00:54:34,280
+There's also, you can say, more ethnographic approaches
+
+818
+00:54:34,280 --> 00:54:38,080
+that are kind of questioning the actual day-to-day
+
+819
+00:54:38,080 --> 00:54:40,840
+relevance of having a global network.
+
+820
+00:54:40,840 --> 00:54:43,640
+But definitely, artists offices really being used,
+
+821
+00:54:43,640 --> 00:54:46,120
+or I think they need there to have an address
+
+822
+00:54:46,120 --> 00:54:47,640
+and populate websites.
+
+823
+00:54:47,640 --> 00:54:51,000
+And then you may actually find that it's much more
+
+824
+00:54:51,000 --> 00:54:54,360
+concentrated within a number of global cities
+
+825
+00:54:54,360 --> 00:54:57,040
+despite having a very global network.
+
+826
+00:54:57,040 --> 00:55:00,160
+And it could be other ways of organizing yourself.
+
+827
+00:55:00,160 --> 00:55:04,000
+I haven't done very clusters or meetings or conferences
+
+828
+00:55:04,000 --> 00:55:05,160
+to make things work.
+
+829
+00:55:05,160 --> 00:55:08,440
+That there's also, and we'll read a bit about that,
+
+830
+00:55:08,440 --> 00:55:12,760
+practice of the governments of people that are based
+
+831
+00:55:12,760 --> 00:55:15,400
+in London, that are then two years based in Singapore.
+
+832
+00:55:15,400 --> 00:55:18,680
+So there are a lot of kind of strategies.
+
+833
+00:55:18,680 --> 00:55:24,880
+But yeah, the main kind of question in the DB is COVID.
+
+834
+00:55:24,880 --> 00:55:30,520
+Now the final proof that there's an end to the city,
+
+835
+00:55:30,520 --> 00:55:32,560
+I think that's hugely overblown.
+
+836
+00:55:32,560 --> 00:55:35,760
+And I think there's quite a bit of reasons
+
+837
+00:55:35,760 --> 00:55:39,080
+about the knowledge and density of certain practices
+
+838
+00:55:39,080 --> 00:55:42,720
+that explains why face-to-face interaction will prevail.
+
+839
+00:55:42,720 --> 00:55:46,600
+Just as when you think about teaching,
+
+840
+00:55:46,600 --> 00:55:50,080
+There's hopefully some added value to face the face teaching
+
+841
+00:55:50,080 --> 00:55:53,400
+overlooking at a screen.
+
+842
+00:55:53,400 --> 00:55:55,800
+And it has something to do with the interpretation
+
+843
+00:55:55,800 --> 00:55:58,600
+of information and is being shared about how
+
+844
+00:55:58,600 --> 00:56:00,560
+grounding processes work.
+
+845
+00:56:00,560 --> 00:56:04,200
+We think the same about certain concepts, et cetera.
+
+846
+00:56:04,200 --> 00:56:07,000
+And if you don't do this face-to-face,
+
+847
+00:56:07,000 --> 00:56:12,920
+you just miss out on this micro feedback loop.
+
+848
+00:56:12,920 --> 00:56:15,240
+If this would be online, I wouldn't see
+
+849
+00:56:15,240 --> 00:56:19,880
+nodding or frowning, so I would be in trouble sometimes.
+
+850
+00:56:19,880 --> 00:56:25,120
+But I think it's clearly, it's a very important question.
+
+851
+00:56:25,120 --> 00:56:28,960
+There will probably be a more strategic use of these sites,
+
+852
+00:56:28,960 --> 00:56:31,520
+and there will also be a more selective use
+
+853
+00:56:31,520 --> 00:56:34,520
+of face inflection, which would, I'm ultimately also
+
+854
+00:56:34,520 --> 00:56:39,480
+input, input, APS activities, and your geographies.
+
+855
+00:56:39,480 --> 00:56:44,080
+But it won't do a dissolution, I think, personally.
+
+856
+00:56:44,080 --> 00:56:47,660
+I see no theoretical reasons why that should be obsolete.
+
+857
+00:56:47,660 --> 00:56:52,880
+But it's research that could be done.
+
+858
+00:56:52,880 --> 00:56:57,400
+I mean, there's a whole class of people, digital nomads.
+
+859
+00:56:57,400 --> 00:57:02,400
+These are more, you could say, self-employed.
+
+860
+00:57:02,400 --> 00:57:05,320
+They don't depend on other inputs.
+
+861
+00:57:05,320 --> 00:57:07,960
+And their production process think about setting up
+
+862
+00:57:07,960 --> 00:57:08,960
+a website or something.
+
+863
+00:57:08,960 --> 00:57:11,760
+You can just go to Bali and do that from there.
+
+864
+00:57:11,760 --> 00:57:15,840
+But even there you see the emergence of temporary clusters,
+
+865
+00:57:15,840 --> 00:57:19,680
+other digital nomads that are in Bali,
+
+866
+00:57:19,680 --> 00:57:22,360
+discuss stuff, et cetera, et cetera.
+
+867
+00:57:22,360 --> 00:57:27,080
+So I think even there is a social aspect to that.
+
+868
+00:57:27,080 --> 00:57:30,720
+And you get the return of centrality,
+
+869
+00:57:30,720 --> 00:57:32,960
+even where you don't expect it.
+
+870
+00:57:32,960 --> 00:57:36,400
+And it seems to be something that is related to the fact
+
+871
+00:57:36,400 --> 00:57:39,840
+that we're talking about cognitive cultural capitalism.
+
+872
+00:57:39,840 --> 00:57:45,560
+And that's an excellent bridge to what Alan Scott is talking about
+
+873
+00:57:45,560 --> 00:57:48,240
+in his version of Global Siki regions.
+
+874
+00:57:48,240 --> 00:57:51,280
+So we talked about world cities, or the headquarters
+
+875
+00:57:51,280 --> 00:57:54,040
+Susson talks about global cities.
+
+876
+00:57:54,040 --> 00:57:56,920
+You look into a wider complex of these advanced services
+
+877
+00:57:56,920 --> 00:57:59,720
+that sit around corporations.
+
+878
+00:57:59,720 --> 00:58:05,000
+And then Alan Scott says, well, you and your world
+
+879
+00:58:05,000 --> 00:58:08,840
+and global cities have to explain something like this,
+
+880
+00:58:08,840 --> 00:58:14,720
+which is a much larger coloration, which is urban to some extent,
+
+881
+00:58:14,720 --> 00:58:17,040
+which depends here on San Francisco,
+
+882
+00:58:17,040 --> 00:58:19,280
+and it's easy to notice.
+
+883
+00:58:19,280 --> 00:58:24,520
+But how do you make sense of this wider San Francisco Bay area
+
+884
+00:58:24,520 --> 00:58:26,720
+with a lot of, you could say, centrality,
+
+885
+00:58:26,720 --> 00:58:29,000
+but it's not necessarily connected
+
+886
+00:58:29,000 --> 00:58:31,320
+to core metropolitan areas.
+
+887
+00:58:31,320 --> 00:58:32,800
+So what kind of--
+
+888
+00:58:32,800 --> 00:58:34,960
+and Scott is talking about it says, yes,
+
+889
+00:58:34,960 --> 00:58:38,280
+very nice that we talk about this classic.
+
+890
+00:58:38,280 --> 00:58:43,160
+world and global cities when you look for South Africa, South Asia, South Asia,
+
+891
+00:58:43,160 --> 00:58:49,280
+North New York, London, Tokyo, later on Chicago, and meet metropolitan areas.
+
+892
+00:58:49,280 --> 00:58:53,640
+But there's other kind of structures, morphological structures,
+
+893
+00:58:53,640 --> 00:59:03,080
+polycentric regions that do not necessarily fit the definition that South
+
+894
+00:59:03,080 --> 00:59:07,560
+assassin or John Friedman is talking about. And it also links a little bit to what we discussed
+
+895
+00:59:07,560 --> 00:59:15,880
+last week. How the city looks like or where the urban is can actually spill over metropolitan
+
+896
+00:59:15,880 --> 00:59:24,840
+areas. Okay. So clearly places like Silicon Valley. They're not dependent on the poor urban area
+
+897
+00:59:24,840 --> 00:59:32,920
+per se, but they're also kind of an example of the need for proximity in high-end advanced
+
+898
+00:59:32,920 --> 00:59:43,960
+sectors. So what our consensus is that, yes, something is right, but the kind of wider
+
+899
+00:59:43,960 --> 00:59:49,960
+process that is going on is a process towards centrality in knowledge-intensive
+
+900
+00:59:49,960 --> 00:59:56,600
+activities. And this pertains to APS firms that are located and you can see the core
+
+901
+00:59:56,600 --> 01:00:03,880
+metropolitan areas, but it also applies to high-tech firms, the GAFAS platform corporations,
+
+902
+01:00:03,880 --> 01:00:12,100
+etc, etc, all these kind of innovations that came out of sort of conf
+
+903
+01:00:12,100 --> 01:00:16,100
+of the confederate since, or when you look at the per-refrigerate delta, which is a kind of much more
+
+904
+01:00:16,100 --> 01:00:21,800
+of all-centric production area in the southeast of China. It's also a form of centrality,
+
+905
+01:00:21,800 --> 01:00:26,540
+where you have some metropolitan areas or metropolitan course, but it also goes
+
+906
+01:00:26,540 --> 01:00:33,820
+beyond there. So what interests our Scott is more, yeah, this driver of centrality, built
+
+907
+01:00:33,820 --> 01:00:40,640
+APS themselves. And he says, look, this centrality that SARS-CoS-SUSAN finds is actually part and
+
+908
+01:00:40,640 --> 01:00:48,860
+part of a wider shift towards cognitive cultural captions. Right? So CCC and it means that
+
+909
+01:00:48,860 --> 01:00:55,740
+a lot of economic activities, crucially depends on knowledge inputs.
+
+910
+01:00:55,740 --> 01:00:58,700
+And types of knowledge that are not generic,
+
+911
+01:00:58,700 --> 01:01:03,860
+not standardized, that are not easily appreciable
+
+912
+01:01:03,860 --> 01:01:05,020
+at a distance.
+
+913
+01:01:05,020 --> 01:01:08,740
+No, you need interpretation, dialogue with clients,
+
+914
+01:01:08,740 --> 01:01:11,540
+dialogue with other colleagues to make
+
+915
+01:01:11,540 --> 01:01:16,060
+sense of what is going on, because it's a very complex matter.
+
+916
+01:01:16,060 --> 01:01:18,940
+need to make sense of the situation collectively,
+
+917
+01:01:18,940 --> 01:01:22,140
+and hence there's a drive for proximity there.
+
+918
+01:01:22,140 --> 01:01:23,140
+Okay?
+
+919
+01:01:23,140 --> 01:01:28,140
+And this applies to an increased part of the economy,
+
+920
+01:01:28,140 --> 01:01:32,620
+which also means that it's a goes way beyond
+
+921
+01:01:32,620 --> 01:01:34,220
+how it produces services.
+
+922
+01:01:34,220 --> 01:01:39,380
+So, and the spatial form it takes is one of global city regions.
+
+923
+01:01:39,380 --> 01:01:40,740
+So you have more,
+
+924
+01:01:40,740 --> 01:01:41,980
+pulling more frequency,
+
+925
+01:01:41,980 --> 01:01:44,860
+polycentric kind of structure.
+
+926
+01:01:44,860 --> 01:01:47,460
+And his kind of metagography, if you will,
+
+927
+01:01:47,460 --> 01:01:50,100
+is a world of global city regions,
+
+928
+01:01:50,100 --> 01:01:52,580
+that has kind of interconnection, interconnected
+
+929
+01:01:52,580 --> 01:01:55,860
+and blazer role in these global production
+
+930
+01:01:55,860 --> 01:01:57,620
+networks in global markets.
+
+931
+01:01:57,620 --> 01:01:58,620
+Yes.
+
+932
+01:01:58,620 --> 01:02:00,740
+Hi, can you really understand my news
+
+933
+01:02:00,740 --> 01:02:04,740
+about how we can from China to India or APS?
+
+934
+01:02:04,740 --> 01:02:05,300
+Yeah.
+
+935
+01:02:05,300 --> 01:02:09,020
+Because as I understand that, the [INAUDIBLE]
+
+936
+01:02:09,020 --> 01:02:16,020
+And this need is kind of connection to this ABS that are all this service has connected to.
+
+937
+01:02:16,020 --> 01:02:23,020
+Well, the point by Scott is that, yes, an ABS law firm's fund, etc.
+
+938
+01:02:23,020 --> 01:02:27,020
+There's a clear need for proximity to the reasons that we've been discussing,
+
+939
+01:02:27,020 --> 01:02:31,020
+but there's also a place to other parts of the economy.
+
+940
+01:02:31,020 --> 01:02:37,020
+Think about high-tech, think about education, you know, whatever.
+
+941
+01:02:37,020 --> 01:02:41,260
+And these are also prone to these agglomeration dynamics.
+
+942
+01:02:41,260 --> 01:02:46,100
+And that is because increasingly the production process
+
+943
+01:02:46,100 --> 01:02:47,340
+is knowledge intensive.
+
+944
+01:02:47,340 --> 01:02:51,340
+Just compared to, it's a 50 years ago,
+
+945
+01:02:51,340 --> 01:02:53,220
+it would have been a very standardized process
+
+946
+01:02:53,220 --> 01:02:56,300
+just make 1,000 cars per week.
+
+947
+01:02:56,300 --> 01:03:00,420
+This is becoming increasingly customized.
+
+948
+01:03:00,420 --> 01:03:02,220
+It's much more about prototyping,
+
+949
+01:03:02,220 --> 01:03:06,500
+it's much more about failure in particular cars.
+
+950
+01:03:06,500 --> 01:03:07,940
+I mean, I don't know anything about cars,
+
+951
+01:03:07,940 --> 01:03:10,060
+but I'm stuck with cars.
+
+952
+01:03:10,060 --> 01:03:16,380
+So it's much, much more just in time delivery,
+
+953
+01:03:16,380 --> 01:03:19,940
+it's much more tailored rather than mass production.
+
+954
+01:03:19,940 --> 01:03:24,100
+That used to be the case in the 50s, 60s, 70s,
+
+955
+01:03:24,100 --> 01:03:25,460
+and this has shifted.
+
+956
+01:03:25,460 --> 01:03:28,260
+Roughly in the 1980s,
+
+957
+01:03:28,260 --> 01:03:31,260
+where it was more about flexible production systems,
+
+958
+01:03:31,260 --> 01:03:34,100
+where you could say the connection with suppliers,
+
+959
+01:03:34,100 --> 01:03:37,620
+but also customers who are in the game much more important.
+
+960
+01:03:37,620 --> 01:03:41,220
+So it's a kind of broad scale restructuring of the economy.
+
+961
+01:03:41,220 --> 01:03:43,860
+So also explains why proximity matters,
+
+962
+01:03:43,860 --> 01:03:46,140
+not only in each of those that you serve,
+
+963
+01:03:46,140 --> 01:03:48,860
+but more broadly to the economy.
+
+964
+01:03:48,860 --> 01:03:53,500
+- But I don't understand what drives this company
+
+965
+01:03:53,500 --> 01:03:57,140
+to gather instead of providing for example.
+
+966
+01:03:57,140 --> 01:03:59,620
+- Okay, well, I have a whole lecture on that
+
+967
+01:03:59,620 --> 01:04:01,660
+and I can look at the lessons, right?
+
+968
+01:04:01,660 --> 01:04:05,180
+But I mean, and part of the story is you could say
+
+969
+01:04:05,180 --> 01:04:08,420
+the contemporary benefits of economic agglomeration,
+
+970
+01:04:08,420 --> 01:04:11,140
+which has something to do with what economic geographer
+
+971
+01:04:11,140 --> 01:04:12,940
+calls the externalities.
+
+972
+01:04:12,940 --> 01:04:15,060
+By being there, you get certain benefits
+
+973
+01:04:15,060 --> 01:04:18,140
+that you wouldn't get if you're not there,
+
+974
+01:04:18,140 --> 01:04:21,140
+stepping into high-scale labor,
+
+975
+01:04:21,140 --> 01:04:23,120
+high-scale labor, for instance,
+
+976
+01:04:23,120 --> 01:04:25,020
+and venture capitalists, et cetera, et cetera.
+
+977
+01:04:25,020 --> 01:04:28,540
+But there's a lot of what the whole part of the penancies as well.
+
+978
+01:04:28,540 --> 01:04:31,380
+And we do look at the story of Silicon Valley.
+
+979
+01:04:31,380 --> 01:04:35,460
+used to be a lot of government investment there.
+
+980
+01:04:35,460 --> 01:04:38,980
+Think US military and the semiconductor business
+
+981
+01:04:38,980 --> 01:04:41,060
+making chips and those kind of things
+
+982
+01:04:41,060 --> 01:04:43,580
+was huge funded by the federal government
+
+983
+01:04:43,580 --> 01:04:49,060
+in NASA, DARPA and all kind of ministerial defense.
+
+984
+01:04:49,060 --> 01:04:50,820
+And a lot of these innovations
+
+985
+01:04:50,820 --> 01:04:54,660
+were then later on commercialized by private players
+
+986
+01:04:54,660 --> 01:04:58,940
+who then used these technologies to build their own platforms.
+
+987
+01:04:58,940 --> 01:05:02,260
+And this great work by my Anna Madzukata, for instance,
+
+988
+01:05:02,260 --> 01:05:05,860
+through with great economists, says,
+
+989
+01:05:05,860 --> 01:05:12,860
+well, if you look at your iPad, almost every critical element
+
+990
+01:05:12,860 --> 01:05:15,380
+there piece of technology can be related back
+
+991
+01:05:15,380 --> 01:05:18,940
+to some kind of federal investment, et cetera, et cetera.
+
+992
+01:05:18,940 --> 01:05:23,340
+So which brings them to an argument about,
+
+993
+01:05:23,340 --> 01:05:26,180
+is it really private innovation that we're talking about,
+
+994
+01:05:26,180 --> 01:05:29,960
+or does it have something to do with the sustained investment
+
+995
+01:05:29,960 --> 01:05:32,940
+by public authorities in these kinds of investments?
+
+996
+01:05:32,940 --> 01:05:35,820
+The same is true for big pharma, for instance.
+
+997
+01:05:35,820 --> 01:05:39,060
+It's even first easy to come up with the new vaccines,
+
+998
+01:05:39,060 --> 01:05:43,460
+and these are then commercialized by Pfizer, et cetera.
+
+999
+01:05:43,460 --> 01:05:46,220
+So it's a very complex story, and no clear answer
+
+1000
+01:05:46,220 --> 01:05:48,860
+is a field of its own.
+
+1001
+01:05:48,860 --> 01:05:53,220
+But what we need to understand is that this proximity
+
+1002
+01:05:53,220 --> 01:05:57,700
+and the centrality goes beyond cities themselves.
+
+1003
+01:05:57,700 --> 01:06:02,260
+OK, so it's much more prevailing process.
+
+1004
+01:06:02,260 --> 01:06:05,580
+But, Phil, I mean, the point being is that at some point
+
+1005
+01:06:05,580 --> 01:06:09,740
+APS firms, even in these global city regions,
+
+1006
+01:06:09,740 --> 01:06:11,340
+they would still have some kind of a role
+
+1007
+01:06:11,340 --> 01:06:16,140
+to play as connectors, think about Silicon Valley firms
+
+1008
+01:06:16,140 --> 01:06:18,620
+that come up with new technologies,
+
+1009
+01:06:18,620 --> 01:06:23,180
+or that one can make a profit of these new innovations.
+
+1010
+01:06:23,180 --> 01:06:28,100
+They would have to be kind of certified back then that their intellectual property would be
+
+1011
+01:06:28,100 --> 01:06:34,580
+tetanus probably very likely that would be San Francisco based law firms that would then
+
+1012
+01:06:34,580 --> 01:06:35,580
+specialize.
+
+1013
+01:06:35,580 --> 01:06:36,580
+Okay.
+
+1014
+01:06:36,580 --> 01:06:37,420
+Okay.
+
+1015
+01:06:37,420 --> 01:06:38,240
+All right.
+
+1016
+01:06:38,240 --> 01:06:39,080
+Yeah.
+
+1017
+01:06:39,080 --> 01:06:42,080
+[INAUDIBLE]
+
+1018
+01:06:42,080 --> 01:06:51,420
+Yeah.
+
+1019
+01:06:51,420 --> 01:06:55,220
+Well, I mean, you now, this kind of--
+
+1020
+01:06:55,220 --> 01:06:56,020
+these are the debates.
+
+1021
+01:06:56,020 --> 01:06:59,380
+I'm just rehearsing the date of the 1980s, 90s.
+
+1022
+01:06:59,380 --> 01:07:01,340
+Slow to get into the Northeast.
+
+1023
+01:07:01,340 --> 01:07:06,220
+We'll move through that throughout the lecture.
+
+1024
+01:07:06,220 --> 01:07:11,340
+But this mainly tries to capture what went on in the 1980s
+
+1025
+01:07:11,340 --> 01:07:14,140
+and what was the starting point, if you will,
+
+1026
+01:07:14,140 --> 01:07:16,580
+or the theorizing of world and global cities.
+
+1027
+01:07:16,580 --> 01:07:18,580
+[INAUDIBLE]
+
+1028
+01:07:18,580 --> 01:07:33,060
+Yeah.
+
+1029
+01:07:33,060 --> 01:07:36,860
+Well, there, so the question is,
+
+1030
+01:07:36,860 --> 01:07:39,660
+do I extend as the Rust Belt at Global City?
+
+1031
+01:07:39,660 --> 01:07:43,140
+I don't think, I mean, it will.
+
+1032
+01:07:43,140 --> 01:07:47,260
+Alice Scott would really see that as a global city region,
+
+1033
+01:07:47,260 --> 01:07:49,500
+because it's mostly, you could say,
+
+1034
+01:07:49,500 --> 01:07:52,620
+a remnants of an older process of industrialization,
+
+1035
+01:07:52,620 --> 01:07:55,180
+which was much more focused on mass production.
+
+1036
+01:07:55,180 --> 01:07:59,260
+So think about fact-reasoned Pittsburgh, Detroit,
+
+1037
+01:07:59,260 --> 01:08:00,420
+et cetera, et cetera.
+
+1038
+01:08:01,540 --> 01:08:08,780
+the Ford factory. And this was kind of in the history of the US. It was a kind of process
+
+1039
+01:08:08,780 --> 01:08:14,820
+of industrialization that was finalizing again. But it's returning since the 60s, 70s.
+
+1040
+01:08:14,820 --> 01:08:20,700
+And then you had a switch to the some belt states. A lot of production, especially in the
+
+1041
+01:08:20,700 --> 01:08:26,140
+car industry, was taken over by Japanese investments. And a lot of states were the labor
+
+1042
+01:08:26,140 --> 01:08:38,520
+writes were less protected. So I mean the difference would be to what it's
+
+1043
+01:08:38,520 --> 01:08:43,540
+I mean it's just one example but a question would be to what extent Duke in
+
+1044
+01:08:43,540 --> 01:08:47,780
+this day in age, knowledge and tactic, intensive production activities are
+
+1045
+01:08:47,780 --> 01:08:51,660
+over at the state place in the Rust Belt, think to some extent this is the case
+
+1046
+01:08:51,660 --> 01:08:55,660
+but it wouldn't be an leading example.
+
+1047
+01:08:55,660 --> 01:08:56,660
+I don't want to be exclusive.
+
+1048
+01:08:56,660 --> 01:08:59,660
+I think it could be visualized as such,
+
+1049
+01:08:59,660 --> 01:09:01,660
+but it would be more of an empirical question
+
+1050
+01:09:01,660 --> 01:09:03,660
+to what extent is actually taking place.
+
+1051
+01:09:03,660 --> 01:09:08,660
+Whether it's just a morphology of old industrial area,
+
+1052
+01:09:08,660 --> 01:09:10,660
+like the rural area,
+
+1053
+01:09:10,660 --> 01:09:13,660
+or whether there's some kind of integrated region,
+
+1054
+01:09:13,660 --> 01:09:15,660
+which you do see in Silicon Valley
+
+1055
+01:09:15,660 --> 01:09:18,660
+because it's kind of organized about technology.
+
+1056
+01:09:18,660 --> 01:09:35,660
+We could perhaps argue that it used to be a global city region of yesterday year, but perhaps the globalization was less advanced there and then or at least it would be with the different.
+
+1057
+01:09:35,660 --> 01:09:38,420
+Okay, just to say there's different conceptualization,
+
+1058
+01:09:38,420 --> 01:09:43,140
+that's why to capture function with also the morphology of these places.
+
+1059
+01:09:43,140 --> 01:09:48,620
+I think it's something to reflect on and comparing where you get.
+
+1060
+01:09:48,620 --> 01:09:52,420
+Yeah, I think in the interest of time,
+
+1061
+01:09:52,420 --> 01:09:57,260
+I will have to move on because I'm using a lot of words.
+
+1062
+01:09:57,260 --> 01:10:00,780
+I think it's important that things are clear.
+
+1063
+01:10:00,780 --> 01:10:04,260
+Second of all, and I might speed up a little bit,
+
+1064
+01:10:04,260 --> 01:10:12,020
+I want to give you a methodological example of how people actually dealt with this conceptual apparatus
+
+1065
+01:10:12,020 --> 01:10:20,260
+of world and global cities and global city regions to measure these processes or empirically study these processes.
+
+1066
+01:10:20,260 --> 01:10:25,060
+So this is the work by the globalization and world cities research network.
+
+1067
+01:10:25,060 --> 01:10:31,060
+And it basically starts with whatever of questions I mean.
+
+1068
+01:10:32,820 --> 01:10:35,740
+When you look at some of these claims,
+
+1069
+01:10:35,740 --> 01:10:38,460
+I mean, it's one thing to say, yeah,
+
+1070
+01:10:38,460 --> 01:10:42,340
+we have the acknowledge growth city formation process
+
+1071
+01:10:42,340 --> 01:10:44,020
+of global city formation process,
+
+1072
+01:10:44,020 --> 01:10:47,620
+or to say that interurban connections are already important.
+
+1073
+01:10:47,620 --> 01:10:50,660
+And actually, when you start diving into this,
+
+1074
+01:10:50,660 --> 01:10:53,300
+you quickly run into trouble.
+
+1075
+01:10:53,300 --> 01:10:57,220
+And this is actually something that was kind of noted
+
+1076
+01:10:57,220 --> 01:11:01,460
+already in the '90s, so a very long time ago,
+
+1077
+01:11:01,460 --> 01:11:06,260
+but I want to give you the entire development of the agenda.
+
+1078
+01:11:06,260 --> 01:11:11,980
+That is actually quite a few insight into world city network
+
+1079
+01:11:11,980 --> 01:11:12,460
+information.
+
+1080
+01:11:12,460 --> 01:11:15,740
+So we had a number of case studies in the '80s and '90s,
+
+1081
+01:11:15,740 --> 01:11:19,340
+especially with Soskea Sosen, all particular set of cities,
+
+1082
+01:11:19,340 --> 01:11:21,260
+long the New York et cetera, et cetera.
+
+1083
+01:11:21,260 --> 01:11:23,260
+There was all kinds of hypotheses and claims
+
+1084
+01:11:23,260 --> 01:11:26,900
+about the insertion in a global urban system.
+
+1085
+01:11:26,900 --> 01:11:30,580
+But actually, invariably, there was very little insight
+
+1086
+01:11:30,580 --> 01:11:31,300
+into this.
+
+1087
+01:11:31,300 --> 01:11:35,140
+So what connects cities, how central was cities
+
+1088
+01:11:35,140 --> 01:11:36,660
+in these urban systems?
+
+1089
+01:11:36,660 --> 01:11:42,860
+It was kind of very much an ad hoc answer that you get
+
+1090
+01:11:42,860 --> 01:11:46,020
+to the extent that generally short sets,
+
+1091
+01:11:46,020 --> 01:11:48,540
+there's even a dirty little secret
+
+1092
+01:11:48,540 --> 01:11:50,700
+in world cities research.
+
+1093
+01:11:50,700 --> 01:11:53,180
+Actually, empirically, there's very little
+
+1094
+01:11:53,180 --> 01:11:55,740
+on the actual connections being made between cities.
+
+1095
+01:11:55,740 --> 01:11:58,740
+So we don't really know a lot about this.
+
+1096
+01:11:58,740 --> 01:12:02,100
+And this is something that kind of a research gap
+
+1097
+01:12:02,100 --> 01:12:04,340
+to use new liberals,
+
+1098
+01:12:04,340 --> 01:12:05,460
+academic speak,
+
+1099
+01:12:05,460 --> 01:12:10,300
+that globalization and world cities
+
+1100
+01:12:10,300 --> 01:12:12,340
+with search networks should answer.
+
+1101
+01:12:12,340 --> 01:12:18,140
+And there was a number of ways of trying to do with that.
+
+1102
+01:12:18,140 --> 01:12:24,100
+People tried to work with secondary data in 1990s
+
+1103
+01:12:24,100 --> 01:12:28,500
+of starting 1990s, thinking about for instance, yeah,
+
+1104
+01:12:28,500 --> 01:12:32,260
+looking at the flows of airline passengers.
+
+1105
+01:12:32,260 --> 01:12:40,260
+So how are cities connected by airlines?
+
+1106
+01:12:40,260 --> 01:12:44,000
+And this is gave rise to these kind of hyperb
+
+1107
+01:12:44,000 --> 01:12:48,100
+type of research that shares you.
+
+1108
+01:12:48,100 --> 01:12:53,020
+It's a raw city network of the basis of airline flows.
+
+1109
+01:12:53,020 --> 01:12:57,500
+Any idea whether this is a viable method.
+
+1110
+01:12:57,500 --> 01:13:01,420
+And we measure the centrality of cities in the global economy
+
+1111
+01:13:01,420 --> 01:13:02,980
+by using air life flows.
+
+1112
+01:13:02,980 --> 01:13:06,860
+Well.
+
+1113
+01:13:06,860 --> 01:13:11,360
+[INAUDIBLE]
+
+1114
+01:13:11,360 --> 01:13:12,340
+All right.
+
+1115
+01:13:12,340 --> 01:13:21,340
+[INAUDIBLE]
+
+1116
+01:13:21,340 --> 01:13:26,660
+Yeah, so major airports are not necessarily in closed cities.
+
+1117
+01:13:26,660 --> 01:13:29,660
+Yeah? Other ideas? Yeah?
+
+1118
+01:13:29,660 --> 01:13:39,660
+I'm going to find any of that as well.
+
+1119
+01:13:39,660 --> 01:13:41,660
+Oh, okay. Other kinds of sources to be used.
+
+1120
+01:13:41,660 --> 01:13:43,660
+Okay. So the flow of bitcoins.
+
+1121
+01:13:43,660 --> 01:13:44,660
+Okay. Yeah.
+
+1122
+01:13:44,660 --> 01:13:49,660
+I mean, more particularly with these kind of data on airline flows, other ideas?
+
+1123
+01:13:49,660 --> 01:13:50,660
+Yes.
+
+1124
+01:13:50,660 --> 01:13:54,960
+This is also a commercial model for a company
+
+1125
+01:13:54,960 --> 01:13:57,620
+where you hear, absolutely.
+
+1126
+01:13:57,620 --> 01:13:59,460
+- You're very, very bad at the department.
+
+1127
+01:13:59,460 --> 01:14:01,620
+- Absolutely, yeah, all right, yes.
+
+1128
+01:14:01,620 --> 01:14:04,540
+(muffled speaking)
+
+1129
+01:14:04,540 --> 01:14:11,860
+- That's exactly the same.
+
+1130
+01:14:11,860 --> 01:14:13,260
+I mean, it's debatable.
+
+1131
+01:14:13,260 --> 01:14:15,540
+I mean, are you measuring economic importance
+
+1132
+01:14:15,540 --> 01:14:18,100
+or are you measuring economic control?
+
+1133
+01:14:18,100 --> 01:14:18,940
+- Yeah.
+
+1134
+01:14:18,940 --> 01:14:26,940
+[ Inaudible ]
+
+1135
+01:14:26,940 --> 01:14:30,940
+>> Yeah, that was also the kind of, yeah, there's a hub and spoke system.
+
+1136
+01:14:30,940 --> 01:14:34,940
+People write about papers flying where you don't want to go.
+
+1137
+01:14:34,940 --> 01:14:36,940
+So it doesn't really connect.
+
+1138
+01:14:36,940 --> 01:14:38,940
+I mean, there's a lot of people in the break.
+
+1139
+01:14:38,940 --> 01:14:42,940
+Yeah, I think it's not necessarily to do anything there.
+
+1140
+01:14:42,940 --> 01:14:44,940
+Yeah. And you'll write this.
+
+1141
+01:14:44,940 --> 01:14:51,940
+[INAUDIBLE]
+
+1142
+01:14:51,940 --> 01:14:55,420
+Yeah, yes, yes, absolutely.
+
+1143
+01:14:55,420 --> 01:14:55,900
+Yeah, OK.
+
+1144
+01:14:55,900 --> 01:15:00,900
+So I mean, at first sight, you can do something
+
+1145
+01:15:00,900 --> 01:15:03,100
+because it's a kind of intuitive picture here,
+
+1146
+01:15:03,100 --> 01:15:06,540
+especially when you look at the front top of the hierarchy.
+
+1147
+01:15:06,540 --> 01:15:11,260
+So you find that New York and London is actually there.
+
+1148
+01:15:11,260 --> 01:15:14,660
+But then you quite quickly go into all kinds of anomalies.
+
+1149
+01:15:14,660 --> 01:15:21,660
+Yeah, these hub airports that are not necessarily relevant.
+
+1150
+01:15:21,660 --> 01:15:25,620
+There is destinations which tell us something about economic importance,
+
+1151
+01:15:25,620 --> 01:15:30,300
+but not necessarily about the importance in terms of controlling the global economy,
+
+1152
+01:15:30,300 --> 01:15:32,900
+which is kind of a different kind of process.
+
+1153
+01:15:32,900 --> 01:15:40,660
+Yeah, I was going to say something else about that, but it's, yeah, I forgot about it.
+
+1154
+01:15:42,220 --> 01:15:45,420
+Yeah, so we can also think about new data collections.
+
+1155
+01:15:45,420 --> 01:15:49,540
+And so your bitcoins is one brain.
+
+1156
+01:15:49,540 --> 01:15:51,660
+And I want to pick your brain a little bit more on that.
+
+1157
+01:15:51,660 --> 01:15:55,580
+But before that, I mean, just saying that one
+
+1158
+01:15:55,580 --> 01:15:58,300
+of the big struggles in the 1990s that research
+
+1159
+01:15:58,300 --> 01:16:00,100
+is where researchers work on front with.
+
+1160
+01:16:00,100 --> 01:16:01,820
+And this is still the case today.
+
+1161
+01:16:01,820 --> 01:16:05,620
+And you'll probably notice in some of your courses
+
+1162
+01:16:05,620 --> 01:16:08,700
+is that a lot of the statistics are collected
+
+1163
+01:16:08,700 --> 01:16:11,260
+at the state level and not necessarily
+
+1164
+01:16:11,260 --> 01:16:13,020
+at the urban level.
+
+1165
+01:16:13,020 --> 01:16:17,260
+And Peter Taylor, the by now emeritus professor
+
+1166
+01:16:17,260 --> 01:16:19,500
+that founded the globalization and multidisciplinary
+
+1167
+01:16:19,500 --> 01:16:21,620
+network always referred to this notion of state
+
+1168
+01:16:21,620 --> 01:16:22,700
+districts.
+
+1169
+01:16:22,700 --> 01:16:26,500
+It connected to statistics and indicators
+
+1170
+01:16:26,500 --> 01:16:28,180
+that were collected by the national state
+
+1171
+01:16:28,180 --> 01:16:31,380
+to measure the national economy, et cetera, et cetera.
+
+1172
+01:16:31,380 --> 01:16:34,300
+And at some point, the centrality of cities,
+
+1173
+01:16:34,300 --> 01:16:38,940
+in economic process, has only creeped in slightly.
+
+1174
+01:16:38,940 --> 01:16:42,020
+So we have sometimes at the national level
+
+1175
+01:16:42,020 --> 01:16:46,860
+indicate about cities, but then intercity connections
+
+1176
+01:16:46,860 --> 01:16:48,060
+and flows, it's very hard.
+
+1177
+01:16:48,060 --> 01:16:49,540
+Think about trade flows, for instance,
+
+1178
+01:16:49,540 --> 01:16:51,020
+(speaking in foreign language)
+
+1179
+01:16:51,020 --> 01:16:52,940
+It's between national economies,
+
+1180
+01:16:52,940 --> 01:16:56,940
+but if we have to assume them probably,
+
+1181
+01:16:56,940 --> 01:17:00,140
+the major metropolitan areas will be more tight
+
+1182
+01:17:00,140 --> 01:17:01,660
+in this growth and others.
+
+1183
+01:17:01,660 --> 01:17:02,500
+Yes.
+
+1184
+01:17:02,500 --> 01:17:04,700
+(mumbles)
+
+1185
+01:17:04,700 --> 01:17:06,700
+But the previous slide,
+
+1186
+01:17:06,700 --> 01:17:07,220
+in the beginning African-
+
+1187
+01:17:07,220 --> 01:17:10,220
+[INAUDIBLE]
+
+1188
+01:17:10,220 --> 01:17:11,220
+Sorry.
+
+1189
+01:17:11,220 --> 01:17:12,220
+Yeah.
+
+1190
+01:17:12,220 --> 01:17:15,440
+We have a lot of resource
+
+1191
+01:17:15,440 --> 01:17:19,460
+extraction happening in these places.
+
+1192
+01:17:19,460 --> 01:17:21,940
+No, but these--
+
+1193
+01:17:21,940 --> 01:17:23,340
+I mean, it's always a question.
+
+1194
+01:17:23,340 --> 01:17:24,740
+I will return to that.
+
+1195
+01:17:24,740 --> 01:17:28,020
+The power of representation.
+
+1196
+01:17:28,020 --> 01:17:33,380
+This is the result of where you cut off the list at some point.
+
+1197
+01:17:33,380 --> 01:17:35,500
+So it's the most connected places
+
+1198
+01:17:35,500 --> 01:17:37,900
+It's just a sense of passenger flows.
+
+1199
+01:17:37,900 --> 01:17:40,900
+But there's another realizer on upgrading that.
+
+1200
+01:17:40,900 --> 01:17:42,700
+Yeah, yeah, yeah, yeah.
+
+1201
+01:17:42,700 --> 01:17:43,700
+Absolutely.
+
+1202
+01:17:43,700 --> 01:17:45,700
+How do you get the rear screw?
+
+1203
+01:17:45,700 --> 01:17:49,300
+Well, you can turn it around, and you can focus on Africa.
+
+1204
+01:17:49,300 --> 01:17:53,660
+African cities and how they're connected in global, global
+
+1205
+01:17:53,660 --> 01:17:54,460
+airline afterwards.
+
+1206
+01:17:54,460 --> 01:17:58,500
+So you can do some kind of if you will, but not the analysis.
+
+1207
+01:17:58,500 --> 01:18:00,660
+It's actually something that we did that look at the
+
+1208
+01:18:00,660 --> 01:18:03,540
+evolution of African cities globally.
+
+1209
+01:18:03,540 --> 01:18:09,540
+airline networks, and it could tell you, give you a hint about how these places are
+
+1210
+01:18:09,540 --> 01:18:15,500
+according to nationalizing globalizing through their airline networks, which you can then
+
+1211
+01:18:15,500 --> 01:18:18,140
+could still be a very rough figure.
+
+1212
+01:18:18,140 --> 01:18:24,020
+And it would also, as we found, capture all kinds of processes, the liberalization of the
+
+1213
+01:18:24,020 --> 01:18:30,980
+airline industry in Africa, rather than the increasing importance of some cities in the global
+
+1214
+01:18:30,980 --> 01:18:36,940
+So yeah, just to give you an idea of what is the trouble when you start looking for
+
+1215
+01:18:36,940 --> 01:18:42,860
+your kind of data, you perhaps can think a little bit about what other kinds of approximations
+
+1216
+01:18:42,860 --> 01:18:43,860
+you could use.
+
+1217
+01:18:43,860 --> 01:18:50,500
+And that was exactly kind of a conundrum or thing that people were chewing on in the 1990s
+
+1218
+01:18:50,500 --> 01:18:57,300
+and as it became evident at some kind of new metajography was needed.
+
+1219
+01:18:57,300 --> 01:19:02,300
+I'm using metagography in a sense that it refers to
+
+1220
+01:19:02,300 --> 01:19:04,980
+associate spatial structure, if you will,
+
+1221
+01:19:04,980 --> 01:19:07,140
+it helps to make sense of the world.
+
+1222
+01:19:07,140 --> 01:19:12,140
+So it's a geography that explains how processes work.
+
+1223
+01:19:12,140 --> 01:19:16,860
+Like the nation states tells us something
+
+1224
+01:19:16,860 --> 01:19:17,960
+about what extent
+
+1225
+01:19:17,960 --> 01:19:24,540
+either sectarian politics is able to territorialize,
+
+1226
+01:19:24,540 --> 01:19:34,420
+need to make it difficult. Whereas perhaps the world city network tries to capture the
+
+1227
+01:19:34,420 --> 01:19:41,740
+integrated fashion of economic processes. And this is actually what Manuel Castelles was
+
+1228
+01:19:41,740 --> 01:19:47,580
+writing about in the 1990s when we were talking about this space of flows which he put into
+
+1229
+01:19:47,580 --> 01:19:53,980
+opposition with the space of places. So he said, well, we have this traditional view of the world
+
+1230
+01:19:53,980 --> 01:20:01,180
+as a mosaic of territorial states which are kind of yeah if you put them together you get the
+
+1231
+01:20:01,180 --> 01:20:09,740
+world map but there's another kind of geography that is out there which is discontinuous so it's
+
+1232
+01:20:09,740 --> 01:20:15,260
+kind of it's another continuous space these are kind of islands if you will that are connected
+
+1233
+01:20:15,260 --> 01:20:23,820
+to flows of goods, people, money, knowledge etc etc so this is kind of character
+
+1234
+01:20:23,820 --> 01:20:25,580
+rising the space of flow.
+
+1235
+01:20:25,580 --> 01:20:28,560
+And it's kind of, it's a socialization process,
+
+1236
+01:20:28,560 --> 01:20:29,820
+a sociologist.
+
+1237
+01:20:29,820 --> 01:20:34,060
+So it's a society emerging on that.
+
+1238
+01:20:34,060 --> 01:20:38,460
+And it was kind of kind of visionary.
+
+1239
+01:20:38,460 --> 01:20:41,460
+But I, he intended to be visionary in a sense
+
+1240
+01:20:41,460 --> 01:20:42,980
+that this would be the norm.
+
+1241
+01:20:42,980 --> 01:20:45,900
+So we would be the common network society.
+
+1242
+01:20:45,900 --> 01:20:47,900
+We can wonder about that.
+
+1243
+01:20:47,900 --> 01:20:50,140
+But what is kind of still relevant, I think,
+
+1244
+01:20:50,140 --> 01:20:53,020
+is that there's a tension between these spaces of flows.
+
+1245
+01:20:53,020 --> 01:20:56,360
+So these islands of connected urban areas,
+
+1246
+01:20:56,360 --> 01:21:02,500
+which is to some degree detached from a mosaic of city stance.
+
+1247
+01:21:02,500 --> 01:21:06,060
+And there's all kinds of oppositions between that.
+
+1248
+01:21:06,060 --> 01:21:08,500
+If you look at the election map in the UK,
+
+1249
+01:21:08,500 --> 01:21:10,700
+none of the election map, the referendum map.
+
+1250
+01:21:10,700 --> 01:21:17,020
+And you look at the leaf or remain float,
+
+1251
+01:21:17,020 --> 01:21:20,980
+it was clear that London wanted to stay in,
+
+1252
+01:21:20,980 --> 01:21:23,620
+which tells us something about the importance
+
+1253
+01:21:23,620 --> 01:21:25,820
+of being remaining connected to,
+
+1254
+01:21:25,820 --> 01:21:27,420
+we'd say other financial centers
+
+1255
+01:21:27,420 --> 01:21:29,100
+on the European continent.
+
+1256
+01:21:29,100 --> 01:21:31,780
+The rest of Britain, I mean, summarizing now,
+
+1257
+01:21:31,780 --> 01:21:34,380
+was against that,
+
+1258
+01:21:34,380 --> 01:21:37,420
+which shows that there's a disconnect in the daily lives
+
+1259
+01:21:37,420 --> 01:21:41,700
+of people to the interest of a city.
+
+1260
+01:21:41,700 --> 01:21:46,700
+I'm not saying that the leaf campaign
+
+1261
+01:21:46,700 --> 01:21:49,060
+actually connected to the real needs of Brits,
+
+1262
+01:21:49,060 --> 01:21:50,700
+but that's another kind of discussion, okay?
+
+1263
+01:21:50,700 --> 01:21:54,380
+So this space of flows served as a kind of new metagogy
+
+1264
+01:21:54,380 --> 01:21:57,340
+which then was an impetus to start collecting new data,
+
+1265
+01:21:57,340 --> 01:22:02,340
+which ultimately brings me to the raw curiosity
+
+1266
+01:22:02,340 --> 01:22:05,940
+and I'll try to be as brief as possible in the interest of time.
+
+1267
+01:22:05,940 --> 01:22:09,100
+It's also not something that you need to...
+
+1268
+01:22:09,100 --> 01:22:11,660
+No, you don't study this by heart,
+
+1269
+01:22:11,660 --> 01:22:16,100
+but it's a way to kind of appreciate a certain methodology.
+
+1270
+01:22:18,060 --> 01:22:22,500
+So just go to this website once, at least.
+
+1271
+01:22:22,500 --> 01:22:25,740
+It's hosted by Lovedra University in East England
+
+1272
+01:22:25,740 --> 01:22:28,380
+and then the Midlands.
+
+1273
+01:22:28,380 --> 01:22:34,580
+It's a very interesting source for urban level case studies
+
+1274
+01:22:34,580 --> 01:22:37,620
+on connectivity between cities.
+
+1275
+01:22:37,620 --> 01:22:39,860
+It can also use for other courses, I think,
+
+1276
+01:22:39,860 --> 01:22:42,940
+of the course by bus, for instance.
+
+1277
+01:22:42,940 --> 01:22:46,500
+So it's quite an inventory of nice case
+
+1278
+01:22:46,500 --> 01:22:48,340
+that is there.
+
+1279
+01:22:48,340 --> 01:22:50,980
+So what's the starting point of this, you can say,
+
+1280
+01:22:50,980 --> 01:22:53,700
+project by globalization and what's
+
+1281
+01:22:53,700 --> 01:22:58,380
+the research network was, is let's take APS firms
+
+1282
+01:22:58,380 --> 01:23:05,340
+as the clearest indicator species of this new space of flows.
+
+1283
+01:23:05,340 --> 01:23:07,140
+So there's a new space of flows that
+
+1284
+01:23:07,140 --> 01:23:11,260
+characterize how the global economy and global society works.
+
+1285
+01:23:11,260 --> 01:23:15,300
+And as we read Castell's Sosen, it's very likely
+
+1286
+01:23:15,300 --> 01:23:18,260
+that if we use these corporations,
+
+1287
+01:23:18,260 --> 01:23:23,260
+we'll be able to indicate a command and control functions
+
+1288
+01:23:23,260 --> 01:23:24,100
+of cities.
+
+1289
+01:23:24,100 --> 01:23:27,700
+So the starting point are the geographies of APS firms
+
+1290
+01:23:27,700 --> 01:23:32,420
+that tell us something about world and global cities.
+
+1291
+01:23:32,420 --> 01:23:34,380
+The reason is, as I explained earlier,
+
+1292
+01:23:34,380 --> 01:23:37,220
+these APS firms are in and of themselves.
+
+1293
+01:23:37,220 --> 01:23:41,100
+International players, they have a global city geography,
+
+1294
+01:23:41,100 --> 01:23:44,820
+if you will, so it makes sense to start looking
+
+1295
+01:23:44,820 --> 01:23:53,500
+And the idea is that you can actually build a model on the basis of these APS
+
+1296
+01:23:53,500 --> 01:24:00,620
+geographies and the model is based on the co-presence, the shared presence of
+
+1297
+01:24:00,620 --> 01:24:04,380
+APS firms in multiple cities.
+
+1298
+01:24:04,380 --> 01:24:09,740
+Summarized is one firm in Brussels and London.
+
+1299
+01:24:09,740 --> 01:24:14,220
+It will make connection between these two cities and we can assume that it will
+
+1300
+01:24:14,220 --> 01:24:21,180
+will be so kind of flow of probably emails, telephone calls, ideas, there will be
+
+1301
+01:24:21,180 --> 01:24:25,500
+second-man's, people will travel between these officers, money will flow between
+
+1302
+01:24:25,500 --> 01:24:31,720
+these officers, etc. So the shared presence of APS firm in multiple cities, so
+
+1303
+01:24:31,720 --> 01:24:36,860
+one firm being located in multiple cities. So in a three-step spirit with any
+
+1304
+01:24:36,860 --> 01:24:41,420
+model you need to specify it, then you can measure it, it's filling it to a data,
+
+1305
+01:24:41,420 --> 01:24:45,420
+And then hopefully something comes out of this model.
+
+1306
+01:24:45,420 --> 01:24:46,420
+Okay?
+
+1307
+01:24:46,420 --> 01:24:50,420
+So, yeah, how does GOC solve it?
+
+1308
+01:24:50,420 --> 01:24:53,420
+So, just as a random example,
+
+1309
+01:24:53,420 --> 01:24:56,420
+a number of global or rural cities,
+
+1310
+01:24:56,420 --> 01:24:59,420
+New York, London, Brussels, Kuala Lumpur,
+
+1311
+01:24:59,420 --> 01:25:05,420
+and these are kind of contained spaces with a number of firms in there.
+
+1312
+01:25:05,420 --> 01:25:08,420
+And these are APS firms.
+
+1313
+01:25:08,420 --> 01:25:11,500
+And so there's the mobile, this thing, cities,
+
+1314
+01:25:11,500 --> 01:25:13,660
+and they host APS firms.
+
+1315
+01:25:13,660 --> 01:25:16,420
+Some of these firms are actually the same, okay?
+
+1316
+01:25:16,420 --> 01:25:21,420
+So we have by now transformed corporations
+
+1317
+01:25:21,420 --> 01:25:23,460
+such as Arthur Anderson, resident bank,
+
+1318
+01:25:23,460 --> 01:25:24,860
+Kiffin Chan, the law firm,
+
+1319
+01:25:24,860 --> 01:25:27,220
+Booth, Allen, Hamilton, noise,
+
+1320
+01:25:27,220 --> 01:25:28,740
+that's insurance company.
+
+1321
+01:25:28,740 --> 01:25:30,940
+But just to give you some questions.
+
+1322
+01:25:30,940 --> 01:25:33,740
+So how is it specified?
+
+1323
+01:25:33,740 --> 01:25:34,740
+What does God do?
+
+1324
+01:25:34,740 --> 01:25:37,460
+It says, well, oh, there's a firm here
+
+1325
+01:25:37,460 --> 01:25:42,460
+in London or Brussels, how important is this firm actually?
+
+1326
+01:25:42,460 --> 01:25:46,180
+Okay, so you try to measure this in an objective,
+
+1327
+01:25:46,180 --> 01:25:49,020
+or at least standardize way so that you make the same
+
+1328
+01:25:49,020 --> 01:25:52,180
+per every time, or that you write every time.
+
+1329
+01:25:52,180 --> 01:25:55,980
+So you say, okay, for this one office in Brussels
+
+1330
+01:25:55,980 --> 01:25:59,700
+by Barclays or something or HSBC, a bank,
+
+1331
+01:25:59,700 --> 01:26:00,940
+how important is it?
+
+1332
+01:26:00,940 --> 01:26:03,420
+And we use a very standard scale, zero to five,
+
+1333
+01:26:03,420 --> 01:26:06,420
+no offense are easy, you give it a zero.
+
+1334
+01:26:06,420 --> 01:26:10,140
+Oh, it's the global headquarters, that is a fine, okay?
+
+1335
+01:26:10,140 --> 01:26:12,860
+It's the only agency, but it would be, I don't know,
+
+1336
+01:26:12,860 --> 01:26:16,980
+KBC or something like that, large belting back, okay?
+
+1337
+01:26:16,980 --> 01:26:19,580
+And then there's a whole range in between.
+
+1338
+01:26:19,580 --> 01:26:21,820
+A typical office would be two,
+
+1339
+01:26:21,820 --> 01:26:24,660
+maybe a regional headquarters, and there's a lot of those
+
+1340
+01:26:24,660 --> 01:26:28,760
+and Brussels that actually control European activities
+
+1341
+01:26:28,760 --> 01:26:31,340
+would be a three or four.
+
+1342
+01:26:31,340 --> 01:26:34,340
+So this is kind of the idea.
+
+1343
+01:26:34,340 --> 01:26:37,220
+There's a hierarchy in office functions
+
+1344
+01:26:37,220 --> 01:26:40,060
+and we can measure this in a standardized way.
+
+1345
+01:26:40,060 --> 01:26:43,260
+If you have service values,
+
+1346
+01:26:43,260 --> 01:26:48,060
+you can also imagine what the importance of the connection
+
+1347
+01:26:48,060 --> 01:26:50,740
+between two offices would be.
+
+1348
+01:26:50,740 --> 01:26:54,460
+So a very important office and Brussels,
+
+1349
+01:26:54,460 --> 01:26:56,980
+and a very important office in London
+
+1350
+01:26:56,980 --> 01:27:01,500
+would probably generate more traffic in terms of emails
+
+1351
+01:27:01,500 --> 01:27:04,780
+some phone calls, which is then again a proxy
+
+1352
+01:27:04,780 --> 01:27:07,460
+for, you could say, the importance of the activities
+
+1353
+01:27:07,460 --> 01:27:09,180
+in global command language.
+
+1354
+01:27:09,180 --> 01:27:13,420
+So it's basically calculating the intercity relation
+
+1355
+01:27:13,420 --> 01:27:18,260
+the R value there by multiplying the service values.
+
+1356
+01:27:18,260 --> 01:27:21,260
+And so very basic, so you have a very important time
+
+1357
+01:27:21,260 --> 01:27:24,740
+is a very important one, if you are very strong relation
+
+1358
+01:27:24,740 --> 01:27:26,100
+between these two places.
+
+1359
+01:27:26,100 --> 01:27:27,100
+OK.
+
+1360
+01:27:27,100 --> 01:27:28,820
+I'm going to get like that.
+
+1361
+01:27:28,820 --> 01:27:29,860
+Can I imagine the connection?
+
+1362
+01:27:29,860 --> 01:27:33,580
+So they took a line, the more important connection
+
+1363
+01:27:33,580 --> 01:27:36,340
+between these kind of offices.
+
+1364
+01:27:36,340 --> 01:27:41,020
+And you can populate a complete matrix with that.
+
+1365
+01:27:41,020 --> 01:27:44,460
+You can do that in the filter until you drop that,
+
+1366
+01:27:44,460 --> 01:27:48,420
+or you don't have the energy to look for more information
+
+1367
+01:27:48,420 --> 01:27:49,700
+on office networks.
+
+1368
+01:27:49,700 --> 01:27:51,700
+So this is kind of the basic one.
+
+1369
+01:27:51,700 --> 01:27:53,620
+And it allows you to do, for instance,
+
+1370
+01:27:53,620 --> 01:27:57,620
+this guy thinks that there's three cities in this very short list
+
+1371
+01:27:57,620 --> 01:27:59,900
+New York Singapore and the app work.
+
+1372
+01:27:59,900 --> 01:28:02,920
+And they have these different front
+
+1373
+01:28:02,920 --> 01:28:05,140
+and it gets from ABC and D.
+
+1374
+01:28:05,140 --> 01:28:08,340
+And we can could imagine a novel where you say, okay.
+
+1375
+01:28:08,340 --> 01:28:13,340
+And for a global office in New York,
+
+1376
+01:28:13,340 --> 01:28:16,460
+a very important office,
+
+1377
+01:28:16,460 --> 01:28:18,300
+or a regular office in Singapore,
+
+1378
+01:28:18,300 --> 01:28:18,620
+and a regular office in
+
+1379
+01:28:18,620 --> 01:28:23,780
+and it would be a bit different for BC and D.
+
+1380
+01:28:24,860 --> 01:28:28,700
+So just one example, I'll see there.
+
+1381
+01:28:28,700 --> 01:28:34,460
+What you can then do is start to measure the connectivity
+
+1382
+01:28:34,460 --> 01:28:36,020
+of cities.
+
+1383
+01:28:36,020 --> 01:28:40,700
+Thus far we've been talking about first
+
+1384
+01:28:40,700 --> 01:28:43,940
+and what the importance of the city has for a firm.
+
+1385
+01:28:43,940 --> 01:28:46,100
+You can also think about what is now
+
+1386
+01:28:46,100 --> 01:28:49,820
+the strength of a city's connection based
+
+1387
+01:28:49,820 --> 01:28:52,260
+on the presence of first.
+
+1388
+01:28:52,260 --> 01:29:00,100
+What you do is you basically summarize all these different types between cities for one
+
+1389
+01:29:00,100 --> 01:29:01,100
+one six.
+
+1390
+01:29:01,100 --> 01:29:04,020
+It sounds a bit complex but it's really easy.
+
+1391
+01:29:04,020 --> 01:29:10,780
+So what you would do is think about the connection between different cities on the base
+
+1392
+01:29:10,780 --> 01:29:11,940
+of the corporate networks.
+
+1393
+01:29:11,940 --> 01:29:19,060
+So think about five times two plus five times two would be the connectivity generated
+
+1394
+01:29:19,060 --> 01:29:22,260
+by first-grown, so you can be four times two.
+
+1395
+01:29:22,260 --> 01:29:25,740
+Your, you'll be five times one.
+
+1396
+01:29:25,740 --> 01:29:29,460
+And in this step, I think I was five.
+
+1397
+01:29:29,460 --> 01:29:33,460
+And in some, you would get a figure of 40.
+
+1398
+01:29:33,460 --> 01:29:35,740
+It's purely irrelevant example,
+
+1399
+01:29:35,740 --> 01:29:38,580
+but it would give you the highest connectivity
+
+1400
+01:29:38,580 --> 01:29:41,300
+in this model, right?
+
+1401
+01:29:41,300 --> 01:29:42,820
+And then for the other kind of cities,
+
+1402
+01:29:42,820 --> 01:29:44,900
+we could do similar exercises,
+
+1403
+01:29:44,900 --> 01:29:47,320
+and for it would be generating
+
+1404
+01:29:47,320 --> 01:29:53,000
+activities for a and even just a low presence on its front. But you would generate
+
+1405
+01:29:53,000 --> 01:29:59,960
+someone activity for eight and for a. And also summarize that. And what you could
+
+1406
+01:29:59,960 --> 01:30:04,520
+also do is express this as a proportion of most connected city in this tiny
+
+1407
+01:30:04,520 --> 01:30:10,200
+example of New York. And you would get to say, well, enter is four times
+
+1408
+01:30:10,200 --> 01:30:15,400
+connected as well as New York. So New York is is our leading
+
+1409
+01:30:15,400 --> 01:30:19,320
+We'll sit here, then we have Singapore and then Andrew.
+
+1410
+01:30:19,320 --> 01:30:25,160
+So a very, very small example to tell you how the structure is.
+
+1411
+01:30:25,160 --> 01:30:29,240
+Service values, thinking about connections between cities,
+
+1412
+01:30:29,240 --> 01:30:31,960
+and then summarizing these connections.
+
+1413
+01:30:31,960 --> 01:30:36,600
+And that gives us an overall view of the connectivity of the city in the world,
+
+1414
+01:30:36,600 --> 01:30:39,720
+sitting there.
+
+1415
+01:30:39,720 --> 01:30:42,920
+So we have specified the model.
+
+1416
+01:30:42,920 --> 01:30:47,920
+And then you can start measuring it and filling it with data.
+
+1417
+01:30:47,920 --> 01:30:52,080
+And how has GOC done this?
+
+1418
+01:30:52,080 --> 01:30:56,320
+Well, specification obviously refers to the APS firms.
+
+1419
+01:30:56,320 --> 01:31:01,200
+And this kind of nice is that this measurement
+
+1420
+01:31:01,200 --> 01:31:04,480
+has occurred several times since, I think, 2,000,
+
+1421
+01:31:04,480 --> 01:31:06,080
+but every time in the same way.
+
+1422
+01:31:06,080 --> 01:31:09,840
+So it kind of definitions of categories
+
+1423
+01:31:09,840 --> 01:31:13,120
+of these kind of APS sectors has been in the same,
+
+1424
+01:31:13,120 --> 01:31:15,840
+and has been numerous kind of reiterations
+
+1425
+01:31:15,840 --> 01:31:16,680
+of these measures.
+
+1426
+01:31:16,680 --> 01:31:21,040
+So five sectors are connected to SELSA's interpretation.
+
+1427
+01:31:21,040 --> 01:31:24,520
+Can't see advertising, financial services, insurance,
+
+1428
+01:31:24,520 --> 01:31:26,840
+law, management, and so forth.
+
+1429
+01:31:26,840 --> 01:31:31,840
+Basically, what God does is the leading firms, 175 firms,
+
+1430
+01:31:31,840 --> 01:31:38,360
+based on Forbes and other kinds of corporate lists,
+
+1431
+01:31:38,360 --> 01:31:44,040
+that tells something about turnover, the size of these folks, et cetera, et cetera, are
+
+1432
+01:31:44,040 --> 01:31:47,280
+kind of selected.
+
+1433
+01:31:47,280 --> 01:31:53,760
+And then what is also done is, yeah, you could do this with an infinite number of cities.
+
+1434
+01:31:53,760 --> 01:31:56,880
+Well, not infinite, but a very large list of cities.
+
+1435
+01:31:56,880 --> 01:32:03,600
+But to avoid a bit of, I don't know, it's not biased, but to get a manageable data set,
+
+1436
+01:32:03,600 --> 01:32:08,940
+You could say the largest cities or what we know from certain countries as economically
+
+1437
+01:32:08,940 --> 01:32:12,440
+and important cities are selected in this list.
+
+1438
+01:32:12,440 --> 01:32:15,360
+So it's not a purely inductive exercise.
+
+1439
+01:32:15,360 --> 01:32:20,120
+It's kind of an informed decision to include some cities and other products.
+
+1440
+01:32:20,120 --> 01:32:27,840
+So all the firms, a lot of cities, and then on the basis of information that we can find
+
+1441
+01:32:27,840 --> 01:32:36,000
+on corporate websites, we made a decision as to how important offices are. And then you
+
+1442
+01:32:36,000 --> 01:32:44,880
+can basically start filling the entire matrix. So just an example to share how this works.
+
+1443
+01:32:44,880 --> 01:32:49,680
+I mean, you think about just look at the website, can be quite tough, but you can actually
+
+1444
+01:32:49,680 --> 01:32:56,720
+hold all of these websites, find very detailed information at the address level of these
+
+1445
+01:32:56,720 --> 01:33:01,360
+offices and all of these corporations are very proud that they're located in the
+
+1446
+01:33:01,360 --> 01:33:08,480
+meeting world city is kind of a brand new so quite often you can fly down yes
+
+1447
+01:33:08,480 --> 01:33:15,840
+yes you avoid the deforestation that's a very good idea
+
+1448
+01:33:15,840 --> 01:33:22,560
+I think yeah I'm not sure whether it's going to take away all the noise that
+
+1449
+01:33:22,560 --> 01:33:30,640
+that's what you're internet. So yeah, so it's a really accessible source of information,
+
+1450
+01:33:30,640 --> 01:33:38,880
+but obviously it's also a bit of a guesswork and you need to come up with some kind of
+
+1451
+01:33:38,880 --> 01:33:46,800
+interpretive guide to meet these websites and to make decisions as to how you will
+
+1452
+01:33:47,760 --> 01:33:55,440
+give attached value to these phrases. Okay, just one, and then you can build these kind of
+
+1453
+01:33:55,440 --> 01:34:03,040
+matrices. So all of them are all of countries, a lot of cities. And then you can start applying
+
+1454
+01:34:03,040 --> 01:34:08,400
+that problem. Okay, so it's an approximation of the importance of cities in these corporate networks,
+
+1455
+01:34:08,400 --> 01:34:15,760
+and it has the level of kind of sustained analysis or modeling of these interactions on that
+
+1456
+01:34:15,760 --> 01:34:24,640
+basis. And then maybe already have seen these kind of maps. So a lot of world-saving network research
+
+1457
+01:34:24,640 --> 01:34:30,800
+then start to look into the actual geographies that are being produced. So this is some research
+
+1458
+01:34:30,800 --> 01:34:40,560
+from a while ago. It just shows the absolute levels of connectivity, so the global network connectivity,
+
+1459
+01:34:40,560 --> 01:34:48,320
+and the darker pieces are the most connected places and then the lower the light colors by the
+
+1460
+01:34:48,320 --> 01:34:55,760
+less one place. So it gives you an idea. Take a good look at this map. What you learn from that
+
+1461
+01:34:55,760 --> 01:35:09,760
+or what you find striking anything striking here. Does it confirm what you thought? You learned
+
+1462
+01:35:09,760 --> 01:35:38,760
+Can you think? Yeah? No? Yes? I don't really get a comment on the situation. I said, "If I do this, or if you do this, the word happens. There are not a few routines in this." So, where there's so many neuroships. If you think that you said that you can kind of think of the largest in these things, you do a piece of permanent largest in the number of populations.
+
+1463
+01:35:38,760 --> 01:35:39,760
+I know.
+
+1464
+01:35:39,760 --> 01:35:40,760
+No.
+
+1465
+01:35:40,760 --> 01:35:43,640
+So, but it's a list.
+
+1466
+01:35:43,640 --> 01:35:45,480
+So there's a number of criteria.
+
+1467
+01:35:45,480 --> 01:35:51,040
+I mean, population is one, but it's also in certain countries.
+
+1468
+01:35:51,040 --> 01:35:56,440
+I mean, it's also looking for its business, its written down economic importance.
+
+1469
+01:35:56,440 --> 01:36:04,920
+So in Belgium, it would also include these entities, which is absolutely not a two million
+
+1470
+01:36:04,920 --> 01:36:09,280
+in happen in the city so but we know it has important opportunities.
+
+1471
+01:36:09,280 --> 01:36:13,640
+Now just to be clear, these are not 525 cities,
+
+1472
+01:36:13,640 --> 01:36:16,160
+but it's a selection I think it's 123.
+
+1473
+01:36:16,160 --> 01:36:20,160
+So it's focusing on the most important cities,
+
+1474
+01:36:20,160 --> 01:36:24,560
+which as a result, apparently gifts,
+
+1475
+01:36:24,560 --> 01:36:27,400
+a geography that is skewed towards,
+
+1476
+01:36:27,400 --> 01:36:29,840
+it's a Northern America Western Europe
+
+1477
+01:36:29,840 --> 01:36:32,440
+and then has a bit of presence elsewhere.
+
+1478
+01:36:32,440 --> 01:36:45,440
+>> Yeah. >> I'm just thinking, like, this thing is like, about 50, just, yeah, I think, like, it's like that.
+
+1479
+01:36:45,440 --> 01:36:50,440
+Like, it's like a whole life, like, you know, in relationship that a global that type of business.
+
+1480
+01:36:50,440 --> 01:36:51,440
+Like, I don't know if you have a good case. >> Yeah, absolutely.
+
+1481
+01:36:51,440 --> 01:36:55,440
+>> You know, that's a good case. >> For making sense, you know, which I found in a bit,
+
+1482
+01:36:55,440 --> 01:36:59,440
+a lot lower probably not, but the money, but like, how many people, you know,
+
+1483
+01:36:59,440 --> 01:37:07,640
+>> I agree 300%.
+
+1484
+01:37:07,640 --> 01:37:13,680
+So the question is, does this represent cities and globalization or does it represent
+
+1485
+01:37:13,680 --> 01:37:17,280
+the location strategies of APS first?
+
+1486
+01:37:17,280 --> 01:37:20,080
+And to what extent is this the same?
+
+1487
+01:37:20,080 --> 01:37:24,400
+So the question is to what extent do you go along and
+
+1488
+01:37:24,400 --> 01:37:30,480
+claim that it gets from foreign indicators species of commandment control. I think to some extent
+
+1489
+01:37:30,480 --> 01:37:35,520
+this is the case but there's clearly other processes but I think and that's something that we'll
+
+1490
+01:37:35,520 --> 01:37:43,120
+return to later on. We have to I think another key distinguish between say more economic drug
+
+1491
+01:37:43,120 --> 01:37:48,720
+a few readings whereas there's also more urban studies critiques some people say that you're not
+
+1492
+01:37:48,720 --> 01:37:53,600
+capturing globalization here. And this whole process we should look at?
+
+1493
+01:37:53,600 --> 01:37:58,480
+Yes, that's true. But it doesn't discredit one particular reading or one particular focus on the
+
+1494
+01:37:58,480 --> 01:38:03,520
+process, as long as we're clear about what it is that measures and what it is it has. But I
+
+1495
+01:38:03,520 --> 01:38:09,440
+completely example that remitances, I'll return to that in a second, is very appropriate.
+
+1496
+01:38:09,440 --> 01:38:16,080
+So this we have to be careful that we were not switched to some kind of imperial
+
+1497
+01:38:18,000 --> 01:38:24,560
+act here to try to claim that one process dominates something, but it was a specific
+
+1498
+01:38:24,560 --> 01:38:33,680
+equation. Same here is the same period that's a kind of comparison between two periods in time.
+
+1499
+01:38:33,680 --> 01:38:40,240
+I mean there was a data collection that allows analysis in 2000 and I'm just before the crisis
+
+1500
+01:38:41,120 --> 01:38:45,120
+in 2008, I mean the previous crisis, we get them all.
+
+1501
+01:38:45,120 --> 01:38:50,120
+So comparing the structure of the world city network,
+
+1502
+01:38:50,120 --> 01:38:52,620
+which is effectively on the aggregate level,
+
+1503
+01:38:52,620 --> 01:38:58,620
+the structure of corporate strategies and the interpretive fees.
+
+1504
+01:38:58,620 --> 01:39:02,620
+And I mean it's kind of interesting to see that even before
+
+1505
+01:39:02,620 --> 01:39:06,020
+the Euro-American or North Atlantic financial crisis,
+
+1506
+01:39:06,020 --> 01:39:09,920
+there was already a shift going on in terms of strategic importance
+
+1507
+01:39:09,920 --> 01:39:14,020
+of cities in the east, and I mean both in eastern Europe,
+
+1508
+01:39:14,020 --> 01:39:18,620
+and the global east, so I'm talking about Chinese cities,
+
+1509
+01:39:18,620 --> 01:39:23,420
+for instance, so if regions were interested in secular shifts
+
+1510
+01:39:23,420 --> 01:39:25,940
+within the structure of the world economy,
+
+1511
+01:39:25,940 --> 01:39:29,980
+it shows that it's also reflected in the corporate geographies
+
+1512
+01:39:29,980 --> 01:39:34,220
+of these ATS firms, which knowing that they're
+
+1513
+01:39:34,220 --> 01:39:37,260
+important inputs for global corporations
+
+1514
+01:39:37,260 --> 01:39:40,300
+There's something about developments on these cities
+
+1515
+01:39:40,300 --> 01:39:44,060
+in how capital circulates on the global scale.
+
+1516
+01:39:44,060 --> 01:39:46,860
+So it tells us something that everything,
+
+1517
+01:39:46,860 --> 01:39:52,180
+and that's also why Rob uses heuristic.
+
+1518
+01:39:52,180 --> 01:39:54,780
+And there's some modesty connected to that.
+
+1519
+01:39:54,780 --> 01:39:56,740
+Heuristic is a kind of a starting point.
+
+1520
+01:39:56,740 --> 01:39:59,300
+As a searching device, where he's like,
+
+1521
+01:39:59,300 --> 01:40:04,300
+oh, what the hell is going on in, let's say, lightly?
+
+1522
+01:40:05,620 --> 01:40:06,900
+It's dark reds.
+
+1523
+01:40:06,900 --> 01:40:08,380
+What could be the process going on?
+
+1524
+01:40:08,380 --> 01:40:12,020
+How does it explain that-- how do you explain that it's
+
+1525
+01:40:12,020 --> 01:40:15,100
+one of the worst performers, if you will,
+
+1526
+01:40:15,100 --> 01:40:16,740
+and it was so much connectivity,
+
+1527
+01:40:16,740 --> 01:40:18,820
+whereas it's a very important transit
+
+1528
+01:40:18,820 --> 01:40:23,820
+hub between that in America and a northern America?
+
+1529
+01:40:23,820 --> 01:40:26,900
+Is why is it losing its functions?
+
+1530
+01:40:26,900 --> 01:40:29,380
+Is it because Latin America is becoming
+
+1531
+01:40:29,380 --> 01:40:35,060
+less important for northern American capital?
+
+1532
+01:40:35,060 --> 01:40:36,100
+what could be going on there?
+
+1533
+01:40:36,100 --> 01:40:39,940
+I mean, you can think about numerous other examples there.
+
+1534
+01:40:39,940 --> 01:40:41,460
+And it should be, I think, and that's
+
+1535
+01:40:41,460 --> 01:40:44,780
+how I personally use it, the starting point for analysis.
+
+1536
+01:40:44,780 --> 01:40:48,020
+And a difference set to a different set of methods.
+
+1537
+01:40:48,020 --> 01:40:50,660
+You could do a case study, follow the thing,
+
+1538
+01:40:50,660 --> 01:40:53,340
+follow your nose, and try to problematize
+
+1539
+01:40:53,340 --> 01:40:55,420
+these kinds of findings.
+
+1540
+01:40:55,420 --> 01:40:58,420
+But it's a way to refer to her back to that.
+
+1541
+01:40:58,420 --> 01:41:00,900
+And it gives you-- that's, I think, he added value,
+
+1542
+01:41:00,900 --> 01:41:02,780
+some kind of standardized overview.
+
+1543
+01:41:02,780 --> 01:41:12,860
+There's a lot of things that we can say about that. I really need to press on because
+
+1544
+01:41:12,860 --> 01:41:17,300
+it's taking a bit more time than expected. Are you still okay to proceed? I promise that
+
+1545
+01:41:17,300 --> 01:41:22,860
+we won't take 25 minutes but maybe 20 minutes if I'm lucky?
+
+1546
+01:41:22,860 --> 01:41:28,460
+Is that okay or do you want to break? Why is this going to be there?
+
+1547
+01:41:28,460 --> 01:41:35,660
+Yes you can. Yeah, is there a collective need for a restroom break?
+
+1548
+01:41:35,660 --> 01:41:44,460
+Is that a yes hand? Yeah, two minutes because we really because we can't take too much time.
+
+1549
+01:41:44,460 --> 01:41:51,460
+So if you project that in 20 minutes, your bladder will break.
+
+1550
+01:41:51,460 --> 01:41:52,460
+Go now.
+
+1551
+01:41:52,460 --> 01:41:55,460
+(audience chatter)
+
+1552
+01:41:55,460 --> 01:41:58,220
+(crowd chattering)
+
+1553
+01:41:58,220 --> 01:42:08,220
+[ Background Sounds ]
+
+1554
+01:42:08,220 --> 01:42:11,220
+(people chattering)
+
+1555
+01:42:11,220 --> 01:42:13,880
+(people talking)
+
+1556
+01:42:13,880 --> 01:42:17,040
+(audience chattering)
+
+1557
+01:42:17,040 --> 01:42:20,040
+(audience chattering)
+
+1558
+01:42:20,040 --> 01:42:46,040
+[ Inaudible ]
+
+1559
+01:42:46,040 --> 01:42:56,040
+[ Inaudible ]
+
+1560
+01:42:56,040 --> 01:42:59,040
+(audience laughing)
+
+1561
+01:42:59,040 --> 01:43:09,040
+[ Inaudible ]
+
+1562
+01:43:09,040 --> 01:43:19,040
+[ Inaudible ]
+
+1563
+01:43:19,040 --> 01:43:22,200
+(audience chattering)
+
+1564
+01:43:22,200 --> 01:43:25,200
+(people chattering)
+
+1565
+01:43:25,200 --> 01:43:28,200
+(audience laughing)
+
+1566
+01:43:28,200 --> 01:43:31,200
+(audience chattering)
+
+1567
+01:43:31,200 --> 01:43:34,200
+(people chattering)
+
+1568
+01:43:34,200 --> 01:43:37,200
+(people chattering)
+
+1569
+01:43:37,200 --> 01:43:39,960
+(people talking)
+
+1570
+01:43:39,960 --> 01:43:42,960
+(audience chattering)
+
+1571
+01:43:42,960 --> 01:43:45,960
+(audience chattering)
+
+1572
+01:43:45,960 --> 01:44:11,960
+[ Inaudible ]
+
+1573
+01:44:11,960 --> 01:44:16,960
+[ Inaudible ]
+
+1574
+01:44:16,960 --> 01:44:23,960
+[ Inaudible ]
+
+1575
+01:44:23,960 --> 01:44:30,960
+[ Inaudible ]
+
+1576
+01:44:30,960 --> 01:44:37,960
+(inaudible)
+
+1577
+01:44:37,960 --> 01:45:03,960
+[ Inaudible ]
+
+1578
+01:45:03,960 --> 01:45:07,120
+(audience chattering)
+
+1579
+01:45:07,120 --> 01:45:10,120
+(audience chattering)
+
+1580
+01:45:10,120 --> 01:45:13,120
+(audience laughing)
+
+1581
+01:45:13,120 --> 01:45:16,620
+(audience member speaking)
+
+1582
+01:45:16,620 --> 01:45:18,620
+[laughter]
+
+1583
+01:45:18,620 --> 01:45:21,620
+(audience chatter)
+
+1584
+01:45:21,620 --> 01:45:31,620
+[ Inaudible ]
+
+1585
+01:45:31,620 --> 01:45:46,620
+[ Inaudible ]
+
+1586
+01:45:46,620 --> 01:46:15,620
+[ Background Sounds ]
+
+1587
+01:46:15,620 --> 01:46:43,620
+[ Inaudible ]
+
+1588
+01:46:43,620 --> 01:47:11,620
+[ Inaudible ]
+
+1589
+01:47:11,620 --> 01:47:16,620
+[inaudible]
+
+1590
+01:47:16,620 --> 01:47:19,780
+(audience chattering)
+
+1591
+01:47:19,780 --> 01:47:22,940
+(audience chattering)
+
+1592
+01:47:22,940 --> 01:47:51,940
+[ Music ]
+
+1593
+01:47:51,940 --> 01:47:52,940
+Thank you.
+
+1594
+01:47:52,940 --> 01:47:53,940
+We can see.
+
+1595
+01:47:53,940 --> 01:47:55,940
+Please thank your seats.
+
+1596
+01:47:55,940 --> 01:47:58,940
+Yeah.
+
+1597
+01:47:58,940 --> 01:48:07,940
+[BLANK_AUDIO]
+
+1598
+01:48:07,940 --> 01:48:09,940
+Please thank your seats.
+
+1599
+01:48:09,940 --> 01:48:20,940
+[BLANK_AUDIO]
+
+1600
+01:48:20,940 --> 01:48:27,940
+Yeah.
+
+1601
+01:48:27,940 --> 01:48:37,980
+So yeah, this one's in that view of breach should appreciate by now a long tradition of
+
+1602
+01:48:37,980 --> 01:48:42,300
+rural and global cities research, then this kind of severity informed the general by
+
+1603
+01:48:42,300 --> 01:48:43,300
+core.
+
+1604
+01:48:43,300 --> 01:48:49,020
+But at some point, and especially the early technologies, there was a danger that, or at
+
+1605
+01:48:49,020 --> 01:48:54,260
+least this recent agenda was, was in terms of this, you could say dominant or hedge
+
+1606
+01:48:54,260 --> 01:48:58,420
+of monitoring the wind in urban studies or for citizens in global
+
+1607
+01:48:58,420 --> 01:49:05,860
+ization. And as such, it's also raised quite a bit of criticism. And I think it's debatable
+
+1608
+01:49:05,860 --> 01:49:10,100
+to what extent this is just quite some points of this. Certainly as other points, I think
+
+1609
+01:49:10,100 --> 01:49:15,620
+I'm personally, but I'm also kind of involved in these debates a bit more in the wild.
+
+1610
+01:49:15,620 --> 01:49:20,500
+I'll just take you through them. And I hope to do so within the next 20 minutes.
+
+1611
+01:49:21,780 --> 01:49:28,180
+Right, I think we can say, I still think that the aristarch can be powerful to the map and
+
+1612
+01:49:28,180 --> 01:49:34,260
+spatially analyze global connections, but clearly something can be said that. I'll just skip that
+
+1613
+01:49:34,260 --> 01:49:40,580
+and cut the business. One of the most important things and most French and critiques
+
+1614
+01:49:40,580 --> 01:49:48,340
+I think it was Lawrence, I think the beginning of the notice by a famous scholar Jennifer Robinson,
+
+1615
+01:49:48,340 --> 01:49:59,620
+South African working from London, wrote a book, Ordinary Cities. However, papers was
+
+1616
+01:49:59,620 --> 01:50:04,580
+World Cities or a World of Cities where she kind of
+
+1617
+01:50:06,580 --> 01:50:12,260
+was with frustrated with this dominance of world cities research
+
+1618
+01:50:12,260 --> 01:50:14,780
+in the debate about city city globalization.
+
+1619
+01:50:14,780 --> 01:50:17,660
+And it says, and she says, well, it's quite a different thing
+
+1620
+01:50:17,660 --> 01:50:21,100
+about world cities for the globalization of cities more
+
+1621
+01:50:21,100 --> 01:50:22,580
+wide.
+
+1622
+01:50:22,580 --> 01:50:25,820
+And that's good reasons for this difference,
+
+1623
+01:50:25,820 --> 01:50:29,220
+or the lack of what world and global cities
+
+1624
+01:50:29,220 --> 01:50:30,020
+research was doing.
+
+1625
+01:50:30,020 --> 01:50:33,020
+Then in addressing cities in globalization,
+
+1626
+01:50:33,020 --> 01:50:38,020
+Since I've seen the map, a lot of the cities around the globe,
+
+1627
+01:50:38,020 --> 01:50:39,580
+and especially in the global south,
+
+1628
+01:50:39,580 --> 01:50:44,340
+are basically dropped off a physical, natural map, right?
+
+1629
+01:50:44,340 --> 01:50:48,060
+So we find that there's a lot of connectivity
+
+1630
+01:50:48,060 --> 01:50:50,700
+in your Western Western European,
+
+1631
+01:50:50,700 --> 01:50:52,820
+or the American Asian cities,
+
+1632
+01:50:52,820 --> 01:50:55,220
+but it's actually very little to be told
+
+1633
+01:50:55,220 --> 01:50:59,420
+about African cities that basically not represent the environment.
+
+1634
+01:50:59,420 --> 01:51:02,380
+So an issue of representation there,
+
+1635
+01:51:02,380 --> 01:51:11,500
+in her view, but it also deals with how we conceptualize world and world cities.
+
+1636
+01:51:11,500 --> 01:51:18,140
+And in her argument, we focused too much on a limited number of economic processes,
+
+1637
+01:51:18,140 --> 01:51:21,780
+whereas all the kinds of connections remain unsteaded.
+
+1638
+01:51:21,780 --> 01:51:26,660
+One of the examples that was already given was, yeah, you can look at remittances,
+
+1639
+01:51:26,660 --> 01:51:30,620
+and you would get a completely different view, perhaps,
+
+1640
+01:51:30,620 --> 01:51:34,100
+on these carbon networks.
+
+1641
+01:51:34,100 --> 01:51:38,500
+So how kind of claim is that, by doing so,
+
+1642
+01:51:38,500 --> 01:51:42,140
+by these, say, geographical and sexual biases,
+
+1643
+01:51:42,140 --> 01:51:43,620
+well, cities of search has ignored
+
+1644
+01:51:43,620 --> 01:51:45,700
+the wrong position of numerous ordinary cities
+
+1645
+01:51:45,700 --> 01:51:46,980
+in the global economy.
+
+1646
+01:51:46,980 --> 01:51:52,140
+And there's a tendency to, you could say, offer
+
+1647
+01:51:52,140 --> 01:51:54,860
+a Eurocentric global city theory,
+
+1648
+01:51:54,860 --> 01:51:58,980
+and then projecting that other areas of the world.
+
+1649
+01:51:58,980 --> 01:52:02,100
+So, a postcolonial critique,
+
+1650
+01:52:02,100 --> 01:52:04,380
+it's concerned with, you can say,
+
+1651
+01:52:04,380 --> 01:52:09,380
+power relations in the production of theories and concepts.
+
+1652
+01:52:09,380 --> 01:52:14,620
+And how these concepts and theories are reproducing
+
+1653
+01:52:14,620 --> 01:52:17,300
+existing inequalities.
+
+1654
+01:52:17,300 --> 01:52:19,820
+And these are also geographical,
+
+1655
+01:52:19,820 --> 01:52:23,740
+so it's social, spatial, and even as the global scale.
+
+1656
+01:52:23,740 --> 01:52:27,540
+If we keep on kind of reiterating the dominance
+
+1657
+01:52:27,540 --> 01:52:31,220
+of certain kinds of activities, come up with certain kind
+
+1658
+01:52:31,220 --> 01:52:34,500
+of maps, measuring things in a certain way,
+
+1659
+01:52:34,500 --> 01:52:37,980
+in the anthropod of the process and part of the body,
+
+1660
+01:52:37,980 --> 01:52:39,740
+if you will.
+
+1661
+01:52:39,740 --> 01:52:44,140
+So I think there's certainly an argument to be made there.
+
+1662
+01:52:44,140 --> 01:52:48,100
+I think representation is problematic in my own research
+
+1663
+01:52:48,100 --> 01:52:50,460
+that was also kind of the starting point
+
+1664
+01:52:50,460 --> 01:52:51,820
+of why it was interested in looking
+
+1665
+01:52:51,820 --> 01:52:56,820
+into Islamic finance as a way to understand Middle Eastern.
+
+1666
+01:52:56,820 --> 01:53:02,500
+World's deformation process is not to a traditional lens
+
+1667
+01:53:02,500 --> 01:53:05,700
+of the classic APS firms, but to look at, okay,
+
+1668
+01:53:05,700 --> 01:53:09,420
+to what extent or local norms and ethics,
+
+1669
+01:53:09,420 --> 01:53:12,120
+religious and other regarding finance,
+
+1670
+01:53:12,120 --> 01:53:18,300
+giving rise to a global sector in an overt zone,
+
+1671
+01:53:18,300 --> 01:53:20,180
+that could then also start,
+
+1672
+01:53:20,180 --> 01:53:22,660
+So I was in the back interurban connections.
+
+1673
+01:53:22,660 --> 01:53:27,380
+That was kind of what I did in my own work on Islamic finance.
+
+1674
+01:53:27,380 --> 01:53:31,780
+So I certainly am extremely sensitive to this autumn.
+
+1675
+01:53:31,780 --> 01:53:35,260
+But at the same time, we also have to be clear
+
+1676
+01:53:35,260 --> 01:53:39,420
+that part of this criticism perhaps also out of place.
+
+1677
+01:53:39,420 --> 01:53:42,980
+I think Jennifer Robinson really starts from an urban studies
+
+1678
+01:53:42,980 --> 01:53:46,780
+critique, which you also understand.
+
+1679
+01:53:46,780 --> 01:53:49,300
+You can say globalization and its plurality,
+
+1680
+01:53:49,300 --> 01:53:53,220
+not just economic but otherwise and even within economic processes,
+
+1681
+01:53:53,220 --> 01:53:56,780
+or why diversity, rests for God.
+
+1682
+01:53:56,780 --> 01:53:59,500
+I think that the purposes, how can we understand
+
+1683
+01:53:59,500 --> 01:54:01,300
+the reproduction of uneven development
+
+1684
+01:54:01,300 --> 01:54:05,740
+on a global scale, at least in the free-to-manion tradition,
+
+1685
+01:54:05,740 --> 01:54:10,020
+where it was about how can we explain the fact
+
+1686
+01:54:10,020 --> 01:54:13,300
+that there's still under development
+
+1687
+01:54:13,300 --> 01:54:17,540
+and on the rate that the Frank serves in the global south,
+
+1688
+01:54:17,540 --> 01:54:19,460
+does it have something to do with the support
+
+1689
+01:54:19,460 --> 01:54:23,940
+and position of these cities in macro processes,
+
+1690
+01:54:23,940 --> 01:54:26,020
+macro capitalist process?
+
+1691
+01:54:26,020 --> 01:54:30,780
+So is it something with the extraction of value,
+
+1692
+01:54:30,780 --> 01:54:32,780
+organized through these corporate networks
+
+1693
+01:54:32,780 --> 01:54:36,060
+and supported by these previous firms that actually explains
+
+1694
+01:54:36,060 --> 01:54:38,100
+why these cities are not on the map?
+
+1695
+01:54:38,100 --> 01:54:39,700
+So is this a result?
+
+1696
+01:54:39,700 --> 01:54:43,780
+Is this not a neglect of these places?
+
+1697
+01:54:43,780 --> 01:54:46,420
+The fact that these places are not represented means
+
+1698
+01:54:47,260 --> 01:54:50,020
+either bypassed by these core protectors
+
+1699
+01:54:50,020 --> 01:54:53,740
+or that they potentially are subordinate in those process.
+
+1700
+01:54:53,740 --> 01:54:56,780
+Which could then be a question of, is this really case?
+
+1701
+01:54:56,780 --> 01:54:59,620
+Can we look into these processes?
+
+1702
+01:54:59,620 --> 01:55:02,900
+So sometimes a bit of a confusion, I think,
+
+1703
+01:55:02,900 --> 01:55:05,420
+between kind of a deliberate choice,
+
+1704
+01:55:05,420 --> 01:55:07,620
+not only include certain places
+
+1705
+01:55:07,620 --> 01:55:09,860
+whereas some of these maps are actually to be taken
+
+1706
+01:55:09,860 --> 01:55:12,860
+as a result of a critical analysis.
+
+1707
+01:55:12,860 --> 01:55:17,060
+I do agree that in a number of,
+
+1708
+01:55:17,060 --> 01:55:20,060
+You could say analysis that are more technical in nature,
+
+1709
+01:55:20,060 --> 01:55:22,580
+in terms of the world city network,
+
+1710
+01:55:22,580 --> 01:55:25,620
+this kind of critical edge was sometimes lost.
+
+1711
+01:55:25,620 --> 01:55:29,460
+And there's a kind of mission drift towards mapping networks,
+
+1712
+01:55:29,460 --> 01:55:31,740
+whereas the connection to process of uneven development
+
+1713
+01:55:31,740 --> 01:55:32,980
+was less clear,
+
+1714
+01:55:32,980 --> 01:55:36,460
+it's a bit of my personal crusade
+
+1715
+01:55:36,460 --> 01:55:41,140
+to make the connection to the critical agenda again.
+
+1716
+01:55:41,140 --> 01:55:42,700
+So this, but certainly,
+
+1717
+01:55:42,700 --> 01:55:46,940
+Jennifer Robinson points us to be very clear
+
+1718
+01:55:46,940 --> 01:55:49,940
+clear about what it is that we are measuring
+
+1719
+01:55:49,940 --> 01:55:52,660
+to this kind of growth analysis and what we're not.
+
+1720
+01:55:52,660 --> 01:55:55,580
+So it's about placing them at these kind of methods
+
+1721
+01:55:55,580 --> 01:55:58,460
+in a wider, you can say,
+
+1722
+01:55:58,460 --> 01:56:02,940
+a firmament of methods to work with that.
+
+1723
+01:56:02,940 --> 01:56:07,660
+Now, with this also connect to what kind of practice
+
+1724
+01:56:07,660 --> 01:56:10,900
+we wish to endorse within the tradition
+
+1725
+01:56:10,900 --> 01:56:14,420
+of urban studies, in the sense that,
+
+1726
+01:56:14,420 --> 01:56:19,420
+And this is kind of our personal disappointment
+
+1727
+01:56:19,420 --> 01:56:23,420
+with a lot of research that has followed the work
+
+1728
+01:56:23,420 --> 01:56:26,420
+by Jennifer Robinson, the version for Amazon itself.
+
+1729
+01:56:26,420 --> 01:56:30,300
+But there's a lot of tendency with we're which Jennifer or Jenny.
+
+1730
+01:56:30,300 --> 01:56:35,020
+And a very reductionist representation
+
+1731
+01:56:35,020 --> 01:56:36,660
+of her legitimate claims.
+
+1732
+01:56:36,660 --> 01:56:39,460
+And we actually wrote a paper about this
+
+1733
+01:56:39,460 --> 01:56:41,420
+with these religious title,
+
+1734
+01:56:41,420 --> 01:56:48,420
+to kind of throw that and speak, where we kind of deal with distilling what is kind of
+
+1735
+01:56:48,420 --> 01:56:52,380
+justified criticism and where we think it's a bit too much.
+
+1736
+01:56:52,380 --> 01:57:00,300
+And what we particularly regret is that some of the criticism has led to disengaged or
+
+1737
+01:57:00,300 --> 01:57:06,700
+a plumberism where it's a kind of rejection, so in the genus to do something else without
+
+1738
+01:57:06,700 --> 01:57:10,260
+taking stock about of the knowledge that is produced here.
+
+1739
+01:57:10,260 --> 01:57:16,260
+So what we try to then propose is some kind of a middle ground is a more engaged form
+
+1740
+01:57:16,260 --> 01:57:21,880
+of urban studies debate, which also means that you say yes, these kind of global white
+
+1741
+01:57:21,880 --> 01:57:24,280
+analysis or well-setty research.
+
+1742
+01:57:24,280 --> 01:57:29,340
+In general, we need to put it in its place, but it doesn't mean that we can try to work
+
+1743
+01:57:29,340 --> 01:57:35,260
+at this concept to make sense of places beyond the short list of world cities.
+
+1744
+01:57:35,260 --> 01:57:42,260
+It would be that I'm battling and I'm defending and explaining myself in different kind of race and unnecessary race.
+
+1745
+01:57:42,260 --> 01:57:45,260
+But let me try to make it work clear.
+
+1746
+01:57:45,260 --> 01:57:47,260
+Because they are very rude.
+
+1747
+01:57:47,260 --> 01:57:51,260
+Manila. We don't need world safety concepts.
+
+1748
+01:57:51,260 --> 01:57:55,260
+The world city is a Euro mountain invention.
+
+1749
+01:57:55,260 --> 01:57:57,260
+I can't do anything with that.
+
+1750
+01:57:57,260 --> 01:58:00,260
+It could be something that you could say.
+
+1751
+01:58:00,260 --> 01:58:06,740
+We need a conflict of the Middle Eastern city of the Asian city because everything is particular
+
+1752
+01:58:06,740 --> 01:58:13,100
+and then we need to build that theory and then it's so unique in particular that you can't land.
+
+1753
+01:58:13,100 --> 01:58:23,460
+So people disagree and say, look, there's no one-on-one projection of world city formation as a process
+
+1754
+01:58:23,460 --> 01:58:27,220
+on a city like the Hudefur instance or Manila.
+
+1755
+01:58:27,220 --> 01:58:33,140
+But we'll have to work with the concept to see to what extent it does explain something
+
+1756
+01:58:33,140 --> 01:58:35,740
+of what we find and what extent it doesn't.
+
+1757
+01:58:35,740 --> 01:58:44,180
+And perhaps we need to enhance or tailor that first find the concept.
+
+1758
+01:58:44,180 --> 01:58:49,740
+And in the process, we potentially may even learn something about the place that we study.
+
+1759
+01:58:49,740 --> 01:58:55,300
+But at least we still remain in the position that we can speak back to the original debate,
+
+1760
+01:58:55,300 --> 01:58:57,360
+which is I think the point of urban studies
+
+1761
+01:58:57,360 --> 01:58:58,840
+that were not lost in translation,
+
+1762
+01:58:58,840 --> 01:59:02,940
+will try to connect with some kind of organ eye
+
+1763
+01:59:02,940 --> 01:59:04,540
+or overarching debate,
+
+1764
+01:59:04,540 --> 01:59:07,280
+even if you're studying very diverse places.
+
+1765
+01:59:07,280 --> 01:59:11,340
+- Now, yeah, I won't say too much about this two cases
+
+1766
+01:59:11,340 --> 01:59:13,880
+because it's also part of our discussion seminar,
+
+1767
+01:59:13,880 --> 01:59:17,740
+but just to point out the kind of contrasting cases.
+
+1768
+01:59:17,740 --> 01:59:19,660
+So in one paper we looked at the LUTs,
+
+1769
+01:59:19,660 --> 01:59:22,620
+which is kind of interesting place.
+
+1770
+01:59:22,620 --> 01:59:25,700
+we put a more by exact,
+
+1771
+01:59:25,700 --> 01:59:28,580
+that role-to-information process.
+
+1772
+01:59:28,580 --> 01:59:34,300
+So what you see is a built environment with skyscrapers.
+
+1773
+01:59:34,300 --> 01:59:39,940
+They obviously took a hit and are taking a serious hit currently
+
+1774
+01:59:39,940 --> 01:59:43,780
+with the entire term of the country, isn't.
+
+1775
+01:59:43,780 --> 01:59:46,180
+But on the first side, say, OK,
+
+1776
+01:59:46,180 --> 01:59:49,540
+there's actually, when you start looking at APS activities,
+
+1777
+01:59:49,540 --> 01:59:51,620
+it's actually very little going on there.
+
+1778
+01:59:51,620 --> 01:59:56,980
+There's a lot of very little regional headquarters, the ferry there were international firms.
+
+1779
+01:59:56,980 --> 02:00:07,700
+But when you then start looking into yes remittance flows and the Aspara, you find that almost one-fifth of Lebanese economy is made of these remittances.
+
+1780
+02:00:07,700 --> 02:00:19,540
+And a lot of it faces that, to a BS professionals, that are located in the Gulf so it's our McKinsey trained, but agreed consultants, McKinsey's living,
+
+1781
+02:00:19,540 --> 02:00:23,940
+that is them advising the Saudis or people in Dubai, the elite leader of Dubai,
+
+1782
+02:00:23,940 --> 02:00:31,460
+that earn their money there, send back their money and buy a hugely overpriced apartment
+
+1783
+02:00:31,460 --> 02:00:36,980
+in the city centre of the Greenhouse. The real estate market which is then
+
+1784
+02:00:36,980 --> 02:00:42,500
+kept artificially booming by almost free credit from the central bank of Lebanon,
+
+1785
+02:00:42,500 --> 02:00:48,420
+which is also the personal property of the living families of Lebanon.
+
+1786
+02:00:48,420 --> 02:00:51,700
+So it's kind of connected.
+
+1787
+02:00:51,700 --> 02:00:55,860
+Now in any case, it shows you that if you follow your nose,
+
+1788
+02:00:55,860 --> 02:00:58,860
+in a sense, there's still awesome characteristics
+
+1789
+02:00:58,860 --> 02:01:02,420
+of world to deformation, especially in the role
+
+1790
+02:01:02,420 --> 02:01:04,340
+of a high-skilled labor.
+
+1791
+02:01:04,340 --> 02:01:05,860
+But it's a kind of--
+
+1792
+02:01:05,860 --> 02:01:09,500
+it's in some of the parts of regional capacity building,
+
+1793
+02:01:09,500 --> 02:01:13,860
+regional circuits of failure that are kind of connected
+
+1794
+02:01:13,860 --> 02:01:15,660
+back to the city.
+
+1795
+02:01:15,660 --> 02:01:20,940
+So it's function as a capital sink to the region,
+
+1796
+02:01:20,940 --> 02:01:24,620
+rather than as a kind of server service in the liveries.
+
+1797
+02:01:24,620 --> 02:01:27,180
+If you look at Manila, it's kind of the opposite.
+
+1798
+02:01:27,180 --> 02:01:29,620
+You'd say, wow, a lot of activities there,
+
+1799
+02:01:29,620 --> 02:01:32,300
+a lot of APS firms, they're all there.
+
+1800
+02:01:32,300 --> 02:01:35,220
+But then you suddenly into these activities,
+
+1801
+02:01:35,220 --> 02:01:36,260
+and there's something that you know,
+
+1802
+02:01:36,260 --> 02:01:38,300
+a collaborative has done.
+
+1803
+02:01:38,300 --> 02:01:41,540
+It's basically part of the largest one of the largest
+
+1804
+02:01:41,540 --> 02:01:45,220
+outsourcing sectors of tendencies that you find.
+
+1805
+02:01:45,220 --> 02:01:47,820
+So a lot of back office activities,
+
+1806
+02:01:47,820 --> 02:01:50,940
+for global banks and other kind of service providers,
+
+1807
+02:01:50,940 --> 02:01:54,180
+but it's not really come up in control,
+
+1808
+02:01:54,180 --> 02:01:56,580
+or not at least not what we think of it.
+
+1809
+02:01:56,580 --> 02:01:59,500
+And it may also work through
+
+1810
+02:01:59,500 --> 02:02:02,740
+and what it can explain in terms of the segmentation
+
+1811
+02:02:02,740 --> 02:02:03,580
+of the labor market,
+
+1812
+02:02:03,580 --> 02:02:06,860
+but because it would not be high-end managers
+
+1813
+02:02:06,860 --> 02:02:09,100
+that are then gentrifying neighborhoods,
+
+1814
+02:02:09,100 --> 02:02:12,700
+but it may arise through middle-class or something.
+
+1815
+02:02:12,700 --> 02:02:17,100
+So it may result in other kinds of labor market structures.
+
+1816
+02:02:17,100 --> 02:02:20,020
+But at least we can still refer back to world cities
+
+1817
+02:02:20,020 --> 02:02:22,380
+and start comparing to what is going on elsewhere.
+
+1818
+02:02:22,380 --> 02:02:25,380
+So this is an example of an encompassing approach
+
+1819
+02:02:25,380 --> 02:02:29,820
+to try to encompass diversity in your research design
+
+1820
+02:02:29,820 --> 02:02:31,740
+and try to make sense.
+
+1821
+02:02:31,740 --> 02:02:32,700
+So that's how we solve it.
+
+1822
+02:02:32,700 --> 02:02:34,380
+I won't say anything more because I want
+
+1823
+02:02:34,380 --> 02:02:38,860
+to leave something for the debating session.
+
+1824
+02:02:38,860 --> 02:02:45,860
+The second point of criticism is social constructivity.
+
+1825
+02:02:45,860 --> 02:02:50,900
+Again, it's the same in the sense that representation matters.
+
+1826
+02:02:50,900 --> 02:02:55,740
+And this is the great work by Dory Massey,
+
+1827
+02:02:55,740 --> 02:03:05,500
+who was a transatlantic nice economic juggler for from the UK,
+
+1828
+02:03:05,500 --> 02:03:07,260
+thought about spatial divisions of labor
+
+1829
+02:03:07,260 --> 02:03:11,660
+was one of the leading voices in a lot of progressive debates
+
+1830
+02:03:11,660 --> 02:03:14,460
+in geography.
+
+1831
+02:03:14,460 --> 02:03:18,700
+And she also wrote a book, "World City in 2007,
+
+1832
+02:03:18,700 --> 02:03:23,740
+I wish kind of engaged with this agenda."
+
+1833
+02:03:23,740 --> 02:03:31,460
+And what she basically says in this book is, yeah,
+
+1834
+02:03:31,460 --> 02:03:36,300
+world cities are not just a given, an economic geographical
+
+1835
+02:03:36,300 --> 02:03:40,260
+reality based on, as we said, the clustering
+
+1836
+02:03:40,260 --> 02:03:44,540
+on these ABS firms, their labor markets, et cetera, et cetera.
+
+1837
+02:03:44,540 --> 02:03:50,280
+They are, but they're also a product of discourses,
+
+1838
+02:03:50,280 --> 02:03:52,520
+representation, et cetera, et cetera.
+
+1839
+02:03:52,520 --> 02:03:58,660
+So they're mediated by political interests, elites,
+
+1840
+02:03:58,660 --> 02:04:03,820
+others, and other actors that project certain discourses
+
+1841
+02:04:03,820 --> 02:04:10,380
+about world and global cities and these also have ultimately performative effects.
+
+1842
+02:04:10,380 --> 02:04:14,060
+So they produce or go produce certain realities.
+
+1843
+02:04:14,060 --> 02:04:17,060
+It's a bit kind of knowledge theory.
+
+1844
+02:04:17,060 --> 02:04:23,340
+So the world is also to some extent shaped by how you represent this.
+
+1845
+02:04:23,340 --> 02:04:28,460
+And then you can be an ardent, very strong believer of that and say, okay, the world is
+
+1846
+02:04:28,460 --> 02:04:30,020
+almost exclusively,
+
+1847
+02:04:30,020 --> 02:04:32,140
+reducible to how we represented
+
+1848
+02:04:32,140 --> 02:04:33,940
+whereas others would work more in
+
+1849
+02:04:33,940 --> 02:04:35,260
+kind of materialist fragrance,
+
+1850
+02:04:35,260 --> 02:04:37,580
+okay, not everything is shaped by words, right?
+
+1851
+02:04:37,580 --> 02:04:41,340
+So I think I'm gonna look at the other,
+
+1852
+02:04:41,340 --> 02:04:43,540
+it's kind of something to think about
+
+1853
+02:04:43,540 --> 02:04:46,580
+toward extent, representation actually matters.
+
+1854
+02:04:46,580 --> 02:04:51,060
+Now, Jourine explains this for London,
+
+1855
+02:04:51,060 --> 02:04:53,860
+and she says, yes, it's a globalized financial center,
+
+1856
+02:04:53,860 --> 02:04:55,140
+but the way you perceive it
+
+1857
+02:04:55,140 --> 02:04:56,980
+and the way the city reproduces itself
+
+1858
+02:04:56,980 --> 02:05:01,700
+is the outcome of a decade-long battle of representation,
+
+1859
+02:05:01,700 --> 02:05:04,860
+which was led by government finance elites, politicians,
+
+1860
+02:05:04,860 --> 02:05:10,300
+not often not seldomly connected to all boys' networks
+
+1861
+02:05:10,300 --> 02:05:13,820
+that have been projecting the world city status of London.
+
+1862
+02:05:13,820 --> 02:05:17,500
+And this has become some kind of a hedge in life.
+
+1863
+02:05:17,500 --> 02:05:21,940
+Unquestioned, near-liberal growth strategy,
+
+1864
+02:05:21,940 --> 02:05:26,340
+has been part of that new liberal strategy since the eight.
+
+1865
+02:05:26,340 --> 02:05:31,940
+And the kind of ideas that what is good for the financial industry is good for the city.
+
+1866
+02:05:31,940 --> 02:05:35,740
+What's good for the city is good for London, what's good for London, what's good for the Saudis,
+
+1867
+02:05:35,740 --> 02:05:39,740
+what is good for the Saudis is good for UK.
+
+1868
+02:05:39,740 --> 02:05:48,340
+And dear Europeans, what is good for the UK is also good for Europe, so please deregulate the Afghans.
+
+1869
+02:05:48,340 --> 02:05:57,940
+So it's a rhetorical strategy she calls the passport total where the part is there to represent the whole.
+
+1870
+02:05:57,940 --> 02:06:04,540
+So it's the interest of the city of London which are projected to be the interest of the UK citizen.
+
+1871
+02:06:04,540 --> 02:06:11,540
+And again, as Brexit has shown, this has been quite radically rejected.
+
+1872
+02:06:11,540 --> 02:06:16,940
+Again, whether legitimately or not.
+
+1873
+02:06:16,940 --> 02:06:23,960
+So, yeah, there's this neoliberal growth strategy, and it also was connected to legitimate
+
+1874
+02:06:23,960 --> 02:06:26,460
+legitimate material decisions.
+
+1875
+02:06:26,460 --> 02:06:32,100
+In the sense that, if you look at this course, it's about dust, heat, growth, you need
+
+1876
+02:06:32,100 --> 02:06:35,420
+a new runway because of capacity issues.
+
+1877
+02:06:35,420 --> 02:06:36,420
+Yes.
+
+1878
+02:06:36,420 --> 02:06:42,540
+London cannot keep up with its global safety status or it cannot grow its connection to
+
+1879
+02:06:42,540 --> 02:06:46,500
+new emerging markets if it doesn't have an extra runway.
+
+1880
+02:06:46,500 --> 02:06:53,500
+So please, papers go away or needle your ears.
+
+1881
+02:06:53,500 --> 02:06:57,100
+But we absolutely need this.
+
+1882
+02:06:57,100 --> 02:07:00,620
+And in global city discourse is there to justify it.
+
+1883
+02:07:00,620 --> 02:07:02,700
+But also when you look at the construction of the UK,
+
+1884
+02:07:02,700 --> 02:07:07,500
+colony in the '80s, I mean, closing the mines, et cetera,
+
+1885
+02:07:07,500 --> 02:07:07,780
+et cetera.
+
+1886
+02:07:07,780 --> 02:07:11,340
+And this has produced very uneven outcomes in the UK.
+
+1887
+02:07:11,340 --> 02:07:13,780
+A lot of cities in the north and opening
+
+1888
+02:07:13,780 --> 02:07:15,580
+mining areas in the industrial areas.
+
+1889
+02:07:15,580 --> 02:07:17,100
+So decline.
+
+1890
+02:07:17,100 --> 02:07:19,820
+And at that point, what would have been interesting
+
+1891
+02:07:19,820 --> 02:07:24,260
+is low interest rates, that could boost investment
+
+1892
+02:07:24,260 --> 02:07:27,380
+to restructure these peripheral economies.
+
+1893
+02:07:27,380 --> 02:07:28,220
+That didn't happen.
+
+1894
+02:07:28,220 --> 02:07:30,540
+And at that point, there was an inflation,
+
+1895
+02:07:30,540 --> 02:07:33,620
+there was high interest rates, which made,
+
+1896
+02:07:33,620 --> 02:07:35,780
+but simply money very expensive.
+
+1897
+02:07:35,780 --> 02:07:39,540
+And which made that it was very hard
+
+1898
+02:07:39,540 --> 02:07:41,580
+to seek investment into these areas.
+
+1899
+02:07:41,580 --> 02:07:43,820
+And obviously, there was only interest of the Southeast,
+
+1900
+02:07:43,820 --> 02:07:47,140
+which generate an influence into financial services,
+
+1901
+02:07:47,140 --> 02:07:52,140
+et cetera, which then further grew global city London.
+
+1902
+02:07:52,140 --> 02:07:54,940
+So it's a particular political agenda
+
+1903
+02:07:54,940 --> 02:07:58,420
+that is behind there that has produced there.
+
+1904
+02:07:58,420 --> 02:08:02,220
+There are final points that we as academics
+
+1905
+02:08:02,220 --> 02:08:06,420
+or academics to be are not neutral bystanders
+
+1906
+02:08:06,420 --> 02:08:08,860
+and her claim is that especially when you start looking
+
+1907
+02:08:08,860 --> 02:08:12,780
+at these world city rankings that GOC
+
+1908
+02:08:12,780 --> 02:08:14,780
+is claimed to produce.
+
+1909
+02:08:14,780 --> 02:08:16,060
+This is part of the problem.
+
+1910
+02:08:16,060 --> 02:08:19,580
+It's kind of fueling the self-fuling prophecy
+
+1911
+02:08:19,580 --> 02:08:23,700
+as giving people in the city of Roman.
+
+1912
+02:08:23,700 --> 02:08:25,500
+The instruments that they exhibit to say,
+
+1913
+02:08:25,500 --> 02:08:29,100
+look, we're still leading city parts
+
+1914
+02:08:29,100 --> 02:08:30,420
+Dubai is closing.
+
+1915
+02:08:30,420 --> 02:08:31,540
+Please, come on.
+
+1916
+02:08:31,540 --> 02:08:34,140
+We need further investment in the city
+
+1917
+02:08:34,140 --> 02:08:37,820
+or we need the regulation or something like that.
+
+1918
+02:08:37,820 --> 02:08:40,140
+So that's kind of her also attention-preteaken
+
+1919
+02:08:40,140 --> 02:08:47,140
+in a sense that yes, world cities research is performative in that sense.
+
+1920
+02:08:47,140 --> 02:08:52,140
+So yeah, just a few slides there, and I'll return to that.
+
+1921
+02:08:52,140 --> 02:08:58,620
+I mean, the pictures that we have of representations that we have of London are the
+
+1922
+02:08:58,620 --> 02:09:03,340
+glitz and glam quite often, and it's typically the city.
+
+1923
+02:09:03,340 --> 02:09:08,140
+But then how city is kept, the city of London is kept working on the wider metropolitan
+
+1924
+02:09:08,140 --> 02:09:10,700
+and how it remains often undiscovered
+
+1925
+02:09:10,700 --> 02:09:13,380
+or something that we'll talk about next week.
+
+1926
+02:09:13,380 --> 02:09:18,380
+- Yeah, and this is kind of battle of representation
+
+1927
+02:09:18,380 --> 02:09:20,660
+is ongoing, this is a bit of a data figure
+
+1928
+02:09:20,660 --> 02:09:24,580
+and still with Theresa May there
+
+1929
+02:09:24,580 --> 02:09:28,020
+who was going for a global Britain agenda.
+
+1930
+02:09:28,020 --> 02:09:33,020
+And again, you see that this kind of city elite
+
+1931
+02:09:33,020 --> 02:09:36,740
+is trying to push it in the whole campaign
+
+1932
+02:09:36,740 --> 02:09:41,740
+in a certain way, threatening to leave the city of London,
+
+1933
+02:09:41,740 --> 02:09:45,300
+which would then impact, you could say,
+
+1934
+02:09:45,300 --> 02:09:49,180
+the global city status of that city.
+
+1935
+02:09:49,180 --> 02:09:51,860
+So it's kind of still the same repertoire
+
+1936
+02:09:51,860 --> 02:09:56,860
+that has been used at times when Brexit was still
+
+1937
+02:09:56,860 --> 02:10:01,660
+unfinished business, probably not still not unfinished
+
+1938
+02:10:01,660 --> 02:10:04,180
+business, but for that.
+
+1939
+02:10:04,180 --> 02:10:07,500
+Now, I think, and then I really almost have the close
+
+1940
+02:10:07,500 --> 02:10:10,420
+performativity is a very important criticism.
+
+1941
+02:10:10,420 --> 02:10:12,860
+It's something that we should be very reflexive about.
+
+1942
+02:10:12,860 --> 02:10:16,220
+It basically means the influence that it
+
+1943
+02:10:16,220 --> 02:10:19,060
+reduce kind of figures that you could use the maps
+
+1944
+02:10:19,060 --> 02:10:20,580
+that you produced or what they spend
+
+1945
+02:10:20,580 --> 02:10:22,620
+to their shape and impact.
+
+1946
+02:10:22,620 --> 02:10:24,940
+Theality to what extent are they picked up?
+
+1947
+02:10:24,940 --> 02:10:27,540
+What is the responsibility of a researcher
+
+1948
+02:10:27,540 --> 02:10:32,580
+to keep ownership over his or her results?
+
+1949
+02:10:33,620 --> 02:10:35,260
+do we have an impact on that?
+
+1950
+02:10:35,260 --> 02:10:37,460
+And it's something that is also very important
+
+1951
+02:10:37,460 --> 02:10:41,580
+to reflect on in relation to world cities and global cities.
+
+1952
+02:10:41,580 --> 02:10:44,900
+And there I think my personal stance is that we should
+
+1953
+02:10:44,900 --> 02:10:49,140
+probably not exaggerate the influence of world
+
+1954
+02:10:49,140 --> 02:10:51,100
+and global cities research in the sense
+
+1955
+02:10:51,100 --> 02:10:55,100
+that it's only part of a much wider phenomenon
+
+1956
+02:10:55,100 --> 02:10:58,260
+of city rankings, et cetera, et cetera.
+
+1957
+02:10:58,260 --> 02:11:00,260
+And as you will start looking at it,
+
+1958
+02:11:00,260 --> 02:11:05,100
+It's often behaviors from themselves that come up with all kinds of rankings and they're
+
+1959
+02:11:05,100 --> 02:11:13,580
+much more picked up in popular debates, but for politicians that once again, a world in
+
+1960
+02:11:13,580 --> 02:11:19,820
+global cities status, provided and referring to GOG in and of itself.
+
+1961
+02:11:19,820 --> 02:11:24,100
+I mean, it would be a pleasure to actually know that people would meet economic papers,
+
+1962
+02:11:24,100 --> 02:11:26,620
+but I think it's actually quite limited.
+
+1963
+02:11:26,620 --> 02:11:29,880
+So yes, we need to be reflexive about them at the same time.
+
+1964
+02:11:29,880 --> 02:11:32,180
+It could give me a little bit overblown.
+
+1965
+02:11:32,180 --> 02:11:35,860
+And rankings are produced probably by other factors.
+
+1966
+02:11:35,860 --> 02:11:41,140
+I'm sorry to run through this.
+
+1967
+02:11:41,140 --> 02:11:42,540
+Another point is--
+
+1968
+02:11:42,540 --> 02:11:51,380
+this is a criticism that deals with, to what extent,
+
+1969
+02:11:51,380 --> 02:11:53,580
+world and global cities takes into account,
+
+1970
+02:11:53,580 --> 02:11:57,620
+because of political economy processes,
+
+1971
+02:11:57,620 --> 02:12:00,460
+or the politics of global city formation,
+
+1972
+02:12:00,460 --> 02:12:05,100
+I think that connects to the work of Dorian Massey.
+
+1973
+02:12:05,100 --> 02:12:08,580
+And it's kind of an agenda that was pushed
+
+1974
+02:12:08,580 --> 02:12:12,660
+by new Brenner, especially at the end of the 1990s.
+
+1975
+02:12:12,660 --> 02:12:15,140
+And he says, well, it's not just economic geographies,
+
+1976
+02:12:15,140 --> 02:12:18,700
+it's not just agglomerations, clusters, et cetera, et cetera.
+
+1977
+02:12:18,700 --> 02:12:20,900
+What we need to account for is the restructuring
+
+1978
+02:12:20,900 --> 02:12:27,500
+of the economy and what he says, a rescaling of the nation state.
+
+1979
+02:12:27,500 --> 02:12:31,100
+So the way capitalism is being governed
+
+1980
+02:12:31,100 --> 02:12:34,580
+is not exclusively at the national scale,
+
+1981
+02:12:34,580 --> 02:12:36,620
+but something is happening at the same time
+
+1982
+02:12:36,620 --> 02:12:38,220
+it's becoming super national.
+
+1983
+02:12:38,220 --> 02:12:40,700
+So you get a whole kind of international organizations,
+
+1984
+02:12:40,700 --> 02:12:43,180
+IMF, OECD, et cetera, et cetera.
+
+1985
+02:12:43,180 --> 02:12:45,220
+And Europe, Europe being union that starts
+
+1986
+02:12:45,220 --> 02:12:49,420
+to increasingly govern the economy.
+
+1987
+02:12:49,420 --> 02:12:53,080
+And at the same time, there's a kind of devolution,
+
+1988
+02:12:53,080 --> 02:12:56,340
+growth in the importance of regions, of cities,
+
+1989
+02:12:56,340 --> 02:13:00,140
+as governance layers, and some kind of a hollowing out
+
+1990
+02:13:00,140 --> 02:13:01,780
+of the national level.
+
+1991
+02:13:01,780 --> 02:13:04,340
+So in the words of new Breneary talks
+
+1992
+02:13:04,340 --> 02:13:07,220
+about globalization, as the undoing of the state,
+
+1993
+02:13:07,220 --> 02:13:09,700
+will that be because the re-spatialization
+
+1994
+02:13:09,700 --> 02:13:12,460
+or re-territory realization of the state,
+
+1995
+02:13:12,460 --> 02:13:15,020
+where it attaches itself to new spatial layers.
+
+1996
+02:13:15,020 --> 02:13:18,300
+And it calls these new state spaces
+
+1997
+02:13:18,300 --> 02:13:22,300
+to which you have new kinds of new state projects.
+
+1998
+02:13:22,300 --> 02:13:23,100
+The road project.
+
+1999
+02:13:23,100 --> 02:13:27,060
+So to summarize that seems a bit complex,
+
+2000
+02:13:27,060 --> 02:13:31,180
+but there's a shift in how national economies are
+
+2001
+02:13:31,180 --> 02:13:34,180
+being managed in terms of spatial scales.
+
+2002
+02:13:34,180 --> 02:13:36,620
+It's also happening a much more entrepreneurial way.
+
+2003
+02:13:36,620 --> 02:13:40,620
+And I'll say more about that next week.
+
+2004
+02:13:40,620 --> 02:13:44,140
+But the point is that these are politically negotiated
+
+2005
+02:13:44,140 --> 02:13:50,140
+process. And you can have a look at this overview slides to the kind of detailed
+
+2006
+02:13:50,140 --> 02:13:56,940
+process that are going on there. But just to give one example, they also kind of gave last week
+
+2007
+02:13:56,940 --> 02:14:03,500
+Brussels, it's kind of in this straight jacket of the Brussels capital region, where it doesn't
+
+2008
+02:14:03,500 --> 02:14:11,340
+refer to the spatial scale of the actual netfalls in area of ordinary economic weight of
+
+2009
+02:14:12,380 --> 02:14:20,220
+of the city, whereas in other contexts you see the formation of the larger metropolitan areas
+
+2010
+02:14:20,220 --> 02:14:28,380
+as governance structures, where global city front foot is now a fresh line line, which
+
+2011
+02:14:28,380 --> 02:14:34,540
+have kind of worked in a global city region, organization, which has its own governance
+
+2012
+02:14:34,540 --> 02:14:42,220
+structure etc. So there it's easier to appreciate that emeritus when you compare that to
+
+2013
+02:14:42,220 --> 02:14:48,660
+So it's a rescaling process and you see that in a lot of Europe being contacted not
+
+2014
+02:14:48,660 --> 02:14:55,360
+seldomly also kind of pushed for by the European Union, who likes to see the Europe of
+
+2015
+02:14:55,360 --> 02:14:56,360
+regions.
+
+2016
+02:14:56,360 --> 02:15:04,540
+It's kind of this idea that you need larger entities, city regions or regions, to kind
+
+2017
+02:15:04,540 --> 02:15:08,860
+of take control over up to scale economic processes.
+
+2018
+02:15:08,860 --> 02:15:12,500
+So, yeah, a sensitivity to how the state,
+
+2019
+02:15:12,500 --> 02:15:15,300
+especially reorganize itself to all extent,
+
+2020
+02:15:15,300 --> 02:15:17,860
+there's new governance layers to manage
+
+2021
+02:15:17,860 --> 02:15:19,820
+also these economic processes.
+
+2022
+02:15:19,820 --> 02:15:22,540
+That was kind of also added to the state.
+
+2023
+02:15:22,540 --> 02:15:25,460
+And then finally, very final slides,
+
+2024
+02:15:25,460 --> 02:15:29,260
+is this kind of a critique or a criticism
+
+2025
+02:15:29,260 --> 02:15:34,100
+by people working in the realm of financialization.
+
+2026
+02:15:34,100 --> 02:15:37,620
+I'll say much more about that,
+
+2027
+02:15:37,620 --> 02:15:40,260
+if you take the economic and financial geography course,
+
+2028
+02:15:40,260 --> 02:15:43,260
+it's all about financialization.
+
+2029
+02:15:43,260 --> 02:15:45,060
+But just the point of the fact that
+
+2030
+02:15:45,060 --> 02:15:50,100
+this criticism deals with what it is
+
+2031
+02:15:50,100 --> 02:15:52,940
+that is going on in world cities.
+
+2032
+02:15:52,940 --> 02:15:57,020
+So it doesn't really criticize the relevance
+
+2033
+02:15:57,020 --> 02:16:01,540
+of command and control practices in world and global cities.
+
+2034
+02:16:01,540 --> 02:16:03,340
+But it says that perhaps the nature
+
+2035
+02:16:03,340 --> 02:16:05,660
+of these activities has transformed
+
+2036
+02:16:05,660 --> 02:16:09,440
+to the past 20 or 30 years.
+
+2037
+02:16:09,440 --> 02:16:12,240
+So financialization, what does it mean?
+
+2038
+02:16:12,240 --> 02:16:17,520
+It means that an increasing part of economic processes
+
+2039
+02:16:17,520 --> 02:16:20,960
+or value-based processes of profits generally
+
+2040
+02:16:20,960 --> 02:16:23,000
+versus well occurring, you could say,
+
+2041
+02:16:23,000 --> 02:16:25,000
+reproductive activities, but is somehow
+
+2042
+02:16:25,000 --> 02:16:26,960
+connected to financial service.
+
+2043
+02:16:26,960 --> 02:16:31,800
+So financial investments is by owning financial assets
+
+2044
+02:16:31,800 --> 02:16:36,800
+rather than actually produce something that people get rich
+
+2045
+02:16:36,800 --> 02:16:40,500
+and also explains a real way in the qualities
+
+2046
+02:16:40,500 --> 02:16:44,200
+between those who have large huge amounts of wealth
+
+2047
+02:16:44,200 --> 02:16:46,480
+and others who rely on their nature
+
+2048
+02:16:46,480 --> 02:16:50,000
+but we'll say something about that next week.
+
+2049
+02:16:50,000 --> 02:16:53,480
+So financialization also means that there's a lot
+
+2050
+02:16:53,480 --> 02:16:58,480
+of pressure on corporations to generate returns
+
+2051
+02:16:58,480 --> 02:17:00,880
+for financial investors.
+
+2052
+02:17:00,880 --> 02:17:03,600
+So it's not just about competing with other capitalists
+
+2053
+02:17:03,600 --> 02:17:06,480
+to be the most efficient drug producer
+
+2054
+02:17:06,480 --> 02:17:08,520
+or cooking manufacturers.
+
+2055
+02:17:08,520 --> 02:17:12,520
+It's also to do so, to generate as much shareholder value
+
+2056
+02:17:12,520 --> 02:17:14,960
+compared to your competitors.
+
+2057
+02:17:14,960 --> 02:17:17,640
+It's one, I mean, this kind of quote,
+
+2058
+02:17:17,640 --> 02:17:18,880
+corporate financialization.
+
+2059
+02:17:18,880 --> 02:17:21,120
+It's the restructuring of corporations
+
+2060
+02:17:21,120 --> 02:17:24,880
+so that the shareholder value is actually being created.
+
+2061
+02:17:24,880 --> 02:17:28,840
+So perhaps world cities are still
+
+2062
+02:17:28,840 --> 02:17:32,920
+about seamless service for globalization,
+
+2063
+02:17:32,920 --> 02:17:35,180
+so the management of global production process
+
+2064
+02:17:35,180 --> 02:17:36,360
+is networked.
+
+2065
+02:17:36,360 --> 02:17:39,000
+But this other side, financial markets, perhaps,
+
+2066
+02:17:39,000 --> 02:17:41,160
+needs to be taken much more seriously.
+
+2067
+02:17:41,160 --> 02:17:44,440
+And these ABS firms may be more in broad and broad
+
+2068
+02:17:44,440 --> 02:17:49,040
+in broad process of finalization, rather than productive
+
+2069
+02:17:49,040 --> 02:17:49,960
+as logics.
+
+2070
+02:17:49,960 --> 02:17:53,680
+So yeah, just--
+
+2071
+02:17:53,680 --> 02:17:59,680
+So yeah, I think what I say here,
+
+2072
+02:17:59,680 --> 02:18:03,680
+we also need to become a obligatory message for other reasons
+
+2073
+02:18:03,680 --> 02:18:06,680
+than the ones that have been assumed already.
+
+2074
+02:18:06,680 --> 02:18:10,680
+And that's why in one paper we talk about an augmented
+
+2075
+02:18:10,680 --> 02:18:15,680
+world city hypothesis is not just about generating value
+
+2076
+02:18:15,680 --> 02:18:19,680
+from productive activities, but it's also about extracting
+
+2077
+02:18:19,680 --> 02:18:26,080
+extracting value to rent extraction practices from those global production networks.
+
+2078
+02:18:26,080 --> 02:18:31,720
+And you can see that, for instance, when we have corporations attract funding, you need
+
+2079
+02:18:31,720 --> 02:18:40,080
+a whole amalgamation of connected ABS firms to issue, in this case, a Euroball, which
+
+2080
+02:18:40,080 --> 02:18:44,200
+is not kind of an offshore investment instrument.
+
+2081
+02:18:44,200 --> 02:18:48,640
+And this is a firm, a real-state corporation,
+
+2082
+02:18:48,640 --> 02:18:54,160
+out of Northern Germany, and kind of pays all these people
+
+2083
+02:18:54,160 --> 02:18:57,200
+to issue that on a global scale.
+
+2084
+02:18:57,200 --> 02:19:01,160
+So to finance its real estate projects in Germany.
+
+2085
+02:19:01,160 --> 02:19:04,960
+So, well, cities are mobilized to attract funding
+
+2086
+02:19:04,960 --> 02:19:08,240
+and to optimize that in a particular way.
+
+2087
+02:19:08,240 --> 02:19:11,040
+The same thing happens when you look at the other side
+
+2088
+02:19:11,040 --> 02:19:17,600
+equation when value has been produced, the point is that you limit the
+
+2089
+02:19:17,600 --> 02:19:24,240
+taxes that you have to pay on your service value. Otherwise, shareholders are
+
+2090
+02:19:24,240 --> 02:19:27,960
+in the police and you're competing with other firms to pay as much share
+
+2091
+02:19:27,960 --> 02:19:33,400
+other value as possible. This is a classic example by Google who is using
+
+2092
+02:19:33,400 --> 02:19:44,400
+Don't Dutch, Irish, sandwich to make sure that it minimizes its taxes, right?
+
+2093
+02:19:44,400 --> 02:19:48,400
+So it puts, I mean, I say it's a bit as an accident, I don't know, then by the way,
+
+2094
+02:19:48,400 --> 02:19:54,400
+but it places some intellectual property in an environment that surrounds it through the Netherlands,
+
+2095
+02:19:54,400 --> 02:20:01,400
+towards the back of Ireland, and then it passes through the Caribbean to optimize that structure.
+
+2096
+02:20:01,400 --> 02:20:06,360
+It's also something that firms like Deloitte and law firms are also engaged.
+
+2097
+02:20:06,360 --> 02:20:11,100
+So it's the optimization of these kind of financial structures and
+
+2098
+02:20:11,100 --> 02:20:16,320
+materialization is also a very important function of world city.
+
+2099
+02:20:16,320 --> 02:20:19,920
+So in the end, I think to summarize the picture,
+
+2100
+02:20:19,920 --> 02:20:24,000
+it's about, I can say, representation.
+
+2101
+02:20:24,000 --> 02:20:32,000
+You can think about world cities as kind of Mount Everest's aggloperations of wealth.
+
+2102
+02:20:32,000 --> 02:20:37,520
+That has been generated among the little down below across the territory.
+
+2103
+02:20:37,520 --> 02:20:46,680
+But you can also think about how to call an English-dumerion gas 11 kilometers deep.
+
+2104
+02:20:46,680 --> 02:20:51,880
+Where a value that is being produced elsewhere is being extracted to.
+
+2105
+02:20:51,880 --> 02:20:58,400
+is basically putting a drain on the global economy.
+
+2106
+02:20:58,400 --> 02:21:02,440
+And if you look at what happened during the financial crisis,
+
+2107
+02:21:02,440 --> 02:21:05,880
+the financial sector created a whole surplus.
+
+2108
+02:21:05,880 --> 02:21:08,240
+If you will generate a lot of profits,
+
+2109
+02:21:08,240 --> 02:21:09,560
+then came the crisis.
+
+2110
+02:21:09,560 --> 02:21:15,200
+And I mean, I think in Europe it was the figure of $700 billion
+
+2111
+02:21:15,200 --> 02:21:17,640
+that financial sector was kind of bailed out.
+
+2112
+02:21:17,640 --> 02:21:19,880
+It was even more in the US.
+
+2113
+02:21:19,880 --> 02:21:24,680
+So it's a huge figure of saving these kind of activities,
+
+2114
+02:21:24,680 --> 02:21:28,080
+where in general they actually put in that drain
+
+2115
+02:21:28,080 --> 02:21:30,120
+on the floor when they come.
+
+2116
+02:21:30,120 --> 02:21:32,960
+So we really have to think about world cities
+
+2117
+02:21:32,960 --> 02:21:36,320
+in a critical way, what do they contribute,
+
+2118
+02:21:36,320 --> 02:21:37,880
+or what are the actors in world cities,
+
+2119
+02:21:37,880 --> 02:21:40,720
+what do they contribute, and what kind of things
+
+2120
+02:21:40,720 --> 02:21:43,840
+effects are more problematic.
+
+2121
+02:21:43,840 --> 02:21:46,800
+I'm very sorry to take a little bit more of your time,
+
+2122
+02:21:46,800 --> 02:21:51,800
+But that was kind of four ways of being critical about world and global cities.
+
+2123
+02:21:51,800 --> 02:21:57,800
+There's no time for Q&A now, but next week we'll continue.
+
+2124
+02:21:57,800 --> 02:22:03,800
+I mean, we can start with some questions next week if you'd have them.
+
+2125
+02:22:03,800 --> 02:22:08,800
+And we'll go to the flip side to the point.
+
+2126
+02:22:08,800 --> 02:22:10,800
+About flip side of the coin is just polarization.
+
+2127
+02:22:10,800 --> 02:22:15,800
+So what does it mean world and global city formation for these very places?
+
+2128
+02:22:15,800 --> 02:22:22,800
+And these are the two texts that you're worried and fighting to reach.
+
+2129
+02:22:22,800 --> 02:22:25,800
+Thank you.
+
+2130
+02:22:25,800 --> 02:22:28,800
+(audience applauds)
+

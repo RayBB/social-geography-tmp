@@ -1,0 +1,7204 @@
+1
+00:00:00,000 --> 00:00:24,000
+[Music]
+
+2
+00:00:24,000 --> 00:00:29,840
+Okay, well, everybody, third session, urban social geography.
+
+3
+00:00:29,840 --> 00:00:35,680
+This week's topic is polarization, rural and global cities.
+
+4
+00:00:35,680 --> 00:00:39,040
+Now, just a few housekeeping announcements.
+
+5
+00:00:39,040 --> 00:00:43,840
+I think in the meantime, everybody has seen schedules regarding discussion seminars.
+
+6
+00:00:43,840 --> 00:00:46,640
+I think there's still some minor issues here and there.
+
+7
+00:00:46,640 --> 00:00:52,400
+We'll try to get that sorted as soon as possible, but make sure next week there will be
+
+8
+00:00:52,400 --> 00:00:57,600
+a discussion similar to each one of you. So please attend and if you're there to present
+
+9
+00:00:57,600 --> 00:01:04,000
+take the guidelines which has five to six to ten minutes of presentation because it will be a
+
+10
+00:01:04,000 --> 00:01:10,640
+tight exercise in any case. So I have to practice a little bit at home so that you stay within
+
+11
+00:01:10,640 --> 00:01:17,040
+those ten minutes as much as possible and then we'll have a nice discussion.
+
+12
+00:01:17,040 --> 00:01:22,720
+also be advised that we started excursions this Friday on start in Brussels for those
+
+13
+00:01:22,720 --> 00:01:31,200
+urban in urban studies who are joining the global city Brussels excursion and as a reminder we need at
+
+14
+00:01:31,200 --> 00:01:41,200
+them at the north station Brussels north and we need at plus similar bolifier which is the main
+
+15
+00:01:41,200 --> 00:01:47,780
+square at the side of the World Trade Center looking towards the canal. So
+
+16
+00:01:47,780 --> 00:01:53,760
+Simon Bolivad and you'll see if you're early either me wearing a very special
+
+17
+00:01:53,760 --> 00:01:59,680
+hat perhaps and some roses and then if you're late you'll see a whole bunch of
+
+18
+00:01:59,680 --> 00:02:04,280
+people so you can't really miss us. In any case you will be down the stairs
+
+19
+00:02:04,280 --> 00:02:09,120
+and somewhere on the square there's a few benches there. We will probably
+
+20
+00:02:09,120 --> 00:02:13,280
+We end around five at latest in European quarter.
+
+21
+00:02:13,280 --> 00:02:18,520
+And yeah, you can bring lunch,
+
+22
+00:02:18,520 --> 00:02:20,240
+but you can also buy lunch somewhere
+
+23
+00:02:20,240 --> 00:02:23,280
+that will be time over at lunch time
+
+24
+00:02:23,280 --> 00:02:26,720
+to actually buy lunch wherever you want to.
+
+25
+00:02:26,720 --> 00:02:28,440
+So that's not necessary.
+
+26
+00:02:28,440 --> 00:02:32,040
+I have no idea whether it will be the police,
+
+27
+00:02:32,040 --> 00:02:35,000
+check the weather forecast and just accordingly.
+
+28
+00:02:35,000 --> 00:02:38,920
+And as I've learned, the pencil works better than a pen.
+
+29
+00:02:38,920 --> 00:02:44,920
+It's kind of a weather proof, although I hope it's not a tornado that's going to hit Brussels.
+
+30
+00:02:44,920 --> 00:02:45,920
+Okay.
+
+31
+00:02:45,920 --> 00:02:47,920
+Right.
+
+32
+00:02:47,920 --> 00:02:56,920
+So last week we've been talking about, you could say how to understand the role of cities in the global economy,
+
+33
+00:02:56,920 --> 00:03:06,920
+whole discussion about command and control functions, to what extends power in this global urban system relates to either headquarters
+
+34
+00:03:06,920 --> 00:03:13,920
+workers and the more classic world cities definition or are the first to say this amalgamation
+
+35
+00:03:13,920 --> 00:03:23,080
+or complex of advanced producer services who collectively produce control capabilities
+
+36
+00:03:23,080 --> 00:03:28,840
+over global production networks, global financial markets and also discuss plenty of critiques,
+
+37
+00:03:28,840 --> 00:03:33,960
+different forms of critique on those startups.
+
+38
+00:03:33,960 --> 00:03:40,820
+What we'll try to do today is turn the coin around and kind of in the spirit of John
+
+39
+00:03:40,820 --> 00:03:46,740
+Friedman's work back to the 80s, if you will, is also try to reflect on what extent
+
+40
+00:03:46,740 --> 00:03:53,580
+the insertion in these global urban systems, these powerful roles in the global economy,
+
+41
+00:03:53,580 --> 00:03:56,380
+also affects the internal structure of cities.
+
+42
+00:03:56,380 --> 00:04:00,380
+So it's kind of this macro, micro link.
+
+43
+00:04:00,380 --> 00:04:04,700
+We went from, oh my god, the economy is globalizing.
+
+44
+00:04:04,700 --> 00:04:09,020
+What does this tell us about the changing role of cities
+
+45
+00:04:09,020 --> 00:04:10,620
+in that global economy?
+
+46
+00:04:10,620 --> 00:04:15,100
+Now having established that centrality in the global economy,
+
+47
+00:04:15,100 --> 00:04:19,380
+now we wonder to what extent there are effects or implications
+
+48
+00:04:19,380 --> 00:04:23,460
+of that insertion on the social structure of cities.
+
+49
+00:04:23,460 --> 00:04:29,780
+So it's kind of the flip side of last week's talk.
+
+50
+00:04:29,780 --> 00:04:33,420
+So just to get started a little bit, some maps.
+
+51
+00:04:33,420 --> 00:04:34,660
+Was there a question?
+
+52
+00:04:34,660 --> 00:04:36,060
+- I'm like, what,
+
+53
+00:04:36,060 --> 00:04:39,140
+I could be honest, I could be honest.
+
+54
+00:04:39,140 --> 00:04:40,660
+If I can do that, everyone agrees
+
+55
+00:04:40,660 --> 00:04:41,860
+because we don't break it.
+
+56
+00:04:41,860 --> 00:04:43,140
+You know, it's a must.
+
+57
+00:04:43,140 --> 00:04:43,980
+- Yes.
+
+58
+00:04:43,980 --> 00:04:44,820
+- It's a must.
+
+59
+00:04:44,820 --> 00:04:45,660
+- Straight forward.
+
+60
+00:04:45,660 --> 00:04:47,580
+- I understand, yes, it was a bit back.
+
+61
+00:04:47,580 --> 00:04:49,700
+So let's try to have a break somewhere
+
+62
+00:04:49,700 --> 00:04:51,780
+at six, something or five,
+
+63
+00:04:51,780 --> 00:04:53,220
+but I'll six, yeah, sure.
+
+64
+00:04:53,220 --> 00:04:54,060
+No problem.
+
+65
+00:04:54,060 --> 00:04:56,860
+Yeah, some maps.
+
+66
+00:04:56,860 --> 00:04:58,940
+I will, yes.
+
+67
+00:04:58,940 --> 00:05:07,420
+The live stream isn't working.
+
+68
+00:05:07,420 --> 00:05:09,500
+Okay.
+
+69
+00:05:09,500 --> 00:05:15,340
+Or rather not okay.
+
+70
+00:05:15,340 --> 00:05:23,740
+It is recording.
+
+71
+00:05:23,740 --> 00:05:33,160
+Now as you can see there's a red button there and I think the audio is supposed to work.
+
+72
+00:05:33,160 --> 00:05:39,820
+Zero viewers okay that gives us a hint.
+
+73
+00:05:39,820 --> 00:05:44,460
+Let's see.
+
+74
+00:05:44,460 --> 00:05:51,460
+wrong link. Okay, let's see.
+
+75
+00:05:51,460 --> 00:06:07,580
+All right, let me just put this online.
+
+76
+00:06:07,580 --> 00:06:10,580
+(audience chattering)
+
+77
+00:06:10,580 --> 00:06:39,580
+[ Background Sounds ]
+
+78
+00:06:39,580 --> 00:06:46,580
+It looks awfully the same.
+
+79
+00:06:46,580 --> 00:06:53,580
+Doesn't it?
+
+80
+00:06:53,580 --> 00:07:19,580
+[inaudible]
+
+81
+00:07:19,580 --> 00:07:26,300
+There's already one viewer. So that means it works. Yeah, I think we're there.
+
+82
+00:07:26,300 --> 00:07:34,620
+Is it okay? Yeah. All right, then.
+
+83
+00:07:34,620 --> 00:07:46,300
+Okay, I could just try to start again. I started so maths always nice.
+
+84
+00:07:48,140 --> 00:07:54,620
+Please unmaps from the study of the talk a little bit more about in a second from the opportunity
+
+85
+00:07:54,620 --> 00:08:03,500
+at last in the US. Basically shows you the median household income of residents over a certain period.
+
+86
+00:08:03,500 --> 00:08:10,700
+So this is Chicago, the darker, I mean the the bluer, the richer if you will, the higher the income
+
+87
+00:08:10,700 --> 00:08:15,060
+And the more the U.S. is red, it's lowering.
+
+88
+00:08:15,060 --> 00:08:21,060
+So what I've kind of seen is very much kind of concentrated wealth in the city center,
+
+89
+00:08:21,060 --> 00:08:23,100
+apparently of Chicago.
+
+90
+00:08:23,100 --> 00:08:28,980
+And then the peripheries, these kind of other rings of Chicago,
+
+91
+00:08:28,980 --> 00:08:34,420
+with lower incomes, and then going back further from the center,
+
+92
+00:08:34,420 --> 00:08:39,220
+richer neighborhoods, kind of the opposite picture here
+
+93
+00:08:39,220 --> 00:08:44,820
+In Detroit, I'll show some examples from the US because this is great material in that.
+
+94
+00:08:44,820 --> 00:08:53,060
+Here we see a very large concentration of the poverty or lower incomes in the city center,
+
+95
+00:08:53,060 --> 00:09:00,420
+or it's actually the city of Detroit, which interestingly ends at this kind of road here.
+
+96
+00:09:01,620 --> 00:09:09,220
+a tomorrow road which you may know if you still know who Eminem is. He's been talking about this.
+
+97
+00:09:09,220 --> 00:09:15,540
+The old born and raised somewhere over there. It acts as kind of a city limit.
+
+98
+00:09:15,540 --> 00:09:21,380
+You could say the inner city neighborhood and also kind of a fiscal limit.
+
+99
+00:09:21,380 --> 00:09:29,220
+At this point we see that actually it's a quite strong social spatial divide between
+
+100
+00:09:29,700 --> 00:09:36,660
+or neighborhoods in the city center and then richer. Subverts, you may know that Detroit has
+
+101
+00:09:36,660 --> 00:09:44,820
+gone into default a few years ago, so it's kind of a weird situation because it is a rich
+
+102
+00:09:44,820 --> 00:09:51,060
+agglomeration, if you will, but the city itself, which kind of ends at the 8 mile road,
+
+103
+00:09:51,060 --> 00:09:55,940
+is quite poor. So there's a lot of people commuting into the city that quite rich,
+
+104
+00:09:56,580 --> 00:10:03,380
+but the physical base of the city itself is kind of it's kind of limited. Okay. So quite a
+
+105
+00:10:03,380 --> 00:10:15,620
+large rupture there in space. Other examples are Los Angeles, a lot of inner city poverty and very
+
+106
+00:10:15,620 --> 00:10:24,460
+which suburbs, if you will, we all know Beverly Hills and those kind of areas.
+
+107
+00:10:24,460 --> 00:10:33,240
+This is Miami, just another example, from a stark contrast at the neighborhood level between
+
+108
+00:10:33,240 --> 00:10:37,320
+It's a north Miami and south Miami.
+
+109
+00:10:37,320 --> 00:10:41,000
+No, so quite a stark difference between,
+
+110
+00:10:41,000 --> 00:10:46,000
+say Miami Beach, where the tourist areas are.
+
+111
+00:10:46,000 --> 00:10:50,200
+And the continent, if you will,
+
+112
+00:10:50,200 --> 00:10:53,400
+what is kind of interesting in the case of Miami
+
+113
+00:10:53,400 --> 00:10:56,840
+is that actually from a climatological
+
+114
+00:10:56,840 --> 00:10:58,160
+environmental perspective,
+
+115
+00:10:58,160 --> 00:11:02,560
+that's actually quite safe to live all short.
+
+116
+00:11:02,560 --> 00:11:05,240
+And these are kind of the foreign neighborhoods
+
+117
+00:11:05,240 --> 00:11:08,800
+with kind of increased strength of floods
+
+118
+00:11:08,800 --> 00:11:10,080
+and those kind of things.
+
+119
+00:11:10,080 --> 00:11:13,280
+We see some kind of a movement back onshore also
+
+120
+00:11:13,280 --> 00:11:14,880
+by richer people.
+
+121
+00:11:14,880 --> 00:11:18,600
+Some people call this climate related gentrification.
+
+122
+00:11:18,600 --> 00:11:21,880
+We start seeing an appreciation of real estate values
+
+123
+00:11:21,880 --> 00:11:22,800
+onshore.
+
+124
+00:11:22,800 --> 00:11:26,040
+So it kind of shows that environmental impacts
+
+125
+00:11:26,040 --> 00:11:30,640
+also kind of start impacting social spatial divisions.
+
+126
+00:11:30,640 --> 00:11:37,640
+Another example of Nua Linz, as you may know,
+
+127
+00:11:37,640 --> 00:11:44,640
+from more than a decade ago, it was hit by a large hurricane,
+
+128
+00:11:44,640 --> 00:11:50,640
+and also had a very differentiated effect in racialized and ethnic terms.
+
+129
+00:11:50,640 --> 00:11:54,640
+A lot of people were hit, were left without help.
+
+130
+00:11:54,640 --> 00:11:56,640
+A lot of people residing in these foreign neighborhoods
+
+131
+00:11:56,640 --> 00:12:01,640
+also has a different kind of ethnic background.
+
+132
+00:12:01,640 --> 00:12:05,640
+So again, quite a bit of conditions there.
+
+133
+00:12:05,640 --> 00:12:12,640
+San Francisco looks pretty well gentrified,
+
+134
+00:12:12,640 --> 00:12:15,640
+also kind of very common sensical.
+
+135
+00:12:15,640 --> 00:12:20,640
+I mean, you look at real estate price in the wider San Francisco Bay area.
+
+136
+00:12:20,640 --> 00:12:24,640
+And it's obviously also related to this kind of happiness
+
+137
+00:12:24,640 --> 00:12:34,960
+or global city regionism that is going on there, but just still a few pockets of the
+
+138
+00:12:34,960 --> 00:12:41,440
+public for instance, China town there to the north, perhaps also the mission which is a kind of
+
+139
+00:12:41,440 --> 00:12:43,520
+which the mother neighborhood, yes.
+
+140
+00:12:43,520 --> 00:12:49,000
+- Because in the city that there's a piece right there,
+
+141
+00:12:49,000 --> 00:12:50,360
+they can have a key room that will
+
+142
+00:12:50,360 --> 00:12:54,360
+get up, that can be normalized towards the specific.
+
+143
+00:12:54,360 --> 00:12:57,040
+- You know what I mean about that?
+
+144
+00:12:57,040 --> 00:12:59,560
+- No, I think it's, if you look at the scale,
+
+145
+00:12:59,560 --> 00:13:01,200
+it's the same everywhere, right?
+
+146
+00:13:01,200 --> 00:13:04,960
+So you can compare across cities as well.
+
+147
+00:13:04,960 --> 00:13:08,680
+It's a good point, it could mean that we kind of lose
+
+148
+00:13:08,680 --> 00:13:12,160
+some of the nuance in certain places.
+
+149
+00:13:12,160 --> 00:13:16,400
+But what you gain is comparability across cities.
+
+150
+00:13:16,400 --> 00:13:18,920
+But I can say a bit more about that in a second.
+
+151
+00:13:18,920 --> 00:13:23,920
+New York, a city that we'll be talking more about,
+
+152
+00:13:23,920 --> 00:13:26,320
+very kind of rich, lower-man-hand,
+
+153
+00:13:26,320 --> 00:13:30,200
+who worked at the north, I feel a bit like a weatherman here.
+
+154
+00:13:30,200 --> 00:13:31,280
+You're into the north.
+
+155
+00:13:31,280 --> 00:13:37,120
+It's, as we know, a bit more cloudy.
+
+156
+00:13:37,120 --> 00:13:43,480
+No, I mean, it's an area with lower incomes, the Bronx.
+
+157
+00:13:43,480 --> 00:13:48,080
+Interesting area is also here, Brooklyn,
+
+158
+00:13:48,080 --> 00:13:50,800
+which we'll be talking about a bit later,
+
+159
+00:13:50,800 --> 00:13:54,880
+which kind of follows the income characteristics
+
+160
+00:13:54,880 --> 00:13:56,640
+of Manhattan.
+
+161
+00:13:56,640 --> 00:13:58,760
+There's a kind of still lowerness.
+
+162
+00:13:58,760 --> 00:14:01,240
+And we have a little Italy, and there's
+
+163
+00:14:01,240 --> 00:14:05,720
+kind of places where still, you could say,
+
+164
+00:14:05,720 --> 00:14:08,720
+giving some shelter to people that are not crazy rich.
+
+165
+00:14:08,720 --> 00:14:13,720
+But you could say a lot of concentrated wealth in the center,
+
+166
+00:14:13,720 --> 00:14:17,720
+then a whole kind of area with a poorer population,
+
+167
+00:14:17,720 --> 00:14:21,720
+and then you could say the rich kind of suburbs begin again.
+
+168
+00:14:21,720 --> 00:14:27,720
+Now the point is not necessarily today to talk about spatial structures.
+
+169
+00:14:27,720 --> 00:14:33,720
+You'll talk a way more about that with Nick,
+
+170
+00:14:33,720 --> 00:14:37,720
+and you'll discuss segregation patterns and those kind of things.
+
+171
+00:14:37,720 --> 00:14:42,720
+What I want to focus on is mostly you could say the reality of,
+
+172
+00:14:42,720 --> 00:14:47,720
+you could say, the vision, income divisions, class divisions in cities.
+
+173
+00:14:47,720 --> 00:14:50,720
+So where do these examples come from?
+
+174
+00:14:50,720 --> 00:14:53,720
+This is, I think you'll find it the great website.
+
+175
+00:14:53,720 --> 00:14:56,720
+It's called the opportunity Atlas.
+
+176
+00:14:56,720 --> 00:15:00,720
+And what I've actually had intense to do,
+
+177
+00:15:00,720 --> 00:15:04,520
+that also connects to the work of Nick or that.
+
+178
+00:15:04,520 --> 00:15:06,800
+Things that Nick will talk about.
+
+179
+00:15:06,800 --> 00:15:09,720
+It tries to trace, you could say, neighborhood effects.
+
+180
+00:15:09,720 --> 00:15:11,400
+And the idea is that the neighborhood
+
+181
+00:15:11,400 --> 00:15:15,640
+that you raise them will have a substantial role
+
+182
+00:15:15,640 --> 00:15:18,320
+in your future life chances.
+
+183
+00:15:18,320 --> 00:15:22,920
+And they're basically, but you can read more about it
+
+184
+00:15:22,920 --> 00:15:24,320
+on this webpage.
+
+185
+00:15:24,320 --> 00:15:27,880
+They basically tracked the evolution of people
+
+186
+00:15:27,880 --> 00:15:33,700
+kind of life development or careers of people linking it back to their original
+
+187
+00:15:33,700 --> 00:15:37,360
+neighborhood. So to the place they were born. So they could say, okay, people that
+
+188
+00:15:37,360 --> 00:15:44,000
+report in the Bronx, 16 years later, what is the kind of chance they become
+
+189
+00:15:44,000 --> 00:15:49,760
+incarcerated, what is their income level, etc. etc. So it's kind of in the way
+
+190
+00:15:49,760 --> 00:15:57,520
+trying to measure some form of spatial privilege, but having resided or
+
+191
+00:15:57,520 --> 00:16:03,480
+being born in certain neighborhoods that will have actually an effect which is in some way
+
+192
+00:16:03,480 --> 00:16:09,080
+you could say reducible to the amenities that you have to the social context that you have.
+
+193
+00:16:09,080 --> 00:16:13,240
+But perhaps there's also even more than that maybe some kind of isolated spatial effect
+
+194
+00:16:13,240 --> 00:16:14,240
+beyond.
+
+195
+00:16:14,240 --> 00:16:20,920
+But that's kind of the wider context of this up-loss and I think, yeah, it's, I would have
+
+196
+00:16:20,920 --> 00:16:23,320
+hoped that we had this for Europe.
+
+197
+00:16:23,320 --> 00:16:26,880
+It's a great resource and you can browse a bit to that.
+
+198
+00:16:26,880 --> 00:16:34,180
+So what I just want to focus on today is the fact, or use as exhibits, are these income
+
+199
+00:16:34,180 --> 00:16:41,560
+maps to illustrate that polarization in terms of income is a day to day reality in a lot
+
+200
+00:16:41,560 --> 00:16:44,200
+of US metropolises.
+
+201
+00:16:44,200 --> 00:16:49,400
+Had we had the data in Europe, we would also find quite stark contrast, perhaps a little
+
+202
+00:16:49,400 --> 00:16:53,400
+bit less, but still, it would also be there.
+
+203
+00:16:53,400 --> 00:17:00,660
+So what we can discuss then today I think is to what extent clause divisions are reproduced
+
+204
+00:17:00,660 --> 00:17:08,260
+in and through space and actually try to understand why such divisions occur in cities
+
+205
+00:17:08,260 --> 00:17:09,260
+in the first place.
+
+206
+00:17:09,260 --> 00:17:11,620
+Now this is a very big debate obviously.
+
+207
+00:17:11,620 --> 00:17:17,400
+What we'll try to do is try to link that to the debate we have last week and try to
+
+208
+00:17:17,400 --> 00:17:24,440
+linked to what extends global and relatively functions add to existing polarization because
+
+209
+00:17:24,440 --> 00:17:32,600
+we cannot reduce it to an effect of having headquarters or something, but perhaps entering
+
+210
+00:17:32,600 --> 00:17:39,000
+the discussion through globalized urbanization, we could actually start unpacking some of this.
+
+211
+00:17:39,000 --> 00:17:45,800
+So, glass divisions are about the fact that we see social spatial structures on the basis of
+
+212
+00:17:45,800 --> 00:17:52,600
+social groupings of income, profession, occupational structure and those that.
+
+213
+00:17:52,600 --> 00:17:59,320
+So looking through income levels and occupation, we find a social
+
+214
+00:17:59,320 --> 00:18:05,960
+especially diverse structure. Now I use class here in a very, let's say,
+
+215
+00:18:05,960 --> 00:18:13,400
+analytical naive way because if you use class, in many cases, authors would also refer to
+
+216
+00:18:13,400 --> 00:18:22,120
+some form of identity formation linked to that. That's not what I do here. It's more of a much more
+
+217
+00:18:22,120 --> 00:18:29,720
+mundane looking at income levels to look at the change extractor of the city. There's big debates
+
+218
+00:18:29,720 --> 00:18:36,520
+to what extent there is still such thing as class identity. It has something to do with
+
+219
+00:18:36,520 --> 00:18:42,760
+existence of subcultures, depolitization, etc. That's not really the point here. It would be
+
+220
+00:18:42,760 --> 00:18:46,680
+interesting debate, it's more about can we see objective, objective,
+
+221
+00:18:46,680 --> 00:18:53,640
+viable divisions there in society based on income and occupation, okay, just to clear that
+
+222
+00:18:53,640 --> 00:19:02,600
+moment. All right, so polarization, it has been on the agenda, it has been one of the main
+
+223
+00:19:02,600 --> 00:19:09,960
+source of impetus or starting point for the world in global cities debate. And again, going
+
+224
+00:19:09,960 --> 00:19:17,800
+back to John Friedman and Sir Wolf in 1982. It's what kind of initiated their
+
+225
+00:19:17,800 --> 00:19:23,000
+interests there. So just to allow me to recite with its towers of stealing glass
+
+226
+00:19:23,000 --> 00:19:27,840
+and its scientific shopping malls, the Citadel is the city's most vulnerable
+
+227
+00:19:27,840 --> 00:19:33,880
+symbol. Its smooth surfaces suggest a sleek and personality of money power. Its
+
+228
+00:19:33,880 --> 00:19:37,720
+Its interior spaces are ample elegant and plush.
+
+229
+00:19:37,720 --> 00:19:40,720
+In a properly secluded space is the transnational elites
+
+230
+00:19:40,720 --> 00:19:43,800
+who have built their residences and playgrounds.
+
+231
+00:19:43,800 --> 00:19:47,520
+Country clubs and bridal paths and private beaches.
+
+232
+00:19:47,520 --> 00:19:51,560
+The overcrowded ghettos exist in the far shadows of the citadel
+
+233
+00:19:51,560 --> 00:19:56,160
+where it is further divided into racial and ethnic enclaves.
+
+234
+00:19:56,160 --> 00:19:58,000
+Some areas are shanty towns.
+
+235
+00:19:58,000 --> 00:20:00,280
+Not well provided with public services,
+
+236
+00:20:00,280 --> 00:20:02,640
+garbage is that does not get collected.
+
+237
+00:20:02,640 --> 00:20:06,440
+only the police in the squad cars visible in evidence.
+
+238
+00:20:06,440 --> 00:20:09,760
+In many places, get to residence or allowed outside
+
+239
+00:20:09,760 --> 00:20:11,960
+to zones only during working hours.
+
+240
+00:20:11,960 --> 00:20:17,280
+Their appearance in the Citadel After Dark creates a small panic.
+
+241
+00:20:17,280 --> 00:20:21,160
+So it's kind of a very dystopian image.
+
+242
+00:20:21,160 --> 00:20:23,240
+You can say it's exaggerated.
+
+243
+00:20:23,240 --> 00:20:27,600
+It's kind of not exactly empowering.
+
+244
+00:20:27,600 --> 00:20:29,760
+It's also very black-white.
+
+245
+00:20:29,760 --> 00:20:31,760
+But it's something with this opposition
+
+246
+00:20:31,760 --> 00:20:36,760
+that they try to work with some kind of growing divide
+
+247
+00:20:36,760 --> 00:20:42,040
+and cities that is going to become a social problem.
+
+248
+00:20:42,040 --> 00:20:44,000
+And that's also what you also read in the world
+
+249
+00:20:44,000 --> 00:20:45,880
+city hypothesis of self-self-free crime.
+
+250
+00:20:45,880 --> 00:20:51,440
+It's at some point it will become everybody's problem
+
+251
+00:20:51,440 --> 00:20:54,680
+and probably also the problem of the elite.
+
+252
+00:20:54,680 --> 00:20:58,080
+Now again, this kind of description,
+
+253
+00:20:58,080 --> 00:21:00,440
+tries to capture particular reality.
+
+254
+00:21:00,440 --> 00:21:05,440
+Last week, I think I mentioned Robert De Niro and taxi driver.
+
+255
+00:21:05,440 --> 00:21:08,480
+Perhaps John Friedman was talking more,
+
+256
+00:21:08,480 --> 00:21:11,800
+talking about contemporary LA,
+
+257
+00:21:11,800 --> 00:21:15,440
+which is kind of marked by this citadel form
+
+258
+00:21:15,440 --> 00:21:18,480
+that we have left if you have been to LA.
+
+259
+00:21:18,480 --> 00:21:22,120
+I mean, a lot of elites or people that are walking around here
+
+260
+00:21:22,120 --> 00:21:24,040
+never touch ground.
+
+261
+00:21:24,040 --> 00:21:27,280
+They hover around, they never go on the ground floor,
+
+262
+00:21:27,280 --> 00:21:30,400
+but it's kind of a problem to jump by taxi
+
+263
+00:21:30,400 --> 00:21:33,040
+and one of the hotels and then they go
+
+264
+00:21:33,040 --> 00:21:34,760
+at the first floor level,
+
+265
+00:21:34,760 --> 00:21:37,200
+or second floor level in the US,
+
+266
+00:21:37,200 --> 00:21:38,880
+from one building to another.
+
+267
+00:21:38,880 --> 00:21:41,920
+So it's not only kind of horizontally segregated,
+
+268
+00:21:41,920 --> 00:21:44,560
+there's also kind of vertical segregation there
+
+269
+00:21:44,560 --> 00:21:46,200
+so this kind of this flow of people
+
+270
+00:21:46,200 --> 00:21:50,200
+is not mixed with buses by.
+
+271
+00:21:50,200 --> 00:21:55,000
+Then a bit further, just kind of two, three, four,
+
+272
+00:21:55,000 --> 00:22:02,520
+It is both streets LA not to be confused with Wall Street in New York and this is kind of where
+
+273
+00:22:02,520 --> 00:22:06,760
+a completely different kind of neighborhood start. So as you remember this map from LA,
+
+274
+00:22:06,760 --> 00:22:18,680
+in general you could say a very poor inner city neighborhood but kind of imprinted by a number of
+
+275
+00:22:18,680 --> 00:22:28,520
+hotels which kind of breathe post-modern feelings and sentiments, but then very close to that
+
+276
+00:22:28,520 --> 00:22:36,280
+immediately you kind of struck with rapid decline. Some people would call this the zone of transition
+
+277
+00:22:36,280 --> 00:22:42,600
+and we'll be talking with Nick about the Bergus model of cities. There's a kind of a place that
+
+278
+00:22:42,600 --> 00:22:48,040
+that isn't changed. It's kind of changing functions. It's also a place where a lot of
+
+279
+00:22:48,040 --> 00:22:55,000
+migrants arrive. There's a lot of informal economy, etc. And there's also kind of an idea
+
+280
+00:22:55,000 --> 00:23:02,360
+even in contemporary LA that these places, the citadel, if you will, these hotels are also places
+
+281
+00:23:02,360 --> 00:23:07,560
+that should not be frequented by people that have nothing to do there. And just, yeah, as I walk by,
+
+282
+00:23:08,200 --> 00:23:16,360
+I think it was a doorstep of a plaza of a bank of America or something that I took it.
+
+283
+00:23:16,360 --> 00:23:24,360
+Yeah, bank tower at 53. And it's kind of regulating social space there.
+
+284
+00:23:24,360 --> 00:23:28,760
+And yeah, you can't really read it now, but maybe you should read it at home.
+
+285
+00:23:28,760 --> 00:23:34,200
+This kind of very ambiguous language being used. So any activities that are
+
+286
+00:23:35,080 --> 00:23:39,320
+has a phrase again that may be annoyance or uses,
+
+287
+00:23:39,320 --> 00:23:44,280
+that are already annoying people or could annoy people,
+
+288
+00:23:44,280 --> 00:23:46,120
+or actually not allow them there.
+
+289
+00:23:46,120 --> 00:23:48,280
+So it's a very, you could say,
+
+290
+00:23:48,280 --> 00:23:52,360
+a vigorous fake description,
+
+291
+00:23:52,360 --> 00:23:55,640
+which gives, for instance, social security guards
+
+292
+00:23:55,640 --> 00:23:59,880
+the liberty to actually remove people from public space,
+
+293
+00:23:59,880 --> 00:24:07,480
+people that are homeless and there's a huge homelessness issue. In LA, people are being displaced,
+
+294
+00:24:07,480 --> 00:24:13,000
+even if they put their tents in downtown. There's a little pan-handling selling stuff and those kind
+
+295
+00:24:13,000 --> 00:24:20,680
+of things and that is kind of policed away. So it's not, it's to be removed from that public space
+
+296
+00:24:20,680 --> 00:24:26,120
+because it doesn't fit the kind of perhaps expectations of people that that's frequent these
+
+297
+00:24:27,800 --> 00:24:35,160
+more like citadel structures. So we can say it could be an extreme example but still very much
+
+298
+00:24:35,160 --> 00:24:43,160
+relevant today, 30 or 40 years after Children's Treatment was started out. This is, say, one of the
+
+299
+00:24:43,160 --> 00:24:52,120
+leading matropolises and economic terms of the world. So if it's happening here, we could
+
+300
+00:24:52,120 --> 00:24:58,680
+imagine it's also happening elsewhere. Now what I would try to do now is look a little bit into
+
+301
+00:24:58,680 --> 00:25:07,960
+exhibits about this archetypical case if you will, New York City. To show you a bit more
+
+302
+00:25:07,960 --> 00:25:17,720
+how polarization patterns have evolved over the past decades. I mean it's a Greek drama, you know
+
+303
+00:25:17,720 --> 00:25:25,800
+already what is happening and the answer is polarization has increased. So income disparities
+
+304
+00:25:25,800 --> 00:25:33,080
+between different kind of income groups in society has increased. And why in New York? Well, I mean,
+
+305
+00:25:33,080 --> 00:25:39,800
+it's one of the, say, has been one of the city's world cities that has, has received a lot of
+
+306
+00:25:39,800 --> 00:25:46,760
+attention. It's still one of the main financial centers of the world. It's kind of an extreme case,
+
+307
+00:25:46,760 --> 00:25:53,880
+if you will, if you try to research the impact of these kind of activities on the urban fabric.
+
+308
+00:25:53,880 --> 00:26:01,920
+So, I'm referring here to a very nice study by the fiscal policy institute.
+
+309
+00:26:01,920 --> 00:26:05,560
+It's a bit dated, but I still love it.
+
+310
+00:26:05,560 --> 00:26:09,600
+I'm actually hoping that it will do the exercise again quite soon.
+
+311
+00:26:09,600 --> 00:26:16,120
+The previous one, report was just before the crisis, this one is kind of diagnosing what
+
+312
+00:26:16,120 --> 00:26:21,000
+when done just after the crisis and I hope they have some kind of I don't know
+
+313
+00:26:21,000 --> 00:26:28,600
+a bit of COVID kind of report sometimes soon but they mostly look in these studies at the
+
+314
+00:26:28,600 --> 00:26:34,760
+evolution of income distribution and they use all kind of weird terms such as these
+
+315
+00:26:34,760 --> 00:26:43,240
+styles, quintiles, quartiles which refers to the place of an income group any entire
+
+316
+00:26:43,240 --> 00:26:48,240
+So a quintile is actually a fifth of the entire distribution.
+
+317
+00:26:48,240 --> 00:26:55,240
+So top quintile would be the top 20% of earners and their average income.
+
+318
+00:26:55,240 --> 00:27:02,240
+The bottom quintile would be the average of the lowest 20% of incomes.
+
+319
+00:27:02,240 --> 00:27:08,240
+So these are relative terms that show the position with a certain income.
+
+320
+00:27:08,240 --> 00:27:12,240
+What you would take position you would take in this distribution.
+
+321
+00:27:12,240 --> 00:27:17,240
+And it's usually focusing on income, which is income
+
+322
+00:27:17,240 --> 00:27:21,200
+out of labor in one way or in order.
+
+323
+00:27:21,200 --> 00:27:22,240
+Okay.
+
+324
+00:27:22,240 --> 00:27:25,160
+So this is just one comparison.
+
+325
+00:27:25,160 --> 00:27:26,120
+And what they also do is,
+
+326
+00:27:26,120 --> 00:27:30,720
+and they try to compare New York City quite often.
+
+327
+00:27:30,720 --> 00:27:34,040
+Sometimes they don't have data on New York City itself,
+
+328
+00:27:34,040 --> 00:27:36,080
+and then they use New York State,
+
+329
+00:27:36,080 --> 00:27:38,280
+but try to be as specific as possible.
+
+330
+00:27:38,280 --> 00:27:42,120
+And then they also try to compare to United States.
+
+331
+00:27:42,120 --> 00:27:43,120
+That's a question.
+
+332
+00:27:43,120 --> 00:27:47,120
+[inaudible]
+
+333
+00:27:47,120 --> 00:27:48,120
+Yeah.
+
+334
+00:27:48,120 --> 00:27:52,120
+[inaudible]
+
+335
+00:27:52,120 --> 00:27:56,120
+[inaudible]
+
+336
+00:27:56,120 --> 00:28:02,120
+[inaudible]
+
+337
+00:28:02,120 --> 00:28:07,120
+Yeah. I think, I mean, large would be polarization,
+
+338
+00:28:07,120 --> 00:28:11,120
+but the point is indeed, and that's kind of something that we get to later,
+
+339
+00:28:11,120 --> 00:28:14,960
+is that the question is, obviously,
+
+340
+00:28:14,960 --> 00:28:17,120
+more easily start looking at income,
+
+341
+00:28:17,120 --> 00:28:19,520
+because these kinds of data are,
+
+342
+00:28:19,520 --> 00:28:20,880
+it is defined.
+
+343
+00:28:20,880 --> 00:28:23,920
+The next question is what's the underlying occupational structure,
+
+344
+00:28:23,920 --> 00:28:27,120
+so what produces that reality?
+
+345
+00:28:27,120 --> 00:28:29,360
+And there's something that we'll pick up on later,
+
+346
+00:28:29,360 --> 00:28:32,680
+and obviously connected quite often,
+
+347
+00:28:32,680 --> 00:28:33,920
+kind of you could think about,
+
+348
+00:28:33,920 --> 00:28:36,400
+shift towards high-end service jobs,
+
+349
+00:28:36,400 --> 00:28:40,040
+what generates higher incomes?
+
+350
+00:28:40,040 --> 00:28:44,120
+But the connection is not always there,
+
+351
+00:28:44,120 --> 00:28:45,680
+it's always highly contextual,
+
+352
+00:28:45,680 --> 00:28:49,840
+the same kind of occupations,
+
+353
+00:28:49,840 --> 00:28:54,280
+in different contexts may give a very different income level
+
+354
+00:28:54,280 --> 00:28:56,920
+and that can be for a lot of reasons.
+
+355
+00:28:56,920 --> 00:29:01,520
+So yeah, but here we're talking about income polarization
+
+356
+00:29:01,520 --> 00:29:05,920
+to be sure because it's the most obvious here and now.
+
+357
+00:29:05,920 --> 00:29:08,960
+So yeah, as I said, they tried to compare
+
+358
+00:29:08,960 --> 00:29:13,280
+give me your work, sometimes they use in the New York state, etc. So what you see is here,
+
+359
+00:29:13,280 --> 00:29:21,040
+the median family income, so this kind of people that are just in the middle of this distribution,
+
+360
+00:29:21,040 --> 00:29:28,880
+this has been declining over the past, I think 10, I mean, in this case it's kind of three,
+
+361
+00:29:28,880 --> 00:29:36,000
+four years after the great recession, right? So we see that 2008, it has 9, 2010, 2011,
+
+362
+00:29:38,160 --> 00:29:43,760
+you find the steep decline and it's actually more pronounced in the city of New York.
+
+363
+00:29:43,760 --> 00:29:49,520
+So the city of New York on average, the median income was already much lower than compared to
+
+364
+00:29:49,520 --> 00:29:54,640
+New York state which is kind of more affairs to the broader agglomeration mostly but then also the
+
+365
+00:29:54,640 --> 00:30:02,080
+rest of the state and it was also significantly lower at a magazine. So in general, there's a decline
+
+366
+00:30:02,080 --> 00:30:09,840
+and median income in the city of New York. At the same time what we see at the other kind of
+
+367
+00:30:09,840 --> 00:30:19,600
+side of the picture is the share of income, total income, going to the top 1%. And here is again a
+
+368
+00:30:19,600 --> 00:30:28,880
+comparison between US in red, then the state of New York in green and then New York city kind of
+
+369
+00:30:28,880 --> 00:30:35,040
+small scale in blue, which is on top line. So it's kind of interesting to see and this
+
+370
+00:30:35,040 --> 00:30:41,360
+data goes back to the 1980s. They'll share very similar patterns there at the beginning.
+
+371
+00:30:41,360 --> 00:30:48,320
+The share of income going to the top 1%, that's just reminds yourself 1% of the entire distribution
+
+372
+00:30:48,320 --> 00:30:58,480
+that the top 1% against the 99 remember was about 12% or 3% in the 1980s. This has exploded right.
+
+373
+00:30:58,480 --> 00:31:08,320
+So it has grown across all scales to something modest off, you could say 22% in the US.
+
+374
+00:31:08,320 --> 00:31:15,440
+So 1% owns 22% of all income, just reflect on that.
+
+375
+00:31:15,440 --> 00:31:25,680
+And then in New York, we see that almost 45, almost half of all income is owned by the top 1%.
+
+376
+00:31:25,680 --> 00:31:32,000
+Okay, so we all know Jeff Bezos and others, but this is kind of way more systematic. Yes
+
+377
+00:31:32,000 --> 00:31:50,600
+Yeah, but the previous one yeah, that's true. I mean this is just a figure
+
+378
+00:31:50,600 --> 00:31:58,600
+And it's one of the perfect options that you can take.
+
+379
+00:31:58,600 --> 00:31:59,600
+Yeah, this too.
+
+380
+00:31:59,600 --> 00:32:00,600
+That's right.
+
+381
+00:32:00,600 --> 00:32:07,600
+This is kind of, you could say, the median income has decreased everywhere.
+
+382
+00:32:07,600 --> 00:32:10,600
+It does seem to find here.
+
+383
+00:32:10,600 --> 00:32:17,600
+I would say that it decreases more in New York City compared to others.
+
+384
+00:32:17,600 --> 00:32:21,440
+less you would have to look at percent just there for New York State of the US.
+
+385
+00:32:21,440 --> 00:32:28,240
+But I think it's kind of going from 59 to 54. Yeah, that's a very significantly
+
+386
+00:32:28,240 --> 00:32:34,800
+client. But it's not one online comparable, you're right. So this goes back way more in time.
+
+387
+00:32:34,800 --> 00:32:41,600
+But the main point being here is that a very small percentage is actually running away with a
+
+388
+00:32:41,600 --> 00:32:49,520
+lot of income and again in the CFA, there was connection to what you were asking. There was a decline
+
+389
+00:32:49,520 --> 00:32:58,400
+in general also for these top 1% with the global financial crisis but you also see that it's kind
+
+390
+00:32:58,400 --> 00:33:05,120
+of very quick rebound of these highest incomes, right? So they kind of take a hit and it has
+
+391
+00:33:05,120 --> 00:33:10,480
+something to do probably with their, like they're exposed to so much parts of the economy,
+
+392
+00:33:10,480 --> 00:33:20,480
+but then they rebans quite soon. Okay. Another kind of graph here comparing New York state to the US,
+
+393
+00:33:20,480 --> 00:33:28,320
+so unfortunately not at the city level, but yeah, you get an idea. Here it's comparing a top 5%
+
+394
+00:33:28,320 --> 00:33:36,720
+in terms of income and total income, which you could say the bottom quintile, so the 20%
+
+395
+00:33:36,720 --> 00:33:43,920
+lowest incomes, and then the middle group, right? So from 40 to 60%, but in the distribution.
+
+396
+00:33:43,920 --> 00:33:52,240
+So what you find is that over the years, and this is comparing the late 70s,
+
+397
+00:33:52,800 --> 00:34:00,480
+to say the mid 2000s. I mean it's a dated analysis but that's the furthest that they could go in
+
+398
+00:34:00,480 --> 00:34:12,320
+this analysis. In the 1970s the ratio between the top 5% and the lowest incomes was 7.4. So people
+
+399
+00:34:12,320 --> 00:34:19,200
+in the top 5 earn 7.4 times more than people with the lowest incomes and the lowest quintile
+
+400
+00:34:20,560 --> 00:34:25,040
+By the mid 2000s it had become 17.3 times.
+
+401
+00:34:25,040 --> 00:34:33,120
+So take the income of the lowest income households times 17.3.
+
+402
+00:34:33,120 --> 00:34:36,480
+So tremendous tremendously growing difference.
+
+403
+00:34:36,480 --> 00:34:43,600
+And it's also when you prepare to get a right growing much faster than what you see in US in general.
+
+404
+00:34:44,560 --> 00:34:49,600
+And it still also pertains to the relation between the top 5% and you,
+
+405
+00:34:49,600 --> 00:34:53,680
+but you could say the middle income group or the middle class,
+
+406
+00:34:53,680 --> 00:34:59,520
+even there are kind of these disparities have doubled and they have increased more
+
+407
+00:34:59,520 --> 00:35:08,880
+when you compare it to the US. So it went from 2.9 to 5.3 compared to 4.7 when compared to US.
+
+408
+00:35:08,880 --> 00:35:13,120
+Okay, so massively increasing that difference.
+
+409
+00:35:13,120 --> 00:35:17,920
+So it means that there's a growing concentration of income in a very small group.
+
+410
+00:35:17,920 --> 00:35:25,680
+Another exhibit showing this is comparing the growth in income between different groups.
+
+411
+00:35:25,680 --> 00:35:31,600
+So the bottom quintile again, lowest incomes actually lost a share in total income.
+
+412
+00:35:33,120 --> 00:35:37,240
+When you compare the late 90s to the mid 2000s,
+
+413
+00:35:37,240 --> 00:35:41,440
+there was some growth for middle income groups
+
+414
+00:35:41,440 --> 00:35:43,080
+and it was a very large group,
+
+415
+00:35:43,080 --> 00:35:48,080
+but growth of 18 to 19% can come off the line.
+
+416
+00:35:48,080 --> 00:35:50,880
+And so the trends are kind of clear.
+
+417
+00:35:50,880 --> 00:35:55,480
+There was a slow hiccup with the global financial crisis,
+
+418
+00:35:55,480 --> 00:35:57,440
+but it's kind of a secular trend
+
+419
+00:35:57,440 --> 00:36:00,360
+where a very small percentage of the population,
+
+420
+00:36:00,360 --> 00:36:11,440
+it 1% or 5% is gaining more and more share in the total distribution of ink.
+
+421
+00:36:11,440 --> 00:36:17,120
+One way of looking at that is why that could be and we'll talk about general patterns
+
+422
+00:36:17,120 --> 00:36:27,440
+also more towards the end of today's session is looking at what happens in evolutions of productivity.
+
+423
+00:36:27,440 --> 00:36:33,220
+So with one hour of work, what kind of value do you produce?
+
+424
+00:36:33,220 --> 00:36:37,920
+How much cookies do you cut or how much hard do you make?
+
+425
+00:36:37,920 --> 00:36:42,800
+Or how much, let's say, transactions, financial transactions.
+
+426
+00:36:42,800 --> 00:36:46,080
+Can you conclude?
+
+427
+00:36:46,080 --> 00:36:49,160
+Versus the income from those activities.
+
+428
+00:36:49,160 --> 00:36:56,720
+So what you see is that from 2001 until 2011 here,
+
+429
+00:36:56,720 --> 00:37:00,200
+There's actually a 14% increase in productivity.
+
+430
+00:37:00,200 --> 00:37:03,840
+So for the same hour of work,
+
+431
+00:37:03,840 --> 00:37:07,680
+you produce 14% more wealth, if you will.
+
+432
+00:37:07,680 --> 00:37:12,120
+But when you look at the income levels from labor
+
+433
+00:37:12,120 --> 00:37:14,400
+and you will average real wage,
+
+434
+00:37:14,400 --> 00:37:17,760
+so these are the salaries that people get.
+
+435
+00:37:17,760 --> 00:37:19,960
+It has increased a little bit,
+
+436
+00:37:19,960 --> 00:37:25,200
+but it has by no means kept base with the rises
+
+437
+00:37:25,200 --> 00:37:26,440
+and productivity levels.
+
+438
+00:37:26,440 --> 00:37:28,340
+Okay, so it's kind of, it's running away.
+
+439
+00:37:28,340 --> 00:37:31,400
+So there's an increase of about,
+
+440
+00:37:31,400 --> 00:37:33,880
+what is it here, two, three, four percent?
+
+441
+00:37:33,880 --> 00:37:38,600
+As we go across those 10 years.
+
+442
+00:37:38,600 --> 00:37:42,440
+So that means that something else is probably happening
+
+443
+00:37:42,440 --> 00:37:45,440
+with the weld and value that's being created.
+
+444
+00:37:45,440 --> 00:37:48,680
+And we talked a little bit about financialization last week.
+
+445
+00:37:48,680 --> 00:37:52,200
+It means that it's, if it's not going to labor,
+
+446
+00:37:52,200 --> 00:37:55,080
+it's probably going to the factor of capital,
+
+447
+00:37:55,080 --> 00:38:03,240
+which means shareholders or you could say well-remunerated employees such as CEOs, managers
+
+448
+00:38:03,240 --> 00:38:07,120
+who actually take a growing piece of the cake.
+
+449
+00:38:07,120 --> 00:38:11,120
+What do you want to do with this?
+
+450
+00:38:11,120 --> 00:38:13,120
+Can you talk about this?
+
+451
+00:38:13,120 --> 00:38:14,960
+Yeah, this is New York.
+
+452
+00:38:14,960 --> 00:38:22,520
+Well, get to more global patterns more towards the end as a kind of an outlook exercise.
+
+453
+00:38:22,520 --> 00:38:28,560
+But it's a trend that is occurring across countries, right?
+
+454
+00:38:28,560 --> 00:38:31,800
+And there's probably no the work of Thomas Piketty.
+
+455
+00:38:31,800 --> 00:38:34,840
+It may have run a bell already.
+
+456
+00:38:34,840 --> 00:38:40,480
+He and his group of, I can say, economic historians have looked
+
+457
+00:38:40,480 --> 00:38:46,160
+at systematically at income data and income distribution data
+
+458
+00:38:46,160 --> 00:38:49,000
+in a more long-term perspective.
+
+459
+00:38:49,000 --> 00:38:51,520
+And they can't compare all countries
+
+460
+00:38:51,520 --> 00:38:53,420
+because their data sources are limited,
+
+461
+00:38:53,420 --> 00:38:58,220
+but they require a number of key European countries,
+
+462
+00:38:58,220 --> 00:39:01,760
+US, UK, Australia, et cetera, et cetera.
+
+463
+00:39:01,760 --> 00:39:04,020
+So yeah, these are unfortunately
+
+464
+00:39:04,020 --> 00:39:07,800
+patterns we see everywhere,
+
+465
+00:39:07,800 --> 00:39:10,800
+but in some contexts they're more extreme than elsewhere.
+
+466
+00:39:10,800 --> 00:39:15,120
+And US, UK, and we'll get to that at some point
+
+467
+00:39:15,120 --> 00:39:18,400
+are the most extreme cases here.
+
+468
+00:39:19,480 --> 00:39:24,200
+So yeah, runaway productivity, but not necessarily
+
+469
+00:39:24,200 --> 00:39:26,600
+more remuneration.
+
+470
+00:39:26,600 --> 00:39:28,360
+On the other side is--
+
+471
+00:39:28,360 --> 00:39:34,640
+and I think a very telling graph is, to what extent
+
+472
+00:39:34,640 --> 00:39:37,120
+can you make a living, a decent living,
+
+473
+00:39:37,120 --> 00:39:41,960
+if you work full time, all the minimum wage?
+
+474
+00:39:41,960 --> 00:39:43,600
+This was the analysis.
+
+475
+00:39:43,600 --> 00:39:48,720
+And I go back again to the 1980s, is it right?
+
+476
+00:39:48,720 --> 00:39:53,720
+Yeah, or even earlier, and you see that you're in a substantial period of time.
+
+477
+00:39:53,720 --> 00:39:58,720
+If you were at a minimum wage, you were well above the poverty line, right?
+
+478
+00:39:58,720 --> 00:40:07,720
+So you had like 120% so you could live here well decently and you wouldn't live in poverty.
+
+479
+00:40:07,720 --> 00:40:09,720
+And this has completely melted away.
+
+480
+00:40:09,720 --> 00:40:15,720
+So it became very bad in the kind of 1990s, but even well in today,
+
+481
+00:40:15,720 --> 00:40:19,640
+You see that even if you work full-time at this weight,
+
+482
+00:40:19,640 --> 00:40:22,520
+you still fall below the poverty line.
+
+483
+00:40:22,520 --> 00:40:26,120
+So it's kind of something institutionally is wrong there.
+
+484
+00:40:26,120 --> 00:40:31,000
+And the fiscal policy institute has been one of the main advocates
+
+485
+00:40:31,000 --> 00:40:34,200
+also for an increase in minimum wages.
+
+486
+00:40:34,200 --> 00:40:41,080
+And yeah, and a lot of metropolitan areas also, for instance, in London.
+
+487
+00:40:42,120 --> 00:40:49,080
+There's also kind of the month for a long living wage, which sometimes should be higher
+
+488
+00:40:49,080 --> 00:40:54,920
+than in the rest of the country because this kind of the living, it's just more expensive
+
+489
+00:40:54,920 --> 00:41:01,160
+in these large metropolitan areas. So a very dire picture, a lot of people at the very bottom
+
+490
+00:41:01,160 --> 00:41:06,040
+are not only, you could say, you could say, losing out in terms of income levels,
+
+491
+00:41:06,040 --> 00:41:14,040
+It's also still it's not sufficient to actually make to nothing when you're at that side of the income distribution.
+
+492
+00:41:14,040 --> 00:41:21,320
+So just to give you a bit of a picture from this RUB extreme case of the the sincerity of the situation.
+
+493
+00:41:21,320 --> 00:41:29,880
+And yeah you can find this report online pulling apart in New York and I would recommend that you
+
+494
+00:41:29,880 --> 00:41:35,880
+have looked at that. I think the conclusion is that we see in growing income
+
+495
+00:41:35,880 --> 00:41:41,320
+polarization in the state of New York, more narrowly in New York City, and it's
+
+496
+00:41:41,320 --> 00:41:48,440
+becoming more dramatic than the US average. Okay, over to you for another one
+
+497
+00:41:48,440 --> 00:41:53,560
+two minutes group thing and I would like to ask you why it is according to you
+
+498
+00:41:53,560 --> 00:41:57,080
+that specifically world-in global cities are becoming so
+
+499
+00:41:57,080 --> 00:42:01,080
+Okay, and then we'll take the question straight out of there. Go ahead.
+
+500
+00:42:01,080 --> 00:42:30,080
+[ Background Sounds ]
+
+501
+00:42:30,080 --> 00:42:32,840
+(people talking)
+
+502
+00:42:32,840 --> 00:42:35,840
+(people chattering)
+
+503
+00:42:35,840 --> 00:43:03,840
+[ Music ]
+
+504
+00:43:03,840 --> 00:43:31,840
+[ Background Sounds ]
+
+505
+00:43:31,840 --> 00:43:59,840
+[ Background noise ]
+
+506
+00:44:00,340 --> 00:44:02,340
+Okay, let's hear it.
+
+507
+00:44:02,340 --> 00:44:04,340
+It's when you came up with.
+
+508
+00:44:04,340 --> 00:44:10,340
+What did you come up with?
+
+509
+00:44:10,340 --> 00:44:13,340
+Yeah.
+
+510
+00:44:13,340 --> 00:44:27,340
+So there's a comment about the cost of living.
+
+511
+00:44:27,340 --> 00:44:38,340
+The correct, but it's more, you can say more a symptom, if you will, I mean, it's kind of the price of real estate, housing, daily consumption, etc.
+
+512
+00:44:38,340 --> 00:44:45,340
+You can say it affects everybody to similar degree unless we acknowledge that there's even more differences.
+
+513
+00:44:45,340 --> 00:44:51,340
+I mean, that's because of living for the rich would be also very high, but maybe they can afford it.
+
+514
+00:44:51,340 --> 00:44:55,340
+It's not really an explanation of why we see polarization at stake.
+
+515
+00:44:55,340 --> 00:45:02,340
+I think other governments are into the trickle-down effects of the regulatory development.
+
+516
+00:45:02,340 --> 00:45:09,340
+So we see large companies already have a lot of capital, getting more subsidies from the government,
+
+517
+00:45:09,340 --> 00:45:17,340
+getting placed in say special economic zones where electricity land leaves around the government.
+
+518
+00:45:17,340 --> 00:45:19,340
+A lot of things are subsidized.
+
+519
+00:45:19,340 --> 00:45:24,340
+Again, I tried to be well-providing employment.
+
+520
+00:45:24,340 --> 00:45:27,380
+However, that said employment,
+
+521
+00:45:27,380 --> 00:45:29,380
+the salary is not distributing.
+
+522
+00:45:29,380 --> 00:45:33,060
+So you have the larger company getting larger.
+
+523
+00:45:33,060 --> 00:45:37,380
+- What do you mean with trickle down, logics?
+
+524
+00:45:37,380 --> 00:45:38,220
+- Yes.
+
+525
+00:45:38,220 --> 00:45:41,380
+So, I mean, the right to recover that is, of course,
+
+526
+00:45:41,380 --> 00:45:44,820
+then if you have a large company,
+
+527
+00:45:46,580 --> 00:45:53,580
+It provides employment and ideas scenario is that more women, people who do it more money,
+
+528
+00:45:53,580 --> 00:46:00,080
+etc. What often happens is that the job 1% of the job which you will probably get larger
+
+529
+00:46:00,080 --> 00:46:05,580
+income and the contribution is right here.
+
+530
+00:46:05,580 --> 00:46:11,580
+So yeah, this important critique I think is also what Princess Doreen Massey was talking about,
+
+531
+00:46:11,580 --> 00:46:16,860
+I mean, and throughout her career, fighting this kind of trickle down economic principle,
+
+532
+00:46:16,860 --> 00:46:24,060
+and she talks about course of global cityization, which is actually producing inequalities,
+
+533
+00:46:24,060 --> 00:46:28,860
+which are not as much as let's wait for a bit more global city formation,
+
+534
+00:46:28,860 --> 00:46:35,500
+and it will be easy away. What she actually says, no, this polarization is an outcome of
+
+535
+00:46:35,500 --> 00:46:39,380
+of global city formation, it's because you have certain
+
+536
+00:46:39,380 --> 00:46:40,840
+activities that you have.
+
+537
+00:46:40,840 --> 00:46:43,300
+It's not something permanent.
+
+538
+00:46:43,300 --> 00:46:45,140
+And not something that will go away,
+
+539
+00:46:45,140 --> 00:46:46,980
+but more trickle down economics.
+
+540
+00:46:46,980 --> 00:46:49,980
+So because economics is something with,
+
+541
+00:46:49,980 --> 00:46:52,020
+like that you create multipliers,
+
+542
+00:46:52,020 --> 00:46:54,620
+that money circulates to the territory,
+
+543
+00:46:54,620 --> 00:46:55,700
+which then create jobs,
+
+544
+00:46:55,700 --> 00:46:57,700
+where then fuel growth, et cetera.
+
+545
+00:46:57,700 --> 00:47:01,940
+But little is said about the income levels of these people,
+
+546
+00:47:01,940 --> 00:47:03,540
+what kind of jobs are created,
+
+547
+00:47:03,540 --> 00:47:06,780
+what kind of working circumstance, et cetera, right?
+
+548
+00:47:06,780 --> 00:47:08,780
+Okay, other ideas?
+
+549
+00:47:08,780 --> 00:47:09,620
+Yeah?
+
+550
+00:47:09,620 --> 00:47:13,300
+(audience member speaking off mic)
+
+551
+00:47:13,300 --> 00:47:42,300
+[ Inaudible ]
+
+552
+00:47:42,300 --> 00:47:48,060
+So there's deliberate support for strategies, but perhaps they can also be more viable
+
+553
+00:47:48,060 --> 00:47:51,740
+and some life that's regulations compared to other places.
+
+554
+00:47:51,740 --> 00:47:52,740
+Yeah?
+
+555
+00:47:52,740 --> 00:47:53,740
+Yeah.
+
+556
+00:47:53,740 --> 00:48:01,740
+[ Inaudible ]
+
+557
+00:48:01,740 --> 00:48:06,780
+[ Inaudible ]
+
+558
+00:48:06,780 --> 00:48:23,780
+[ Inaudible ]
+
+559
+00:48:23,780 --> 00:48:29,480
+>> So yeah, the steward has a lot of local policy networks towards creating some kind
+
+560
+00:48:29,480 --> 00:48:30,580
+of business climate.
+
+561
+00:48:30,580 --> 00:48:36,180
+Well, national policies that are restructuring the detection of labor,
+
+562
+00:48:36,180 --> 00:48:45,500
+I also think that the cities are trying to struggle to attract global companies and that
+
+563
+00:48:45,500 --> 00:48:50,500
+at the end, global companies, they don't really enrich these budgets with the taxes because
+
+564
+00:48:50,500 --> 00:48:56,700
+they're either evaded, either the city trying to once get a try to build a global company
+
+565
+00:48:56,700 --> 00:48:57,700
+to try to sell some space.
+
+566
+00:48:57,700 --> 00:49:05,020
+They have in terms of subsidies, but then like taxes, if something supports the overall
+
+567
+00:49:05,020 --> 00:49:11,580
+more like insecure parts of population and then like they are like low income
+
+568
+00:49:11,580 --> 00:49:18,340
+more aggressive and then just support the opportunity. Okay let's there was a
+
+569
+00:49:18,340 --> 00:49:23,820
+little vamp's from there so spatial redistribution yeah. I would just like to add
+
+570
+00:49:23,820 --> 00:49:30,660
+the role of this state in regulation, real in taxation and also being social
+
+571
+00:49:30,660 --> 00:49:34,520
+So this is something in one of the class,
+
+572
+00:49:34,520 --> 00:49:40,360
+just mentions it very briefly about the different mental states
+
+573
+00:49:40,360 --> 00:49:44,160
+of life is like this process that's shaped in states
+
+574
+00:49:44,160 --> 00:49:47,240
+that have a more active role, and it is something
+
+575
+00:49:47,240 --> 00:49:49,840
+that also shapes this position.
+
+576
+00:49:49,840 --> 00:49:52,400
+Absolutely, yeah.
+
+577
+00:49:52,400 --> 00:49:55,760
+Yeah, you, and then at the very back, just go ahead.
+
+578
+00:49:55,760 --> 00:49:58,200
+You may have to shout a little bit.
+
+579
+00:49:58,200 --> 00:50:12,200
+I think these are ground issues. I hope that the increased design to the difference in this information is really great. A lot of people have been aware of the way there's already been a lot of questions.
+
+580
+00:50:12,200 --> 00:50:40,200
+I think it's a little bit of a lot of information about this. I think that's a good point, because I mean we also have this distinguish between, say, processes that work across the entire territory.
+
+581
+00:50:40,200 --> 00:50:43,160
+say, okay, what holds for countries?
+
+582
+00:50:43,160 --> 00:50:46,480
+What is so specific about some places that they seem to be more
+
+583
+00:50:46,480 --> 00:50:49,280
+polarized than the rest of the country, okay?
+
+584
+00:50:49,280 --> 00:50:50,280
+Yeah?
+
+585
+00:50:50,280 --> 00:50:53,280
+(audience member speaking)
+
+586
+00:50:53,280 --> 00:51:14,280
+[ Inaudible ]
+
+587
+00:51:14,280 --> 00:51:15,280
+>> Awesome.
+
+588
+00:51:15,280 --> 00:51:17,580
+Yeah. At the end,
+
+589
+00:51:17,580 --> 00:51:22,580
+>> Yeah, I was thinking also on a really awesome
+
+590
+00:51:22,580 --> 00:51:25,580
+living responsibility for social record justice.
+
+591
+00:51:25,580 --> 00:51:29,580
+I have been privatized and put on the individual
+
+592
+00:51:29,580 --> 00:51:32,580
+especially with just like the US where their relationship
+
+593
+00:51:32,580 --> 00:51:35,580
+can be more crisis, it can be hard for working class
+
+594
+00:51:35,580 --> 00:51:39,580
+to support those responsibilities that can be taken
+
+595
+00:51:39,580 --> 00:51:41,580
+from a lot of data and also like a privateization
+
+596
+00:51:41,580 --> 00:51:46,580
+of comments that are there and just my public.
+
+597
+00:51:46,580 --> 00:51:52,320
+And you say a bit more about social reproduction, because it's a very analytical term or
+
+598
+00:51:52,320 --> 00:51:56,320
+kind of almost theoretical term, what do you mean with that?
+
+599
+00:51:56,320 --> 00:52:07,300
+Just like everything for a healthcare, taking care of children, feeding your family,
+
+600
+00:52:07,300 --> 00:52:11,180
+having them not my versatility is in things like that.
+
+601
+00:52:11,180 --> 00:52:16,340
+Right, so it comes to the system, the worker itself needs to be produced in the social
+
+602
+00:52:16,340 --> 00:52:22,780
+way, it's not the time to make him the worker, physically, but also educating the worker,
+
+603
+00:52:22,780 --> 00:52:29,300
+feeding, educating and socializing into particular working culture.
+
+604
+00:52:29,300 --> 00:52:30,300
+>> Yeah.
+
+605
+00:52:30,300 --> 00:52:39,300
+>> [INAUDIBLE]
+
+606
+00:52:39,300 --> 00:52:48,300
+[INAUDIBLE]
+
+607
+00:52:48,300 --> 00:52:49,300
+>> Yeah.
+
+608
+00:52:49,300 --> 00:52:54,300
+>> [INAUDIBLE]
+
+609
+00:52:54,300 --> 00:52:59,300
+Like, reality is, for example, like, they provide like,
+
+610
+00:52:59,300 --> 00:53:03,300
+benefits through it, like, how to create the idea of the poor
+
+611
+00:53:03,300 --> 00:53:05,300
+is just like, that's the evil, you're kind of just
+
+612
+00:53:05,300 --> 00:53:06,300
+not that close to being.
+
+613
+00:53:06,300 --> 00:53:09,300
+I'm like, I'm like, you're like, you're a father.
+
+614
+00:53:09,300 --> 00:53:10,300
+Yeah.
+
+615
+00:53:10,300 --> 00:53:13,300
+I would agree, but I think then the question is,
+
+616
+00:53:13,300 --> 00:53:16,300
+to what extent would it play out more in an urban context
+
+617
+00:53:16,300 --> 00:53:19,300
+than say, in, you know, rural Britain?
+
+618
+00:53:19,300 --> 00:53:23,300
+Maybe because it's poverty is less present there,
+
+619
+00:53:23,300 --> 00:53:28,820
+that's present there, although I would like to see map of that. But yeah, I think the
+
+620
+00:53:28,820 --> 00:53:33,300
+power of neoliberal ideas is clearly going to that. Okay, one final idea.
+
+621
+00:53:33,300 --> 00:53:59,300
+[ Inaudible ]
+
+622
+00:53:59,300 --> 00:54:10,300
+[ Inaudible ]
+
+623
+00:54:10,300 --> 00:54:15,300
+So that's something to do then perhaps with existing solidarity networks and to what extent
+
+624
+00:54:15,300 --> 00:54:23,300
+is still solidarity between people and to what extent the urban environment still supports that.
+
+625
+00:54:23,300 --> 00:54:28,600
+You've covered quite a bit of ground. I don't have it in my slides all that
+
+626
+00:54:28,600 --> 00:54:32,120
+But I think it shows what you can do collectively in trying to
+
+627
+00:54:32,120 --> 00:54:37,060
+Try to get this puzzle. So thank you for that. What I just want to do is is
+
+628
+00:54:37,060 --> 00:54:42,980
+Thank you to a number of slides because I think try to gather a number of elements and then work towards this
+
+629
+00:54:42,980 --> 00:54:45,660
+polarization thesis
+
+630
+00:54:45,660 --> 00:54:51,460
+However, full of all it is will try to try to get there and then we'll take a short break
+
+631
+00:54:52,620 --> 00:54:59,620
+So yeah conceptualization, all of books have been written about this.
+
+632
+00:54:59,620 --> 00:55:06,620
+I've been most of them referring to the global city, but there's plenty of other kind of scholarship on that.
+
+633
+00:55:06,620 --> 00:55:21,620
+As you can see in this picture, it has been one of the main kind of theorized conceptualized problems of contemporary cities and something with what you do with these dualities.
+
+634
+00:55:21,620 --> 00:55:28,620
+Jomonkov and Manuken cells talked about dual cities, Susan feinstein,
+
+635
+00:55:28,620 --> 00:55:33,180
+wrote by the divided cities, Peter Marker is another great scholar talked about
+
+636
+00:55:33,180 --> 00:55:37,980
+water cities, Berger talked about fragmented cities etc.
+
+637
+00:55:37,980 --> 00:55:42,180
+So it has been one of the main debates in urban social
+
+638
+00:55:42,180 --> 00:55:47,140
+chocolate. But it seems that all these kinds of things
+
+639
+00:55:47,140 --> 00:55:53,620
+necessarily or most emblematically start to connect to cities rather than wider
+
+640
+00:55:53,620 --> 00:56:01,960
+territories. And a lot of people start to look for particular answers as I said
+
+641
+00:56:01,960 --> 00:56:07,060
+last week I tend to go back to the 80s because it's kind of my my natural
+
+642
+00:56:07,060 --> 00:56:14,060
+cohort but quite often people go back to the 60s the 70s and this kind of wider
+
+643
+00:56:14,060 --> 00:56:18,900
+the restructure of cities and wider economies,
+
+644
+00:56:18,900 --> 00:56:22,420
+and we could say the North Atlantic sphere.
+
+645
+00:56:22,420 --> 00:56:25,620
+So it's, I mean, there's a lot of things have been written.
+
+646
+00:56:25,620 --> 00:56:30,140
+There's a rich scholarship, but arguably it's kind of biased,
+
+647
+00:56:30,140 --> 00:56:34,940
+if you will, to the crisis of cities or the crisis cities
+
+648
+00:56:34,940 --> 00:56:39,100
+have underwent in Western Europe, North and America.
+
+649
+00:56:39,100 --> 00:56:41,100
+So there's plenty of stuff that needs to be
+
+650
+00:56:41,100 --> 00:56:48,540
+written on the histories and these historical trajectories of, say, Chinese cities,
+
+651
+00:56:48,540 --> 00:56:57,660
+African cities, etc, etc. But it's not something that I can now cover today, okay? But
+
+652
+00:56:57,660 --> 00:57:05,900
+it's, yeah, kind of the general narrative that you find in these different kind of analysis
+
+653
+00:57:06,460 --> 00:57:10,700
+is that the economic restructuring kind of started in the 1960s,
+
+654
+00:57:10,700 --> 00:57:15,180
+when there's a culmination of the crisis of what they call
+
+655
+00:57:15,180 --> 00:57:20,140
+North Atlantic 4-Dism. And as I think explained last week or two weeks ago,
+
+656
+00:57:20,140 --> 00:57:27,900
+there was this system of regulating capitalism, but there was a deal, say, between the workers
+
+657
+00:57:27,900 --> 00:57:35,340
+and capital that increased productivity, would that the fruits of that and the
+
+658
+00:57:35,340 --> 00:57:37,860
+the surface of that would be shared with birds.
+
+659
+00:57:37,860 --> 00:57:42,900
+It's kind of forward going back to Henry Ford.
+
+660
+00:57:42,900 --> 00:57:48,500
+He pages workers a little bit more so there would be more productive, but they could actually
+
+661
+00:57:48,500 --> 00:57:54,300
+in fact also buy the cars that they were producing at the hellish speed.
+
+662
+00:57:54,300 --> 00:57:56,580
+So that was kind of the wider model.
+
+663
+00:57:56,580 --> 00:58:02,060
+We saw the emergence of the middle classes and the immediate post-war era.
+
+664
+00:58:02,060 --> 00:58:07,500
+could buy consumer goods because of rising productivity levels.
+
+665
+00:58:07,500 --> 00:58:13,580
+It was the invention of free time to actually spend your money and consume it as we actually
+
+666
+00:58:13,580 --> 00:58:17,780
+go to shop shops and buy stuff.
+
+667
+00:58:17,780 --> 00:58:21,540
+At some point this model kind of started to crumble.
+
+668
+00:58:21,540 --> 00:58:25,740
+There were problems with productivity.
+
+669
+00:58:25,740 --> 00:58:34,220
+It couldn't keep up with rising wages and kind of at the macro level the solution was a
+
+670
+00:58:34,220 --> 00:58:41,500
+relocation of production and you could say the start point of globalization, new international
+
+671
+00:58:41,500 --> 00:58:43,300
+division of labor.
+
+672
+00:58:43,300 --> 00:58:48,100
+The effect was that it was the industrialization in, you could say, the core of the
+
+673
+00:58:48,100 --> 00:58:52,700
+world economy, his high income industrialized places.
+
+674
+00:58:52,700 --> 00:58:55,340
+So again, we're talking about Northern America,
+
+675
+00:58:55,340 --> 00:58:57,700
+Western Europe mostly.
+
+676
+00:58:57,700 --> 00:59:02,980
+And it's set in motion to process of structural unemployment,
+
+677
+00:59:02,980 --> 00:59:07,140
+which was felt throughout countries and territories,
+
+678
+00:59:07,140 --> 00:59:11,220
+but was very, very urban and many contacts.
+
+679
+00:59:11,220 --> 00:59:16,660
+There was a lot of productive activities within cities.
+
+680
+00:59:16,660 --> 00:59:20,820
+And as these activities moved away became obsolete,
+
+681
+00:59:20,820 --> 00:59:24,820
+What happened is that you could say urban poverty
+
+682
+00:59:24,820 --> 00:59:27,900
+and an employment became very much urban phenomena.
+
+683
+00:59:27,900 --> 00:59:32,020
+So cities lost their functions, productive functions,
+
+684
+00:59:32,020 --> 00:59:33,340
+but they had to do with a lot of,
+
+685
+00:59:33,340 --> 00:59:37,020
+they could say the costs of an employment, et cetera, et cetera.
+
+686
+00:59:37,020 --> 00:59:39,540
+So we have a declining tax base
+
+687
+00:59:39,540 --> 00:59:44,540
+and in many contexts what you see is a shift towards austerity.
+
+688
+00:59:44,540 --> 00:59:50,380
+So there's less income, so this budget cuts, et cetera, et cetera.
+
+689
+00:59:50,380 --> 00:59:56,580
+So the whole idea and the immediate post war era was a strong key engine state.
+
+690
+00:59:56,580 --> 01:00:01,340
+So we had mass production, mass consumption, but also a state that was inspired by
+
+691
+01:00:01,340 --> 01:00:08,420
+German and East said, okay, if there's an issue with consumption, well,
+
+692
+01:00:08,420 --> 01:00:13,460
+the government itself will be of the first investor will make sure that,
+
+693
+01:00:13,460 --> 01:00:16,340
+that the economy keeps on going.
+
+694
+01:00:16,580 --> 01:00:18,900
+That kind of changed in this period as well.
+
+695
+01:00:18,900 --> 01:00:22,180
+The state was seen as something that had to roll back
+
+696
+01:00:22,180 --> 01:00:27,880
+its activities, stop interfering with all kinds of market-based
+
+697
+01:00:27,880 --> 01:00:29,140
+processes.
+
+698
+01:00:29,140 --> 01:00:35,900
+And so this kind of the starting point of a new liberal ideology,
+
+699
+01:00:35,900 --> 01:00:38,700
+whereas the state was still kind of setting the rules
+
+700
+01:00:38,700 --> 01:00:42,620
+of market systems.
+
+701
+01:00:42,620 --> 01:00:48,620
+It stopped indeed providing, for instance, a whole range of public goods that were mentioned
+
+702
+01:00:48,620 --> 01:00:49,820
+in many contexts.
+
+703
+01:00:49,820 --> 01:00:55,420
+So most of the, I mean, accentuated this took place in the US and UK, you can say,
+
+704
+01:00:55,420 --> 01:01:01,100
+neoliberal, harsh lands or the leading examples of that with Margaret Thatcher,
+
+705
+01:01:01,100 --> 01:01:07,580
+Ronald Reagan. But it started to creep in and affect, became some kind of a mobile policy
+
+706
+01:01:07,580 --> 01:01:11,180
+that was also in practice being implemented in other contexts.
+
+707
+01:01:12,380 --> 01:01:16,700
+Sometimes to a lesser expense in a more variegated way, etc.
+
+708
+01:01:16,700 --> 01:01:23,580
+And the whole research agenda by, for instance, Jamie Beck, a very nice and one of the leading
+
+709
+01:01:23,580 --> 01:01:31,500
+scholars in urban geography is about that. So what is neoliberalism? What is neoliberalization?
+
+710
+01:01:31,500 --> 01:01:36,540
+Is it the same everywhere? How variegated? How does it connect itself to different kinds of
+
+711
+01:01:36,540 --> 01:01:43,180
+context that's a holding here. So we see those ideas spreading a lot across a lot of these,
+
+712
+01:01:43,180 --> 01:01:50,300
+say, Western American, North American states. And in one way or another, it leads to some kind of
+
+713
+01:01:50,300 --> 01:01:57,580
+use of self-affirmative prophecy, because as the state retreats from certain areas, it
+
+714
+01:01:57,980 --> 01:02:03,940
+It regulates very often a lot of these markets, which
+
+715
+01:02:03,940 --> 01:02:07,500
+hands more power to large corporations.
+
+716
+01:02:07,500 --> 01:02:13,220
+And we already talked about multinational corporations last week.
+
+717
+01:02:13,220 --> 01:02:16,940
+And we see a rising concentration of power,
+
+718
+01:02:16,940 --> 01:02:20,980
+of industrial and financial conglomerations, et cetera, et cetera.
+
+719
+01:02:20,980 --> 01:02:24,100
+And indeed, in the process where also the state
+
+720
+01:02:24,100 --> 01:02:27,620
+is kind of rescaled, where a lot of responsibilities
+
+721
+01:02:27,620 --> 01:02:34,180
+kind of pushed to the local level, you get some kind of a self-fulling mantra of competing cities
+
+722
+01:02:34,180 --> 01:02:43,220
+to attract global capital. So that's kind of the situation where a lot of policymakers
+
+723
+01:02:43,220 --> 01:02:53,140
+could say in the 1980s, the 1980s were kind of facing a kind of zero-sum game where there's only
+
+724
+01:02:53,140 --> 01:02:59,380
+so much production for instance to take place so Amazon will have its center
+
+725
+01:02:59,380 --> 01:03:06,100
+either here or it will go across the border and what can we do about that?
+
+726
+01:03:06,100 --> 01:03:12,660
+Well David Harvey is one of the the the main scholars in this area he says
+
+727
+01:03:12,660 --> 01:03:18,420
+well what we see that a lot of policymakers are trying to do is they try to
+
+728
+01:03:18,420 --> 01:03:21,380
+to become entrepreneurial, right?
+
+729
+01:03:21,380 --> 01:03:25,580
+So whereas they were managing the territories
+
+730
+01:03:25,580 --> 01:03:29,660
+and trying to think about the spatial structures
+
+731
+01:03:29,660 --> 01:03:33,820
+of welfare, humanities, and to distribute growth
+
+732
+01:03:33,820 --> 01:03:37,260
+across the territory, you kind of get the flip side,
+
+733
+01:03:37,260 --> 01:03:40,340
+much more competitive idea about growth,
+
+734
+01:03:40,340 --> 01:03:42,100
+and a new kind of role for people
+
+735
+01:03:42,100 --> 01:03:44,980
+that were previously managing territories
+
+736
+01:03:44,980 --> 01:03:47,500
+to become some kind of entrepreneurs, right?
+
+737
+01:03:47,500 --> 01:03:53,320
+David Harvey talks about this in his famous piece and I think people in the
+
+738
+01:03:53,320 --> 01:03:57,500
+Muslim forces also discuss this with Matthew.
+
+739
+01:03:57,500 --> 01:04:03,780
+He describes the shift from urban managerialism to urban
+
+740
+01:04:03,780 --> 01:04:10,300
+entrepreneurs and where you get a different kind of mindset with boss.
+
+741
+01:04:10,300 --> 01:04:15,100
+Now, okay, so this is kind of the multiraceted structure,
+
+742
+01:04:15,100 --> 01:04:18,460
+but it's kind of the reasoning of how you could say
+
+743
+01:04:18,460 --> 01:04:20,940
+macro phenomena at some point,
+
+744
+01:04:20,940 --> 01:04:23,660
+did you a very particular urban reality?
+
+745
+01:04:23,660 --> 01:04:26,580
+And what David Harvey then does,
+
+746
+01:04:26,580 --> 01:04:30,860
+and this is a kind of a short excuse that I want to take you through.
+
+747
+01:04:30,860 --> 01:04:34,620
+What it says, okay, in these competitive circumstances,
+
+748
+01:04:34,620 --> 01:04:39,620
+we see that policymakers start to adopt a number of things.
+
+749
+01:04:39,620 --> 01:04:44,660
+a number of strategies and a number of entrepreneurs strategies and I'll take you through them.
+
+750
+01:04:44,660 --> 01:04:50,980
+Be advised and sometimes it's kind of interesting to see that people think there's kind of some
+
+751
+01:04:50,980 --> 01:04:56,980
+kind of a recipe by David Harvey say if your citizen trouble please consider
+
+752
+01:04:56,980 --> 01:05:02,660
+applying this strategy this is not what David Harvey does he kind of observes and
+
+753
+01:05:02,660 --> 01:05:08,500
+analyses this phenomena he's not prescribing some kind of entrepreneurial strategies that
+
+754
+01:05:08,500 --> 01:05:11,540
+that should be implemented by policymakers,
+
+755
+01:05:11,540 --> 01:05:15,220
+just to be clear, which reminds me of an anecdote
+
+756
+01:05:15,220 --> 01:05:19,380
+that Harvey once gave a lecture in New York.
+
+757
+01:05:19,380 --> 01:05:24,180
+And he's famous for his analysis or reading
+
+758
+01:05:24,180 --> 01:05:28,620
+of Das Kapital by my son, Marx.
+
+759
+01:05:28,620 --> 01:05:31,660
+Volume one is a very nice video on that.
+
+760
+01:05:31,660 --> 01:05:33,340
+He has a companion to capital.
+
+761
+01:05:33,340 --> 01:05:37,340
+And he also gave a lecture about that somewhere in New York.
+
+762
+01:05:37,340 --> 01:05:40,680
+And apparently there were also some investment bankers
+
+763
+01:05:40,680 --> 01:05:41,840
+in the room.
+
+764
+01:05:41,840 --> 01:05:44,620
+And after the lecture, his investment bankers
+
+765
+01:05:44,620 --> 01:05:46,740
+walked up to women and said, well, Mr. Harvey,
+
+766
+01:05:46,740 --> 01:05:48,680
+I think you have a very good understanding
+
+767
+01:05:48,680 --> 01:05:50,920
+of how finance capital works.
+
+768
+01:05:50,920 --> 01:05:53,860
+Would it be possible to hire you as a consultant?
+
+769
+01:05:53,860 --> 01:05:56,000
+(audience laughs)
+
+770
+01:05:56,000 --> 01:05:59,920
+I think he declined, but yeah, just to be very clear.
+
+771
+01:05:59,920 --> 01:06:03,140
+I mean, it's an analysis that he provides.
+
+772
+01:06:03,140 --> 01:06:05,600
+It's not a recipe that he thinks
+
+773
+01:06:05,600 --> 01:06:07,560
+should be installed.
+
+774
+01:06:07,560 --> 01:06:09,400
+All right.
+
+775
+01:06:09,400 --> 01:06:11,000
+So yeah, I mean, the first kind of thing that
+
+776
+01:06:11,000 --> 01:06:14,360
+is under pressure, if you will, is these productive activities.
+
+777
+01:06:14,360 --> 01:06:18,080
+And what it sees is that some policymakers
+
+778
+01:06:18,080 --> 01:06:21,400
+still manage to kind of keep productive activities
+
+779
+01:06:21,400 --> 01:06:23,080
+in their territories.
+
+780
+01:06:23,080 --> 01:06:25,560
+And that means that still there will be some public
+
+781
+01:06:25,560 --> 01:06:27,320
+and private investments.
+
+782
+01:06:27,320 --> 01:06:31,280
+And you could say the physical and social base
+
+783
+01:06:31,280 --> 01:06:33,960
+or physical and social infrastructure
+
+784
+01:06:33,960 --> 01:06:38,320
+So think about knowledge networks, educational facilities,
+
+785
+01:06:38,320 --> 01:06:39,600
+try to do a Spanish recap.
+
+786
+01:06:39,600 --> 01:06:42,880
+So sometimes the state becomes some kind of venture
+
+787
+01:06:42,880 --> 01:06:45,040
+capitalist itself.
+
+788
+01:06:45,040 --> 01:06:46,960
+But indeed, as has been described,
+
+789
+01:06:46,960 --> 01:06:52,240
+also try to work on all the things that are too costly,
+
+790
+01:06:52,240 --> 01:06:56,760
+reduce excessive labor costs, for instance,
+
+791
+01:06:56,760 --> 01:06:59,560
+tax breaks, et cetera, et cetera.
+
+792
+01:06:59,560 --> 01:07:02,160
+And quite often leading the idea
+
+793
+01:07:02,160 --> 01:07:06,560
+is that the city regions should become silicon valleys,
+
+794
+01:07:06,560 --> 01:07:08,560
+that that should be the ambition,
+
+795
+01:07:08,560 --> 01:07:12,000
+that they should seek to attract capital people.
+
+796
+01:07:12,000 --> 01:07:16,040
+Sometimes this kind of set to attract creative class
+
+797
+01:07:16,040 --> 01:07:18,240
+to refer to which Florida.
+
+798
+01:07:18,240 --> 01:07:21,280
+But it's kind of this idea that yes,
+
+799
+01:07:21,280 --> 01:07:23,640
+a high tech productive city is still
+
+800
+01:07:23,640 --> 01:07:28,200
+imaginable and we have to create the right business
+
+801
+01:07:28,200 --> 01:07:30,560
+environment to get there.
+
+802
+01:07:30,560 --> 01:07:35,200
+So images of clusters and there's a lot of cluster policy,
+
+803
+01:07:35,200 --> 01:07:38,040
+but it used to be, I think, in a lot of cities.
+
+804
+01:07:38,040 --> 01:07:40,800
+It's also the reason why you had dedicated districts
+
+805
+01:07:40,800 --> 01:07:45,800
+at cities linked to healthcare or biotech, et cetera, et cetera.
+
+806
+01:07:45,800 --> 01:07:49,120
+So that's kind of one stretch,
+
+807
+01:07:49,120 --> 01:07:52,360
+Gida is still imaginable for cities.
+
+808
+01:07:52,360 --> 01:07:55,040
+A second entrepreneurial strategy
+
+809
+01:07:55,040 --> 01:07:57,880
+is to compete for consumption.
+
+810
+01:07:57,880 --> 01:08:00,160
+So people have money to spend.
+
+811
+01:08:00,160 --> 01:08:02,480
+There's a spatial division of consumption.
+
+812
+01:08:02,480 --> 01:08:04,760
+What you want is that people spend their dollars,
+
+813
+01:08:04,760 --> 01:08:09,560
+euros, rupees in your country and your city
+
+814
+01:08:09,560 --> 01:08:11,360
+and not in the neighborhood city.
+
+815
+01:08:11,360 --> 01:08:14,400
+And obviously with globalization,
+
+816
+01:08:14,400 --> 01:08:17,440
+this kind of changes, we see the emergence of global tourism,
+
+817
+01:08:17,440 --> 01:08:19,120
+flows, et cetera, et cetera.
+
+818
+01:08:19,120 --> 01:08:21,000
+So there's a kind of battle, if you will,
+
+819
+01:08:21,000 --> 01:08:23,720
+to attract tourists, retirees,
+
+820
+01:08:23,720 --> 01:08:27,960
+that is a whole economy behind elderly homes
+
+821
+01:08:27,960 --> 01:08:32,320
+because, well, these are people who have pensions still,
+
+822
+01:08:32,320 --> 01:08:34,720
+and they provide a safe stream of income,
+
+823
+01:08:34,720 --> 01:08:39,720
+and you can say local consumption activities.
+
+824
+01:08:39,720 --> 01:08:42,600
+Now, there's a contradiction in capitalism there
+
+825
+01:08:42,600 --> 01:08:45,680
+because with the crisis of Fordism,
+
+826
+01:08:45,680 --> 01:08:48,920
+we see a decline in purchasing power.
+
+827
+01:08:48,920 --> 01:08:52,680
+The factor labor is typically less powerful.
+
+828
+01:08:52,680 --> 01:08:56,800
+So yeah, there's less money to spend.
+
+829
+01:08:56,800 --> 01:09:05,640
+people don't really see an increase in their real wages, as we've seen in the picture,
+
+830
+01:09:05,640 --> 01:09:09,440
+on New York, but this goes back to the 1970s for the new
+
+831
+01:09:09,440 --> 01:09:16,040
+pictures of the US that has been hardly any increase in real wages, despite huge productivity
+
+832
+01:09:16,040 --> 01:09:18,320
+growth.
+
+833
+01:09:18,320 --> 01:09:29,040
+So this conundrum in many cases has been resolved by reverting to credit, basically.
+
+834
+01:09:29,040 --> 01:09:35,560
+So instead of buying it from the salary that you have, there's an increased financialization
+
+835
+01:09:35,560 --> 01:09:41,840
+of the economy in the sense that a lot of households become dependent on credit, mostly
+
+836
+01:09:41,840 --> 01:09:49,920
+through banks to obtain housing, but increasingly also all other kinds of consumption goods,
+
+837
+01:09:49,920 --> 01:09:57,520
+goods, washing machines, cars, etc., etc. So this is kind of one way of solving that contradiction.
+
+838
+01:09:57,520 --> 01:10:06,160
+It's also trying to attract high income jobs because yeah, they have a lot of money to spend
+
+839
+01:10:07,120 --> 01:10:08,960
+and what form does it take?
+
+840
+01:10:08,960 --> 01:10:13,840
+Well, in many cases, it will have some impact on the social spatial structure.
+
+841
+01:10:13,840 --> 01:10:19,760
+It could be either state-led gentrification, it could be market-based gentrification.
+
+842
+01:10:19,760 --> 01:10:26,160
+In many cases, what you will see is that cities will try to become more attractive one way or
+
+843
+01:10:26,160 --> 01:10:33,120
+another by using heritage, architecture, and these are things that you will also talk with
+
+844
+01:10:33,120 --> 01:10:39,040
+with bus about cities are quite a fence formed into these kind of urban spectacles that are
+
+845
+01:10:39,040 --> 01:10:46,240
+collectively adding more value in the goods that are consumed there. So if you walk around
+
+846
+01:10:46,240 --> 01:10:50,800
+in spectacular neighborhood, you might be inclined to spend a bit more. Yes.
+
+847
+01:10:50,800 --> 01:10:56,800
+[ Inaudible ]
+
+848
+01:10:56,800 --> 01:10:57,800
+Yes.
+
+849
+01:10:57,800 --> 01:11:00,800
+[ Inaudible ]
+
+850
+01:11:00,800 --> 01:11:02,800
+[ Inaudible ]
+
+851
+01:11:02,800 --> 01:11:07,800
+So, we'll increase the work of the city like one in a photograph
+
+852
+01:11:07,800 --> 01:11:09,800
+and I'm not going to see it.
+
+853
+01:11:09,800 --> 01:11:10,800
+Oh, yeah.
+
+854
+01:11:10,800 --> 01:11:13,800
+[ Inaudible ]
+
+855
+01:11:13,800 --> 01:11:14,800
+Yeah.
+
+856
+01:11:14,800 --> 01:11:16,800
+[ Inaudible ]
+
+857
+01:11:16,800 --> 01:11:20,800
+And there was no really an attraction in the off-grid.
+
+858
+01:11:20,800 --> 01:11:21,800
+- Oh, sorry.
+
+859
+01:11:21,800 --> 01:11:27,800
+- Yeah, no, but it's kind of these examples of landmark buildings.
+
+860
+01:11:27,800 --> 01:11:31,800
+They're quite often they're used in large-scale reconversion.
+
+861
+01:11:31,800 --> 01:11:34,800
+Number one is, I think maybe you refer to Bill Bow.
+
+862
+01:11:34,800 --> 01:11:36,800
+All right, that's northern Spain.
+
+863
+01:11:36,800 --> 01:11:39,800
+So there was an open industrial area,
+
+864
+01:11:39,800 --> 01:11:42,800
+and I think it's in the 1990s already.
+
+865
+01:11:42,800 --> 01:11:45,800
+Spectacular urbanism in the sense that spectacular architecture
+
+866
+01:11:45,800 --> 01:11:47,440
+a tech-led architecture.
+
+867
+01:11:47,440 --> 01:11:49,680
+Usually there's some kind of un-global class
+
+868
+01:11:49,680 --> 01:11:52,520
+of what they call start attacks,
+
+869
+01:11:52,520 --> 01:11:55,440
+who are kind of at an old house and Zaha did her.
+
+870
+01:11:55,440 --> 01:11:57,180
+She passed away now.
+
+871
+01:11:57,180 --> 01:12:01,880
+Who connected these global circuits
+
+872
+01:12:01,880 --> 01:12:06,000
+and starts producing these kind of spectacular architectural
+
+873
+01:12:06,000 --> 01:12:08,880
+forms that then send the message to the world,
+
+874
+01:12:08,880 --> 01:12:12,640
+which can be then linked to city branding
+
+875
+01:12:12,640 --> 01:12:14,520
+or city marketing strategies, et cetera.
+
+876
+01:12:14,520 --> 01:12:17,840
+So the city in and of itself can be consumed,
+
+877
+01:12:17,840 --> 01:12:22,840
+but also plays a role in fueling consumption practices
+
+878
+01:12:22,840 --> 01:12:24,280
+within.
+
+879
+01:12:24,280 --> 01:12:27,480
+So that's kind of, if you're interested to hire,
+
+880
+01:12:27,480 --> 01:12:31,320
+David Hargner for that, he can advise you how to do that.
+
+881
+01:12:31,320 --> 01:12:35,080
+And then the third one is what he says is that
+
+882
+01:12:35,080 --> 01:12:38,720
+there's still an element of the previous system there,
+
+883
+01:12:38,720 --> 01:12:40,120
+but it's kind of transformed.
+
+884
+01:12:40,120 --> 01:12:41,640
+So, and you could say,
+
+885
+01:12:41,640 --> 01:12:46,640
+for this engineering system, the state had a role to kind of stimulate growth.
+
+886
+01:12:46,640 --> 01:12:49,200
+It was still capitalist growth, for sure,
+
+887
+01:12:49,200 --> 01:12:51,280
+across the territory somewhat evenly.
+
+888
+01:12:51,280 --> 01:12:56,320
+So, yeah, there's, you could say, general taxation,
+
+889
+01:12:56,320 --> 01:13:00,080
+there's a fund and it can be invested across the territory.
+
+890
+01:13:00,080 --> 01:13:04,720
+And lower level governments can still try to attract
+
+891
+01:13:04,720 --> 01:13:06,360
+some of that funding.
+
+892
+01:13:06,360 --> 01:13:08,520
+But it becomes increasingly,
+
+893
+01:13:08,520 --> 01:13:14,200
+You can say marketised as well, quite often you'll be competing with other cities and other
+
+894
+01:13:14,200 --> 01:13:20,840
+regions to start to attract these kinds of redistributive funds.
+
+895
+01:13:20,840 --> 01:13:25,760
+Just an overview of examples in the US, it's about where are military and defense
+
+896
+01:13:25,760 --> 01:13:27,760
+investments being made?
+
+897
+01:13:27,760 --> 01:13:30,160
+That's the story of Silicon Valley.
+
+898
+01:13:30,160 --> 01:13:37,520
+Europe is a lot of competition between regions for, for instance, regional development
+
+899
+01:13:37,520 --> 01:13:45,120
+funds which work on both competitiveness of regions, but also cohesion.
+
+900
+01:13:45,120 --> 01:13:50,360
+So it's not 100% evil or something like that.
+
+901
+01:13:50,360 --> 01:13:58,480
+But it's a mechanism to redistribute these kind of investments across a territory,
+
+902
+01:13:58,480 --> 01:14:01,760
+but increase, you can say, the capacity of these places from growth.
+
+903
+01:14:01,760 --> 01:14:07,760
+And at the same time also work towards providing amenities, child care, etc.
+
+904
+01:14:07,760 --> 01:14:11,760
+People that are joining me on Friday, I'll say a little bit more about that.
+
+905
+01:14:11,760 --> 01:14:15,360
+And basically to Brussels, the canals of for instance is one of these
+
+906
+01:14:15,360 --> 01:14:19,760
+so interactions for the European regional development.
+
+907
+01:14:19,760 --> 01:14:23,760
+When you look for people that know flounders a little bit,
+
+908
+01:14:23,760 --> 01:14:27,760
+you have stops finneving spray actin urban renewal project.
+
+909
+01:14:27,760 --> 01:14:39,760
+It's kind of led by foreigners and it's basically giving money to cities to reconvert
+
+910
+01:14:39,760 --> 01:14:41,760
+in a city neighbourhood.
+
+911
+01:14:41,760 --> 01:14:49,280
+And quite often you have to apply either you say, "Okay, I'm going to hand in a concept
+
+912
+01:14:49,280 --> 01:14:50,280
+node."
+
+913
+01:14:50,280 --> 01:14:55,280
+So you get some funding to develop your idea and then perhaps if you're a successful
+
+914
+01:14:55,280 --> 01:14:59,720
+later on you can attract funding by the Flamish government.
+
+915
+01:14:59,720 --> 01:15:05,820
+Thus far you see that it's mostly the central city's center speed and so the main
+
+916
+01:15:05,820 --> 01:15:11,240
+agglomerations that have the main capacity also to apply for these funds.
+
+917
+01:15:11,240 --> 01:15:16,960
+So it's not that all small cities can actually benefit from that.
+
+918
+01:15:16,960 --> 01:15:17,960
+There was a question.
+
+919
+01:15:17,960 --> 01:15:23,160
+I just wanted to say looking at that the way it orders like, does that play a great
+
+920
+01:15:23,160 --> 01:15:24,920
+in the district of Eastern Park.
+
+921
+01:15:24,920 --> 01:15:27,360
+Like looking at most of my church in part
+
+922
+01:15:27,360 --> 01:15:30,520
+of the government church that I have,
+
+923
+01:15:30,520 --> 01:15:33,520
+they're all running down the street.
+
+924
+01:15:33,520 --> 01:15:35,240
+So they're all running?
+
+925
+01:15:35,240 --> 01:15:37,360
+Oh, oh, yeah.
+
+926
+01:15:37,360 --> 01:15:38,200
+Yeah, that's it.
+
+927
+01:15:38,200 --> 01:15:40,840
+I mean, it is just like the blood can of like,
+
+928
+01:15:40,840 --> 01:15:44,920
+it's our past, but really it's like making choices
+
+929
+01:15:44,920 --> 01:15:46,600
+about whatever--
+
+930
+01:15:46,600 --> 01:15:48,400
+Yeah, our kind of thing.
+
+931
+01:15:48,400 --> 01:15:50,960
+Yeah, who is going to pay for this in the future?
+
+932
+01:15:50,960 --> 01:15:51,600
+Yeah.
+
+933
+01:15:51,600 --> 01:15:56,400
+So there's a question, okay, governments don't have money, how can you be talking about
+
+934
+01:15:56,400 --> 01:15:57,400
+surplus?
+
+935
+01:15:57,400 --> 01:16:01,640
+I think what I'm talking about is the surplus that has been created in the economy, which
+
+936
+01:16:01,640 --> 01:16:09,120
+is not necessarily the same as the government budget, which is under conditions of what
+
+937
+01:16:09,120 --> 01:16:13,600
+I would hope for a new austerity is kept small.
+
+938
+01:16:13,600 --> 01:16:19,520
+And then the only thing that you can do is, yeah, okay, we're going to become more efficient.
+
+939
+01:16:19,520 --> 01:16:26,640
+And a mantra that you hear often will basically have very small cuts across the board.
+
+940
+01:16:26,640 --> 01:16:34,960
+So I think it used to be, say, more in the previous thread, especially to post-17, something
+
+941
+01:16:34,960 --> 01:16:42,840
+like that, that the allocation problem was smaller because the fiscal base was larger,
+
+942
+01:16:42,840 --> 01:16:47,560
+there was more economic growth, which could be more easily taxed.
+
+943
+01:16:47,560 --> 01:16:54,680
+out, you can say, hurting corporations or people or workers. It's only at the point where
+
+944
+01:16:54,680 --> 01:17:03,080
+you can say, and yeah, there was a kind of stagnation of profits that it became very hard for
+
+945
+01:17:03,080 --> 01:17:13,080
+governments. Yeah, to how would I put this to maintain fiscal level without eating into the
+
+946
+01:17:13,080 --> 01:17:15,880
+the profits of the corporations that were still there.
+
+947
+01:17:15,880 --> 01:17:20,880
+So it's kind of a, yeah, it became a very awkward situation.
+
+948
+01:17:20,880 --> 01:17:25,320
+So they rather kind of cut back on expenditures,
+
+949
+01:17:25,320 --> 01:17:29,480
+running to increase, for instance, corporate tax rates.
+
+950
+01:17:29,480 --> 01:17:33,040
+So that could have been one way of dealing with that,
+
+951
+01:17:33,040 --> 01:17:38,320
+thinking about raising productivity levels in another way
+
+952
+01:17:38,320 --> 01:17:40,960
+by investing in technology, et cetera, et cetera.
+
+953
+01:17:40,960 --> 01:17:46,480
+that has happened to some extent, but it has merely answered across the board. I think the main,
+
+954
+01:17:46,480 --> 01:17:55,840
+I would say, trend was to keep the check on the wages of people. So yeah, this, when I talk about
+
+955
+01:17:55,840 --> 01:18:00,240
+surplus is kind of more what kind of wealth is created within the capitalist system,
+
+956
+01:18:00,240 --> 01:18:08,160
+rather than more in account, in terms of what the government runs a surplus or a benefit,
+
+957
+01:18:08,160 --> 01:18:12,520
+or a deficit, just to be clear there.
+
+958
+01:18:12,520 --> 01:18:17,960
+But yeah, despite the fact that even if there's
+
+959
+01:18:17,960 --> 01:18:20,640
+the smaller budgets available, also the allocation
+
+960
+01:18:20,640 --> 01:18:24,080
+mechanism has changed, it has become less
+
+961
+01:18:24,080 --> 01:18:30,040
+kind of an element of how would I put this managing
+
+962
+01:18:30,040 --> 01:18:31,880
+kind of growth across the territory,
+
+963
+01:18:31,880 --> 01:18:35,600
+it has become more of a competition really.
+
+964
+01:18:35,600 --> 01:18:38,160
+And you see, for instance, these urban renewal projects
+
+965
+01:18:38,160 --> 01:18:42,480
+and flowers, there's a competition to attract these funds
+
+966
+01:18:42,480 --> 01:18:44,440
+to your city.
+
+967
+01:18:44,440 --> 01:18:48,720
+And that's-- yeah, you see that it leads to some kind of--
+
+968
+01:18:48,720 --> 01:18:50,520
+when it takes a goal for an almond.
+
+969
+01:18:50,520 --> 01:18:53,400
+I mean, the planet's government is reflexive about that.
+
+970
+01:18:53,400 --> 01:18:55,640
+So it's not extreme that it's all to one city,
+
+971
+01:18:55,640 --> 01:18:58,880
+but still there's a tendency that some cities benefit a bit
+
+972
+01:18:58,880 --> 01:19:00,840
+more from that than others.
+
+973
+01:19:00,840 --> 01:19:05,360
+And that's always a tendency.
+
+974
+01:19:05,360 --> 01:19:08,920
+Yeah, I'm taking a lot of time.
+
+975
+01:19:08,920 --> 01:19:12,240
+Then the next kind of final one,
+
+976
+01:19:12,240 --> 01:19:17,440
+and then we kind of end the exchirs and go back to discussion
+
+977
+01:19:17,440 --> 01:19:19,880
+about command and control and role cities,
+
+978
+01:19:19,880 --> 01:19:23,640
+the kind of final strategy is to make sure
+
+979
+01:19:23,640 --> 01:19:25,760
+that in the international division of labor
+
+980
+01:19:25,760 --> 01:19:28,040
+in these global production networks and global financial
+
+981
+01:19:28,040 --> 01:19:32,280
+networks that you hold these functions of command and control.
+
+982
+01:19:32,280 --> 01:19:35,920
+And the state is a specific kind of entrepreneurialism.
+
+983
+01:19:35,920 --> 01:19:38,720
+Well, you're invest in physical connectivity,
+
+984
+01:19:38,720 --> 01:19:42,960
+digital connectivity nowadays.
+
+985
+01:19:42,960 --> 01:19:46,400
+Now you invest in, could say, supply side economics.
+
+986
+01:19:46,400 --> 01:19:48,240
+I've heard that a little bit.
+
+987
+01:19:48,240 --> 01:19:54,000
+So state of the art, districts, that's
+
+988
+01:19:54,000 --> 01:19:56,920
+there to attract international corporations
+
+989
+01:19:56,920 --> 01:19:59,760
+and see the federal and central business districts.
+
+990
+01:19:59,760 --> 01:20:04,280
+that what I mean with that, also invest in educating
+
+991
+01:20:04,280 --> 01:20:07,440
+the labor force, thinking about installing business
+
+992
+01:20:07,440 --> 01:20:11,760
+schools for instance in front of one of the leading financial
+
+993
+01:20:11,760 --> 01:20:18,760
+center in Germany, the university has its business school
+
+994
+01:20:18,760 --> 01:20:20,760
+financed by Deutsche Bank.
+
+995
+01:20:20,760 --> 01:20:25,480
+So there's lectures by people working at Deutsche Bank,
+
+996
+01:20:25,480 --> 01:20:30,800
+educating the new generation of critical social scientists.
+
+997
+01:20:30,800 --> 01:20:32,000
+Okay.
+
+998
+01:20:32,000 --> 01:20:38,000
+So, this kind of dynamic is particularly attaching itself to world cities and the kind of
+
+999
+01:20:38,000 --> 01:20:44,080
+idea is that if you attract these global functions, it will indeed set in motion some kind
+
+1000
+01:20:44,080 --> 01:20:46,200
+of a trickle down effect.
+
+1001
+01:20:46,200 --> 01:20:52,240
+It will inflate property prices because there will, as we have learned with bad prisoners,
+
+1002
+01:20:52,240 --> 01:20:56,760
+they become part of international portfolios, etc.
+
+1003
+01:20:56,760 --> 01:21:02,280
+So that's kind of the strategy that is set there.
+
+1004
+01:21:02,280 --> 01:21:07,120
+Okay, let's have a quick break, five minutes,
+
+1005
+01:21:07,120 --> 01:21:09,640
+and then we actually get to the polarization thesis,
+
+1006
+01:21:09,640 --> 01:21:12,200
+which is taking all the time today.
+
+1007
+01:21:12,200 --> 01:21:18,320
+Yeah, maybe if you want my last little bit.
+
+1008
+01:21:18,320 --> 01:21:19,320
+Yeah.
+
+1009
+01:21:19,320 --> 01:21:21,320
+(mumbling)
+
+1010
+01:21:21,320 --> 01:21:33,320
+Okay.
+
+1011
+01:21:33,320 --> 01:21:34,320
+Yeah.
+
+1012
+01:21:34,320 --> 01:21:36,320
+Um,
+
+1013
+01:21:36,320 --> 01:21:37,320
+um,
+
+1014
+01:21:37,320 --> 01:21:38,320
+Okay.
+
+1015
+01:21:38,320 --> 01:21:40,320
+Do you just think you can send me an email?
+
+1016
+01:21:40,320 --> 01:21:42,320
+Or maybe what I can do is just,
+
+1017
+01:21:42,320 --> 01:21:44,320
+but I want you to avoid that kind of,
+
+1018
+01:21:44,320 --> 01:21:45,320
+uh,
+
+1019
+01:21:45,320 --> 01:21:47,320
+I am a fantastic person.
+
+1020
+01:21:47,320 --> 01:21:49,320
+I am a fantastic person.
+
+1021
+01:21:49,320 --> 01:21:52,320
+I can just shout and say who is Bueno.
+
+1022
+01:21:52,320 --> 01:21:54,320
+I know no.
+
+1023
+01:21:54,320 --> 01:21:57,320
+I can say who is Bueno.
+
+1024
+01:21:57,320 --> 01:21:58,320
+I know no.
+
+1025
+01:21:58,320 --> 01:22:00,320
+I can say who is Bueno.
+
+1026
+01:22:00,320 --> 01:22:09,320
+I think I have a Saint-Bromus who is the only person I think that we can have anyway.
+
+1027
+01:22:09,320 --> 01:22:16,320
+Yeah, yeah, yeah, very normal, you can see it on the common box.
+
+1028
+01:22:16,320 --> 01:22:18,320
+Yeah, yeah, yeah.
+
+1029
+01:22:18,320 --> 01:22:19,320
+I have a microphone.
+
+1030
+01:22:19,320 --> 01:22:24,320
+Okay, that's probably because I'm mixing with people in the other group.
+
+1031
+01:22:24,320 --> 01:22:27,320
+I'll add even a dress.
+
+1032
+01:22:27,320 --> 01:22:31,320
+Okay, very large.
+
+1033
+01:22:31,320 --> 01:22:32,320
+Very much.
+
+1034
+01:22:32,320 --> 01:22:33,320
+I'm happy to be here.
+
+1035
+01:22:33,320 --> 01:22:34,320
+I'm happy to be here.
+
+1036
+01:22:34,320 --> 01:22:35,320
+No, I'm happy to be here.
+
+1037
+01:22:35,320 --> 01:22:36,320
+I'm happy to be here.
+
+1038
+01:22:36,320 --> 01:22:37,320
+I'm happy to be here.
+
+1039
+01:22:37,320 --> 01:22:38,320
+I'm happy to be here.
+
+1040
+01:22:38,320 --> 01:22:39,320
+I'm happy to be here.
+
+1041
+01:22:39,320 --> 01:22:40,320
+I'm happy to be here.
+
+1042
+01:22:40,320 --> 01:22:41,320
+I'm happy to be here.
+
+1043
+01:22:41,320 --> 01:22:42,320
+I'm happy to be here.
+
+1044
+01:22:42,320 --> 01:22:43,320
+I'm happy to be here.
+
+1045
+01:22:43,320 --> 01:22:44,320
+I'm happy to be here.
+
+1046
+01:22:44,320 --> 01:22:45,320
+I'm happy to be here.
+
+1047
+01:22:45,320 --> 01:22:46,320
+I'm happy to be here.
+
+1048
+01:22:46,320 --> 01:22:47,320
+I don't know who that is.
+
+1049
+01:22:47,320 --> 01:22:50,320
+But I'll just add people in the glasses.
+
+1050
+01:22:50,320 --> 01:22:51,320
+Okay.
+
+1051
+01:22:51,320 --> 01:22:52,320
+Okay.
+
+1052
+01:22:52,320 --> 01:22:53,320
+Okay.
+
+1053
+01:22:53,320 --> 01:22:54,320
+And then you can just contact one another.
+
+1054
+01:22:54,320 --> 01:22:55,320
+Okay.
+
+1055
+01:22:55,320 --> 01:22:56,320
+Thank you.
+
+1056
+01:22:56,320 --> 01:22:57,320
+All right.
+
+1057
+01:22:57,320 --> 01:22:58,320
+Get some practice back for that.
+
+1058
+01:22:58,320 --> 01:23:02,320
+I think that we are going to be able to make a video of the video.
+
+1059
+01:23:02,320 --> 01:23:05,320
+I think that we are going to be able to make a video of the video.
+
+1060
+01:23:05,320 --> 01:23:10,320
+I think that we are going to make a video of the video of the video.
+
+1061
+01:23:10,320 --> 01:23:13,320
+I think that we are going to make a video of the video of the video.
+
+1062
+01:23:13,320 --> 01:23:18,320
+I think that we are going to make a video of the video of the video.
+
+1063
+01:23:18,320 --> 01:23:22,320
+I think that we are going to make a video of the video of the video.
+
+1064
+01:23:22,320 --> 01:23:26,240
+(speaking in foreign language)
+
+1065
+01:23:26,240 --> 01:23:30,160
+(speaking in foreign language)
+
+1066
+01:23:30,160 --> 01:23:33,660
+(speaking in foreign language)
+
+1067
+01:23:33,660 --> 01:23:40,660
+I am going to have a lot of people who are here to be here.
+
+1068
+01:23:40,660 --> 01:23:48,660
+I am going to have a lot of people who are here to be here.
+
+1069
+01:23:48,660 --> 01:23:51,660
+I am going to have a lot of people who are here to be here.
+
+1070
+01:23:51,660 --> 01:23:55,660
+I am going to have a lot of people who are here to be here.
+
+1071
+01:23:55,660 --> 01:23:59,660
+I am going to have a lot of people who are here to be here.
+
+1072
+01:23:59,660 --> 01:24:02,660
+I am going to have a lot of people who are here.
+
+1073
+01:24:02,660 --> 01:24:08,660
+I am going to have a lot of people who are here to be here.
+
+1074
+01:24:08,660 --> 01:24:16,660
+I am going to have a lot of people who are here to be here.
+
+1075
+01:24:16,660 --> 01:24:22,660
+I am going to have some of the people who are here to be here for the new year.
+
+1076
+01:24:22,660 --> 01:24:26,580
+(speaking in foreign language)
+
+1077
+01:24:26,580 --> 01:24:30,500
+(speaking in foreign language)
+
+1078
+01:24:30,500 --> 01:24:32,500
+I'm not going to do anything.
+
+1079
+01:24:32,500 --> 01:24:34,500
+I'm not going to do anything.
+
+1080
+01:24:34,500 --> 01:24:36,500
+I'm not going to do anything.
+
+1081
+01:24:36,500 --> 01:24:38,500
+I'm not going to do anything.
+
+1082
+01:24:38,500 --> 01:24:40,500
+I'm not going to do anything.
+
+1083
+01:24:40,500 --> 01:24:42,500
+I'm not going to do anything.
+
+1084
+01:24:42,500 --> 01:24:44,500
+I'm not going to do anything.
+
+1085
+01:24:44,500 --> 01:24:46,500
+I'm not going to do anything.
+
+1086
+01:24:46,500 --> 01:24:48,500
+I'm not going to do anything.
+
+1087
+01:24:48,500 --> 01:24:50,500
+I'm not going to do anything.
+
+1088
+01:24:50,500 --> 01:24:52,500
+I'm not going to do anything.
+
+1089
+01:24:52,500 --> 01:24:54,500
+I'm not going to do anything.
+
+1090
+01:24:54,500 --> 01:24:56,500
+I'm not going to do anything.
+
+1091
+01:24:56,500 --> 01:24:58,500
+I'm not going to do anything.
+
+1092
+01:24:58,500 --> 01:25:05,500
+[Music]
+
+1093
+01:25:05,500 --> 01:25:08,260
+(people talking)
+
+1094
+01:25:08,260 --> 01:25:15,260
+[ Music ]
+
+1095
+01:25:15,260 --> 01:25:44,260
+[ Music ]
+
+1096
+01:25:44,260 --> 01:25:54,260
+[Music]
+
+1097
+01:25:54,260 --> 01:25:57,260
+(audience laughing)
+
+1098
+01:25:57,260 --> 01:26:26,260
+[ Music ]
+
+1099
+01:26:26,260 --> 01:26:54,260
+[ Background Sounds ]
+
+1100
+01:26:54,260 --> 01:27:23,260
+[ Background Sounds ]
+
+1101
+01:27:23,260 --> 01:27:26,420
+(audience chattering)
+
+1102
+01:27:26,420 --> 01:27:29,420
+(audience chattering)
+
+1103
+01:27:29,420 --> 01:27:32,420
+(audience chattering)
+
+1104
+01:27:32,420 --> 01:27:35,420
+(audience chattering)
+
+1105
+01:27:35,420 --> 01:27:38,580
+(audience chattering)
+
+1106
+01:27:38,580 --> 01:27:41,580
+(audience chattering)
+
+1107
+01:27:41,580 --> 01:28:10,580
+[ Inaudible ]
+
+1108
+01:28:10,580 --> 01:28:36,580
+[ Inaudible ]
+
+1109
+01:28:36,580 --> 01:28:38,580
+Okay, let's re-conheat.
+
+1110
+01:28:38,580 --> 01:28:41,580
+(muffled speaking)
+
+1111
+01:28:41,580 --> 01:28:49,540
+Last guest started again.
+
+1112
+01:28:49,540 --> 01:28:52,120
+(muffled speaking)
+
+1113
+01:28:52,120 --> 01:29:07,160
+Okay, so we have this brief ex-curse learning about different
+
+1114
+01:29:07,160 --> 01:29:13,960
+entrepreneurial strategies, and I think what I wanted to show is that there's a wide
+
+1115
+01:29:13,960 --> 01:29:19,680
+restructuring of the economy, and we can place growing global city formation within that
+
+1116
+01:29:19,680 --> 01:29:22,520
+as one particular strategy, okay?
+
+1117
+01:29:22,520 --> 01:29:27,920
+Or one particular process that is explicitly relevant for world cities.
+
+1118
+01:29:27,920 --> 01:29:35,000
+Going back a little bit more to the discussion about how does this connect with polarization?
+
+1119
+01:29:35,000 --> 01:29:41,000
+Well, as we found there's this, and it's mostly treatment involved, treatment and
+
+1120
+01:29:41,000 --> 01:29:42,320
+testing.
+
+1121
+01:29:42,320 --> 01:29:49,000
+The starting point was this observation of a change in the economic base.
+
+1122
+01:29:49,000 --> 01:29:54,600
+Generally, the decline in well-paid manufacturing jobs, which is some kind of an exodus
+
+1123
+01:29:54,600 --> 01:30:02,600
+because of globalization of production, and at the same time a restructuring of the economy
+
+1124
+01:30:02,600 --> 01:30:10,640
+what services, as we have seen 80% of cities, is service-based, but it's both at the
+
+1125
+01:30:10,640 --> 01:30:19,120
+high end and at the low end, both formal services, service markers and informal service.
+
+1126
+01:30:19,120 --> 01:30:24,360
+So what kind of polarization these says? Well, there's something particular about these
+
+1127
+01:30:24,360 --> 01:30:31,360
+command and control functions that fuels this polarization process.
+
+1128
+01:30:31,360 --> 01:30:40,360
+Please take a seat.
+
+1129
+01:30:40,360 --> 01:30:48,360
+Okay.
+
+1130
+01:30:48,360 --> 01:30:53,360
+Please do a leaf roll.
+
+1131
+01:30:53,360 --> 01:31:00,080
+So there's something particular about these APS and headquarters economies that will set
+
+1132
+01:31:00,080 --> 01:31:02,600
+in motion polarization, okay?
+
+1133
+01:31:02,600 --> 01:31:09,680
+So at one point this, you can say competition within the APM and the APS complex itself,
+
+1134
+01:31:09,680 --> 01:31:16,560
+which will lead to an idea of outsourcing, getting rid of some kind of long-core activities.
+
+1135
+01:31:16,560 --> 01:31:25,240
+quite often leads to low-key kind of activities that are all and a lot of context also
+
+1136
+01:31:25,240 --> 01:31:32,240
+linked to some form of informal economy and a lot of migrant labor that takes care of
+
+1137
+01:31:32,240 --> 01:31:40,840
+routine service jobs. Think about community functions, think about, well, the Xerox machine
+
+1138
+01:31:40,840 --> 01:31:43,960
+and those kind of things, clerical work, etc.
+
+1139
+01:31:43,960 --> 01:31:51,300
+Next to that, what you also see is that with these high end functions, or these command
+
+1140
+01:31:51,300 --> 01:31:59,440
+and control functions, it comes with the influx of well-selling people that have a lot
+
+1141
+01:31:59,440 --> 01:32:06,800
+of the spending power, that have their own desire for forms of housing, quite often this
+
+1142
+01:32:06,800 --> 01:32:14,240
+sets in motion process of gentrification, so the displacement of initial populations.
+
+1143
+01:32:14,240 --> 01:32:19,800
+And it's also at the level of consumption and growth of leisure activities that this needs
+
+1144
+01:32:19,800 --> 01:32:20,800
+to transformation.
+
+1145
+01:32:20,800 --> 01:32:27,080
+Okay, so if you host these activities, basically the managers, the CEOs, people in business
+
+1146
+01:32:27,080 --> 01:32:31,760
+service, just advanced producer services, well, they have the whole ecology of control
+
+1147
+01:32:31,760 --> 01:32:41,120
+amenities and hortic arts etc. So this also creates some kind of demand for low-income jobs
+
+1148
+01:32:41,120 --> 01:32:49,280
+to cater quite literally to these elites. There is something particular about world cities
+
+1149
+01:32:49,280 --> 01:32:56,560
+which makes that there will be an even more augmented process of polarization compared to
+
+1150
+01:32:56,560 --> 01:33:01,560
+normal cities or wider territories.
+
+1151
+01:33:01,560 --> 01:33:06,520
+And the end result, the idea is that you get with,
+
+1152
+01:33:06,520 --> 01:33:10,640
+you get a different structure or income distribution
+
+1153
+01:33:10,640 --> 01:33:13,760
+in the sense that there's a lot of growth of jobs
+
+1154
+01:33:13,760 --> 01:33:18,200
+at the very top, there's a growth of jobs at the bottom
+
+1155
+01:33:18,200 --> 01:33:20,080
+of income distribution.
+
+1156
+01:33:20,080 --> 01:33:23,960
+And in general, because of the decline in one page
+
+1157
+01:33:23,960 --> 01:33:27,280
+all remunerated stable manufacturing jobs,
+
+1158
+01:33:27,280 --> 01:33:30,320
+there's a kind of a decrease of middle income groups
+
+1159
+01:33:30,320 --> 01:33:32,680
+and you end up with an hourglass, okay?
+
+1160
+01:33:32,680 --> 01:33:35,200
+So something like that, okay?
+
+1161
+01:33:35,200 --> 01:33:40,360
+That one, this kind of figure shows how that works.
+
+1162
+01:33:40,360 --> 01:33:44,440
+It's a bit hard to decide for here,
+
+1163
+01:33:44,440 --> 01:33:46,360
+but there's the growth of M,
+
+1164
+01:33:46,360 --> 01:33:49,840
+which is a part of managerial class.
+
+1165
+01:33:49,840 --> 01:33:53,200
+So CEOs of international corporations
+
+1166
+01:33:53,200 --> 01:33:57,760
+Link to that is P is a kind of the producer services
+
+1167
+01:33:57,760 --> 01:33:59,480
+or the long business services that we're
+
+1168
+01:33:59,480 --> 01:34:00,960
+going to be talking about.
+
+1169
+01:34:00,960 --> 01:34:04,160
+Then below that, C is all kinds of terrible tasks.
+
+1170
+01:34:04,160 --> 01:34:06,440
+OK.
+
+1171
+01:34:06,440 --> 01:34:10,600
+Minial tasks and kind of taking care of administration,
+
+1172
+01:34:10,600 --> 01:34:11,960
+such as et cetera.
+
+1173
+01:34:11,960 --> 01:34:14,640
+In the current day and age, these activities
+
+1174
+01:34:14,640 --> 01:34:17,400
+are also kind of being localized and off-shore,
+
+1175
+01:34:17,400 --> 01:34:20,920
+and of themselves, the 1980s, that their back office
+
+1176
+01:34:20,920 --> 01:34:24,920
+works still to place in global cities.
+
+1177
+01:34:24,920 --> 01:34:28,360
+So at the same time, you say, a growth,
+
+1178
+01:34:28,360 --> 01:34:32,440
+you say, in informal markets or informal parts of the economy.
+
+1179
+01:34:32,440 --> 01:34:39,680
+And these are often also based on, on micro play.
+
+1180
+01:34:39,680 --> 01:34:46,760
+For instance, what I have here, I mean, all these kind of amenities
+
+1181
+01:34:46,760 --> 01:34:50,080
+that we're talking about, Hordika,
+
+1182
+01:34:50,080 --> 01:34:53,280
+leisure activities, kind of support by that.
+
+1183
+01:34:53,280 --> 01:34:57,160
+There's informal production facilities
+
+1184
+01:34:57,160 --> 01:35:00,080
+that are re-emerging in cities.
+
+1185
+01:35:00,080 --> 01:35:03,560
+And then, yeah, the assumption moves and other kinds of things
+
+1186
+01:35:03,560 --> 01:35:07,880
+that are also emerging there in connection
+
+1187
+01:35:07,880 --> 01:35:12,320
+to the rise of this APS complex and global corporation.
+
+1188
+01:35:12,320 --> 01:35:15,520
+So in general, what you need to remember
+
+1189
+01:35:15,520 --> 01:35:22,160
+is you have an exodus of these high wage manufacturing jobs, that's what kind of is the main
+
+1190
+01:35:22,160 --> 01:35:32,000
+infrastructure and a kind of influx of workers often from a global scale of foreign migrant workers
+
+1191
+01:35:32,000 --> 01:35:39,840
+that quite often end up in informal labor markets. No that I still have this one, you don't mind how
+
+1192
+01:35:42,000 --> 01:35:46,640
+So a general structure of this labor market and importantly and what sets
+
+1193
+01:35:46,640 --> 01:35:53,280
+more than global cities apart from you could say. Rest of the territory or small cities
+
+1194
+01:35:53,280 --> 01:36:00,480
+is that this labor market becomes globalized. And it speaks, you say, both sides of this
+
+1195
+01:36:00,480 --> 01:36:09,680
+hourglass that works at the top level, we have the high-paid migrants and it works also at the lower
+
+1196
+01:36:09,680 --> 01:36:11,680
+of income distribution.
+
+1197
+01:36:11,680 --> 01:36:14,680
+And quite interestingly,
+
+1198
+01:36:14,680 --> 01:36:17,680
+sometimes quite cynically,
+
+1199
+01:36:17,680 --> 01:36:20,680
+there's also different terminologies for that.
+
+1200
+01:36:20,680 --> 01:36:22,680
+So people at the high end,
+
+1201
+01:36:22,680 --> 01:36:24,680
+it doesn't really matter
+
+1202
+01:36:24,680 --> 01:36:26,680
+or they're kind of not seen as immigrants,
+
+1203
+01:36:26,680 --> 01:36:28,680
+but these are expats.
+
+1204
+01:36:28,680 --> 01:36:30,680
+Quite often, for instance, in Belgium,
+
+1205
+01:36:30,680 --> 01:36:33,680
+they enjoy quite interesting text regimes.
+
+1206
+01:36:33,680 --> 01:36:35,680
+This is the day this question has to,
+
+1207
+01:36:35,680 --> 01:36:38,680
+whether it would be a nice idea to actually text expats
+
+1208
+01:36:38,680 --> 01:36:46,880
+that's in Belgium. So these are kind of seen as people that bring in a lot of
+
+1209
+01:36:46,880 --> 01:36:53,920
+expertise, a lot of value that make a city very competitive in this global war
+
+1210
+01:36:53,920 --> 01:37:01,280
+for talent whereas people that are for us in the lower paid jobs by seen as
+
+1211
+01:37:01,280 --> 01:37:05,720
+immigrants, right, or foreigners, etc.
+
+1212
+01:37:05,720 --> 01:37:12,000
+Okay, so there's a lot of terms that are being used there that are take part of very
+
+1213
+01:37:12,000 --> 01:37:18,140
+performative and normalizing the situation.
+
+1214
+01:37:18,140 --> 01:37:24,880
+So the way we talk about these divisions matters, I think.
+
+1215
+01:37:24,880 --> 01:37:37,960
+So what we see is also a growth of low-skilled or these skills, migrant workers.
+
+1216
+01:37:37,960 --> 01:37:45,560
+So either people that have middle-ableification in the country of origin and come to a world
+
+1217
+01:37:45,560 --> 01:37:50,480
+of global city or people that have qualifications.
+
+1218
+01:37:50,480 --> 01:37:57,280
+for some reason because they cross the border have lost proof of that. So a lot of
+
+1219
+01:37:57,280 --> 01:38:03,680
+contacts, even if you're educated in one or one in the other direction, you have to
+
+1220
+01:38:03,680 --> 01:38:09,680
+kind of be accredited for that. So you have to, your diploma needs to be certified to be
+
+1221
+01:38:09,680 --> 01:38:15,680
+able to access the labor market in one way or another. In and of itself, it's quite an
+
+1222
+01:38:15,680 --> 01:38:22,960
+interesting process, but it means that a lot of people, especially in informal migration,
+
+1223
+01:38:22,960 --> 01:38:28,480
+not being in the position to actually do that. So they may have all kinds of skills, but they
+
+1224
+01:38:28,480 --> 01:38:34,720
+can't formally use them. So this is kind of the first of these scaling that is going on. Now,
+
+1225
+01:38:34,720 --> 01:38:40,480
+what it creates, especially in the place where you have a wall of immigration, that's typically
+
+1226
+01:38:40,480 --> 01:38:47,600
+world in global cities. It just creates a very large pool of people that have a very poor,
+
+1227
+01:38:47,600 --> 01:38:56,000
+you can say that are not really empowered, that don't have a bargain power to negotiate about their
+
+1228
+01:38:56,000 --> 01:39:03,200
+wages. And if they don't do it well somebody else will. And this kind of the notion of a reserve
+
+1229
+01:39:03,200 --> 01:39:11,280
+army of labor, a lot of people that are in flux that will basically take any job.
+
+1230
+01:39:11,280 --> 01:39:17,160
+And you see in that case, you see the emergence of what people call 3D jobs, dirty demanding
+
+1231
+01:39:17,160 --> 01:39:20,480
+and dangerous or dirty dangers and difficult.
+
+1232
+01:39:20,480 --> 01:39:29,600
+A lot of migrant labor in Roman drug cities ends up in these kind of segments.
+
+1233
+01:39:29,600 --> 01:39:37,360
+And these are typically jobs that people, that kind of the natives, if you will, are willing
+
+1234
+01:39:37,360 --> 01:39:39,360
+to do.
+
+1235
+01:39:39,360 --> 01:39:47,400
+And I mean, Chris, if you look at the whole debate about the fallout of Brexit, it had
+
+1236
+01:39:47,400 --> 01:39:55,160
+been driven tremendously while in anti-immigrant, they are stealing our jobs sentiment.
+
+1237
+01:39:55,160 --> 01:40:03,080
+now that the economy is kind of crippled by not having access to fuel because there's no truck
+
+1238
+01:40:03,080 --> 01:40:09,640
+drivers to actually or migrant truck drivers to actually bring the fuel to to pump stations,
+
+1239
+01:40:09,640 --> 01:40:17,080
+gas stations, where you can refill your car. So it's kind of history with the vengeance there
+
+1240
+01:40:17,080 --> 01:40:24,680
+and it kind of shows the crucial dependence of our economy in a lot of cities on that migrant
+
+1241
+01:40:24,680 --> 01:40:31,680
+and a lot of essential services that is absolutely undervalued in societal terms.
+
+1242
+01:40:31,680 --> 01:40:42,680
+Yeah, and then what is actually quite interesting to see in it's also work by Farskya Susson
+
+1243
+01:40:42,680 --> 01:40:47,680
+when she was still married as Susson Group.
+
+1244
+01:40:47,680 --> 01:40:55,680
+Yeah, a lot of these activities are informal or connected to floating populations, people that are
+
+1245
+01:40:55,680 --> 01:41:05,680
+residing temporarily in cities that may be trans migrants move on when we're not doing.
+
+1246
+01:41:05,680 --> 01:41:11,680
+And yeah, they form the context of, you could say, potential exploitation.
+
+1247
+01:41:11,680 --> 01:41:16,680
+It's not necessarily happening, but it's kind of a context where people that want to take advantage
+
+1248
+01:41:16,680 --> 01:41:20,600
+advantage can more easily do that.
+
+1249
+01:41:20,600 --> 01:41:26,160
+It can be sometimes for very good reasons,
+
+1250
+01:41:26,160 --> 01:41:29,480
+say, OK, I want to help somebody.
+
+1251
+01:41:29,480 --> 01:41:34,400
+And I'll let you lose my house or take care of the children.
+
+1252
+01:41:34,400 --> 01:41:39,240
+And I'll pay you the minimum wage or something like that.
+
+1253
+01:41:39,240 --> 01:41:43,640
+That could be the position of a middle class family
+
+1254
+01:41:43,640 --> 01:41:45,200
+in a global city,
+
+1255
+01:41:45,200 --> 01:41:46,200
+but at the same time,
+
+1256
+01:41:46,200 --> 01:41:48,880
+there's this structural discrimination
+
+1257
+01:41:48,880 --> 01:41:51,440
+of these groups in society.
+
+1258
+01:41:51,440 --> 01:41:54,320
+They may be well suited to take other jobs in society,
+
+1259
+01:41:54,320 --> 01:41:57,360
+but yeah, they're kind of forced into them.
+
+1260
+01:41:57,360 --> 01:42:01,120
+So it's kind of in combination with a large group of people
+
+1261
+01:42:01,120 --> 01:42:02,600
+that are looking for jobs,
+
+1262
+01:42:02,600 --> 01:42:08,920
+the informal character allows a lot of informal potential forms
+
+1263
+01:42:08,920 --> 01:42:11,560
+of exploitation.
+
+1264
+01:42:11,560 --> 01:42:15,880
+And this is what Khos, the parapherilization at the core.
+
+1265
+01:42:15,880 --> 01:42:19,380
+So what she says is that, typically we think about exploitation
+
+1266
+01:42:19,380 --> 01:42:23,840
+as a relation between the global north or the global south.
+
+1267
+01:42:23,840 --> 01:42:25,640
+Actually it's taking place.
+
+1268
+01:42:25,640 --> 01:42:27,520
+It re-enters the global north.
+
+1269
+01:42:27,520 --> 01:42:29,960
+So in rural and global cities, you can also
+
+1270
+01:42:29,960 --> 01:42:35,560
+find this, these exploitative relations
+
+1271
+01:42:35,560 --> 01:42:41,440
+because the global south is actually living in world
+
+1272
+01:42:41,440 --> 01:42:46,880
+and global cities that have raised the relation remains exploited.
+
+1273
+01:42:46,880 --> 01:42:49,400
+Okay, so the racial realization of the core.
+
+1274
+01:42:49,400 --> 01:42:51,600
+Just to figure to illustrate this,
+
+1275
+01:42:51,600 --> 01:42:55,000
+is to refer a little bit to research on this.
+
+1276
+01:42:55,000 --> 01:43:00,000
+So as a whole strand of research looking into urban belief networks,
+
+1277
+01:43:00,000 --> 01:43:05,640
+some kind of interesting work with him Carol looking
+
+1278
+01:43:05,640 --> 01:43:08,000
+at interlocking direct rates.
+
+1279
+01:43:08,000 --> 01:43:20,240
+it's one way of measuring the connections between cities by looking at the overlaps between
+
+1280
+01:43:20,240 --> 01:43:27,520
+the board of directors of board of directors of board of directors. So one member of the board
+
+1281
+01:43:27,520 --> 01:43:35,600
+sitting on different boards. So for instance, for this bunk Belgium and B&D buddy buff
+
+1282
+01:43:36,240 --> 01:43:41,440
+Paris or something like that. And we see actually in this picture there's quite a strong
+
+1283
+01:43:41,440 --> 01:43:49,120
+connection between Brussels and Paris, but it shows that as we live in a kind of global economy,
+
+1284
+01:43:49,120 --> 01:43:56,960
+the corporate world has globalized. There's also the social structure there behind that of a
+
+1285
+01:43:56,960 --> 01:44:02,640
+traveling global elite with a lot of power decision-making power that is connecting
+
+1286
+01:44:02,640 --> 01:44:08,560
+and this kind of place. So if you're a board of directors of, and the board of directors,
+
+1287
+01:44:08,560 --> 01:44:18,320
+ten or 15 corporations, well you will be, you say traveling around in first class between these places
+
+1288
+01:44:18,320 --> 01:44:28,000
+and go from Citadel to Citadel. Okay. I also did a little bit of research into how this looks
+
+1289
+01:44:28,000 --> 01:44:32,640
+and Islamic markets and I found actually quite similar things. The geographies look different,
+
+1290
+01:44:32,640 --> 01:44:40,880
+but what I hope that is how governance structures work is. Islamic banks,
+
+1291
+01:44:40,880 --> 01:44:45,040
+and there you find that next to the typical board of directors,
+
+1292
+01:44:45,040 --> 01:44:52,720
+they also have a Sharia board and these boards basically review and what extent the activities of banks
+
+1293
+01:44:52,720 --> 01:44:59,680
+are in line with the shayya. So are they hollow or are they not a
+
+1294
+01:44:59,680 --> 01:45:00,320
+participant?
+
+1295
+01:45:00,320 --> 01:45:09,760
+It's hollow. And yeah, it's very similar to what I found in the previous figure in the sense that
+
+1296
+01:45:09,760 --> 01:45:16,240
+it's also very concentrated social geography. So it's very concentrated in a very limited set of
+
+1297
+01:45:17,200 --> 01:45:25,360
+scholars, some of them sit on the board, 50 different corporations, which creates
+
+1298
+01:45:25,360 --> 01:45:29,760
+all kinds of interesting things as to to what extent is this so credible that they
+
+1299
+01:45:29,760 --> 01:45:35,360
+will review the share with the compliant character or other things going on.
+
+1300
+01:45:35,360 --> 01:45:44,800
+You see there's a connection with New York. Well at some point, go in sex also was planning to
+
+1301
+01:45:44,800 --> 01:45:52,160
+to go into Islamic markets and there was a whole controversy as to what extends their financial
+
+1302
+01:45:52,160 --> 01:46:00,720
+product was actually reviewed by Sharia scholars or whether this was some kind of a religious
+
+1303
+01:46:00,720 --> 01:46:10,880
+effort, etc. There was a huge lashback by Sharia scholars, by this entire community and
+
+1304
+01:46:10,880 --> 01:46:12,320
+in the end of the materialized.
+
+1305
+01:46:12,320 --> 01:46:15,320
+But just to show you that there's different ways
+
+1306
+01:46:15,320 --> 01:46:17,920
+of approaching these networks,
+
+1307
+01:46:17,920 --> 01:46:20,800
+but it's the existence of those kind of structures
+
+1308
+01:46:20,800 --> 01:46:24,080
+that allows us to understand what kind of activity
+
+1309
+01:46:24,080 --> 01:46:27,680
+state plays at that level and how you can effect
+
+1310
+01:46:27,680 --> 01:46:29,520
+say income structure,
+
+1311
+01:46:29,520 --> 01:46:32,000
+because they're extremely well-remunerated
+
+1312
+01:46:32,000 --> 01:46:35,840
+and will reside in different kinds of places.
+
+1313
+01:46:35,840 --> 01:46:38,280
+Now at the other end,
+
+1314
+01:46:38,280 --> 01:46:59,280
+what I was talking about is these new forms of industrial exploitation in these sweatshops. So yeah, what are these kind of sweatshops? You may have heard of that kind of the renaissance of very old forms of exploitation or industrial organization.
+
+1315
+01:46:59,280 --> 01:47:01,640
+You may have heard about in Middle East,
+
+1316
+01:47:01,640 --> 01:47:07,840
+you have the putting out system where people in the household and in the countryside
+
+1317
+01:47:07,840 --> 01:47:17,760
+were actually producing at a peace-by-peace salary textiles for capitalists and cities.
+
+1318
+01:47:17,760 --> 01:47:22,320
+It's kind of reinvented in the 20th and 21st century.
+
+1319
+01:47:22,320 --> 01:47:26,880
+So, flat shops are these small units, usually underground,
+
+1320
+01:47:26,880 --> 01:47:31,880
+or in secluded spaces, often in a text that industry,
+
+1321
+01:47:31,880 --> 01:47:36,400
+that works through all these kind of subcontracting deals.
+
+1322
+01:47:36,400 --> 01:47:40,320
+So you never quite know who is really hiring people.
+
+1323
+01:47:40,320 --> 01:47:44,520
+So there's different kind of layers of governance there.
+
+1324
+01:47:44,520 --> 01:47:48,320
+And a lot of people, yeah, are indeed paid by the piece
+
+1325
+01:47:48,320 --> 01:47:52,280
+or have daily or weekly contracts,
+
+1326
+01:47:52,280 --> 01:47:56,320
+which is extremely precarious as you may understand.
+
+1327
+01:47:56,320 --> 01:48:01,320
+And yeah, we see that it's kind of the emerge.
+
+1328
+01:48:01,320 --> 01:48:03,920
+And it was, say, the 19th century.
+
+1329
+01:48:03,920 --> 01:48:09,320
+It took place in a lot of industrializing cities.
+
+1330
+01:48:09,320 --> 01:48:13,800
+It went away and, for instance, in the US,
+
+1331
+01:48:13,800 --> 01:48:18,480
+you see that because there was all kind of trade unions,
+
+1332
+01:48:18,480 --> 01:48:23,440
+initiatives, regulations were adapted.
+
+1333
+01:48:24,400 --> 01:48:32,160
+for instance in relation to the new deal just before the second world war, which made
+
+1334
+01:48:32,160 --> 01:48:38,600
+this practically impossible. So it was in a context where you had far less migrant labor
+
+1335
+01:48:38,600 --> 01:48:45,520
+where actually possible to regulate those markets. But as kind of return to the 1990s, this
+
+1336
+01:48:45,520 --> 01:48:53,160
+kind of all of a sudden is back. These are very old data but in the 1990s, calculated I think
+
+1337
+01:48:53,160 --> 01:48:58,840
+between 4500 and 4500, 7000 textile companies
+
+1338
+01:48:58,840 --> 01:49:02,040
+there and then in New York, actually, sweatshows.
+
+1339
+01:49:02,040 --> 01:49:04,960
+So, you think about world's deformation,
+
+1340
+01:49:04,960 --> 01:49:10,800
+it's not just these glitz and glam offices with bankers.
+
+1341
+01:49:10,800 --> 01:49:14,360
+At the same time, it's very old forms of exploitation
+
+1342
+01:49:14,360 --> 01:49:19,040
+that are made possible by complete absence
+
+1343
+01:49:19,040 --> 01:49:23,840
+of any labor rights protection.
+
+1344
+01:49:23,840 --> 01:49:28,860
+So yeah, the places in China down at the lower east
+
+1345
+01:49:28,860 --> 01:49:33,520
+and these kind of situations are still occurring.
+
+1346
+01:49:33,520 --> 01:49:41,520
+Now, then to turn a little bit to I would say criticism
+
+1347
+01:49:41,520 --> 01:49:44,360
+or critiques of the polarization thesis,
+
+1348
+01:49:44,360 --> 01:49:47,840
+because it seems to be a very kind of elegant thesis
+
+1349
+01:49:47,840 --> 01:49:51,440
+right as the restructuring of the economy.
+
+1350
+01:49:51,440 --> 01:49:53,360
+At the same time there's globalization.
+
+1351
+01:49:53,360 --> 01:49:55,600
+It leads to the traction of headquarters
+
+1352
+01:49:55,600 --> 01:49:57,440
+in APS functions.
+
+1353
+01:49:57,440 --> 01:50:00,040
+And this kind of adds to a wider process
+
+1354
+01:50:00,040 --> 01:50:02,680
+of income and professional polarization,
+
+1355
+01:50:02,680 --> 01:50:05,960
+which then they also leads to social spatial polarization.
+
+1356
+01:50:05,960 --> 01:50:08,400
+Because people, but different kind of income groups,
+
+1357
+01:50:08,400 --> 01:50:11,120
+may not necessarily live in the same places.
+
+1358
+01:50:11,120 --> 01:50:14,080
+Quite on the contrary, if they have very different lifestyles,
+
+1359
+01:50:14,080 --> 01:50:16,920
+they may want to live something else.
+
+1360
+01:50:16,920 --> 01:50:23,480
+The same time also the empirical base is mostly linked to a limited set of cases in
+
+1361
+01:50:23,480 --> 01:50:25,720
+York, London, Tokyo.
+
+1362
+01:50:25,720 --> 01:50:35,160
+So especially in 1990s when this became a major debate, the question is is Susson right
+
+1363
+01:50:35,160 --> 01:50:41,240
+or is Susson wrong to put it in the words of Chris Hamlet, who is also one of you sitting
+
+1364
+01:50:41,240 --> 01:50:44,160
+in counterforces in this debate.
+
+1365
+01:50:44,160 --> 01:50:46,600
+So for instance according to Hamnet,
+
+1366
+01:50:46,600 --> 01:50:49,560
+yeah, it's very critical of this full organization
+
+1367
+01:50:49,560 --> 01:50:52,360
+as we also briefly discussed before.
+
+1368
+01:50:52,360 --> 01:50:55,680
+It says, well, it's an all purpose general signifier.
+
+1369
+01:50:55,680 --> 01:51:01,320
+And in the end, yeah, it doesn't really explain much
+
+1370
+01:51:01,320 --> 01:51:04,560
+and we don't necessarily need to describe
+
+1371
+01:51:04,560 --> 01:51:07,640
+what is going on in particular world cities.
+
+1372
+01:51:07,640 --> 01:51:11,200
+So what he says is that next to polarization,
+
+1373
+01:51:12,080 --> 01:51:15,240
+This whole process is thinking, right?
+
+1374
+01:51:15,240 --> 01:51:18,040
+We can think about a proletarianization,
+
+1375
+01:51:18,040 --> 01:51:20,240
+so that's the emergence of, say,
+
+1376
+01:51:20,240 --> 01:51:24,240
+an exploited underclass, if you will,
+
+1377
+01:51:24,240 --> 01:51:27,680
+to use that term in society as the main trend,
+
+1378
+01:51:27,680 --> 01:51:29,560
+or it could also be professionalization,
+
+1379
+01:51:29,560 --> 01:51:33,040
+which somehow refers to social mobility,
+
+1380
+01:51:33,040 --> 01:51:37,200
+the rise of middle income jobs, et cetera, et cetera.
+
+1381
+01:51:37,200 --> 01:51:40,600
+So instead of assuming that world and global city
+
+1382
+01:51:40,600 --> 01:51:44,480
+information necessarily reduces polarization.
+
+1383
+01:51:44,480 --> 01:51:47,560
+It's actually a research question, empirical question,
+
+1384
+01:51:47,560 --> 01:51:50,480
+what is going on in cities?
+
+1385
+01:51:50,480 --> 01:51:55,480
+So rather than just saying, OK, this is a disease
+
+1386
+01:51:55,480 --> 01:51:57,840
+or a given fact.
+
+1387
+01:51:57,840 --> 01:52:01,560
+It may be a hypothesis to see to what extent
+
+1388
+01:52:01,560 --> 01:52:04,600
+we see evidence of polarization or whether we see
+
+1389
+01:52:04,600 --> 01:52:05,520
+other things.
+
+1390
+01:52:05,520 --> 01:52:07,920
+And one thing of doing that is also
+
+1391
+01:52:07,920 --> 01:52:11,320
+taking more into account the occupational structure
+
+1392
+01:52:11,320 --> 01:52:15,120
+and the spatial structure of cities.
+
+1393
+01:52:15,120 --> 01:52:20,200
+So to tell a bit more about this occupational structure,
+
+1394
+01:52:20,200 --> 01:52:21,960
+what it talks about this hamlet,
+
+1395
+01:52:21,960 --> 01:52:24,760
+and this is kind of an interesting evolution.
+
+1396
+01:52:24,760 --> 01:52:30,760
+In the 1990s, he mostly looked at the case of London.
+
+1397
+01:52:30,760 --> 01:52:35,760
+And he says, well, what we find in New York,
+
+1398
+01:52:35,760 --> 01:52:40,120
+I'm not necessarily find that in the case of London.
+
+1399
+01:52:40,120 --> 01:52:42,520
+There's actually very little polarization
+
+1400
+01:52:42,520 --> 01:52:44,920
+what I find is professionalization.
+
+1401
+01:52:44,920 --> 01:52:50,000
+So yes, there's a growth of high income jobs,
+
+1402
+01:52:50,000 --> 01:52:53,440
+but it's not necessarily linked to an explosion
+
+1403
+01:52:53,440 --> 01:52:55,720
+of jobs at the bottom.
+
+1404
+01:52:55,720 --> 01:52:58,480
+So it's not really an hour to us.
+
+1405
+01:52:58,480 --> 01:53:00,600
+At the same time, we also see evidence
+
+1406
+01:53:00,600 --> 01:53:03,840
+of a growth in middle income jobs.
+
+1407
+01:53:04,760 --> 01:53:10,320
+And a lot of people can move up, you could say,
+
+1408
+01:53:10,320 --> 01:53:14,760
+the occupational structure can be trained,
+
+1409
+01:53:14,760 --> 01:53:22,280
+can get a training, and are professionalizing.
+
+1410
+01:53:22,280 --> 01:53:27,760
+So yeah, he doesn't find the pattern of what
+
+1411
+01:53:27,760 --> 01:53:32,240
+seemed to be the two expected pattern of New York.
+
+1412
+01:53:32,240 --> 01:53:33,560
+That same time, he says, well, it could
+
+1413
+01:53:33,560 --> 01:53:42,040
+be related to the fact that migration is there and then far less the case.
+
+1414
+01:53:42,040 --> 01:53:46,280
+It's also incomparable to what you find in New York.
+
+1415
+01:53:46,280 --> 01:53:52,440
+So you had migration obviously to London, but it was less globalized.
+
+1416
+01:53:52,440 --> 01:53:58,000
+It was mostly a link to you can say to the dreadnits of empire,
+
+1417
+01:53:58,000 --> 01:54:02,760
+but it wasn't of the scale of what you found in New York.
+
+1418
+01:54:02,760 --> 01:54:06,280
+And silly says, yeah, there's also a much more general,
+
+1419
+01:54:06,280 --> 01:54:11,400
+well-frest date where you compare it to what you can do.
+
+1420
+01:54:11,400 --> 01:54:15,080
+So let us just, OK, let's not exaggerate.
+
+1421
+01:54:15,080 --> 01:54:17,040
+We don't really find polarization.
+
+1422
+01:54:17,040 --> 01:54:22,480
+Other pathways are actually thinkable.
+
+1423
+01:54:22,480 --> 01:54:28,440
+And then what we actually find in such context
+
+1424
+01:54:28,440 --> 01:54:33,320
+that it might be something that kind of more intersects
+
+1425
+01:54:33,320 --> 01:54:38,320
+with, you could say, process of privilege
+
+1426
+01:54:38,320 --> 01:54:44,200
+that intersects with gender, roles in society
+
+1427
+01:54:44,200 --> 01:54:45,280
+and ethnicity.
+
+1428
+01:54:45,280 --> 01:54:49,760
+So it's less the whole discussion about, yes,
+
+1429
+01:54:49,760 --> 01:54:54,760
+this APS complex that start to transform into a labor market.
+
+1430
+01:54:54,760 --> 01:55:00,400
+Now it's actually wider dimensions of gender and ethnic
+
+1431
+01:55:00,400 --> 01:55:05,240
+languages in society that will explain what we find in labor markets.
+
+1432
+01:55:05,240 --> 01:55:09,240
+So friends as well by Susan, Fangstein, and colleagues,
+
+1433
+01:55:09,240 --> 01:55:17,240
+they look at the exclusion by female labor in high end jobs.
+
+1434
+01:55:17,240 --> 01:55:23,040
+Or friends as the work by John Wilson, John May and colleagues.
+
+1435
+01:55:23,040 --> 01:55:28,040
+If we got one of the first may of the co-author is,
+
+1436
+01:55:28,040 --> 01:55:32,320
+is this okay, look, we have to look much more
+
+1437
+01:55:32,320 --> 01:55:34,520
+at necessity to understand what is going on
+
+1438
+01:55:34,520 --> 01:55:38,680
+because for instance, one third of London's
+
+1439
+01:55:38,680 --> 01:55:41,480
+for the Pina population is actually
+
+1440
+01:55:41,480 --> 01:55:42,920
+in health and social care.
+
+1441
+01:55:42,920 --> 01:55:45,400
+Brazilians are in cleaning services.
+
+1442
+01:55:45,400 --> 01:55:52,000
+Sick are hired as security guards,
+
+1443
+01:55:52,000 --> 01:55:58,720
+majority guards, a jereons are running the metro system, etc. etc. etc.
+
+1444
+01:55:58,720 --> 01:56:04,760
+So, these kind of more general processes will tell us much more about what is going on.
+
+1445
+01:56:04,760 --> 01:56:12,240
+Now, what we find is that when you start looking at more recent work at London, is that
+
+1446
+01:56:12,240 --> 01:56:19,880
+this whole argument that that long as somehow exclude or protect it from processes of
+
+1447
+01:56:19,880 --> 01:56:23,760
+All theization doesn't really seem to hold.
+
+1448
+01:56:23,760 --> 01:56:24,760
+Yep, there's a question.
+
+1449
+01:56:24,760 --> 01:56:28,320
+- I'm doing the question.
+
+1450
+01:56:28,320 --> 01:56:31,320
+There are the scores for our game
+
+1451
+01:56:31,320 --> 01:56:36,000
+that was known increased in lower intervals.
+
+1452
+01:56:36,000 --> 01:56:38,800
+They tried to also include one formal,
+
+1453
+01:56:38,800 --> 01:56:43,800
+yeah, the general point or something.
+
+1454
+01:56:43,800 --> 01:56:46,920
+- I think that's one of the reasons,
+
+1455
+01:56:46,920 --> 01:56:48,240
+that's a very good point.
+
+1456
+01:56:48,240 --> 01:56:51,360
+And I think that's one of the differences between,
+
+1457
+01:56:51,360 --> 01:56:54,760
+for instance, the work of May and colleagues
+
+1458
+01:56:54,760 --> 01:56:58,560
+and the conclusions by Chris Hamditz
+
+1459
+01:56:58,560 --> 01:57:03,040
+who is focusing on formal occupational structures.
+
+1460
+01:57:03,040 --> 01:57:05,440
+So indeed, that's the first point,
+
+1461
+01:57:05,440 --> 01:57:08,120
+mythological question, is this basically
+
+1462
+01:57:08,120 --> 01:57:10,760
+resolved with the data that is being used?
+
+1463
+01:57:10,760 --> 01:57:13,600
+And actually what you find is that
+
+1464
+01:57:13,600 --> 01:57:16,660
+in the article that was in the reader,
+
+1465
+01:57:16,660 --> 01:57:18,420
+which is a way more recent one.
+
+1466
+01:57:18,420 --> 01:57:22,460
+He also admits that process of polarization
+
+1467
+01:57:22,460 --> 01:57:24,340
+are going on and long.
+
+1468
+01:57:24,340 --> 01:57:26,100
+Okay, so it's kind of,
+
+1469
+01:57:26,100 --> 01:57:29,980
+he has seen the lights, Chris Hemmott.
+
+1470
+01:57:29,980 --> 01:57:32,140
+And that's kind of, yeah,
+
+1471
+01:57:32,140 --> 01:57:33,980
+I just referring to this paper.
+
+1472
+01:57:33,980 --> 01:57:36,060
+It's kind of very interesting paper
+
+1473
+01:57:36,060 --> 01:57:37,440
+because it's really targets
+
+1474
+01:57:37,440 --> 01:57:41,220
+migrant groups here in the sense that they look
+
+1475
+01:57:41,220 --> 01:57:45,500
+at regulation and kind of jobs
+
+1476
+01:57:45,500 --> 01:57:50,500
+that are being done by people that typically are not part of official statistics.
+
+1477
+01:57:50,500 --> 01:57:58,500
+And yeah, it's kind of hard to draw conclusions from that and say, okay,
+
+1478
+01:57:58,500 --> 01:58:00,500
+for instance, if you look at this picture,
+
+1479
+01:58:00,500 --> 01:58:05,500
+this kind of showing the division across different kind of
+
+1480
+01:58:05,500 --> 01:58:17,500
+So they collected responses by over 300 people in informal markets.
+
+1481
+01:58:17,500 --> 01:58:26,500
+Yeah, you find that only 9% actually earns the living wage.
+
+1482
+01:58:26,500 --> 01:58:34,500
+So it really shows that there's an overlay between the environment labor and
+
+1483
+01:58:34,500 --> 01:58:36,300
+or working conditions.
+
+1484
+01:58:36,300 --> 01:58:39,800
+But at the same time, it doesn't give you an overview
+
+1485
+01:58:39,800 --> 01:58:41,700
+of the entire structure of the labor market.
+
+1486
+01:58:41,700 --> 01:58:45,780
+So it's kind of a con-draw systemic conclusion from that.
+
+1487
+01:58:45,780 --> 01:58:48,780
+But if you've seen these compare it to this kind of picture,
+
+1488
+01:58:48,780 --> 01:58:53,860
+which is not about income, but there's about job equality.
+
+1489
+01:58:53,860 --> 01:58:58,620
+So it's a very rough marker of, you can say, yeah,
+
+1490
+01:58:58,620 --> 01:59:02,540
+where in the social hierarchy or occupational hierarchy
+
+1491
+01:59:02,540 --> 01:59:03,900
+are we at?
+
+1492
+01:59:03,900 --> 01:59:06,100
+There you see that there's actually a growth
+
+1493
+01:59:06,100 --> 01:59:09,980
+in the kind of the shitty jobs, if you will,
+
+1494
+01:59:09,980 --> 01:59:16,340
+a stagnation between the drive of normal decent jobs
+
+1495
+01:59:16,340 --> 01:59:19,060
+and a large growth at the top.
+
+1496
+01:59:19,060 --> 01:59:21,980
+So in these kind of indicators that the
+
+1497
+01:59:21,980 --> 01:59:23,740
+with occupational structure,
+
+1498
+01:59:23,740 --> 01:59:27,660
+it's counter evidence towards the profession andization.
+
+1499
+01:59:27,660 --> 01:59:29,620
+So I think what happens here is that
+
+1500
+01:59:31,060 --> 01:59:38,820
+When Chris Hamlet was writing his argument against Sussman in the 1990s, it may have still been true.
+
+1501
+01:59:38,820 --> 01:59:47,860
+It may have been biased by looking at formal statistics, not capturing what was going on
+
+1502
+01:59:47,860 --> 01:59:54,020
+at the bottom because it was basically part of the informal economy. But then even with that,
+
+1503
+01:59:54,820 --> 02:00:01,620
+As time has passed the picture even in the form of market which is no longer lower as he would have described it.
+
+1504
+02:00:01,620 --> 02:00:10,420
+So it's kind of a process of restructuring that has only been initiated later, I think, compared to to North North.
+
+1505
+02:00:10,420 --> 02:00:17,220
+Okay, but in any case, I think it's also not necessarily the same way.
+
+1506
+02:00:17,220 --> 02:00:24,220
+to say, okay, Susson is right or Hamlet is wrong.
+
+1507
+02:00:24,220 --> 02:00:28,540
+Point is that we have to identify different processes
+
+1508
+02:00:28,540 --> 02:00:30,540
+that can actually take place at the same time.
+
+1509
+02:00:30,540 --> 02:00:34,540
+So you can imagine ant polarization and professionalization
+
+1510
+02:00:34,540 --> 02:00:35,460
+at the same time.
+
+1511
+02:00:35,460 --> 02:00:38,260
+It's not because you see polarization
+
+1512
+02:00:38,260 --> 02:00:41,500
+that some segments of the population
+
+1513
+02:00:41,500 --> 02:00:44,660
+actually undergo social mobility.
+
+1514
+02:00:44,660 --> 02:00:46,820
+In fact, it could actually be quite interesting question
+
+1515
+02:00:46,820 --> 02:00:49,460
+in the context of polarization,
+
+1516
+02:00:49,460 --> 02:00:52,900
+who is still able to improve oneself on the labor market
+
+1517
+02:00:52,900 --> 02:00:54,740
+and who is not.
+
+1518
+02:00:54,740 --> 02:00:57,100
+So I think that for me was kind of the gist
+
+1519
+02:00:57,100 --> 02:01:02,100
+of the article by Chris Hamlet's there.
+
+1520
+02:01:02,100 --> 02:01:06,020
+Okay, let me move on because again, running out of time.
+
+1521
+02:01:06,020 --> 02:01:10,420
+So yeah, looking more closely at the occupational structure,
+
+1522
+02:01:10,420 --> 02:01:14,460
+I can't possibly go beyond that,
+
+1523
+02:01:14,460 --> 02:01:17,180
+that it gives you a hint of what to look for.
+
+1524
+02:01:17,180 --> 02:01:19,660
+Second element is spatial structure, right?
+
+1525
+02:01:19,660 --> 02:01:22,180
+So a very important critique principle
+
+1526
+02:01:22,180 --> 02:01:26,660
+is using the same steam is to what extent
+
+1527
+02:01:26,660 --> 02:01:29,740
+are the result of polarization?
+
+1528
+02:01:29,740 --> 02:01:32,300
+It is also a statistical artifact.
+
+1529
+02:01:32,300 --> 02:01:37,060
+There's a lot of focus on cities,
+
+1530
+02:01:37,060 --> 02:01:38,380
+but we at the same time,
+
+1531
+02:01:38,380 --> 02:01:41,860
+we know that middle classes have been suburbanizing
+
+1532
+02:01:41,860 --> 02:01:44,060
+or are still suburbanizing.
+
+1533
+02:01:44,060 --> 02:01:48,740
+So maybe this whole disappearance of a metal income
+
+1534
+02:01:48,740 --> 02:01:50,820
+jobs from cities and the fact that you
+
+1535
+02:01:50,820 --> 02:01:53,060
+end up with a very polarized labor market,
+
+1536
+02:01:53,060 --> 02:01:56,900
+it could be some kind of an artifact.
+
+1537
+02:01:56,900 --> 02:02:00,420
+So yeah, I think that's something to take into account.
+
+1538
+02:02:00,420 --> 02:02:02,820
+That's also quite interesting to compare,
+
+1539
+02:02:02,820 --> 02:02:06,740
+you could say differences between what we did in New York
+
+1540
+02:02:06,740 --> 02:02:09,100
+State versus New York City.
+
+1541
+02:02:09,100 --> 02:02:12,700
+I think you can't say that there's no general trend
+
+1542
+02:02:12,700 --> 02:02:18,540
+kind of in decline of middle income jobs for instance in the case of the US.
+
+1543
+02:02:18,540 --> 02:02:24,880
+But it's perhaps less accentuated than if you only look at the very need city
+
+1544
+02:02:24,880 --> 02:02:30,020
+center. So there's always an impossibility that wealth is suburbanized and
+
+1545
+02:02:30,020 --> 02:02:34,600
+would give you a different question. So scale matters, space matters in the
+
+1546
+02:02:34,600 --> 02:02:39,780
+sense that you have to be aware that you need to kind of map the appropriate
+
+1547
+02:02:39,780 --> 02:02:43,140
+and metropolitan area to turn the stance
+
+1548
+02:02:43,140 --> 02:02:45,100
+the entire structure of the labor market.
+
+1549
+02:02:45,100 --> 02:02:46,500
+Okay.
+
+1550
+02:02:46,500 --> 02:02:49,260
+Now, yeah, and there it can go many ways
+
+1551
+02:02:49,260 --> 02:02:51,020
+in sense that you also have to be sensitive
+
+1552
+02:02:51,020 --> 02:02:56,020
+to what extent you say these higher incomes
+
+1553
+02:02:56,020 --> 02:02:57,500
+will drive gentrification.
+
+1554
+02:02:57,500 --> 02:03:02,180
+There has been a whole process of moving out of cities,
+
+1555
+02:03:02,180 --> 02:03:04,940
+but there's also been a return to the city.
+
+1556
+02:03:04,940 --> 02:03:07,260
+When you take a city like Brussels,
+
+1557
+02:03:07,260 --> 02:03:11,820
+I think I would say, it's around to be a doubt that has been a return of middle incomes.
+
+1558
+02:03:11,820 --> 02:03:17,500
+And a lot of places, really leading world cities, has been of the super rich,
+
+1559
+02:03:17,500 --> 02:03:24,140
+setting a motion process of what Loretta Lee's calls super gentrification.
+
+1560
+02:03:24,140 --> 02:03:31,180
+And just one example of that is, and I refer to that on the map, Brooklyn used to be, you could say,
+
+1561
+02:03:32,220 --> 02:03:41,020
+a nice suburb of New York, just across the river, which was still affordable.
+
+1562
+02:03:41,020 --> 02:03:48,060
+You can put it on these brown stones, but what she described is how actually the top
+
+1563
+02:03:48,060 --> 02:03:56,460
+earners in New York are increasingly buying in these property markets.
+
+1564
+02:03:56,460 --> 02:04:03,460
+So we see that almost half of all Brooklyn was owned by the top 10%.
+
+1565
+02:04:03,460 --> 02:04:11,860
+In that period, you see it tremendous growth and orientation of property values in that period.
+
+1566
+02:04:11,860 --> 02:04:19,060
+So you really have to look at the detailed level within a city how you could say these higher incomes.
+
+1567
+02:04:19,060 --> 02:04:25,560
+Yeah, what kind of spatial process they set in motion and sometimes at least here is a classification.
+
+1568
+02:04:25,560 --> 02:04:29,480
+in a city neighborhoods, and maybe more peripheral processes, etc.
+
+1569
+02:04:29,480 --> 02:04:33,240
+So there's no unified spatial structure there.
+
+1570
+02:04:33,240 --> 02:04:38,520
+It's just a question if we have a structure of the economy.
+
+1571
+02:04:38,520 --> 02:04:41,160
+Where does it specially attaches itself?
+
+1572
+02:04:41,160 --> 02:04:42,360
+OK.
+
+1573
+02:04:42,360 --> 02:04:47,480
+Another example is for instance Brussels, where we find that,
+
+1574
+02:04:47,480 --> 02:04:52,040
+I could say, raw city formation and buses often,
+
+1575
+02:04:52,040 --> 02:04:56,760
+Europeanization of the economy and all kind of functions that are laid to that,
+
+1576
+02:04:56,760 --> 02:05:01,160
+how it has kind of reinforced existing social spatial divides.
+
+1577
+02:05:01,160 --> 02:05:05,880
+And this is work by, and now, a Middle-to-S professor from K.
+
+1578
+02:05:05,880 --> 02:05:13,400
+You live in the discussative group who looked at the evolution of,
+
+1579
+02:05:13,400 --> 02:05:19,080
+you can say, migrant populations and expect populations, sorry for that divide again.
+
+1580
+02:05:19,800 --> 02:05:25,040
+but it's being used in reality in Brussels.
+
+1581
+02:05:25,040 --> 02:05:29,680
+And what you see is that you could say typically the population
+
+1582
+02:05:29,680 --> 02:05:35,960
+with a lower income, the Moroccan population has grown
+
+1583
+02:05:35,960 --> 02:05:44,640
+in the western part of the city area, which is called the Puso
+
+1584
+02:05:44,640 --> 02:05:49,640
+the poor crescent, which is kind of the leading imaginary
+
+1585
+02:05:49,640 --> 02:05:52,140
+there, also with policymakers.
+
+1586
+02:05:52,140 --> 02:05:55,140
+Whereas you can take real Europeanization,
+
+1587
+02:05:55,140 --> 02:05:59,840
+has attracted a lot of expats, mostly Americans,
+
+1588
+02:05:59,840 --> 02:06:04,840
+and other kind of people from the European Union,
+
+1589
+02:06:04,840 --> 02:06:10,240
+mostly settled in the south eastern part of Brussels.
+
+1590
+02:06:10,840 --> 02:06:15,840
+And what Krskastalop explains is that in this geography,
+
+1591
+02:06:15,840 --> 02:06:20,840
+it's kind of reproducing early rounds of division in Brussels.
+
+1592
+02:06:20,840 --> 02:06:24,840
+And then it's kind of no coincidence that
+
+1593
+02:06:24,840 --> 02:06:29,840
+people with a Moroccan ethnicity and the northwest
+
+1594
+02:06:29,840 --> 02:06:33,840
+has something to do with the wider process of migrant labor,
+
+1595
+02:06:33,840 --> 02:06:37,840
+guest labor from the 1950s and '60s.
+
+1596
+02:06:37,840 --> 02:06:45,120
+I can say a lot about that, but the bottom line is, Belgian government actually went to Morocco,
+
+1597
+02:06:45,120 --> 02:06:53,920
+but also Turkey recently to really, you can say, brand Belgium as the place to work.
+
+1598
+02:06:53,920 --> 02:06:58,280
+A lot of migrant workers brought their families.
+
+1599
+02:06:58,280 --> 02:07:01,440
+They were seen as temporary guest workers.
+
+1600
+02:07:01,440 --> 02:07:06,560
+The entities people decided, yes, we were going to build a family here.
+
+1601
+02:07:06,560 --> 02:07:11,080
+And he actually worked in all kinds of productive activities and Brussels.
+
+1602
+02:07:11,080 --> 02:07:16,680
+Who went across the 1960s, '70s?
+
+1603
+02:07:16,680 --> 02:07:23,120
+And so you could say globalization of production also had a huge impact on these kind of jobs.
+
+1604
+02:07:23,120 --> 02:07:29,920
+A lot of these migrant workers were faced with structural employment and were kind of locked
+
+1605
+02:07:29,920 --> 02:07:32,800
+in into these situations.
+
+1606
+02:07:32,800 --> 02:07:35,960
+And yeah, never really got out of there.
+
+1607
+02:07:35,960 --> 02:07:42,880
+So there's still a large unemployment rate.
+
+1608
+02:07:42,880 --> 02:07:49,520
+And what we find is that with the restructuring of the economy, just at the time when
+
+1609
+02:07:49,520 --> 02:07:55,920
+new jobs were being created, there were the jobs that were not really matching the profile
+
+1610
+02:07:55,920 --> 02:07:56,920
+of these casework.
+
+1611
+02:07:56,920 --> 02:08:01,080
+So there was a lot of service work.
+
+1612
+02:08:01,080 --> 02:08:08,680
+Yeah, I mean it's required training which was not necessarily offered to make that transition within one generation.
+
+1613
+02:08:08,680 --> 02:08:14,760
+So that's why you kind of see this kind of pattern reproduce.
+
+1614
+02:08:14,760 --> 02:08:19,240
+So the argument by this cast of all this that we should really look also into
+
+1615
+02:08:19,240 --> 02:08:24,520
+looking at the continuities in these spatial structures.
+
+1616
+02:08:24,520 --> 02:08:31,760
+The friends also find that in contemporary elite geographies of pipe, continuing a little
+
+1617
+02:08:31,760 --> 02:08:38,440
+bit, the work by Chris Castel, but then focusing on the upper stratum, if you will.
+
+1618
+02:08:38,440 --> 02:08:46,360
+We looked at cultural patronage activities, which is basically a method to identify people
+
+1619
+02:08:46,360 --> 02:08:52,160
+doing a lot of money or they think about themselves as being distinct by consuming the
+
+1620
+02:08:52,160 --> 02:08:56,160
+high-end cultural activity. So we basically went to La Monde,
+
+1621
+02:08:56,160 --> 02:09:00,160
+Chapel,
+
+1622
+02:09:00,160 --> 02:09:10,160
+but it's again, Eliza Betz, it is a bit. So you have all kinds of high-brow cultural activities
+
+1623
+02:09:10,160 --> 02:09:15,160
+and Brussels. They've been played. We also went to Buzza, which tried to identify,
+
+1624
+02:09:15,160 --> 02:09:21,160
+who is actually on the big friend list, who is sponsoring this high-end cultural
+
+1625
+02:09:21,160 --> 02:09:23,400
+and cultural institutions.
+
+1626
+02:09:23,400 --> 02:09:27,320
+I mean, these are not kind of super spectacular.
+
+1627
+02:09:27,320 --> 02:09:29,280
+- I think sometimes we find it's kind of,
+
+1628
+02:09:29,280 --> 02:09:30,680
+it become a big fan of Bazaar.
+
+1629
+02:09:30,680 --> 02:09:34,120
+I think it was 12,500 euros per year.
+
+1630
+02:09:34,120 --> 02:09:36,200
+So it's not kind of just,
+
+1631
+02:09:36,200 --> 02:09:37,520
+but it's not the same time,
+
+1632
+02:09:37,520 --> 02:09:40,360
+it's not something that you could spend
+
+1633
+02:09:40,360 --> 02:09:41,560
+on a normal salary.
+
+1634
+02:09:41,560 --> 02:09:45,600
+So you, that was kind of used as a kind of criterion
+
+1635
+02:09:45,600 --> 02:09:48,800
+to kind of find a group that has both,
+
+1636
+02:09:48,800 --> 02:09:51,120
+you could say cultural capital.
+
+1637
+02:09:51,120 --> 02:09:56,080
+also economic. What we found then is that another is actually quite interesting that to
+
+1638
+02:09:56,080 --> 02:10:01,600
+these kind of methods you could actually identify the grid, these people live. We actually
+
+1639
+02:10:01,600 --> 02:10:10,800
+in Buzz and I took our bikes and then the pictures that were actually at the port level and
+
+1640
+02:10:10,800 --> 02:10:15,760
+then the firework where the leads were living. We find kind of interesting clustering there
+
+1641
+02:10:16,480 --> 02:10:22,720
+and it's all very much concentrated in actually in the city neighborhood. So most of the kind of
+
+1642
+02:10:22,720 --> 02:10:31,520
+roads led to this kind of area of the east, Breckman and those kind of areas. So we identified
+
+1643
+02:10:31,520 --> 02:10:38,560
+that our leads are very urban, if you will, and the other place was kind of more suburban,
+
+1644
+02:10:38,560 --> 02:10:45,600
+still within the Russell's capital region with Spipula, which is more like a Vulong neighborhood,
+
+1645
+02:10:45,600 --> 02:10:50,600
+But, and that's kind of distinct way of life.
+
+1646
+02:10:50,600 --> 02:10:53,480
+But it's kind of interesting that the major,
+
+1647
+02:10:53,480 --> 02:10:57,040
+say segregation process that you find in terms of
+
+1648
+02:10:57,040 --> 02:10:59,840
+gave it communities and those kind of things,
+
+1649
+02:10:59,840 --> 02:11:03,640
+this is not something that you easily find in Brussels.
+
+1650
+02:11:03,640 --> 02:11:06,880
+These things exist in Brussels, but it's not,
+
+1651
+02:11:06,880 --> 02:11:11,880
+yeah, it's not the Sao Paulo or Rio de Janeiro
+
+1652
+02:11:11,880 --> 02:11:12,720
+or these kind of things.
+
+1653
+02:11:12,720 --> 02:11:17,720
+It's really happening by micro mechanisms at the plot level
+
+1654
+02:11:17,720 --> 02:11:21,360
+that this kind of segregation is going on.
+
+1655
+02:11:21,360 --> 02:11:25,920
+Now, just those were just a few examples
+
+1656
+02:11:25,920 --> 02:11:30,440
+to take into account histories of spatial structure
+
+1657
+02:11:30,440 --> 02:11:32,120
+that name matter.
+
+1658
+02:11:32,120 --> 02:11:35,280
+Now, drawing it to a close, I think what I want to say
+
+1659
+02:11:35,280 --> 02:11:38,480
+is that, yeah, how to explain,
+
+1660
+02:11:40,160 --> 02:11:42,940
+You can say inequality polarization, et cetera,
+
+1661
+02:11:42,940 --> 02:11:44,300
+I think we'll let that polarization
+
+1662
+02:11:44,300 --> 02:11:47,840
+is just one way of one outcome of this process
+
+1663
+02:11:47,840 --> 02:11:51,740
+is we need some kind of analytical or explanatory model
+
+1664
+02:11:51,740 --> 02:11:53,140
+for that.
+
+1665
+02:11:53,140 --> 02:11:56,900
+And I want to draw on the work that must be here.
+
+1666
+02:11:56,900 --> 02:11:58,380
+For fun, it's still quite interesting,
+
+1667
+02:11:58,380 --> 02:12:00,900
+because they work in kind of three ways.
+
+1668
+02:12:00,900 --> 02:12:03,660
+It's like, look, there's at the macro level,
+
+1669
+02:12:03,660 --> 02:12:05,180
+a level of global change.
+
+1670
+02:12:05,180 --> 02:12:07,580
+The economy in general, as we structure,
+
+1671
+02:12:07,580 --> 02:12:12,580
+could be financializing this new international division of labor, etc.
+
+1672
+02:12:12,580 --> 02:12:14,580
+So that's happening at the macro level.
+
+1673
+02:12:14,580 --> 02:12:20,580
+There's also at the individual level, due to personal characteristics, choices, etc.
+
+1674
+02:12:20,580 --> 02:12:26,580
+Veterans have its sculptures. You may have different kinds of labor market opportunities.
+
+1675
+02:12:26,580 --> 02:12:34,580
+There's a lot of noise there. It's hard to study in a systematic way, but we need to acknowledge that.
+
+1676
+02:12:34,580 --> 02:12:41,620
+But what is kind of interesting is how the macro and the micro kind of connected by this medium level level of analysis
+
+1677
+02:12:41,620 --> 02:12:46,360
+Because it's kind of the interface between global process and local process
+
+1678
+02:12:46,360 --> 02:12:48,420
+So we can think about how
+
+1679
+02:12:48,420 --> 02:12:52,120
+nicity, gender and those kind of things will structure
+
+1680
+02:12:52,120 --> 02:12:58,740
+Access to the labor market and positionality in the labor market as that labor market is being structured
+
+1681
+02:12:58,740 --> 02:13:01,500
+You have to acknowledge national differences
+
+1682
+02:13:02,620 --> 02:13:06,020
+We talked about the rise of new liberalization.
+
+1683
+02:13:06,020 --> 02:13:09,540
+It hasn't materialized in the same way
+
+1684
+02:13:09,540 --> 02:13:12,420
+or at the same time in different kind of spaces.
+
+1685
+02:13:12,420 --> 02:13:14,820
+There's a large difference still between more,
+
+1686
+02:13:14,820 --> 02:13:19,620
+it's a social democratic or at least
+
+1687
+02:13:19,620 --> 02:13:23,220
+light versions of social democracy.
+
+1688
+02:13:23,220 --> 02:13:29,420
+Winston Continental Europe compared to the UK or the US.
+
+1689
+02:13:29,420 --> 02:13:39,420
+So in continental Europe in many places, there's still white, solid social security system,
+
+1690
+02:13:39,420 --> 02:13:41,420
+minimum wages, etc.
+
+1691
+02:13:41,420 --> 02:13:46,540
+And we kind of identified these are crucial elements in explaining
+
+1692
+02:13:46,540 --> 02:13:52,420
+product for Florida. Oh my god, proof of prioritization is getting laid.
+
+1693
+02:13:52,420 --> 02:13:57,420
+So if you have these kind of security measures in place,
+
+1694
+02:13:57,420 --> 02:14:04,140
+will immediately kind of present at least in formal markets that you have an explosion at the bottom.
+
+1695
+02:14:04,140 --> 02:14:11,260
+So yeah that's something to take into account and also clearly even with a national context
+
+1696
+02:14:11,260 --> 02:14:15,020
+you need to look at the functions and that's connecting back to the new party.
+
+1697
+02:14:15,020 --> 02:14:20,220
+Cities have different kind of functions and that will also shape its trajectory.
+
+1698
+02:14:20,220 --> 02:14:27,260
+If you look at city like Detroit or Charlotte Wab, it's not so likely that these places
+
+1699
+02:14:27,260 --> 02:14:34,460
+role now become leading global command and control centers, okay? Because they don't simply
+
+1700
+02:14:34,460 --> 02:14:42,540
+don't have that economic trajectory. So that's something this positionality in global economic
+
+1701
+02:14:42,540 --> 02:14:50,140
+systems has also been taken into account. Including then I think, yeah, the future, how would it look
+
+1702
+02:14:50,140 --> 02:14:57,260
+like. This kind of freemeling here but it's kind of lightly and you see in the
+
+1703
+02:14:57,260 --> 02:15:03,820
+kind of current developments in cities also a mid-COVID is that it's very likely
+
+1704
+02:15:03,820 --> 02:15:10,940
+that these growing inequalities are only going to increase according to me. You see that
+
+1705
+02:15:10,940 --> 02:15:19,180
+austerity has been sent around in kind of forced. There's a lot of intervention linked to
+
+1706
+02:15:19,180 --> 02:15:22,180
+We call it, there's again a discuss of a strong state.
+
+1707
+02:15:22,180 --> 02:15:29,180
+But as you saw that, you immediately have a lot of official documents that it had to be temporary.
+
+1708
+02:15:29,180 --> 02:15:34,180
+And now you see a return to a kind of discourse that there will be again,
+
+1709
+02:15:34,180 --> 02:15:37,180
+but it's got to be made, so it's a coincidence.
+
+1710
+02:15:37,180 --> 02:15:42,180
+And flounders, we are preparing the ditching from the ditching jump.
+
+1711
+02:15:42,180 --> 02:15:45,180
+So our education is to go digital.
+
+1712
+02:15:45,180 --> 02:15:50,180
+But at the same time, we have to have a budget of 100 million euros.
+
+1713
+02:15:50,180 --> 02:15:54,180
+So, okay, how do you marry those two?
+
+1714
+02:15:54,180 --> 02:15:58,180
+I mean, for sure, those ways to become more efficient,
+
+1715
+02:15:58,180 --> 02:16:01,180
+but at the same time, it's not really credible.
+
+1716
+02:16:01,180 --> 02:16:09,180
+So, nothing really has changed, I think, in this mark-to-narrative of austerity.
+
+1717
+02:16:09,180 --> 02:16:11,180
+So, that's kind of continuing.
+
+1718
+02:16:11,180 --> 02:16:15,740
+And you can say the flexibilization of the labor market.
+
+1719
+02:16:15,740 --> 02:16:18,940
+It's still also progressing.
+
+1720
+02:16:18,940 --> 02:16:23,540
+Okay. It will be different in different kind of contexts,
+
+1721
+02:16:23,540 --> 02:16:26,940
+but it's not really going away.
+
+1722
+02:16:26,940 --> 02:16:30,140
+Migration, as you know,
+
+1723
+02:16:30,140 --> 02:16:35,500
+and this is linked obviously to wider issues such as
+
+1724
+02:16:35,500 --> 02:16:37,740
+global change,
+
+1725
+02:16:37,740 --> 02:16:43,140
+will simply be more people that will have to rely on migration to still make a living.
+
+1726
+02:16:43,140 --> 02:16:50,140
+Rish also means in a lot of cities if you don't work on social security, minimum agents, etc.
+
+1727
+02:16:50,140 --> 02:16:56,220
+You won't do anything about the whole discussion about reserve army of labour.
+
+1728
+02:16:56,220 --> 02:17:02,020
+So these conditions for exploitation will remain in place.
+
+1729
+02:17:02,020 --> 02:17:06,060
+So that's kind of working at a bottom-end, if you will,
+
+1730
+02:17:06,700 --> 02:17:13,700
+At the same time at the top end, and it's kind of returning a little bit to the whole discussion about income distribution to very start.
+
+1731
+02:17:13,700 --> 02:17:20,700
+We see that there's some kind of return of the Gilded Age as the Thomas Piketty calls it.
+
+1732
+02:17:20,700 --> 02:17:28,700
+So a period in the 20th century where, in the 19th century, sorry, where a lot of,
+
+1733
+02:17:29,700 --> 02:17:35,460
+You could say personal trajectories will kind of shape their way where you already come from.
+
+1734
+02:17:35,460 --> 02:17:39,900
+So it's a form of patrimonial capitalism where it matters more,
+
+1735
+02:17:39,900 --> 02:17:44,700
+who your parents are, than what you do in terms of,
+
+1736
+02:17:44,700 --> 02:17:50,300
+I choose this profession or that profession, I work to choose to work hard, etc.
+
+1737
+02:17:50,300 --> 02:18:01,700
+And that means that an increasing part of the wealth is not based on income,
+
+1738
+02:18:01,700 --> 02:18:06,300
+but it's based on other sources of return on assets.
+
+1739
+02:18:06,300 --> 02:18:13,000
+So you see that a lot of groups, when you talk about the 1% of the 0.1%,
+
+1740
+02:18:13,000 --> 02:18:16,600
+their income is not an iteration of labor,
+
+1741
+02:18:16,600 --> 02:18:20,600
+but holding shares, bonds, etc.
+
+1742
+02:18:20,600 --> 02:18:30,600
+So this kind of explains why people that depend on an income from labor,
+
+1743
+02:18:30,600 --> 02:18:33,600
+if there's no real wage increases,
+
+1744
+02:18:33,600 --> 02:18:39,600
+well, you lose out on people that are basically representing capital that are shareholders,
+
+1745
+02:18:39,600 --> 02:18:42,600
+that kind of runs away.
+
+1746
+02:18:42,600 --> 02:18:50,280
+this kind of research by by picked a looking at to the share of the 0.1 so not the 1% but the 0.1%
+
+1747
+02:18:50,280 --> 02:19:01,480
+in the United States Britain, Canada and Australia. We're back in the US at the 0.1 owning 7% of
+
+1748
+02:19:01,480 --> 02:19:12,200
+income, right? So 0.1% of all income in the US. So it's just just try to imagine what that means.
+
+1749
+02:19:12,200 --> 02:19:20,720
+So, and it's an every time you see economic growth and if it's not automatically translated
+
+1750
+02:19:20,720 --> 02:19:26,240
+into an increase in wages, which is obviously a whole bargaining process, you see that
+
+1751
+02:19:26,240 --> 02:19:31,600
+the return on capital increases and that it runs away from real income.
+
+1752
+02:19:31,600 --> 02:19:37,360
+And I think that will be the main discussion, I think, and the post-war era, what you
+
+1753
+02:19:37,360 --> 02:19:43,080
+had, for instance, the US is extremely progressive taxation. The higher incomes were
+
+1754
+02:19:43,080 --> 02:19:50,000
+was taxation of 2.70%. I was considered normal. What you see now in multiple
+
+1755
+02:19:50,000 --> 02:19:53,920
+presidency, for instance, in the US in the US has been relaxed.
+
+1756
+02:19:53,920 --> 02:19:59,280
+So now counter-tenancies, I would say, corporate taxation as a holder
+
+1757
+02:19:59,280 --> 02:20:04,040
+debate about that, or what extent we need to kind of increase that or standardize
+
+1758
+02:20:04,040 --> 02:20:10,440
+that is the kind of multi-level chess game which will be hard to realize but at
+
+1759
+02:20:10,440 --> 02:20:16,680
+least some things are going on there. So I think at the top end I think I mean if
+
+1760
+02:20:16,680 --> 02:20:21,640
+all goes normal there's no social upheaval I think this trend will just
+
+1761
+02:20:21,640 --> 02:20:27,320
+continue and the question is to what extent? To when is this socially feasible to
+
+1762
+02:20:27,320 --> 02:20:31,160
+keep things together or really to really pull apart and political another kind of
+
+1763
+02:20:31,160 --> 02:20:35,660
+I mean you think about cities and then as the final point it means that this
+
+1764
+02:20:35,660 --> 02:20:40,560
+function of cities is becoming transformed as well and maybe this links a
+
+1765
+02:20:40,560 --> 02:20:44,640
+little bit to what that question was just talking about last week is that cities
+
+1766
+02:20:44,640 --> 02:20:52,520
+become basically safety deposit boxes for those people that rely in wealth. You
+
+1767
+02:20:52,520 --> 02:20:56,680
+can think about absentee, baptism, and loneliness, all kinds of neighborhoods
+
+1768
+02:20:56,680 --> 02:21:03,080
+that are owned, for instance, by people from the Arab Persian Gulf that don't live in London,
+
+1769
+02:21:03,080 --> 02:21:10,040
+but just yeah, they don't even bother to rent out parts of night bits or Chelsea because they
+
+1770
+02:21:10,040 --> 02:21:16,120
+don't care because their value of these properties just increases so much that it's irrelevant
+
+1771
+02:21:16,120 --> 02:21:22,440
+whether you rent it out. Another example is shell companies in Manhattan and the Time Water Center
+
+1772
+02:21:24,520 --> 02:21:30,760
+average 30 million for apartments. I think 80% of this case is bought by shell companies,
+
+1773
+02:21:30,760 --> 02:21:35,480
+which is basically trusts within the trust within the trust or whatever. So it's somewhere
+
+1774
+02:21:35,480 --> 02:21:41,160
+the Cayman Islands of the new that trusts that buys these properties, but you never really know
+
+1775
+02:21:41,160 --> 02:21:47,800
+who's behind the shell company. So it's a way to for which individuals and corporations
+
+1776
+02:21:47,800 --> 02:21:52,600
+is the way to do the same property.
+
+1777
+02:21:52,600 --> 02:21:57,480
+You maintain the value of those assets to store their wealth
+
+1778
+02:21:57,480 --> 02:21:59,160
+in places.
+
+1779
+02:21:59,160 --> 02:22:03,120
+And yeah, to add on the final point,
+
+1780
+02:22:03,120 --> 02:22:06,840
+it means that the function of cities is being
+
+1781
+02:22:06,840 --> 02:22:12,920
+done support as holders of value, primarily,
+
+1782
+02:22:12,920 --> 02:22:17,280
+and according to SARS-CoS and the debt, I conclude.
+
+1783
+02:22:17,280 --> 02:22:24,360
+And as a real danger that the process of deprovenization is taking place in these leading
+
+1784
+02:22:24,360 --> 02:22:26,880
+world and global cities.
+
+1785
+02:22:26,880 --> 02:22:30,160
+And the case of absence of an terrorism is a good one.
+
+1786
+02:22:30,160 --> 02:22:32,160
+There's absolutely no life.
+
+1787
+02:22:32,160 --> 02:22:33,160
+Nobody is living there.
+
+1788
+02:22:33,160 --> 02:22:41,040
+It's a kind of pure financial asset or it's an empty tower block where nobody lives.
+
+1789
+02:22:41,040 --> 02:22:46,840
+And it seems to be a very big contradiction because when you think about bustling, bustling
+
+1790
+02:22:46,840 --> 02:22:48,840
+world and global cities.
+
+1791
+02:22:48,840 --> 02:22:52,840
+There's a lot of innovation and diversity, etc.
+
+1792
+02:22:52,840 --> 02:22:54,840
+These are empty shells.
+
+1793
+02:22:54,840 --> 02:23:01,840
+They're at the store, the value and the wealth of very, very, very, very rich people.
+
+1794
+02:23:01,840 --> 02:23:06,840
+And I think it's an issue that we should reflect on.
+
+1795
+02:23:06,840 --> 02:23:10,840
+Okay, thank you.
+
+1796
+02:23:10,840 --> 02:23:13,840
+Thank you.
+
+1797
+02:23:13,840 --> 02:23:15,840
+I hope it was not too depressing.
+
+1798
+02:23:15,840 --> 02:23:20,840
+Or maybe that it is depressing and that we do something about it.
+
+1799
+02:23:20,840 --> 02:23:22,840
+on it? Um...
+
+1800
+02:23:22,840 --> 02:23:25,260
+(mumbling)
+
+1801
+02:23:25,260 --> 02:23:27,760
+(chuckles)
+

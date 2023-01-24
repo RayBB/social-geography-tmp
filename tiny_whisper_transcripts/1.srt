@@ -1,0 +1,7036 @@
+1
+00:00:00,000 --> 00:00:06,160
+[ pause ]
+
+2
+00:00:06,160 --> 00:00:12,620
+[ fell out ]
+
+3
+00:00:12,620 --> 00:00:30,620
+[ Silence ]
+
+4
+00:00:30,620 --> 00:00:40,620
+[BLANK_AUDIO]
+
+5
+00:00:40,620 --> 00:00:48,820
+All right, welcome everybody to
+
+6
+00:00:48,820 --> 00:00:52,100
+Urban Geography Urban Social Geography.
+
+7
+00:00:52,100 --> 00:00:56,740
+I had to work a little bit to make the live stream work.
+
+8
+00:00:56,740 --> 00:00:57,860
+I hope it does work.
+
+9
+00:00:59,540 --> 00:01:02,020
+Does anybody mind if I take off my mask?
+
+10
+00:01:02,020 --> 00:01:04,780
+Is that okay?
+
+11
+00:01:04,780 --> 00:01:09,020
+If anybody's uncomfortable, just let me know.
+
+12
+00:01:09,020 --> 00:01:14,020
+But I rely on my facial expressions for content.
+
+13
+00:01:14,020 --> 00:01:17,740
+How do you say that to transfer content, if you will?
+
+14
+00:01:17,740 --> 00:01:22,420
+So hi, I'm David for your lecture.
+
+15
+00:01:22,420 --> 00:01:24,220
+And welcome to the course.
+
+16
+00:01:26,500 --> 00:01:31,420
+I'm very glad that we can teach and have this in real life
+
+17
+00:01:31,420 --> 00:01:32,100
+in person.
+
+18
+00:01:32,100 --> 00:01:37,580
+We'll tell you more about the kind of hybrid character,
+
+19
+00:01:37,580 --> 00:01:40,060
+because we'll also be recording the sessions
+
+20
+00:01:40,060 --> 00:01:42,500
+and live streaming the session.
+
+21
+00:01:42,500 --> 00:01:46,620
+So I think the pandemic conditions are still
+
+22
+00:01:46,620 --> 00:01:51,340
+ongoing to allow if you would doubt
+
+23
+00:01:51,340 --> 00:01:56,460
+about any infection, et cetera, to follow the course remotely.
+
+24
+00:01:56,460 --> 00:02:03,460
+I think this can be more evident for the regular lectures like we have today.
+
+25
+00:02:03,460 --> 00:02:06,460
+There is also a number of discussions seminars.
+
+26
+00:02:06,460 --> 00:02:11,460
+There will be less evidence and there's also excursions for some there.
+
+27
+00:02:11,460 --> 00:02:18,460
+I mean, I can't stream an excursion, but for the lectures it will be now turned.
+
+28
+00:02:18,460 --> 00:02:23,460
+And you also have the recording at the end of the lecture series.
+
+29
+00:02:23,460 --> 00:02:27,460
+and this could be an interesting instrument to study.
+
+30
+00:02:27,460 --> 00:02:32,460
+So yeah, that also has students have used it last year.
+
+31
+00:02:32,460 --> 00:02:37,460
+Okay, so what are the objectives of the entire course,
+
+32
+00:02:37,460 --> 00:02:39,460
+urban geography, urban social geography?
+
+33
+00:02:39,460 --> 00:02:41,460
+Well, just summed up there.
+
+34
+00:02:41,460 --> 00:02:45,460
+I won't go too deep into this just here and now.
+
+35
+00:02:45,460 --> 00:02:48,460
+But just that you know what you're signing up for,
+
+36
+00:02:48,460 --> 00:02:52,460
+for the people that are still shopping around,
+
+37
+00:02:52,460 --> 00:02:54,940
+around, I would say.
+
+38
+00:02:54,940 --> 00:02:57,340
+The objective of the course is to give an introduction
+
+39
+00:02:57,340 --> 00:03:00,700
+to key theoretical debates in urban studies,
+
+40
+00:03:00,700 --> 00:03:06,220
+nor specifically focusing on spatial and geographical dimensions,
+
+41
+00:03:06,220 --> 00:03:09,260
+hence it's not introduction to urban studies
+
+42
+00:03:09,260 --> 00:03:13,100
+but introduction to urban geography.
+
+43
+00:03:13,100 --> 00:03:16,780
+And this is kind of signaling what
+
+44
+00:03:16,780 --> 00:03:21,220
+we find important as lecturers to adopt a theoretically
+
+45
+00:03:21,220 --> 00:03:24,540
+It's your list of approach to work urban studies.
+
+46
+00:03:24,540 --> 00:03:26,940
+You'll see that, and I'll get to that in a second,
+
+47
+00:03:26,940 --> 00:03:29,700
+that we work with different teachers, lectures.
+
+48
+00:03:29,700 --> 00:03:31,300
+We all have their own backgrounds,
+
+49
+00:03:31,300 --> 00:03:32,660
+and they may be slightly different.
+
+50
+00:03:32,660 --> 00:03:34,980
+Some people work more on political economy,
+
+51
+00:03:34,980 --> 00:03:39,060
+perspective, others start from adopting a perspective
+
+52
+00:03:39,060 --> 00:03:41,420
+from diversity and ethnicity,
+
+53
+00:03:41,420 --> 00:03:46,420
+yet others are interested in issues of culture,
+
+54
+00:03:46,420 --> 00:03:50,900
+in the broad sense, and always work in a kind of mobility framework.
+
+55
+00:03:50,900 --> 00:03:55,660
+I'm going to try to bring those things together in one course.
+
+56
+00:03:55,660 --> 00:03:57,420
+But what is kind of uniting the course,
+
+57
+00:03:57,420 --> 00:04:00,660
+I think a spatial social spatial understanding
+
+58
+00:04:00,660 --> 00:04:03,300
+of contemporary cities.
+
+59
+00:04:03,300 --> 00:04:05,580
+So that's what you're signing up for.
+
+60
+00:04:05,580 --> 00:04:10,220
+If you hate 50s, this is the moment to leave the room.
+
+61
+00:04:10,220 --> 00:04:12,340
+I told you so.
+
+62
+00:04:12,340 --> 00:04:17,260
+So this is the old male panel that we present to my
+
+63
+00:04:17,260 --> 00:04:23,820
+in serious apologies, but I think that hopefully diversity, of course the curriculum is a bit
+
+64
+00:04:23,820 --> 00:04:32,700
+better than within this course, but we're selecting from the people that can teach so please accept
+
+65
+00:04:32,700 --> 00:04:39,660
+my apologies for that, but still we hope that we can inform you from the range of perspectives.
+
+66
+00:04:39,660 --> 00:04:45,180
+Also, including I would say feminist perspectives, and they will pop up here and there,
+
+67
+00:04:46,380 --> 00:04:52,220
+especially when we start talking about issues of culture and issues of mobility and
+
+68
+00:04:52,220 --> 00:05:05,340
+trans
+
+69
+00:05:05,340 --> 00:05:09,180
+Bosom Hörf, he's an expert, you could say,
+
+70
+00:05:09,180 --> 00:05:12,500
+creative industries, cultural geographies of the cities,
+
+71
+00:05:12,500 --> 00:05:17,660
+of the city, Poitek Geblowski, he wrote a PhD
+
+72
+00:05:17,660 --> 00:05:20,780
+on fair free public transportation,
+
+73
+00:05:20,780 --> 00:05:25,900
+and he's an expert in urban studies, slash transportation
+
+74
+00:05:25,900 --> 00:05:29,060
+geographies, and recently he's really pushing
+
+75
+00:05:29,060 --> 00:05:34,220
+for a kind of decolonial agenda in transport geographies.
+
+76
+00:05:34,220 --> 00:05:36,540
+And finally, there's me.
+
+77
+00:05:36,540 --> 00:05:38,740
+I won't say I'm an expert in editing.
+
+78
+00:05:38,740 --> 00:05:42,380
+I'm an expert in coordinating this course by now.
+
+79
+00:05:42,380 --> 00:05:46,180
+And I come from a background of world and global cities.
+
+80
+00:05:46,180 --> 00:05:50,220
+So what happens to cities, a mid-globalization,
+
+81
+00:05:50,220 --> 00:05:53,180
+how should we study that, analyze that,
+
+82
+00:05:53,180 --> 00:05:55,020
+well, I mean, debate.
+
+83
+00:05:55,020 --> 00:05:58,820
+Conversely, I've been looking a lot into the geographies
+
+84
+00:05:58,820 --> 00:06:03,180
+of Islamic finance as a way to understand,
+
+85
+00:06:03,180 --> 00:06:07,140
+I would say Middle Eastern processes of urbanization.
+
+86
+00:06:07,140 --> 00:06:08,780
+But that was my PhD.
+
+87
+00:06:08,780 --> 00:06:10,820
+Currently, I'm more working in teams
+
+88
+00:06:10,820 --> 00:06:14,460
+around financial companies, more widely thinking about
+
+89
+00:06:14,460 --> 00:06:18,420
+what typifies global cities as command and controls.
+
+90
+00:06:18,420 --> 00:06:21,540
+There's all kinds of things that I'll be killing you with
+
+91
+00:06:21,540 --> 00:06:22,900
+in the next few sessions.
+
+92
+00:06:22,900 --> 00:06:25,340
+So I won't say anything more about that.
+
+93
+00:06:25,340 --> 00:06:27,060
+So that's the teaching team.
+
+94
+00:06:27,060 --> 00:06:31,380
+And so there's plural voices to some extent.
+
+95
+00:06:32,380 --> 00:06:36,380
+And also there's also a plural audience.
+
+96
+00:06:36,380 --> 00:06:40,940
+So I was already referring to group students
+
+97
+00:06:40,940 --> 00:06:43,980
+by pointing to that this is the urban social geography course,
+
+98
+00:06:43,980 --> 00:06:46,820
+but also it's also the urban geography course.
+
+99
+00:06:46,820 --> 00:06:49,300
+And there's slight differences between both courses,
+
+100
+00:06:49,300 --> 00:06:53,180
+but especially for the lectures that
+
+101
+00:06:53,180 --> 00:06:57,140
+makes complete sense to bring you together in the room.
+
+102
+00:06:57,140 --> 00:06:59,660
+So we have the master in urban studies.
+
+103
+00:06:59,660 --> 00:07:01,380
+It will be master.
+
+104
+00:07:01,380 --> 00:07:03,700
+Please raise your hands and voices.
+
+105
+00:07:03,700 --> 00:07:07,420
+Okay, thanks for the hands.
+
+106
+00:07:07,420 --> 00:07:10,340
+This for citizens.
+
+107
+00:07:10,340 --> 00:07:14,500
+Yeah, so that's even more exotic.
+
+108
+00:07:14,500 --> 00:07:17,780
+These people travel around Europe in the next two years.
+
+109
+00:07:17,780 --> 00:07:22,500
+Then we have our own exotic species
+
+110
+00:07:22,500 --> 00:07:24,180
+from the Bachelor of Geography.
+
+111
+00:07:24,180 --> 00:07:26,420
+Maybe raise your hand.
+
+112
+00:07:26,420 --> 00:07:29,060
+Welcome.
+
+113
+00:07:29,060 --> 00:07:33,780
+And we also have urbanists in the room.
+
+114
+00:07:33,780 --> 00:07:36,420
+So please show me where you are.
+
+115
+00:07:36,420 --> 00:07:40,060
+These people also combine us with an actual job.
+
+116
+00:07:40,060 --> 00:07:45,900
+So that's also why we teach at night to accommodate that.
+
+117
+00:07:45,900 --> 00:07:48,620
+And these are people that have quite a bit of professional expertise.
+
+118
+00:07:48,620 --> 00:07:56,540
+So I would say this is already a global urban map here confined in this room.
+
+119
+00:07:56,540 --> 00:08:03,220
+I would say enjoy this mix and try to pick each other's brains as much as possible.
+
+120
+00:08:03,220 --> 00:08:08,220
+They're just by comparing urban experiences, concasal conversation.
+
+121
+00:08:08,220 --> 00:08:12,460
+You can already learn quite a bit.
+
+122
+00:08:12,460 --> 00:08:21,500
+So similarities, all students have lectures and discussion seminars.
+
+123
+00:08:21,500 --> 00:08:24,980
+This discussion seminar for capacity reasons will be split.
+
+124
+00:08:24,980 --> 00:08:26,940
+I'll tell you more about that.
+
+125
+00:08:26,940 --> 00:08:29,660
+For urban social geographers, so that's
+
+126
+00:08:29,660 --> 00:08:32,060
+for the mouse and urban cities and for citizens,
+
+127
+00:08:32,060 --> 00:08:35,140
+we're kind of new to Belgium.
+
+128
+00:08:35,140 --> 00:08:38,660
+We also offer kinds of excursions.
+
+129
+00:08:38,660 --> 00:08:40,220
+And I'll say more about that as well.
+
+130
+00:08:40,220 --> 00:08:42,260
+And these are mandatory.
+
+131
+00:08:42,260 --> 00:08:44,380
+And, follow.
+
+132
+00:08:44,380 --> 00:08:50,620
+So how does the course look like there's nine lectures,
+
+133
+00:08:50,620 --> 00:08:54,540
+which we will try to make as interactive as possible.
+
+134
+00:08:54,540 --> 00:08:58,840
+but there will be a degree of me and us telling you stuff.
+
+135
+00:08:58,840 --> 00:09:02,740
+The discussion seminars will be way more flipped,
+
+136
+00:09:02,740 --> 00:09:06,540
+if you will, where the content is prepared by you
+
+137
+00:09:06,540 --> 00:09:09,140
+and then we discussed this in the classroom.
+
+138
+00:09:09,140 --> 00:09:13,580
+So it's a bit of a give and take there.
+
+139
+00:09:13,580 --> 00:09:17,940
+We organized the lectures in modules.
+
+140
+00:09:17,940 --> 00:09:20,300
+So you can say this for modules.
+
+141
+00:09:20,300 --> 00:09:24,420
+One organized by me, which deals with
+
+142
+00:09:24,420 --> 00:09:31,660
+general introduction as you note today and then we'll delve into theories of world
+
+143
+00:09:31,660 --> 00:09:36,780
+and global cities looking at what explains their genesis what their
+
+144
+00:09:36,780 --> 00:09:43,020
+characteristics are, why matters and what kind of the main processes are that
+
+145
+00:09:43,020 --> 00:09:48,700
+characterize urban societies in world and global cities and one of the main
+
+146
+00:09:48,700 --> 00:09:57,180
+the base there is to what extent are these places polarized, either in terms of ethnicity,
+
+147
+00:09:57,180 --> 00:10:06,260
+income levels, professional levels, etc. With that sensitivity, I would say to an evenness
+
+148
+00:10:06,260 --> 00:10:13,380
+within cities, I'll pass on the word to Nick Schuirmont, who focus more on processes of urban
+
+149
+00:10:13,380 --> 00:10:19,780
+segregation, we're looking at the spatial processes behind that and one of the main debates
+
+150
+00:10:19,780 --> 00:10:27,460
+I would say in issues of diversity and ethnicity is to what extent there are neighborhood effects.
+
+151
+00:10:27,460 --> 00:10:35,140
+It is the fact that you live within a neighborhood affecting your future trajectories,
+
+152
+00:10:35,140 --> 00:10:41,220
+like chances, etc. So that's one of the main debates there and this
+
+153
+00:10:41,220 --> 00:10:46,580
+pros and cons, there's arguments for and against the existence of neighborhood effects.
+
+154
+00:10:46,580 --> 00:10:54,180
+Then we pass on to Bosch von Hüd, who will be talking about, you could say, the cultural approach,
+
+155
+00:10:54,180 --> 00:11:02,340
+thinking about different cultures of urban research. And so this deals with various methods,
+
+156
+00:11:02,340 --> 00:11:09,300
+and mostly what you could say, an older cultural turn within geography and social sciences,
+
+157
+00:11:09,300 --> 00:11:12,820
+more widely, which was took place after Second World War.
+
+158
+00:11:12,820 --> 00:11:15,460
+And then more recently in the 80s and 90s,
+
+159
+00:11:15,460 --> 00:11:17,620
+to the real cultural turn where
+
+160
+00:11:17,620 --> 00:11:22,780
+was all about a turn towards more qualitative research methods,
+
+161
+00:11:22,780 --> 00:11:25,820
+other sources that could be studied
+
+162
+00:11:25,820 --> 00:11:27,420
+and that could serve the study
+
+163
+00:11:27,420 --> 00:11:29,700
+of urban societies.
+
+164
+00:11:29,700 --> 00:11:32,220
+And then this is also mobilized in the study
+
+165
+00:11:32,220 --> 00:11:35,420
+of urban culture, where it's about creative industries,
+
+166
+00:11:35,420 --> 00:11:37,340
+the lives of artists, et cetera,
+
+167
+00:11:37,340 --> 00:11:40,000
+which is a big element in a lot of,
+
+168
+00:11:40,000 --> 00:11:42,840
+say, this course is on the creative city.
+
+169
+00:11:42,840 --> 00:11:45,440
+As you may know, the work of Richard Florida,
+
+170
+00:11:45,440 --> 00:11:48,440
+it was a whole hype, I would say, 20 years ago
+
+171
+00:11:48,440 --> 00:11:52,600
+that all cities should be geared toward becoming creative
+
+172
+00:11:52,600 --> 00:11:53,600
+in one way or another.
+
+173
+00:11:53,600 --> 00:11:57,080
+So hence, also, a large focus and literature
+
+174
+00:11:57,080 --> 00:12:00,000
+on issues of ISP culture,
+
+175
+00:12:00,000 --> 00:12:03,120
+as it is connected to the shoes of urban development.
+
+176
+00:12:04,280 --> 00:12:09,280
+And then the final part is with Voigtek Blobsky,
+
+177
+00:12:09,280 --> 00:12:14,600
+looking into the lens of transport and mobility
+
+178
+00:12:14,600 --> 00:12:17,640
+at what we can learn about cities.
+
+179
+00:12:17,640 --> 00:12:21,320
+And he will be talking about different kinds of agendas
+
+180
+00:12:21,320 --> 00:12:24,920
+that typify, I would say,
+
+181
+00:12:24,920 --> 00:12:28,920
+transpities all the way from your classical views
+
+182
+00:12:28,920 --> 00:12:33,200
+that connected to urban growth development
+
+183
+00:12:33,200 --> 00:12:37,640
+to sustainability issues, which is a paradigm in an open zone.
+
+184
+00:12:37,640 --> 00:12:41,560
+And then he'll be drawing on his own research,
+
+185
+00:12:41,560 --> 00:12:44,720
+looking more into what he calls critical perspectives
+
+186
+00:12:44,720 --> 00:12:47,880
+on urban transport, where it's all about, yeah,
+
+187
+00:12:47,880 --> 00:12:51,640
+who actually benefits from the current transportation regime,
+
+188
+00:12:51,640 --> 00:12:56,000
+what are issues of inequality, who makes decisions
+
+189
+00:12:56,000 --> 00:12:58,360
+about in transport systems, I'd say.
+
+190
+00:12:58,360 --> 00:13:02,440
+So I think by the end, you should have a kind of
+
+191
+00:13:02,440 --> 00:13:12,680
+360 degree overview of debates in urban geography obviously. We don't know everything far from that.
+
+192
+00:13:12,680 --> 00:13:19,720
+So it's a selection of debates. We could generate another curriculum based with other forms of
+
+193
+00:13:19,720 --> 00:13:27,000
+expertise. But it's also an exercise in trying to critically try and relate different perspectives
+
+194
+00:13:27,000 --> 00:13:33,320
+on the city to different kind of teams which come with your own methodologies etc. So that's the
+
+195
+00:13:33,320 --> 00:13:41,160
+setup of the course and these take place here. You're just about fit in this room so I'm extremely
+
+196
+00:13:41,160 --> 00:13:50,040
+happy and pleased and we'll take place on Mondays between five and seven. Let's see what the quality
+
+197
+00:13:50,040 --> 00:13:56,520
+of the streaming is. If I would open for nocto which is my program I could expect a stream of
+
+198
+00:13:56,520 --> 00:14:02,520
+comments about that. But so I'll evaluate that but the idea is that everything is
+
+199
+00:14:02,520 --> 00:14:08,840
+streamed as well. People that come make it because of conflicts with work or
+
+200
+00:14:08,840 --> 00:14:14,920
+well they might have time but can't reach VB because it's immediately after
+
+201
+00:14:14,920 --> 00:14:20,520
+the working day I mean I would understand that you would yeah follow
+
+202
+00:14:20,520 --> 00:14:27,160
+remotely and sessions will also be recorded. On the other hand, it's a kind of
+
+203
+00:14:27,160 --> 00:14:33,160
+strict recommendation to try to be here as much as possible because I mean one of
+
+204
+00:14:33,160 --> 00:14:39,960
+the insights from the corona crisis, yeah, when you watch remotely, sometimes it's
+
+205
+00:14:39,960 --> 00:14:45,120
+hard to maintain discipline. I also recognize that with all kinds of Zoom meetings
+
+206
+00:14:45,120 --> 00:14:53,920
+and Zoom. I don't know, seven hours. So having a habit of coming to VDB, coming to class,
+
+207
+00:14:53,920 --> 00:14:58,400
+I think it's also a way to stay connected, but I don't know to the course content, but also to one
+
+208
+00:14:58,400 --> 00:15:07,200
+another. So you could fall back on this, but I would not recommend a full digital semester in any case.
+
+209
+00:15:07,200 --> 00:15:10,480
+So, but it's there and it will be your resource.
+
+210
+00:15:10,480 --> 00:15:13,120
+It all goes well at the very end.
+
+211
+00:15:13,120 --> 00:15:16,960
+So, yeah, we're here.
+
+212
+00:15:16,960 --> 00:15:20,960
+A bit more on the discussion seminar.
+
+213
+00:15:20,960 --> 00:15:22,400
+So, yes, please, there was a question.
+
+214
+00:15:22,400 --> 00:15:28,240
+(indistinct)
+
+215
+00:15:28,240 --> 00:15:32,720
+Yeah, it's to have some slack in this room.
+
+216
+00:15:32,720 --> 00:15:34,320
+We'll aim for two hours,
+
+217
+00:15:34,320 --> 00:15:38,480
+But we already started like five minutes late today.
+
+218
+00:15:38,480 --> 00:15:44,040
+So don't be upset if we take until 10 past seven.
+
+219
+00:15:44,040 --> 00:15:47,800
+But the idea is that it would be two hours.
+
+220
+00:15:47,800 --> 00:15:49,720
+Yeah, depends if the tone on what happens.
+
+221
+00:15:49,720 --> 00:15:50,240
+Yes?
+
+222
+00:15:50,240 --> 00:15:53,720
+[INAUDIBLE]
+
+223
+00:15:53,720 --> 00:15:54,240
+Excuse me?
+
+224
+00:15:54,240 --> 00:15:54,720
+Sorry.
+
+225
+00:15:54,720 --> 00:15:56,760
+[INAUDIBLE]
+
+226
+00:15:56,760 --> 00:16:02,120
+Yes, I'll post them online after each session.
+
+227
+00:16:02,120 --> 00:16:07,240
+Yeah, and if you go to the GUMVA stage and I guess some of you are not yet
+
+228
+00:16:07,240 --> 00:16:15,720
+be able to access convos that should be resorted quite soon. You'll see at the starting page
+
+229
+00:16:15,720 --> 00:16:22,200
+I made all kinds of modules as a kind of an outline module and there's a module per session
+
+230
+00:16:22,200 --> 00:16:25,080
+where you'll see
+
+231
+00:16:25,080 --> 00:16:28,680
+the required readings, some additional readings,
+
+232
+00:16:29,240 --> 00:16:33,320
+I'll post a link to, you know, I won't do it there.
+
+233
+00:16:33,320 --> 00:16:36,120
+I'll post a link to the recordings and the announcements.
+
+234
+00:16:36,120 --> 00:16:41,720
+There will be session slides linked to each of these modules.
+
+235
+00:16:41,720 --> 00:16:46,920
+So, I mean, I think it's neatly organized so you should find your way there.
+
+236
+00:16:46,920 --> 00:16:52,120
+Basically, all content will be provided online for people that cannot access
+
+237
+00:16:53,960 --> 00:17:02,120
+convos yet. Please find somebody who has access and try to share, I would say the course outline.
+
+238
+00:17:02,120 --> 00:17:09,480
+So please be aware that some of you don't have access yet. I think by next week it should be
+
+239
+00:17:09,480 --> 00:17:19,880
+okay. So yeah, let's see. So yeah, next in the lectures there's discussion seminars where we
+
+240
+00:17:19,880 --> 00:17:27,720
+basically use the reader to advance our insight into these discussions around urban geography.
+
+241
+00:17:27,720 --> 00:17:32,680
+And we take the various modules, so four modules, and we organize that in one block,
+
+242
+00:17:32,680 --> 00:17:38,280
+where we'll have a discussion which is basically prepared by you all in different kind of
+
+243
+00:17:38,280 --> 00:17:44,360
+smaller presentations, and then we have a collective discussion about that. It's also in the
+
+244
+00:17:44,360 --> 00:17:49,960
+an outline. So it's a different kind of series of discussion seminars because you can't
+
+245
+00:17:49,960 --> 00:17:56,480
+have a debate with 200 people in the room. So it's more like a classroom format, one
+
+246
+00:17:56,480 --> 00:18:02,360
+for the master in urban studies, one track for four cities, and then also one for geography
+
+247
+00:18:02,360 --> 00:18:09,080
+first and urbanists in one go. For must and for cities, it won't be on Mondays, it's
+
+248
+00:18:09,080 --> 00:18:11,760
+some different times during the week.
+
+249
+00:18:11,760 --> 00:18:14,960
+It's in your time schedule.
+
+250
+00:18:14,960 --> 00:18:18,320
+Please check if you've already identified
+
+251
+00:18:18,320 --> 00:18:20,080
+where the time schedule is.
+
+252
+00:18:20,080 --> 00:18:23,480
+Also where the week information is.
+
+253
+00:18:23,480 --> 00:18:25,400
+And try to notice down in your agenda,
+
+254
+00:18:25,400 --> 00:18:28,720
+because there will be an assignment later that, a small one.
+
+255
+00:18:28,720 --> 00:18:31,080
+But I would say an important one.
+
+256
+00:18:31,080 --> 00:18:32,840
+Please note that down in your agenda.
+
+257
+00:18:36,160 --> 00:18:49,160
+Also note that the lectures at some point will have three lectures now, but then we will skip one week before we go to the next module, then two classes, then we skip one week, etc, etc.
+
+258
+00:18:49,160 --> 00:19:02,160
+And it is because on certain Mondays after module will have a discussion seminar with geographers and urbanists because it's, we can't expect work students to be here during the day.
+
+259
+00:19:02,160 --> 00:19:07,460
+So we will take these Mondays and also please take notes for
+
+260
+00:19:07,460 --> 00:19:13,860
+most enforcities that you don't have to show up for, I would say, four sessions
+
+261
+00:19:13,860 --> 00:19:19,040
+on Mondays. I mean you're welcome to join, but there will be no lectures, there
+
+262
+00:19:19,040 --> 00:19:23,440
+will be discussion seminars for a not a group, okay? Just so you know, it could be a
+
+263
+00:19:23,440 --> 00:19:27,600
+week also to prepare another bit more for the discussion seminar that you
+
+264
+00:19:27,600 --> 00:19:33,200
+you may have yourself. Okay, I'll say more about the assignment linked to that in
+
+265
+00:19:33,200 --> 00:19:39,120
+seconds. Then urban social geography excursions, there's a lot of administration here apparently.
+
+266
+00:19:39,120 --> 00:19:46,160
+We offer four excursions but because of the size of the group this is for must and for cities
+
+267
+00:19:46,160 --> 00:19:56,160
+will have to, yeah, force you to make a choice. So there's four excursions, one led by me,
+
+268
+00:19:56,160 --> 00:19:59,280
+and here in Brussels which the with Brussels has a global city.
+
+269
+00:19:59,280 --> 00:20:05,120
+Nick Schuetman takes you to enter to deal with issues of social and ethnic segregation.
+
+270
+00:20:05,120 --> 00:20:07,680
+Mind that this is a bike trip.
+
+271
+00:20:07,680 --> 00:20:14,000
+So maybe some of you are less comfortable with biking, just taking to account.
+
+272
+00:20:14,000 --> 00:20:18,880
+Others may be extremely experienced and fight the rates to slow and also don't want to join.
+
+273
+00:20:18,880 --> 00:20:31,880
+then there's an excursion to Shellrva again by Nick and then Voitek will take you on an excursion in Brussels around the team of everyday mobility.
+
+274
+00:20:31,880 --> 00:20:36,880
+So for excursions you have to choose to.
+
+275
+00:20:36,880 --> 00:20:44,880
+This is also something that I mentioned in this Google Sheets or Spectsheets.
+
+276
+00:20:45,880 --> 00:20:51,480
+try to go for one Brussels excursion and one other excursion because you want to kind of
+
+277
+00:20:51,480 --> 00:20:57,240
+give everybody opportunity to go beyond Brussels otherwise your remains stuck in the Brussels bubble.
+
+278
+00:20:57,240 --> 00:21:04,120
+So there's please select either and to a I would say or either shall it run. Yes.
+
+279
+00:21:04,120 --> 00:21:12,520
+The answer by trade is actually right how about the Wilfern-Rössen pointer? No. No.
+
+280
+00:21:12,520 --> 00:21:15,800
+- Okay, thank you, I'm gonna go by train.
+
+281
+00:21:15,800 --> 00:21:19,760
+And then I don't think it's even the entire day,
+
+282
+00:21:19,760 --> 00:21:22,240
+but at some point I'll go to the luck ball,
+
+283
+00:21:22,240 --> 00:21:26,760
+which is kind of a social housing product project
+
+284
+00:21:26,760 --> 00:21:30,280
+from I think the 60s, if I'm not mistaken,
+
+285
+00:21:30,280 --> 00:21:33,720
+and to reach that, you'll go by bike.
+
+286
+00:21:33,720 --> 00:21:38,560
+Yeah, some people feel less comfortable doing that.
+
+287
+00:21:39,960 --> 00:21:43,680
+You could also say we have one month to get trained.
+
+288
+00:21:43,680 --> 00:21:47,160
+And in the case, it could be an opportunity.
+
+289
+00:21:47,160 --> 00:21:49,520
+But take this into account.
+
+290
+00:21:49,520 --> 00:21:50,020
+Yes.
+
+291
+00:21:50,020 --> 00:21:50,880
+What was the question?
+
+292
+00:21:50,880 --> 00:21:54,200
+[INAUDIBLE]
+
+293
+00:21:54,200 --> 00:21:56,840
+No, no, no, no.
+
+294
+00:21:56,840 --> 00:21:57,360
+Yeah.
+
+295
+00:21:57,360 --> 00:21:58,640
+Well, there's a bike rental.
+
+296
+00:21:58,640 --> 00:21:59,200
+Yeah.
+
+297
+00:21:59,200 --> 00:22:01,120
+Nick has arranged bikes.
+
+298
+00:22:01,120 --> 00:22:02,800
+Are there any other questions about this?
+
+299
+00:22:02,800 --> 00:22:09,280
+Not yet.
+
+300
+00:22:09,280 --> 00:22:12,960
+No, but typically, I mean, this would be communicated.
+
+301
+00:22:12,960 --> 00:22:17,760
+They started in the early morning and the end at the end of the day.
+
+302
+00:22:17,760 --> 00:22:20,000
+Yeah, but it's a full day.
+
+303
+00:22:20,000 --> 00:22:21,840
+Same.
+
+304
+00:22:21,840 --> 00:22:24,360
+OK.
+
+305
+00:22:24,360 --> 00:22:30,160
+So please go to this spreadsheet and project
+
+306
+00:22:30,160 --> 00:22:47,360
+preferences. All right. Okay, I hope this the skills it. So fill out your preferences as soon as
+
+307
+00:22:47,360 --> 00:22:54,320
+possible and no later than next week. Okay, so there's limited capacity for each of these
+
+308
+00:22:55,680 --> 00:23:03,840
+versions so please take care of it. All right a bit more about the course materials
+
+309
+00:23:03,840 --> 00:23:13,040
+as you will see on Kungvas there's a reader which what I call required readings so I expect
+
+310
+00:23:13,040 --> 00:23:20,320
+everybody reads this at least once and preferably in advance of an advance of each lecture
+
+311
+00:23:20,320 --> 00:23:23,480
+It's kind of way to keep track of the discussion.
+
+312
+00:23:23,480 --> 00:23:26,240
+And there will also be additional readings.
+
+313
+00:23:26,240 --> 00:23:30,840
+And these additional readings will kind of be the resource that we will use in the discussion
+
+314
+00:23:30,840 --> 00:23:31,840
+so please.
+
+315
+00:23:31,840 --> 00:23:42,120
+Yeah, the rest I've said already, session slides and recordings available for each session.
+
+316
+00:23:42,120 --> 00:23:43,840
+And then this is weird.
+
+317
+00:23:43,840 --> 00:23:47,920
+And then you have access via conference.
+
+318
+00:23:47,920 --> 00:23:52,400
+A bit more about evaluation and great distribution.
+
+319
+00:23:52,400 --> 00:23:57,280
+So this assignment in this question seminar
+
+320
+00:23:57,280 --> 00:24:05,200
+is a critical summary and it accounts for one fifth of your total grade.
+
+321
+00:24:05,200 --> 00:24:12,400
+So it's a kind of a way to be remunerated if you will for your efforts during the semester.
+
+322
+00:24:12,400 --> 00:24:18,240
+But the whole idea is that we digest our way through the literature and through the
+
+323
+00:24:18,240 --> 00:24:23,200
+reader, that we do this in a collective way.
+
+324
+00:24:23,200 --> 00:24:25,400
+So what is the assignment?
+
+325
+00:24:25,400 --> 00:24:29,360
+All students have to read the required readings.
+
+326
+00:24:29,360 --> 00:24:37,840
+But then I have no idea what to do actually.
+
+327
+00:24:37,840 --> 00:24:44,840
+Let me just check this is off.
+
+328
+00:24:44,840 --> 00:25:06,720
+Okay, let's just try to continue.
+
+329
+00:25:06,720 --> 00:25:12,960
+So per two, you'll be invited to critically summarize one additional reading, so it could be
+
+330
+00:25:12,960 --> 00:25:19,000
+a paper on Baywood, for instance, when we're talking about global cities.
+
+331
+00:25:19,000 --> 00:25:24,560
+And yeah, I'll announce a schedule for that.
+
+332
+00:25:24,560 --> 00:25:27,840
+You'll have a ten minutes of presentation.
+
+333
+00:25:27,840 --> 00:25:34,800
+And what you're asked to do is that you focus on a core quote or passage or excerpt from
+
+334
+00:25:34,800 --> 00:25:39,560
+the text that you kind of use this as an introduction to the text that you tell us all about
+
+335
+00:25:39,560 --> 00:25:46,040
+the main argument of the authors, that you connect this to the wider debate or the literature
+
+336
+00:25:46,040 --> 00:25:50,600
+that we've been discussing, yeah, we've been talking about women in local cities.
+
+337
+00:25:50,600 --> 00:25:51,600
+Yeah.
+
+338
+00:25:51,600 --> 00:25:56,760
+How do you connect this particular study that we're reading about?
+
+339
+00:25:56,760 --> 00:26:01,360
+And then toward the end, you want to give some kind of a critical reflection.
+
+340
+00:26:01,360 --> 00:26:03,360
+So you can also start with the critical reflection
+
+341
+00:26:03,360 --> 00:26:06,160
+and weave that through the entire presentation,
+
+342
+00:26:06,160 --> 00:26:09,560
+but you should end with a number of discussion questions
+
+343
+00:26:09,560 --> 00:26:12,440
+which we can then use to kickstart the debate.
+
+344
+00:26:12,440 --> 00:26:17,040
+So 10 minutes, you give kind of a crash or summary
+
+345
+00:26:17,040 --> 00:26:20,000
+of what the paper is about, why matters,
+
+346
+00:26:20,000 --> 00:26:24,040
+what we learn from it, and how we connect that
+
+347
+00:26:24,040 --> 00:26:26,400
+to the discussions that we're ready to have.
+
+348
+00:26:26,400 --> 00:26:28,960
+So that's the critical summary,
+
+349
+00:26:28,960 --> 00:26:30,600
+a bit more on that in a second.
+
+350
+00:26:30,600 --> 00:26:33,600
+We do have a presentation at home.
+
+351
+00:26:33,600 --> 00:26:34,600
+Yes.
+
+352
+00:26:34,600 --> 00:26:35,600
+OK.
+
+353
+00:26:35,600 --> 00:26:39,600
+Because otherwise it will be endless through a presentation.
+
+354
+00:26:39,600 --> 00:26:42,600
+It's something that you can do with too.
+
+355
+00:26:42,600 --> 00:26:47,600
+So yeah, it's both of you should take the floor at some point.
+
+356
+00:26:47,600 --> 00:26:51,600
+So there's a different balance exercise.
+
+357
+00:26:51,600 --> 00:26:54,600
+And also try to make this an integrated exercise,
+
+358
+00:26:54,600 --> 00:26:57,600
+not somebody, one person saying, OK,
+
+359
+00:26:57,600 --> 00:27:14,600
+Okay, this is the argument, but then the other person not knowing the argument, but having come up with the neural fresh. So to give a stupid example, that's not the idea. So to really try to discuss and text together and come to some kind of a shared understanding there and already debating this amongst the two of you.
+
+360
+00:27:14,600 --> 00:27:18,600
+We will really be something worked while I think.
+
+361
+00:27:18,600 --> 00:27:24,600
+Yeah, and then the largest part of the evaluation is a written exam.
+
+362
+00:27:24,600 --> 00:27:31,600
+And this is basically a way to test, you could say, your knowledge of urban,
+
+363
+00:27:31,600 --> 00:27:36,600
+of the urban theories and concepts that we've been discussing throughout the semester,
+
+364
+00:27:36,600 --> 00:27:38,600
+throughout different modules.
+
+365
+00:27:38,600 --> 00:27:44,600
+There's no particular focus on memorizing things by heart,
+
+366
+00:27:44,600 --> 00:27:53,600
+But it's about mobilizing your knowledge to study empirical examples cases, etc.
+
+367
+00:27:53,600 --> 00:27:58,600
+And I think we'll give examples of that throughout the course.
+
+368
+00:27:58,600 --> 00:28:09,600
+For instance, when you think about culture as an essay, say, urban development strategy,
+
+369
+00:28:09,600 --> 00:28:14,720
+We may get a question about this in you, santra, don't be due.
+
+370
+00:28:14,720 --> 00:28:19,360
+Santra can now be due next to the Brussels Canal Zone.
+
+371
+00:28:19,360 --> 00:28:25,600
+To what extent is this a case of cultural regeneration?
+
+372
+00:28:25,600 --> 00:28:26,800
+Discuss.
+
+373
+00:28:26,800 --> 00:28:31,360
+And then you would have to interpret the case on that base.
+
+374
+00:28:31,360 --> 00:28:33,920
+So it's not just about reproduction.
+
+375
+00:28:33,920 --> 00:28:35,920
+That's about applying what you've learned,
+
+376
+00:28:35,920 --> 00:28:39,520
+critically reflecting on the different concepts, etc.
+
+377
+00:28:39,520 --> 00:28:47,520
+And you'll use the readings, the slides, the recordings, personal notes from seminars and lectures.
+
+378
+00:28:47,520 --> 00:28:59,520
+And yeah, those who write on a disc of my excursion can also always refer to the filters to actually get a bit of more inspiration.
+
+379
+00:28:59,520 --> 00:29:05,520
+So that's the setup of the great distribution.
+
+380
+00:29:05,520 --> 00:29:09,520
+And yeah, a bit more still about this critical summary.
+
+381
+00:29:09,520 --> 00:29:17,520
+Just a number of questions that you could use as a source of inter-age inspiration or a template.
+
+382
+00:29:17,520 --> 00:29:21,520
+So what is the key message from the paper?
+
+383
+00:29:21,520 --> 00:29:26,520
+Why is it important? What is the key argument? What have you learned?
+
+384
+00:29:26,520 --> 00:29:29,520
+And really try to be as nuanced as possible.
+
+385
+00:29:29,520 --> 00:29:37,520
+Can you compare the argument being made with other perspectives or perspective from the required readings or anything
+
+386
+00:29:37,520 --> 00:29:47,520
+[BLANK_AUDIO]
+
+387
+00:29:47,520 --> 00:29:50,520
+>> You have found important?
+
+388
+00:29:50,520 --> 00:29:54,520
+>> Yeah, this is going to be a real sound.
+
+389
+00:29:54,520 --> 00:29:56,520
+>> Yeah, I have no idea.
+
+390
+00:29:56,520 --> 00:30:02,520
+>> When I move, I have you pressure.
+
+391
+00:30:02,520 --> 00:30:09,520
+Okay, let's try to continue.
+
+392
+00:30:09,520 --> 00:30:16,520
+Yeah?
+
+393
+00:30:16,520 --> 00:30:17,520
+Yeah.
+
+394
+00:30:17,520 --> 00:30:18,520
+Okay.
+
+395
+00:30:18,520 --> 00:30:23,520
+I wonder what was happening.
+
+396
+00:30:23,520 --> 00:30:26,520
+I wonder what was happening.
+
+397
+00:30:26,520 --> 00:30:29,520
+We're seeing out in the background.
+
+398
+00:30:29,520 --> 00:30:34,520
+I think maybe, you know, it might sink in some of the stuff.
+
+399
+00:30:34,520 --> 00:30:35,520
+Okay.
+
+400
+00:30:35,520 --> 00:30:40,400
+You're everything that would be the case?
+
+401
+00:30:40,400 --> 00:30:41,400
+And the appearance.
+
+402
+00:30:41,400 --> 00:30:43,400
+Good everybody's supposed to have the phones.
+
+403
+00:30:43,400 --> 00:30:45,400
+It's definitely option.
+
+404
+00:30:45,400 --> 00:30:49,400
+It's like 100 phones being switched off. Is that possible to try?
+
+405
+00:30:49,400 --> 00:30:55,400
+Yeah, but I don't really find it. I think it's necessary.
+
+406
+00:30:55,400 --> 00:31:03,400
+But yeah, I think that's what I can do actually.
+
+407
+00:31:03,400 --> 00:31:12,400
+Maybe yeah, let's try. Okay, maybe you'll have to lift it or I can sort it out later.
+
+408
+00:31:12,400 --> 00:31:26,440
+later. What happens to break? Go this one.
+
+409
+00:31:26,440 --> 00:31:55,440
+[Music]
+
+410
+00:31:55,440 --> 00:31:58,280
+Let's see.
+
+411
+00:31:58,280 --> 00:31:59,280
+Excuse me.
+
+412
+00:31:59,280 --> 00:32:02,120
+[INAUDIBLE]
+
+413
+00:32:02,120 --> 00:32:04,560
+And knowingly.
+
+414
+00:32:04,560 --> 00:32:05,840
+OK, I'm not a genius.
+
+415
+00:32:05,840 --> 00:32:09,120
+This is clear right now.
+
+416
+00:32:09,120 --> 00:32:10,360
+All right.
+
+417
+00:32:10,360 --> 00:32:12,760
+And then, yeah, final point that I already
+
+418
+00:32:12,760 --> 00:32:16,680
+said is try to think the debate.
+
+419
+00:32:16,680 --> 00:32:19,720
+That's what it's all about in the end.
+
+420
+00:32:19,720 --> 00:32:20,720
+OK?
+
+421
+00:32:20,720 --> 00:32:22,480
+[INAUDIBLE]
+
+422
+00:32:22,480 --> 00:32:24,800
+No, you have to do this once.
+
+423
+00:32:24,800 --> 00:32:31,300
+Yeah, so what I'll do is as soon as I have the full overview is who are actually taking this course, make a schedule.
+
+424
+00:32:31,300 --> 00:32:36,000
+And then you'll have to present once with somebody else.
+
+425
+00:32:36,000 --> 00:32:37,500
+Yeah.
+
+426
+00:32:37,500 --> 00:32:54,600
+It's not on canvas. It's a different kind of Google sheets, but you can click the link in the slides that I just showed.
+
+427
+00:32:54,600 --> 00:32:57,360
+So, when you're a little bit different.
+
+428
+00:32:57,360 --> 00:32:59,040
+Yeah.
+
+429
+00:32:59,040 --> 00:33:04,120
+But that, those who don't have access to come
+
+430
+00:33:04,120 --> 00:33:09,120
+for us may be asked somebody who has to share this link
+
+431
+00:33:09,120 --> 00:33:13,880
+or just ask somebody to sign you up via this link.
+
+432
+00:33:13,880 --> 00:33:15,480
+OK.
+
+433
+00:33:15,480 --> 00:33:17,720
+Is that clear?
+
+434
+00:33:17,720 --> 00:33:19,640
+Was there a whole lot of administration
+
+435
+00:33:19,640 --> 00:33:21,600
+sorry for that?
+
+436
+00:33:21,600 --> 00:33:24,160
+But that's how it goes, I guess.
+
+437
+00:33:24,160 --> 00:33:26,320
+So I hope everything is clear. Yes, please.
+
+438
+00:33:26,320 --> 00:33:37,720
+Yeah, but I'll make the distribution.
+
+439
+00:33:37,720 --> 00:33:41,680
+Yeah, because otherwise if we do this bottom up, then
+
+440
+00:33:41,680 --> 00:33:44,000
+it will be very, very difficult.
+
+441
+00:33:44,000 --> 00:33:49,520
+So well, yeah, but all texts are interesting, I would say.
+
+442
+00:33:49,520 --> 00:33:52,640
+So that's the idea.
+
+443
+00:33:52,640 --> 00:33:57,680
+But it might take a while because I think for most enforceities
+
+444
+00:33:57,680 --> 00:33:58,840
+quite clear.
+
+445
+00:33:58,840 --> 00:34:00,000
+So that could go fast.
+
+446
+00:34:00,000 --> 00:34:02,980
+Maybe for geographers and staff, it
+
+447
+00:34:02,980 --> 00:34:06,000
+could last a little bit longer because sometimes it's unclear
+
+448
+00:34:06,000 --> 00:34:07,000
+who is actually in the course.
+
+449
+00:34:07,000 --> 00:34:08,520
+But for most enforceities, I think this
+
+450
+00:34:08,520 --> 00:34:10,160
+can go actually quite fast.
+
+451
+00:34:10,160 --> 00:34:14,960
+And then you can also plan a little bit working semester.
+
+452
+00:34:14,960 --> 00:34:15,480
+OK.
+
+453
+00:34:15,480 --> 00:34:19,400
+All right.
+
+454
+00:34:19,400 --> 00:34:24,120
+So let's turn to some content then.
+
+455
+00:34:24,120 --> 00:34:26,680
+And let's start a trip.
+
+456
+00:34:26,680 --> 00:34:30,440
+What we'll be discussing in earnest today
+
+457
+00:34:30,440 --> 00:34:35,280
+is basically what we'll do is we'll deconstruct the title
+
+458
+00:34:35,280 --> 00:34:40,800
+course and ask for questions.
+
+459
+00:34:40,800 --> 00:34:43,040
+What is the urban?
+
+460
+00:34:43,040 --> 00:34:45,240
+What is the city?
+
+461
+00:34:45,240 --> 00:34:47,320
+What is geography?
+
+462
+00:34:47,320 --> 00:34:52,280
+And what does it mean when I say I'm critical?
+
+463
+00:34:52,280 --> 00:34:54,080
+Arguably critical is not in the title,
+
+464
+00:34:54,080 --> 00:34:56,720
+but it could have been.
+
+465
+00:34:56,720 --> 00:35:02,120
+It may seem nonsensical, but I think asking these very
+
+466
+00:35:02,120 --> 00:35:05,320
+blue sky questions perhaps could get us
+
+467
+00:35:05,320 --> 00:35:08,320
+closer to what understanding what urban geography is about.
+
+468
+00:35:08,320 --> 00:35:10,120
+So you can also start already starting
+
+469
+00:35:10,120 --> 00:35:13,840
+a little bit about what we would mean
+
+470
+00:35:13,840 --> 00:35:18,640
+in the term the urban and the city.
+
+471
+00:35:18,640 --> 00:35:22,400
+And maybe as I take you to a number of exhibits,
+
+472
+00:35:22,400 --> 00:35:25,120
+you can draw some inspiration for that,
+
+473
+00:35:25,120 --> 00:35:26,560
+and you can make a list.
+
+474
+00:35:26,560 --> 00:35:28,000
+And then in a few minutes, you'll
+
+475
+00:35:28,000 --> 00:35:31,920
+be invited to write a very short, one-minute paper.
+
+476
+00:35:31,920 --> 00:35:34,000
+It doesn't have to be pros, where you collect
+
+477
+00:35:34,000 --> 00:35:39,080
+a little bit of ideas on what those two terms put me.
+
+478
+00:35:39,080 --> 00:35:41,760
+Let's get started a bit.
+
+479
+00:35:41,760 --> 00:35:44,100
+You probably, and one of the reasons,
+
+480
+00:35:44,100 --> 00:35:46,660
+why some of you have studies,
+
+481
+00:35:46,660 --> 00:35:50,660
+was selected the Muslim urban studies or four cities,
+
+482
+00:35:50,660 --> 00:35:55,140
+is because you have been seduced by a discourse
+
+483
+00:35:55,140 --> 00:35:58,500
+or a frame of relief in the urban age,
+
+484
+00:35:58,500 --> 00:36:01,380
+processes occur increasingly in cities,
+
+485
+00:36:01,380 --> 00:36:03,300
+therefore we need to understand cities
+
+486
+00:36:03,300 --> 00:36:05,780
+if we want to make sense of our futures,
+
+487
+00:36:05,780 --> 00:36:07,420
+or something like that.
+
+488
+00:36:07,420 --> 00:36:10,780
+And this would be some kind of a framework or repertoire
+
+489
+00:36:10,780 --> 00:36:14,780
+That's the world that the United Nations
+
+490
+00:36:14,780 --> 00:36:18,780
+sorry calls a framework of the urban age.
+
+491
+00:36:18,780 --> 00:36:21,780
+And it's a kind of frame that says,
+
+492
+00:36:21,780 --> 00:36:24,780
+well, we've long been a, you could say,
+
+493
+00:36:24,780 --> 00:36:28,780
+rural global population or rural species.
+
+494
+00:36:28,780 --> 00:36:30,780
+But at some point,
+
+495
+00:36:30,780 --> 00:36:32,780
+and someday in 2005,
+
+496
+00:36:32,780 --> 00:36:36,780
+we became an urban species and ever since,
+
+497
+00:36:36,780 --> 00:36:39,780
+basically rural population growth
+
+498
+00:36:39,780 --> 00:36:41,580
+will be urban growth.
+
+499
+00:36:41,580 --> 00:36:44,780
+So increasingly, we're undergoing
+
+500
+00:36:44,780 --> 00:36:48,140
+as a global society of growth, of urbanization,
+
+501
+00:36:48,140 --> 00:36:52,140
+where more and more people become urban.
+
+502
+00:36:52,140 --> 00:36:55,180
+So this kind of mantra of the urban age
+
+503
+00:36:55,180 --> 00:36:58,220
+has been around since about 2007,
+
+504
+00:36:58,220 --> 00:37:02,580
+so immediately after this historical urban transition.
+
+505
+00:37:02,580 --> 00:37:06,980
+And it has been repeated as a kind of a motivation
+
+506
+00:37:06,980 --> 00:37:09,700
+for increased attention to cities.
+
+507
+00:37:09,700 --> 00:37:18,700
+So, and there's something behind that obviously because there is indeed a transition to the urban and it's observable here in Berkeley.
+
+508
+00:37:18,700 --> 00:37:30,700
+Roughly in the 1950s, about 70% of the population global population lived in rural areas and only 30% in urban areas.
+
+509
+00:37:30,700 --> 00:37:39,740
+It was 50/50 apparently around 2005 and now it's reversed or it's going to be reversed by 2050.
+
+510
+00:37:39,740 --> 00:37:44,620
+Expectation is that 70% of the global population will live in cities.
+
+511
+00:37:44,620 --> 00:37:53,820
+So that's kind of the framework of the urban age that is very much projected by
+
+512
+00:37:53,820 --> 00:37:58,820
+by United Nations, by all kinds of world reports,
+
+513
+00:37:58,820 --> 00:38:02,980
+and that is kind of taken over by both critical
+
+514
+00:38:02,980 --> 00:38:06,740
+and more uncritical voices and debate.
+
+515
+00:38:06,740 --> 00:38:11,420
+McKinsey would also use this to argue for more consultancy
+
+516
+00:38:11,420 --> 00:38:13,580
+into urban governance.
+
+517
+00:38:13,580 --> 00:38:19,700
+But just as much like Davis, when it talks about cities
+
+518
+00:38:19,900 --> 00:38:28,380
+slums, it uses as a critical framework to make his work in court.
+
+519
+00:38:28,380 --> 00:38:36,820
+So what is behind this is an assumed process or an identifiable process of globalized urbanization.
+
+520
+00:38:36,820 --> 00:38:44,700
+So the process by which the urban condition, if you will, is becoming a global phenomenon.
+
+521
+00:38:44,700 --> 00:38:49,700
+urbanization used to be something that was not global at all.
+
+522
+00:38:49,700 --> 00:38:59,380
+And if you look at a few maps by Michael Pachoning, has a great handbook on cities.
+
+523
+00:38:59,380 --> 00:39:06,140
+You see that it was very much, say, a Western European or Northern American affair.
+
+524
+00:39:06,140 --> 00:39:16,300
+So UK was extremely urbanized, European continent, also quite and US as well.
+
+525
+00:39:16,300 --> 00:39:21,500
+Apparently, a lost color is also extremely urbanized.
+
+526
+00:39:21,500 --> 00:39:27,500
+The rest of the world was on the map, but not really on the map of urbanization.
+
+527
+00:39:27,500 --> 00:39:29,580
+It didn't occur there.
+
+528
+00:39:29,580 --> 00:39:30,580
+Bam.
+
+529
+00:39:30,580 --> 00:39:37,780
+forward to the 1950s you see that this process is spreading, especially you could say throughout
+
+530
+00:39:37,780 --> 00:39:44,340
+your being continents, throughout the Commonwealth, you see Australia and kind of popping up
+
+531
+00:39:44,340 --> 00:39:56,420
+also you could say more developed mentalists say in Latin America, USSR and to a very very limited extent
+
+532
+00:39:56,420 --> 00:40:06,420
+Africa and then especially the market. Not so much in Asia as you can see. We're moving forward
+
+533
+00:40:06,420 --> 00:40:16,660
+in 1990s. We see that this process is both extending geographically and intensified. So a lot of
+
+534
+00:40:16,660 --> 00:40:23,140
+countries or quite a few countries in Europe have now an urbanization rate, apparently between 80
+
+535
+00:40:23,140 --> 00:40:30,500
+and 100%, which is kind of the ratio between population that lives in cities on the total population.
+
+536
+00:40:30,500 --> 00:40:36,740
+So between 80 and 100% of people live in cities according to these definitions.
+
+537
+00:40:36,740 --> 00:40:45,780
+Again, note Australia, it's a tremendously organized continent, if you will.
+
+538
+00:40:45,780 --> 00:40:50,340
+Obviously this is a projection of the ratio on the entire territory.
+
+539
+00:40:50,340 --> 00:40:55,340
+Okay, so almost all Australians live in cities,
+
+540
+00:40:55,340 --> 00:40:58,940
+but that doesn't mean that the entirety of Australia is a city.
+
+541
+00:40:58,940 --> 00:41:03,140
+Maps could lie, some extent.
+
+542
+00:41:03,140 --> 00:41:07,540
+So we may be exaggerating some things when we think about
+
+543
+00:41:07,540 --> 00:41:13,940
+the use of natural resources or environmental impact.
+
+544
+00:41:13,940 --> 00:41:15,840
+That's something that we could think about.
+
+545
+00:41:17,940 --> 00:41:21,100
+What is also important is kind of a different kind of figure,
+
+546
+00:41:21,100 --> 00:41:23,660
+is that there's some kind of a decoupling
+
+547
+00:41:23,660 --> 00:41:27,580
+between processes of one of the better words,
+
+548
+00:41:27,580 --> 00:41:30,700
+economic growth or what some people call
+
+549
+00:41:30,700 --> 00:41:35,340
+more problematic development and urbanization.
+
+550
+00:41:35,340 --> 00:41:38,500
+When you go back to say the history of urbanization
+
+551
+00:41:38,500 --> 00:41:43,060
+in the 19th century, it was a process that was intimately
+
+552
+00:41:43,060 --> 00:41:47,100
+linked to industrialization, economic growth,
+
+553
+00:41:47,100 --> 00:41:51,860
+But also obviously as we know, uneven development within West
+
+554
+00:41:51,860 --> 00:41:53,660
+New York being cities.
+
+555
+00:41:53,660 --> 00:41:57,060
+There was a lot of economic development in the UK.
+
+556
+00:41:57,060 --> 00:42:01,180
+Cities like Manchester, because there was a group of the textile
+
+557
+00:42:01,180 --> 00:42:04,220
+industry that led to economic growth.
+
+558
+00:42:04,220 --> 00:42:07,300
+But it also led to huge urban inequalities.
+
+559
+00:42:07,300 --> 00:42:09,860
+But in any case, at the aggregate level,
+
+560
+00:42:09,860 --> 00:42:12,180
+you could say, at the level of the country,
+
+561
+00:42:12,180 --> 00:42:16,180
+or the city, there wasn't an economic improvement.
+
+562
+00:42:16,180 --> 00:42:19,580
+and that's connected to the growth of these cities.
+
+563
+00:42:19,580 --> 00:42:23,200
+What you find in, you could say, the last 20 years
+
+564
+00:42:23,200 --> 00:42:25,340
+and this has something to do with all kinds
+
+565
+00:42:25,340 --> 00:42:29,540
+of neoliberal policies that work at the global scale,
+
+566
+00:42:29,540 --> 00:42:33,980
+especially when you talk about Asia and Africa.
+
+567
+00:42:33,980 --> 00:42:37,780
+You could say the strategic adjustment plans
+
+568
+00:42:37,780 --> 00:42:42,700
+that have been rolled out there by organizations such as
+
+569
+00:42:42,700 --> 00:42:44,700
+the International Monetary Fund
+
+570
+00:42:44,700 --> 00:42:47,700
+and it's a sister of brother, the World Bank,
+
+571
+00:42:47,700 --> 00:42:50,300
+which has basically opened up the borders
+
+572
+00:42:50,300 --> 00:42:53,340
+of these countries before an investment
+
+573
+00:42:53,340 --> 00:42:57,180
+as this which kickstart growth, okay?
+
+574
+00:42:57,180 --> 00:43:00,740
+In reality, one could argue that this has produced
+
+575
+00:43:00,740 --> 00:43:03,180
+a dependent form of growth,
+
+576
+00:43:03,180 --> 00:43:06,460
+or it's an exploitative relation
+
+577
+00:43:06,460 --> 00:43:11,180
+between the global periphery and the global core, okay?
+
+578
+00:43:11,180 --> 00:43:13,780
+But at the same time has initiated
+
+579
+00:43:13,780 --> 00:43:16,660
+and this is kind of the argument by my Davis,
+
+580
+00:43:16,660 --> 00:43:20,060
+an implosion of the countryside, rural living
+
+581
+00:43:20,060 --> 00:43:24,260
+in these places became untenable
+
+582
+00:43:24,260 --> 00:43:27,980
+because a lot of, say, subsidized activities
+
+583
+00:43:27,980 --> 00:43:30,660
+or state controlled activities were rolled back,
+
+584
+00:43:30,660 --> 00:43:32,460
+for instance, in agriculture.
+
+585
+00:43:32,460 --> 00:43:35,660
+This led to huge deprivation on the countryside
+
+586
+00:43:35,660 --> 00:43:39,500
+and in varying degrees, a search to grow
+
+587
+00:43:39,500 --> 00:43:43,740
+for the better life and a lot of African neutrides.
+
+588
+00:43:43,740 --> 00:43:48,740
+So if we told that it could be a sign of economic development,
+
+589
+00:43:48,740 --> 00:43:51,740
+you could say in the 19th century, and even if we take up
+
+590
+00:43:51,740 --> 00:43:56,740
+with a pinch of salt, that's still not possible to say in when you talk
+
+591
+00:43:56,740 --> 00:44:01,740
+about urbanization rates, for instance, in Africa, or parts of Asia.
+
+592
+00:44:01,740 --> 00:44:02,740
+Okay.
+
+593
+00:44:02,740 --> 00:44:08,740
+Now, so, and if you look at the rates of urbanization,
+
+594
+00:44:08,740 --> 00:44:15,900
+We're talking about 7% to 8% in some sub-Saharan African countries, whereas if you look at
+
+595
+00:44:15,900 --> 00:44:23,620
+older industrial areas or urbanized areas, it's somewhere between 1% and 2% still growth.
+
+596
+00:44:23,620 --> 00:44:30,580
+So with doubling, I would say in 36 years, if it's 2%, but far far less.
+
+597
+00:44:30,580 --> 00:44:37,860
+So yes, globalized urbanization that also shows, and then you look at the
+
+598
+00:44:38,420 --> 00:44:47,940
+list of largest cities. It was very much Euro-American if you will. The industrial
+
+599
+00:44:47,940 --> 00:44:57,100
+hard-life, hard-lands, some exceptions Shanghai for instance, Japan, 1950s. But then it
+
+600
+00:44:57,100 --> 00:45:07,340
+It starts to really diversify and become actually a matter of not Euro-America, but Asia, Latin
+
+601
+00:45:07,340 --> 00:45:14,040
+America, and a number of leading cities in terms of population in the 1950s, and now well
+
+602
+00:45:14,040 --> 00:45:17,820
+down the list, take New York, for instance, others.
+
+603
+00:45:17,820 --> 00:45:23,460
+So this kind of thesis that urbanization is now a globalized phenomenon.
+
+604
+00:45:23,460 --> 00:45:27,460
+There are still different kinds of patterns behind that.
+
+605
+00:45:27,460 --> 00:45:34,460
+Just you can look into this at home because it may be a bit small to actually read here.
+
+606
+00:45:34,460 --> 00:45:41,460
+Some places when you look at Europe, we're talking about 80% urbanization.
+
+607
+00:45:41,460 --> 00:45:47,460
+Still in Africa despite its large urbanization rate,
+
+608
+00:45:47,460 --> 00:45:51,460
+still for most rural society.
+
+609
+00:45:51,460 --> 00:45:57,260
+So even despite the kind of a global transition toward globalized urbanization,
+
+610
+00:45:57,260 --> 00:46:01,860
+there's quite a bit of regional differences that we need to take into account.
+
+611
+00:46:01,860 --> 00:46:04,460
+And that brings me to the next slide.
+
+612
+00:46:04,460 --> 00:46:09,460
+This famous image that I stole it from Neil Brenner,
+
+613
+00:46:09,460 --> 00:46:18,860
+where Batman beats the crap out of Robin because he begins to talk about this urban age again.
+
+614
+00:46:18,860 --> 00:46:26,220
+I think it's a moment to really question critically what is meant by the urban ancient, to
+
+615
+00:46:26,220 --> 00:46:31,500
+what extent we should really believe and go along in this urban age frame.
+
+616
+00:46:31,500 --> 00:46:35,340
+And a very nice paper I haven't put it in the reader because there's already quite a
+
+617
+00:46:35,340 --> 00:46:39,340
+bit of things in there.
+
+618
+00:46:39,340 --> 00:46:47,060
+Is the paper by Neil Brenner and Christian Smith from 2014 and they really deconstruct this
+
+619
+00:46:47,060 --> 00:46:55,780
+narrative and they pointed to elements. One is the notion or the idea or the
+
+620
+00:46:55,780 --> 00:46:59,380
+observation that we're living in the urban age could be a statistical
+
+621
+00:46:59,380 --> 00:47:06,260
+artifact. So it's a matter of how we measure things and there's actually quite a
+
+622
+00:47:06,260 --> 00:47:14,180
+bit of divergence over time but also across countries as to how a city is
+
+623
+00:47:14,180 --> 00:47:24,980
+actually measured. In some contexts there's a city, something counts as a city as of 1,000 inhabitants.
+
+624
+00:47:24,980 --> 00:47:33,380
+In other countries it would be 10,000 and it would have a tremendous impact on how we calculate the urbanization.
+
+625
+00:47:33,380 --> 00:47:43,340
+So this is more fundamentally what an argument is that there's a huge nationalist bias in how the urban
+
+626
+00:47:43,340 --> 00:47:44,460
+is defined.
+
+627
+00:47:44,460 --> 00:47:46,940
+I'm not saying that there's 200 definitions,
+
+628
+00:47:46,940 --> 00:47:53,700
+but for instance, when you look at the work of organizations
+
+629
+00:47:53,700 --> 00:47:56,980
+like United Nations, they have been struggling
+
+630
+00:47:56,980 --> 00:48:01,500
+to set a standard definition of what the urban is.
+
+631
+00:48:01,500 --> 00:48:03,220
+There's still quite a bit of diversity.
+
+632
+00:48:03,220 --> 00:48:06,300
+And when you look at the work of urban geographers
+
+633
+00:48:06,300 --> 00:48:10,940
+for the past 50 or 60 years, this is a kind of recurring issue.
+
+634
+00:48:10,940 --> 00:48:15,940
+So what they say is that, yes, there are real empirical caps
+
+635
+00:48:15,940 --> 00:48:20,540
+knowledge here of the rate of urbanization.
+
+636
+00:48:20,540 --> 00:48:24,700
+And therefore, it's almost meaningless to say
+
+637
+00:48:24,700 --> 00:48:29,380
+in some day, in 2005, we became more urban,
+
+638
+00:48:29,380 --> 00:48:31,300
+I'll repine now our urban species.
+
+639
+00:48:31,300 --> 00:48:34,740
+So it's kind of, yes, there's a broad trajectory
+
+640
+00:48:34,740 --> 00:48:40,700
+toward urbanization, but there's a very large bandwidth
+
+641
+00:48:40,700 --> 00:48:42,700
+that we should consider.
+
+642
+00:48:42,700 --> 00:48:48,940
+And in fact, it could be more interesting to look at different kind of urbanization trajectories
+
+643
+00:48:48,940 --> 00:48:54,140
+because it's dealing with all kinds of different processes that need to be studied as
+
+644
+00:48:54,140 --> 00:48:56,860
+historically unfolding
+
+645
+00:48:56,860 --> 00:49:00,420
+rather just than being captured in a figure of
+
+646
+00:49:00,420 --> 00:49:05,500
+75% for it. So it's more of an invitation. It's not looking at it.
+
+647
+00:49:05,500 --> 00:49:09,700
+So there's also connects to the second argument is that
+
+648
+00:49:10,100 --> 00:49:18,040
+The urban, as it is being measured by a process of urbanization, is so much of a chaotic
+
+649
+00:49:18,040 --> 00:49:19,580
+abstraction.
+
+650
+00:49:19,580 --> 00:49:27,780
+It means that different kind of things that are not necessarily related are packed together
+
+651
+00:49:27,780 --> 00:49:31,700
+to define a certain process.
+
+652
+00:49:31,700 --> 00:49:35,820
+And this is something that, for instance, a new Brenner and Christmas month have also worked
+
+653
+00:49:35,820 --> 00:49:42,820
+on later as the discussion of planetary urbanization, I invite you to look into that debate.
+
+654
+00:49:42,820 --> 00:49:49,340
+Their argument is that the urban, in fact, as a condition, as a way of life, or as a system
+
+655
+00:49:49,340 --> 00:49:56,940
+of production or exploitation does not neatly overlay actual morphologies of cities.
+
+656
+00:49:56,940 --> 00:50:06,900
+So the urban may have nothing to do with a concentrated blob of people in space or with
+
+657
+00:50:06,900 --> 00:50:09,340
+sitting within a particular jurisdiction.
+
+658
+00:50:09,340 --> 00:50:12,900
+It could be connected to suburbs, et cetera.
+
+659
+00:50:12,900 --> 00:50:19,220
+So what they kind of are concerned with is when you talk about a race of urbanization,
+
+660
+00:50:19,220 --> 00:50:26,820
+is that you classify or categorize quite diverse ways of living into one category of
+
+661
+00:50:26,820 --> 00:50:32,020
+the urban and even more problematic.
+
+662
+00:50:32,020 --> 00:50:35,300
+So hence we don't really learn anything about it.
+
+663
+00:50:35,300 --> 00:50:38,700
+And what is even more problematic is that the rural is defined
+
+664
+00:50:38,700 --> 00:50:43,060
+as the non-urban and is nearby.
+
+665
+00:50:43,060 --> 00:50:47,020
+Yeah, not studied at all as kind of the left behind place,
+
+666
+00:50:47,020 --> 00:50:50,540
+that only exists in opposition to what really counts, which
+
+667
+00:50:50,540 --> 00:50:53,820
+is then the way forward, which is urban living.
+
+668
+00:50:53,820 --> 00:51:01,700
+So that's kind of their argument, just to kick start a little bit to your thinking on this,
+
+669
+00:51:01,700 --> 00:51:07,100
+since we now have, I would say, 60 seconds for a one-minute paper, okay?
+
+670
+00:51:07,100 --> 00:51:08,700
+So please think a little bit.
+
+671
+00:51:08,700 --> 00:51:17,220
+You can talk to your neighbor in any direction about what the urban is, what a city is,
+
+672
+00:51:17,220 --> 00:51:20,380
+and what the difference is between the two.
+
+673
+00:51:20,380 --> 00:51:21,380
+Right.
+
+674
+00:51:21,380 --> 00:51:25,820
+Your gone and gone.
+
+675
+00:51:25,820 --> 00:51:28,820
+(audience chattering)
+
+676
+00:51:28,820 --> 00:51:57,820
+[ Music ]
+
+677
+00:51:57,820 --> 00:52:00,820
+(people chattering)
+
+678
+00:52:00,820 --> 00:52:03,580
+(people talking)
+
+679
+00:52:03,580 --> 00:52:06,340
+(people talking)
+
+680
+00:52:06,340 --> 00:52:09,100
+(crowd murmuring)
+
+681
+00:52:09,100 --> 00:52:12,100
+(people chattering)
+
+682
+00:52:12,100 --> 00:52:14,860
+(crowd chatter)
+
+683
+00:52:14,860 --> 00:52:42,860
+[ Background Sounds ]
+
+684
+00:52:42,860 --> 00:52:45,520
+(people talking)
+
+685
+00:52:45,520 --> 00:52:49,520
+Now, those who are wandering in great space!
+
+686
+00:52:49,520 --> 00:52:52,100
+(crowd chatter)
+
+687
+00:52:52,100 --> 00:53:15,100
+[ Inaudible ]
+
+688
+00:53:15,100 --> 00:53:19,100
+Almost three minutes for a little bit of paper.
+
+689
+00:53:20,100 --> 00:53:27,100
+What is a city? What's the urban? What's the difference?
+
+690
+00:53:27,100 --> 00:53:32,100
+Yeah.
+
+691
+00:53:32,100 --> 00:53:38,100
+[ Inaudible ]
+
+692
+00:53:38,100 --> 00:53:40,100
+Now what's the problem of that?
+
+693
+00:53:40,100 --> 00:53:43,100
+[ Inaudible ]
+
+694
+00:53:43,100 --> 00:53:45,100
+Okay, so what's the difference then?
+
+695
+00:53:45,100 --> 00:53:49,100
+Why do you say, why is the urban in a place?
+
+696
+00:53:49,100 --> 00:53:55,500
+Or maybe not. Or rather, it would be a high density of the money to the player and CT.
+
+697
+00:53:55,500 --> 00:53:58,100
+Your assessor just put him across it.
+
+698
+00:53:58,100 --> 00:54:01,100
+Okay. And why do you think it's the reverse?
+
+699
+00:54:01,100 --> 00:54:07,100
+I think element of the oven can exist everywhere. I don't think element of the technique is everyone.
+
+700
+00:54:07,100 --> 00:54:14,100
+So the city defined as a dense place is kind of identifiable in space, rather urban goods.
+
+701
+00:54:14,100 --> 00:54:26,100
+Yeah, connected everywhere potentially. Okay, other ideas? Yeah?
+
+702
+00:54:26,100 --> 00:54:40,100
+I would say that urban and public knowledge along the federal world of the city is something like you should see in this high-quality economy that are live in a field of mind and it's a company that has been charged with something more to be closed for me.
+
+703
+00:54:40,100 --> 00:54:46,100
+So one is about, you could say, concrete, lumped material.
+
+704
+00:54:46,100 --> 00:54:52,100
+In other words, it's about device by a little bit of special, or interaction.
+
+705
+00:54:52,100 --> 00:54:55,100
+Well, mouth-driven societies, yeah.
+
+706
+00:54:55,100 --> 00:54:56,100
+Are you going to use?
+
+707
+00:54:56,100 --> 00:54:57,100
+Do you have any ideas?
+
+708
+00:54:57,100 --> 00:54:58,100
+Yeah?
+
+709
+00:54:58,100 --> 00:55:03,100
+I would call the government as much as the accident and it's getting a big threat to the police.
+
+710
+00:55:03,100 --> 00:55:05,100
+Yeah, yeah.
+
+711
+00:55:05,100 --> 00:55:08,100
+I think that connects a little bit to what we say, processes,
+
+712
+00:55:08,100 --> 00:55:12,100
+and then maybe outcomes for the organization.
+
+713
+00:55:12,100 --> 00:55:14,100
+Now, otherwise it is.
+
+714
+00:55:14,100 --> 00:55:17,100
+Yeah.
+
+715
+00:55:17,100 --> 00:55:22,100
+There are a big meaning, a movement towards the collective good.
+
+716
+00:55:22,100 --> 00:55:26,100
+So, a collective use, let me put it like that.
+
+717
+00:55:26,100 --> 00:55:29,100
+The notions of transportation to get
+
+718
+00:55:29,100 --> 00:55:32,100
+amongst a number of people from one place to the other,
+
+719
+00:55:32,100 --> 00:55:34,100
+communication etc.
+
+720
+00:55:34,100 --> 00:55:38,100
+And now we will be captured by the notion of the city.
+
+721
+00:55:38,100 --> 00:55:47,540
+If need not, the east can be in places of extreme excuse and a date of dedicated to work
+
+722
+00:55:47,540 --> 00:55:49,540
+and its business and caste.
+
+723
+00:55:49,540 --> 00:55:57,140
+So a lot of not all cities have the notions of having public transport that is important for
+
+724
+00:55:57,140 --> 00:55:58,140
+everyone.
+
+725
+00:55:58,140 --> 00:56:02,420
+But I would say that if you are talking about the government, you know already thinking of
+
+726
+00:56:02,420 --> 00:56:09,220
+in terms of how do we organize this mass group of people and how do we get order into
+
+727
+00:56:09,220 --> 00:56:17,940
+so how about the particular project particular values perhaps behind policies to organize cities
+
+728
+00:56:17,940 --> 00:56:24,420
+yeah building on the process idea that would mention okay okay and the other ideas still
+
+729
+00:56:27,220 --> 00:56:32,220
+I think it's very interesting to me. I think of it having things, circle, look at the like
+
+730
+00:56:32,220 --> 00:56:39,720
+economic relationships between people and maybe that was the mapping on to sort of like a
+
+731
+00:56:39,720 --> 00:56:47,220
+governance structure. For urban and maybe think more about what is the like level of density
+
+732
+00:56:47,220 --> 00:56:51,220
+and the living situation of people.
+
+733
+00:56:51,220 --> 00:56:52,220
+- Okay.
+
+734
+00:56:52,220 --> 00:56:53,060
+- Mm-hmm.
+
+735
+00:56:53,060 --> 00:56:55,220
+- Kind of more, like a descriptor versus like,
+
+736
+00:56:55,220 --> 00:57:00,540
+thing that everybody is like,
+
+737
+00:57:00,540 --> 00:57:02,300
+waiting to your work for just anyone.
+
+738
+00:57:02,300 --> 00:57:04,180
+- Yeah, yeah, yeah, yeah.
+
+739
+00:57:04,180 --> 00:57:07,700
+There was a hand so your eyes somewhere, yeah, at the back.
+
+740
+00:57:07,700 --> 00:57:11,300
+- Yeah, I'm just gonna sit behind the other thing.
+
+741
+00:57:11,300 --> 00:57:13,900
+They have a boundary and they're kind of like
+
+742
+00:57:13,900 --> 00:57:16,980
+of the public's common control committee.
+
+743
+00:57:16,980 --> 00:57:18,140
+- The question of the next question
+
+744
+00:57:18,140 --> 00:57:20,820
+is that you have some combination of that
+
+745
+00:57:20,820 --> 00:57:21,960
+to you,
+
+746
+00:57:21,960 --> 00:57:25,660
+and you're very familiar with the committee.
+
+747
+00:57:25,660 --> 00:57:29,420
+- Yeah, so it's a administrative unit
+
+748
+00:57:29,420 --> 00:57:32,260
+with elected officials, et cetera,
+
+749
+00:57:32,260 --> 00:57:34,540
+that's a counts within the boundaries
+
+750
+00:57:34,540 --> 00:57:36,820
+of a certain space and I'll be on that.
+
+751
+00:57:36,820 --> 00:57:40,300
+All right, so inductively,
+
+752
+00:57:40,300 --> 00:57:43,860
+you might make my next slide completely redundant.
+
+753
+00:57:43,860 --> 00:57:48,860
+So yeah, one of the ideas and important say,
+
+754
+00:57:48,860 --> 00:57:52,420
+I mean with revolutionary, it's kind of a sensitivity
+
+755
+00:57:52,420 --> 00:57:56,540
+that the urban and citizens are not necessarily the same.
+
+756
+00:57:56,540 --> 00:58:00,420
+I think the point is not to say or to define clearly
+
+757
+00:58:00,420 --> 00:58:03,620
+what a city is or the urban is,
+
+758
+00:58:03,620 --> 00:58:06,100
+but to offer different kind of perspectives,
+
+759
+00:58:06,100 --> 00:58:11,820
+different kind of lenses on the question.
+
+760
+00:58:11,820 --> 00:58:14,980
+and by offering different kind of perspectives
+
+761
+00:58:14,980 --> 00:58:18,220
+or emerging from different kind of questions,
+
+762
+00:58:18,220 --> 00:58:21,820
+we may actually learn more about the process of urbanization.
+
+763
+00:58:21,820 --> 00:58:25,540
+So there's not kind of one ruling explanation,
+
+764
+00:58:25,540 --> 00:58:27,580
+but there's many ways of looking at it.
+
+765
+00:58:27,580 --> 00:58:32,660
+But I think, yeah, we'll get to something more.
+
+766
+00:58:32,660 --> 00:58:37,660
+So one idea is that it's about a concentration,
+
+767
+00:58:37,660 --> 00:58:41,300
+people, it's also about the concentration of stuff.
+
+768
+00:58:41,300 --> 00:58:44,860
+lump of material, the built environment.
+
+769
+00:58:44,860 --> 00:58:46,700
+Yeah, so it's something with density,
+
+770
+00:58:46,700 --> 00:58:50,260
+something else, so a lot of I think urbanists would recognize,
+
+771
+00:58:50,260 --> 00:58:53,500
+so it's the built environment, built up space
+
+772
+00:58:53,500 --> 00:58:58,420
+that really gives morphological signs that at some point
+
+773
+00:58:58,420 --> 00:59:00,620
+we have arrived in the city.
+
+774
+00:59:00,620 --> 00:59:05,620
+We at high rises be a lot of congestion
+
+775
+00:59:05,620 --> 00:59:09,740
+that would be markers of characteristics of folks.
+
+776
+00:59:09,740 --> 00:59:12,620
+So that's kind of not necessarily urban,
+
+777
+00:59:12,620 --> 00:59:16,100
+but kind of a marker of what is acid.
+
+778
+00:59:16,100 --> 00:59:21,060
+Then, stretching a little bit more into,
+
+779
+00:59:21,060 --> 00:59:24,100
+you can say the overlays between what is urban
+
+780
+00:59:24,100 --> 00:59:28,160
+and how it's deep borders, cities.
+
+781
+00:59:28,160 --> 00:59:33,180
+Cities are sometimes defined as the opposite
+
+782
+00:59:33,180 --> 00:59:36,060
+of the non-city, as I was saying,
+
+783
+00:59:36,060 --> 00:59:37,460
+as the opposite of the rural.
+
+784
+00:59:37,460 --> 00:59:39,900
+And then a number of planning context,
+
+785
+00:59:39,900 --> 00:59:43,380
+I'm thinking about, for instance, the Netherlands.
+
+786
+00:59:43,380 --> 00:59:46,020
+It will actually be, if you look at the satellite image,
+
+787
+00:59:46,020 --> 00:59:50,740
+it will be identifiable where one urban area ends
+
+788
+00:59:50,740 --> 00:59:53,980
+and there's country side and then something else starts.
+
+789
+00:59:53,980 --> 00:59:58,380
+But yeah, in many contexts,
+
+790
+00:59:58,380 --> 01:00:00,820
+especially in the lavish one, for instance,
+
+791
+01:00:00,820 --> 01:00:03,460
+this is a reality where you won't get really far.
+
+792
+01:00:03,460 --> 01:00:07,620
+It's kind of, you're not sure where the city ends.
+
+793
+01:00:07,620 --> 01:00:12,620
+You end up with some kind of large boulevars
+
+794
+01:00:12,620 --> 01:00:17,420
+that connect to villages in the middle of nowhere.
+
+795
+01:00:17,420 --> 01:00:21,780
+There's a lot of built up stuff along these shops,
+
+796
+01:00:21,780 --> 01:00:22,780
+etc.
+
+797
+01:00:22,780 --> 01:00:26,500
+And there's a lot of activities actually taking place
+
+798
+01:00:26,500 --> 01:00:30,340
+outside of the core areas of urban agglomerations.
+
+799
+01:00:30,340 --> 01:00:34,180
+the suburbs, there's actually intensification
+
+800
+01:00:34,180 --> 01:00:35,980
+of activities and suburbs.
+
+801
+01:00:35,980 --> 01:00:42,500
+So yeah, what does it still mean to talk about the city
+
+802
+01:00:42,500 --> 01:00:45,900
+as being opposed to the non-city, the rural,
+
+803
+01:00:45,900 --> 01:00:49,100
+it generates all kinds of fuzzy categories.
+
+804
+01:00:49,100 --> 01:00:51,300
+So purely morphologically,
+
+805
+01:00:51,300 --> 01:00:55,100
+millions end up being a child.
+
+806
+01:00:55,100 --> 01:00:56,780
+Yes.
+
+807
+01:00:58,940 --> 01:01:21,940
+[ Inaudible ]
+
+808
+01:01:21,940 --> 01:01:26,500
+We haven't covered this yet, so maybe we're talking about this.
+
+809
+01:01:26,500 --> 01:01:34,180
+So it's, yeah, the urban or a city is the place of an urban life, but perhaps the urban
+
+810
+01:01:34,180 --> 01:01:37,980
+also stretches beyond the city itself.
+
+811
+01:01:37,980 --> 01:01:42,620
+So urban living could also be taking place in the suburbs.
+
+812
+01:01:42,620 --> 01:01:50,780
+But it's some kind of an idea that within the spaces, a different kind of society and
+
+813
+01:01:50,780 --> 01:01:56,460
+in a different kind of behavior, norms, values, and take place.
+
+814
+01:01:56,460 --> 01:02:03,740
+So it's a distinctive way of life, but still it could be a very different kind of energy
+
+815
+01:02:03,740 --> 01:02:11,100
+that we may be talking about or a different kind of bonds that actually ties people together.
+
+816
+01:02:11,100 --> 01:02:14,980
+So just compare slum living with loft living.
+
+817
+01:02:14,980 --> 01:02:22,740
+It's a very distinct way of urban living, but they both be characterized as something else
+
+818
+01:02:22,740 --> 01:02:24,940
+than rural living.
+
+819
+01:02:24,940 --> 01:02:30,460
+So and there's this big debate, I would say, in urban sociology, between what is now
+
+820
+01:02:30,460 --> 01:02:36,940
+distinct about the urban way of life at a some kind of an assumption that you move from
+
+821
+01:02:36,940 --> 01:02:39,460
+community to society.
+
+822
+01:02:39,460 --> 01:02:45,260
+communities think about rural communities where you have all kinds of personal relations
+
+823
+01:02:45,260 --> 01:02:49,460
+with neighbors, small villages.
+
+824
+01:02:49,460 --> 01:02:55,940
+And this gets formalized and nullomized as soon as you get to cities because distances become
+
+825
+01:02:55,940 --> 01:03:00,700
+larger because there's all kinds of institutional roles.
+
+826
+01:03:00,700 --> 01:03:04,100
+There's a division of labor that we'll get to in a second.
+
+827
+01:03:04,100 --> 01:03:06,460
+And it becomes more abstract.
+
+828
+01:03:06,460 --> 01:03:12,540
+take a certain function within society which is less mediated by social relations. That was kind
+
+829
+01:03:12,540 --> 01:03:19,180
+of the argument by a lot of sociologists also in the 19th century that try to capture the process
+
+830
+01:03:19,180 --> 01:03:25,820
+of urbanization. So it's a distinctive way of life. It's not just buildings and homes of material.
+
+831
+01:03:25,820 --> 01:03:33,660
+It's more than that. Another way of looking at it and with Hintonad, by you here at Front,
+
+832
+01:03:33,660 --> 01:03:38,660
+It's also about economic relations that tie together people.
+
+833
+01:03:38,660 --> 01:03:44,660
+I think about flows of energy, flows of work, flows of ideas,
+
+834
+01:03:44,660 --> 01:03:50,860
+flows of data that connects the inhabitants of a certain place.
+
+835
+01:03:50,860 --> 01:03:56,260
+And it would be more agglomerated in some places than others,
+
+836
+01:03:56,260 --> 01:03:59,460
+but they wouldn't be necessarily confined to,
+
+837
+01:03:59,460 --> 01:04:02,460
+you could say, the core of metropolitan areas.
+
+838
+01:04:02,460 --> 01:04:31,860
+So the city is also the place where divisions of labour emerge and there's this famous picture by Adam Smith's needle factory or pin factory, where cities are kind of a microcosm of a workshop where different kind of tasks that used to be integrated in thin making are kind of cut up and collectively places produce a certain economic problem.
+
+839
+01:04:31,860 --> 01:04:41,860
+So this inputs needed by different suppliers, different kind of specialized workers to end up with a product.
+
+840
+01:04:41,860 --> 01:04:51,860
+So historically that has been a way where open elites could emerge that could also kind of manage this process,
+
+841
+01:04:51,860 --> 01:04:58,860
+that could also absorb part of the surplus that was being generated by a more efficient
+
+842
+01:04:58,860 --> 01:05:04,860
+division of labor, standardization of work, for instance, and was also, you can say,
+
+843
+01:05:04,860 --> 01:05:12,860
+a more critical framework of the place where uneven development and urban inequalities actually have their origins.
+
+844
+01:05:12,860 --> 01:05:19,860
+So it produced more efficiency, it increased the urban surplus, if you will, but not everybody benefited.
+
+845
+01:05:19,860 --> 01:05:24,860
+So a complex division of labor, the idea that there are
+
+846
+01:05:24,860 --> 01:05:29,860
+agglomeration effects by being in a certain place,
+
+847
+01:05:29,860 --> 01:05:33,860
+economic agents for instance, will benefit from their presence
+
+848
+01:05:33,860 --> 01:05:35,860
+because they have specialized inputs.
+
+849
+01:05:35,860 --> 01:05:41,860
+That's kind of the realm of economic geographies that try to capture
+
+850
+01:05:41,860 --> 01:05:43,860
+that process.
+
+851
+01:05:43,860 --> 01:05:47,860
+And now obviously when you talk about divisions of labor,
+
+852
+01:05:47,860 --> 01:05:50,400
+about these energies that go around,
+
+853
+01:05:50,400 --> 01:05:54,360
+these also structure urban spaces
+
+854
+01:05:54,360 --> 01:05:56,780
+and you could say urban class relations
+
+855
+01:05:56,780 --> 01:05:58,420
+in a particular way.
+
+856
+01:05:58,420 --> 01:06:03,420
+So you could apply some kind of regulations perspective here
+
+857
+01:06:03,420 --> 01:06:05,620
+thinking about,
+
+858
+01:06:05,620 --> 01:06:11,140
+we could say different eras of cities
+
+859
+01:06:11,140 --> 01:06:16,260
+as being engaged in particular production processes,
+
+860
+01:06:16,260 --> 01:06:23,380
+recapitalist cities, for instance, the top left, then the typical newly industrializing
+
+861
+01:06:23,380 --> 01:06:29,500
+cities top right, then going bottom left to 40 cities.
+
+862
+01:06:29,500 --> 01:06:35,220
+And then you could say contemporary cities that are kind of both exploded and imploded
+
+863
+01:06:35,220 --> 01:06:38,860
+at the same time with rising densities at the edges.
+
+864
+01:06:38,860 --> 01:06:44,100
+And also a re-entensification of built up areas in the very core and return of activities
+
+865
+01:06:44,100 --> 01:06:45,100
+there.
+
+866
+01:06:45,100 --> 01:06:50,500
+a regular regulation perspective is also what Dorian Massey
+
+867
+01:06:50,500 --> 01:06:51,460
+would be talking about.
+
+868
+01:06:51,460 --> 01:06:55,060
+She was a famous economic geographer,
+
+869
+01:06:55,060 --> 01:06:57,500
+economic geographer from 1980s.
+
+870
+01:06:57,500 --> 01:07:00,220
+She was also one of the main critical voices
+
+871
+01:07:00,220 --> 01:07:04,620
+and trying to understand how particular forms of capitalism
+
+872
+01:07:04,620 --> 01:07:08,500
+leave their imprint on society in general
+
+873
+01:07:08,500 --> 01:07:10,180
+and on urban societies in particular.
+
+874
+01:07:10,180 --> 01:07:12,580
+She was interested in regions, but it also
+
+875
+01:07:12,580 --> 01:07:15,820
+can be applied to cities.
+
+876
+01:07:15,820 --> 01:07:19,420
+So yeah, you had a really very high rock
+
+877
+01:07:19,420 --> 01:07:21,300
+go to society in general.
+
+878
+01:07:21,300 --> 01:07:23,300
+I mean, there's a huge generalization here
+
+879
+01:07:23,300 --> 01:07:26,020
+in medieval cities where the core wasn't
+
+880
+01:07:26,020 --> 01:07:29,780
+elite realm with some domestic servants.
+
+881
+01:07:29,780 --> 01:07:32,300
+Then there was a kind of a layer of the lower classes,
+
+882
+01:07:32,300 --> 01:07:34,460
+and then basically the outcomes with a number
+
+883
+01:07:34,460 --> 01:07:35,540
+of ethnic communities.
+
+884
+01:07:35,540 --> 01:07:40,300
+This is a huge generalization, but it's kind of a guiding
+
+885
+01:07:40,300 --> 01:07:44,140
+model that is it's set to hold.
+
+886
+01:07:44,140 --> 01:07:46,700
+When you think about industrializing cities,
+
+887
+01:07:46,700 --> 01:07:50,780
+it was kind of thing and this is Chicago for sure.
+
+888
+01:07:50,780 --> 01:07:55,180
+I will be talking a bit more about Chicago as it became a model
+
+889
+01:07:55,180 --> 01:07:58,940
+of the industrial city in the early 20th century.
+
+890
+01:07:58,940 --> 01:08:02,460
+A lot of industrial activity in the commercial
+
+891
+01:08:02,460 --> 01:08:07,580
+part of the city and then radiating out
+
+892
+01:08:07,580 --> 01:08:09,820
+in terms of, you could say, class,
+
+893
+01:08:09,820 --> 01:08:13,420
+his working man's houses and then further on,
+
+894
+01:08:13,420 --> 01:08:16,820
+more elite cities, people, neighborhoods, people
+
+895
+01:08:16,820 --> 01:08:19,860
+that could actually afford to commute to the city set.
+
+896
+01:08:19,860 --> 01:08:24,020
+Then after the second world tour,
+
+897
+01:08:24,020 --> 01:08:25,700
+actually, like at the bottom left,
+
+898
+01:08:25,700 --> 01:08:28,940
+it's kind of a gorgeous city where capitalism was
+
+899
+01:08:28,940 --> 01:08:31,020
+regulated in a particular way,
+
+900
+01:08:31,020 --> 01:08:34,340
+where the surplus that was being created
+
+901
+01:08:34,340 --> 01:08:37,540
+by capitalist production, think about all these factories
+
+902
+01:08:37,540 --> 01:08:41,300
+Mass production was being shared by the working class.
+
+903
+01:08:41,300 --> 01:08:44,220
+So this is kind of a typical American dream.
+
+904
+01:08:44,220 --> 01:08:45,660
+It can provide the American cities,
+
+905
+01:08:45,660 --> 01:08:48,700
+but friends also can provide European cities
+
+906
+01:08:48,700 --> 01:08:52,420
+where we had a massive round of serverization,
+
+907
+01:08:52,420 --> 01:08:56,060
+the good life where you could live far removed
+
+908
+01:08:56,060 --> 01:09:00,500
+from where you were, commute by car,
+
+909
+01:09:00,500 --> 01:09:04,700
+and it was a way to kind of spatially redistribute
+
+910
+01:09:04,700 --> 01:09:07,340
+the surface that was being generated in cities.
+
+911
+01:09:07,340 --> 01:09:12,060
+And that's a kind of a Harvey and David Harvey interpretation
+
+912
+01:09:12,060 --> 01:09:13,580
+of suburbanization.
+
+913
+01:09:13,580 --> 01:09:15,500
+It's not just a lifestyle.
+
+914
+01:09:15,500 --> 01:09:18,740
+It's also a spatial form of how capitalism
+
+915
+01:09:18,740 --> 01:09:22,420
+of in that period worked.
+
+916
+01:09:22,420 --> 01:09:26,780
+And then kind of finally, this kind of growth
+
+917
+01:09:26,780 --> 01:09:28,100
+at the periphery.
+
+918
+01:09:28,100 --> 01:09:30,300
+We see a kind of an outward movement,
+
+919
+01:09:30,300 --> 01:09:33,300
+you can see the urbanization of suburbanism.
+
+920
+01:09:33,300 --> 01:09:36,180
+All kinds of knowledge and densities
+
+921
+01:09:36,180 --> 01:09:39,740
+and then starting to take place at the edges,
+
+922
+01:09:39,740 --> 01:09:44,100
+all of city centers that are losing functions,
+
+923
+01:09:44,100 --> 01:09:46,740
+this kind of historical process in the 70s and 80s,
+
+924
+01:09:46,740 --> 01:09:49,860
+lot of derelict areas, ground food areas,
+
+925
+01:09:49,860 --> 01:09:52,540
+which are then in subsequent decades,
+
+926
+01:09:52,540 --> 01:09:55,780
+increasingly becoming the places where you have waves
+
+927
+01:09:55,780 --> 01:10:00,060
+of gentrification, a return of capital to city centers,
+
+928
+01:10:00,060 --> 01:10:01,060
+et cetera, et cetera.
+
+929
+01:10:01,060 --> 01:10:06,140
+And admit all this, and I'm trying to hugely summarize
+
+930
+01:10:06,140 --> 01:10:08,140
+and generalized here, because it's
+
+931
+01:10:08,140 --> 01:10:13,340
+a kind of ideal typical approach, diversity that
+
+932
+01:10:13,340 --> 01:10:15,820
+is increasing in a lot of cities,
+
+933
+01:10:15,820 --> 01:10:20,540
+new pockets of exclusiveness and exclusion
+
+934
+01:10:20,540 --> 01:10:21,300
+on the other hand.
+
+935
+01:10:21,300 --> 01:10:25,460
+So cities also becoming increasingly polarized.
+
+936
+01:10:25,460 --> 01:10:29,500
+So the urban is different depending
+
+937
+01:10:29,500 --> 01:10:32,420
+on the period you're talking about.
+
+938
+01:10:32,420 --> 01:10:35,180
+It could be characterized differently,
+
+939
+01:10:35,180 --> 01:10:42,180
+depending on where you are and in what period you're talking about.
+
+940
+01:10:42,180 --> 01:10:53,420
+Bottom left and right? Yeah, you could say that. I mean, in some handbooks it would be called
+
+941
+01:10:53,420 --> 01:10:59,900
+the Fortis City, this one. And this would be the post-40 city, which is exactly the
+
+942
+01:10:59,900 --> 01:11:05,900
+This is not one identifiable core in the metropolitan area.
+
+943
+01:11:05,900 --> 01:11:11,900
+Whereas this was still very much in relation to the core, but it captures different.
+
+944
+01:11:11,900 --> 01:11:13,900
+You could call it modernity.
+
+945
+01:11:13,900 --> 01:11:22,900
+Yes, but that would more refer to, you could say, a discussion of planning approaches,
+
+946
+01:11:22,900 --> 01:11:28,900
+modernist planning for instance, where it was okay, we're going to organize the city in zones.
+
+947
+01:11:28,900 --> 01:11:35,300
+zones, here is residential function, here we have industrial function. But you're right,
+
+948
+01:11:35,300 --> 01:11:43,620
+and that's in the 40s city. It was at a larger scale managed like that. There was also
+
+949
+01:11:43,620 --> 01:11:53,140
+where a lot of urbanist counter-reaction was launched against later on. Think about figure of
+
+950
+01:11:53,140 --> 01:11:59,780
+Jane Jacobs, who basically said, well, with modernist planning this hand, there's a top-down
+
+951
+01:11:59,780 --> 01:12:05,140
+approach. It doesn't have anything to do with urban life in an obvious own. So we have to take
+
+952
+01:12:05,140 --> 01:12:10,660
+stock of that, just thinking about a different way of planning. So modernism would be a marker,
+
+953
+01:12:10,660 --> 01:12:16,900
+I would say, of, again, yeah, of urban society, but also about planning traditions that have
+
+954
+01:12:16,900 --> 01:12:25,860
+produced before the city. And then another way and this was really mentioned is
+
+955
+01:12:25,860 --> 01:12:34,340
+yeah the urban or the city is also kind of a projector of symbol at power. It sends a message
+
+956
+01:12:34,340 --> 01:12:42,180
+to the world and this is becoming I mean goes back to the 12th and the 13th century where
+
+957
+01:12:43,300 --> 01:12:50,820
+the legal cities and flowers had the highest, wanted to have the highest building or some
+
+958
+01:12:50,820 --> 01:12:57,940
+zoom in the other in the 14th century and northern Italy had something to do with corporate power,
+
+959
+01:12:57,940 --> 01:13:04,820
+the merchant power, and also showing the liberties of cities vis-a-vis territorial states,
+
+960
+01:13:04,820 --> 01:13:10,580
+which were then still feudal states and the Middle Ages. You see that this is becoming much more
+
+961
+01:13:10,580 --> 01:13:16,740
+globalized and that's the content of these messages is also very diverse. You have the CCTV
+
+962
+01:13:16,740 --> 01:13:23,620
+building on Beijing, which is some kind of a representation of, you can say, the authoritarian power
+
+963
+01:13:23,620 --> 01:13:32,420
+of the Chinese central state over China, but also, et cetera, totally, there's the World Trade Center.
+
+964
+01:13:34,100 --> 01:13:37,140
+Yeah, I don't think we need to deconstruct that.
+
+965
+01:13:37,140 --> 01:13:42,740
+And in there's a lot of images, I mean about a claim
+
+966
+01:13:42,740 --> 01:13:47,540
+imperialism by the US, which was vested in the commercial
+
+967
+01:13:47,540 --> 01:13:52,660
+interests or the commercial power of the US,
+
+968
+01:13:52,660 --> 01:13:58,260
+which then also became a symbol of oppression, if you will,
+
+969
+01:13:58,260 --> 01:14:04,580
+and made it a target for attacks as we all know.
+
+970
+01:14:04,580 --> 01:14:12,140
+So it's a highly contested or arbitrary symbol there.
+
+971
+01:14:12,140 --> 01:14:17,700
+And often it's also kind of used in spectacular developments,
+
+972
+01:14:17,700 --> 01:14:23,820
+you could say, Putska Lifa in the Middle East and Dubai.
+
+973
+01:14:23,820 --> 01:14:28,220
+It's kind of a part of a wider process of, say,
+
+974
+01:14:28,220 --> 01:14:34,620
+supply side economics where it's really about building capacity, building state-of-the-art
+
+975
+01:14:34,620 --> 01:14:39,580
+infrastructure, with the idea that it built a strong business, another bill in the end,
+
+976
+01:14:39,580 --> 01:14:49,900
+drive growth. Dubai, an emerald without oil, oil has run out since the 60s, has had this
+
+977
+01:14:49,900 --> 01:14:55,500
+diversification strategy, and it has been to some extent a kind of self-fitting prophecy.
+
+978
+01:14:56,380 --> 01:15:02,700
+So yeah, it's kind of a token of importance of centrality that has been proclaimed there.
+
+979
+01:15:02,700 --> 01:15:10,060
+It also is a token of all the things, a huge exploitation of temporary labor, for instance,
+
+980
+01:15:10,060 --> 01:15:15,820
+but that is typically the dark side of these kind of buildings that is less discussed.
+
+981
+01:15:15,820 --> 01:15:22,940
+So, far the spectacular urbanism makes us wonder what is behind this image.
+
+982
+01:15:23,580 --> 01:15:29,500
+So yeah, symbolic power is also kind of projected by certain kind of cities.
+
+983
+01:15:29,500 --> 01:15:36,940
+And then maybe a final definition is in the atmosphere definition.
+
+984
+01:15:36,940 --> 01:15:43,900
+It has a certain jurisdiction within a country.
+
+985
+01:15:43,900 --> 01:15:49,100
+It's the way where all kinds of management processes are administered for the population,
+
+986
+01:15:49,100 --> 01:15:53,100
+a service, but it had a public sector organized itself.
+
+987
+01:15:53,100 --> 01:15:59,100
+What is kind of interesting is that there's a lot of historical
+
+988
+01:15:59,100 --> 01:16:05,100
+and yeah, aberrations almost when you take, for instance, the example
+
+989
+01:16:05,100 --> 01:16:11,100
+of Miesen and West Flanders. I put an arrow there, but there's a
+
+990
+01:16:11,100 --> 01:16:15,100
+Belgian that well. It has about 1,000 population,
+
+991
+01:16:15,100 --> 01:16:18,100
+In 2019, but it counts as a city.
+
+992
+01:16:18,100 --> 01:16:21,100
+So it's kind of a historical artifact.
+
+993
+01:16:21,100 --> 01:16:28,100
+It used to be a very important trading center for broad cloth,
+
+994
+01:16:28,100 --> 01:16:36,100
+if you've ever been to Grüch, that was kind of the main kind of produce that was kind of traded there.
+
+995
+01:16:36,100 --> 01:16:39,100
+Grüch is what's 40,000 a day at that time.
+
+996
+01:16:39,100 --> 01:16:44,100
+So a fifth of the size of world city, Grüch is, I think the 13th century.
+
+997
+01:16:44,100 --> 01:16:50,900
+So what is a very small community now was there and then an important city and somehow
+
+998
+01:16:50,900 --> 01:16:58,580
+missing has kept city rights and would still count as a city in UN language.
+
+999
+01:16:58,580 --> 01:17:06,980
+Okay, so just to show that we should probably be very very about these classifications because
+
+1000
+01:17:06,980 --> 01:17:10,180
+they can be quite misleading.
+
+1001
+01:17:10,180 --> 01:17:11,020
+Okay.
+
+1002
+01:17:11,020 --> 01:17:11,860
+- Thank you.
+
+1003
+01:17:11,860 --> 01:17:12,700
+- Yeah.
+
+1004
+01:17:12,700 --> 01:17:13,820
+- One thing that's not like trying to get it out
+
+1005
+01:17:13,820 --> 01:17:16,180
+for the clinical care of the
+
+1006
+01:17:16,180 --> 01:17:18,940
+and the other, it's only the amount of the number
+
+1007
+01:17:18,940 --> 01:17:20,340
+of people living there or.
+
+1008
+01:17:20,340 --> 01:17:22,180
+- That's a good question.
+
+1009
+01:17:22,180 --> 01:17:23,100
+I don't know it by heart,
+
+1010
+01:17:23,100 --> 01:17:27,180
+but there would be a combination of many things
+
+1011
+01:17:27,180 --> 01:17:30,300
+that would be indeed size of the population.
+
+1012
+01:17:30,300 --> 01:17:35,300
+I think we have more morphological characteristics.
+
+1013
+01:17:37,300 --> 01:17:42,300
+typically it would be continuous built up areas.
+
+1014
+01:17:42,300 --> 01:17:47,140
+And then included in that,
+
+1015
+01:17:47,140 --> 01:17:51,980
+some definition of a percentage of people commuting
+
+1016
+01:17:51,980 --> 01:17:53,300
+to the poor city.
+
+1017
+01:17:53,300 --> 01:17:57,620
+So areas that are still dependent on the poor city
+
+1018
+01:17:57,620 --> 01:17:59,820
+because they're part of an integrated labor market.
+
+1019
+01:17:59,820 --> 01:18:02,180
+So I don't know it by heart,
+
+1020
+01:18:02,180 --> 01:18:04,580
+but there's kind of the agglomeration
+
+1021
+01:18:04,580 --> 01:18:08,900
+and then the bond here, which just gives a kind of an arbitrary
+
+1022
+01:18:08,900 --> 01:18:10,340
+of that.
+
+1023
+01:18:10,340 --> 01:18:15,300
+And that's basically what they call functional urban areas.
+
+1024
+01:18:15,300 --> 01:18:18,380
+That's the kind of definition that is
+
+1025
+01:18:18,380 --> 01:18:20,980
+practical, which gives you.
+
+1026
+01:18:20,980 --> 01:18:23,220
+The thing that you can also say is that you have to
+
+1027
+01:18:23,220 --> 01:18:24,260
+point--
+
+1028
+01:18:24,260 --> 01:18:26,620
+because I know what they need to tell what my
+
+1029
+01:18:26,620 --> 01:18:28,340
+friend is that there is a decision in
+
+1030
+01:18:28,340 --> 01:18:29,820
+everybody else who writes.
+
+1031
+01:18:29,820 --> 01:18:32,180
+So maybe they just never requested
+
+1032
+01:18:32,180 --> 01:18:34,180
+Anyway, it didn't.
+
+1033
+01:18:34,180 --> 01:18:35,180
+It did.
+
+1034
+01:18:35,180 --> 01:18:35,180
+It did.
+
+1035
+01:18:35,180 --> 01:18:37,180
+Well, back in the H.F.
+
+1036
+01:18:37,180 --> 01:18:38,180
+Yeah.
+
+1037
+01:18:38,180 --> 01:18:39,180
+Yeah.
+
+1038
+01:18:39,180 --> 01:18:40,180
+I think that that couldn't be--
+
+1039
+01:18:40,180 --> 01:18:42,180
+I don't know the ins and outs of that.
+
+1040
+01:18:42,180 --> 01:18:46,180
+But I think in Utah it could be part of the process as well.
+
+1041
+01:18:46,180 --> 01:18:47,180
+Yeah.
+
+1042
+01:18:47,180 --> 01:18:49,180
+[INAUDIBLE]
+
+1043
+01:18:49,180 --> 01:18:52,180
+We just look at our information.
+
+1044
+01:18:52,180 --> 01:18:54,180
+[INAUDIBLE]
+
+1045
+01:18:54,180 --> 01:18:55,180
+Yeah.
+
+1046
+01:18:55,180 --> 01:18:57,780
+They tried to come up with some kind of standardization
+
+1047
+01:18:57,780 --> 01:18:59,500
+on the criteria that I was mentioning.
+
+1048
+01:18:59,500 --> 01:19:05,020
+So how many people live there, more logical continuity,
+
+1049
+01:19:05,020 --> 01:19:08,300
+and then you could say economic relations.
+
+1050
+01:19:08,300 --> 01:19:11,940
+But especially with the population threshold,
+
+1051
+01:19:11,940 --> 01:19:14,300
+there's a huge dedication.
+
+1052
+01:19:14,300 --> 01:19:18,700
+Some countries would be 1,000, and others would be 10,000.
+
+1053
+01:19:18,700 --> 01:19:22,140
+It would be very good.
+
+1054
+01:19:22,140 --> 01:19:26,260
+I think they do because Belgium does.
+
+1055
+01:19:26,260 --> 01:19:28,300
+So that's kind of the irony.
+
+1056
+01:19:28,300 --> 01:19:33,580
+And that gets lost in when you look at the urbanization rates of 200 plus countries,
+
+1057
+01:19:33,580 --> 01:19:40,140
+you count the candidate. But the point by by Brennan instrument is that even if you solve that
+
+1058
+01:19:40,140 --> 01:19:45,420
+and come to a standardized definition, you're still not out of the woods because it could still
+
+1059
+01:19:45,420 --> 01:19:52,860
+create all kinds of chaotic conceptions because the burden is not the same as the city.
+
+1060
+01:19:52,860 --> 01:19:56,700
+Okay, so that was kind of what's the point, okay.
+
+1061
+01:19:56,700 --> 01:19:59,900
+So I hope, yeah, there's a number of perspectives here.
+
+1062
+01:19:59,900 --> 01:20:05,500
+There's not one size fits all answer to what you heard
+
+1063
+01:20:05,500 --> 01:20:08,300
+in the city is, but there's different ways
+
+1064
+01:20:08,300 --> 01:20:11,020
+of approaching the theme, okay.
+
+1065
+01:20:11,020 --> 01:20:18,900
+Now, one definition that we could still use,
+
+1066
+01:20:19,900 --> 01:20:22,420
+And this is also one that is used in the hamburger
+
+1067
+01:20:22,420 --> 01:20:25,620
+because it's kind of very generically at the abstract level.
+
+1068
+01:20:25,620 --> 01:20:28,060
+It's obviously urbanization is the process
+
+1069
+01:20:28,060 --> 01:20:30,300
+of becoming urban.
+
+1070
+01:20:30,300 --> 01:20:32,300
+And it refers at the abstract level
+
+1071
+01:20:32,300 --> 01:20:36,660
+to demographic process where it increasingly people live
+
+1072
+01:20:36,660 --> 01:20:39,500
+in more and more density.
+
+1073
+01:20:39,500 --> 01:20:41,900
+Has something to do with a globalization
+
+1074
+01:20:41,900 --> 01:20:46,140
+of urban influence,
+
+1075
+01:20:46,140 --> 01:20:52,220
+be an economic, political, cultural, it's kind of these places that matter.
+
+1076
+01:20:52,220 --> 01:20:58,140
+And obviously this frame of the urban age is mobilized there.
+
+1077
+01:20:58,140 --> 01:21:08,220
+And it's a call for starting to look into how cities are connected to the wider process of urban development.
+
+1078
+01:21:08,220 --> 01:21:13,780
+And this is also connecting back to this notion of planetary urbanization by
+
+1079
+01:21:13,780 --> 01:21:22,780
+and the sense what they argue is that while cities may not populate the entire hurt,
+
+1080
+01:21:22,780 --> 01:21:32,780
+they're actually quite delineated still. If you produce a map, you can't say that the entire global map is urban.
+
+1081
+01:21:32,780 --> 01:21:40,780
+Maybe a lot of people live in cities, but still it wouldn't be a totality. Whereas the urban,
+
+1082
+01:21:40,780 --> 01:21:49,280
+as a process, as a way of living, as a system of capitalist production, would be almost a totality.
+
+1083
+01:21:49,280 --> 01:22:00,780
+And in planetary urbanization, characters actually de facto even when you go as far as possible from the urban context, from cities.
+
+1084
+01:22:00,780 --> 01:22:04,280
+It would still lead back to these cities one way or another.
+
+1085
+01:22:04,280 --> 01:22:08,640
+So the exploitation of sea beds in the North Atlantic,
+
+1086
+01:22:08,640 --> 01:22:11,760
+it's absolutely not--
+
+1087
+01:22:11,760 --> 01:22:13,920
+has not the characteristics of cities,
+
+1088
+01:22:13,920 --> 01:22:19,320
+but it's part of an exploitation process
+
+1089
+01:22:19,320 --> 01:22:22,760
+that are commanded through cities.
+
+1090
+01:22:22,760 --> 01:22:27,760
+So it's an example of what they call extensive urbanization,
+
+1091
+01:22:27,760 --> 01:22:30,640
+whereas intensive urbanization in their mind
+
+1092
+01:22:30,640 --> 01:22:32,720
+would be the morphology of cities.
+
+1093
+01:22:32,720 --> 01:22:40,080
+So it's a kind of sociological imaginary of urbanization as it all leads back to cities
+
+1094
+01:22:40,080 --> 01:22:46,320
+and one way or another. Whereas a more geographical imagination would start with, well, we can still
+
+1095
+01:22:46,320 --> 01:22:53,360
+illuminate certain places as being more dense, being more common than one another, whereas we also
+
+1096
+01:22:53,360 --> 01:22:59,520
+have to see the connections with other things. So that's just one more approach of looking at it.
+
+1097
+01:23:01,440 --> 01:23:05,360
+We've been talking a little bit about urbanism because it's always a bit of confusion,
+
+1098
+01:23:05,360 --> 01:23:09,120
+difference between urbanization, which we've been talking about, and urbanism.
+
+1099
+01:23:09,120 --> 01:23:16,240
+We have urbanists here. It's not just about observing an analyzing process,
+
+1100
+01:23:16,240 --> 01:23:24,160
+also designing cities and shaping cities in a particular way. So, urbanism is
+
+1101
+01:23:27,040 --> 01:23:34,080
+the Métis is the craft of actually designing cities to a certain end.
+
+1102
+01:23:34,080 --> 01:23:39,600
+But it also connects to, and that's perhaps also what you were talking about at some point,
+
+1103
+01:23:39,600 --> 01:23:45,520
+gaining an urban attitude as something of an energy of that particular society in cities.
+
+1104
+01:23:45,520 --> 01:23:53,040
+It refers to a particular psychological or sociological feeling that gives a particular meaning
+
+1105
+01:23:53,040 --> 01:23:59,280
+to the space. And I already talked about the opposition between the ideal type of a community
+
+1106
+01:23:59,280 --> 01:24:06,000
+where there's kind of warm social ties kicking things together versus society where it's more
+
+1107
+01:24:06,000 --> 01:24:14,240
+abstract, warmer roles that are in personal. I think when you look at cities and the representations
+
+1108
+01:24:14,240 --> 01:24:20,960
+and the way the urban space is consumed, you find a lot of that, you could say societal
+
+1109
+01:24:20,960 --> 01:24:30,160
+anonymity or that kind of detached element in those images. And when you look at,
+
+1110
+01:24:30,160 --> 01:24:35,520
+yeah, especially in the 19th century, I mean, when people started to capture
+
+1111
+01:24:35,520 --> 01:24:41,520
+personal modernity, urban modernity, and it was this idea of the figure of the floner,
+
+1112
+01:24:41,520 --> 01:24:48,560
+which was at the same time, it was usually the handy, a rich person that was both connected to
+
+1113
+01:24:48,560 --> 01:24:53,120
+cities because of his wealth and he had to show himself of it at the same time. It was also a
+
+1114
+01:24:53,120 --> 01:25:00,880
+spectator, a walker by Passon who consumed urban space from an enormous and detached way.
+
+1115
+01:25:00,880 --> 01:25:06,160
+And especially in the 19th century, we have this gallery here close to the Grand Plus
+
+1116
+01:25:07,600 --> 01:25:13,760
+in Brussels, it was a kind of urban space was designed for this anonymous consumption,
+
+1117
+01:25:13,760 --> 01:25:19,600
+was all about collective spectacular consumption. And in many ways urban design,
+
+1118
+01:25:19,600 --> 01:25:28,560
+especially when we started rebrand our city centres, goes back to these forms of urban consumption.
+
+1119
+01:25:28,560 --> 01:25:36,480
+If you think about these renderings of a unspark bouffard, or if you look at renderings of how
+
+1120
+01:25:37,280 --> 01:25:40,280
+It will look like in 10 years.
+
+1121
+01:25:40,280 --> 01:25:44,280
+It has this kind of spectacular element always to it.
+
+1122
+01:25:44,280 --> 01:25:53,280
+That's that project, a particular kind of urban attitude that is there to consume urban space.
+
+1123
+01:25:53,280 --> 01:26:01,280
+So urban design, it's about, you're really giving shape to urban spaces,
+
+1124
+01:26:01,280 --> 01:26:06,080
+also capturing how people interact with psychologically
+
+1125
+01:26:06,080 --> 01:26:08,600
+and social education, with the built environment,
+
+1126
+01:26:08,600 --> 01:26:10,720
+especially with urbanism,
+
+1127
+01:26:10,720 --> 01:26:14,320
+poor-ferences, environmental psychology,
+
+1128
+01:26:14,320 --> 01:26:17,480
+and that is a very important team.
+
+1129
+01:26:17,480 --> 01:26:24,960
+Planning is a future oriented activity,
+
+1130
+01:26:24,960 --> 01:26:26,880
+which actors are very types engaged
+
+1131
+01:26:26,880 --> 01:26:29,760
+so that they can govern how development will take place.
+
+1132
+01:26:29,760 --> 01:26:35,920
+So obviously, economic process, society process,
+
+1133
+01:26:35,920 --> 01:26:38,440
+don't just unfold in and of themselves.
+
+1134
+01:26:38,440 --> 01:26:41,080
+It's a kind of process that being mediated
+
+1135
+01:26:41,080 --> 01:26:43,800
+by particular planning cultures,
+
+1136
+01:26:43,800 --> 01:26:46,640
+being we talked about zoning before.
+
+1137
+01:26:46,640 --> 01:26:50,400
+It's about giving a place to certain activities,
+
+1138
+01:26:50,400 --> 01:26:53,760
+making choices of where things should be developed.
+
+1139
+01:26:53,760 --> 01:26:57,000
+And it's actually quite a power-laden process
+
+1140
+01:26:57,000 --> 01:26:58,720
+because development in one place
+
+1141
+01:26:58,720 --> 01:27:01,600
+could mean non-development in another place.
+
+1142
+01:27:01,600 --> 01:27:04,680
+Where do jobs, where are jobs being created?
+
+1143
+01:27:04,680 --> 01:27:06,400
+Where do they not?
+
+1144
+01:27:06,400 --> 01:27:08,480
+And how do certain planning procedures
+
+1145
+01:27:08,480 --> 01:27:13,000
+try to tackle a process of uneven development
+
+1146
+01:27:13,000 --> 01:27:15,040
+or under development in the city?
+
+1147
+01:27:15,040 --> 01:27:19,360
+And especially in a city like Brussels, one of the main,
+
+1148
+01:27:19,360 --> 01:27:23,400
+you could say, folk of urban planning
+
+1149
+01:27:23,400 --> 01:27:26,640
+in the regional plan has been the canal.
+
+1150
+01:27:26,640 --> 01:27:33,760
+was kind of a prioritization space which needed to be redeveloped in one way.
+
+1151
+01:27:33,760 --> 01:27:41,280
+It will be looking into the social geography of this place and throughout the course with
+
+1152
+01:27:41,280 --> 01:27:46,640
+also as we go on excursions. It's an ethnically diverse, the lower income
+
+1153
+01:27:46,640 --> 01:27:52,240
+neighbourhood with a lot of unemployment and it's also very much a zone of transition.
+
+1154
+01:27:52,240 --> 01:27:54,200
+There's a lot of things happening there.
+
+1155
+01:27:54,200 --> 01:27:57,040
+Redevelopment and planning is not neutral there.
+
+1156
+01:27:57,040 --> 01:28:00,280
+There has been a large focus on this area,
+
+1157
+01:28:00,280 --> 01:28:05,280
+both in terms of trying to achieve industrial redevelopment,
+
+1158
+01:28:05,280 --> 01:28:08,280
+because there was a lot of unemployment
+
+1159
+01:28:08,280 --> 01:28:12,440
+kind of a rollout of the zone of economic expansion
+
+1160
+01:28:12,440 --> 01:28:13,800
+that was installed there.
+
+1161
+01:28:13,800 --> 01:28:18,240
+That at the same time also the ambition to achieve
+
+1162
+01:28:18,240 --> 01:28:25,240
+to increase the mixing of residential and working.
+
+1163
+01:28:25,240 --> 01:28:41,240
+And what is kind of interesting there in Brussels is that there was a very big contradiction between the ambition to attract businesses to this area and create jobs and the ambition of
+
+1164
+01:28:41,240 --> 01:28:47,800
+of mixity because mixity worked as a kind of an incentive for all of residential developers
+
+1165
+01:28:47,800 --> 01:28:59,000
+to start building high end or regionally unaffordable apartments, house, etc.
+
+1166
+01:28:59,000 --> 01:29:08,120
+So the idea of let's mix stuff is actually making the return of jobs to this area
+
+1167
+01:29:09,240 --> 01:29:12,840
+very difficult at least to forms of industrial gentrification.
+
+1168
+01:29:12,840 --> 01:29:20,760
+And it's also leading to some kind of affordability crisis because the types of houses that are
+
+1169
+01:29:20,760 --> 01:29:26,600
+being produced there has nothing to do with what the local residents would actually need.
+
+1170
+01:29:26,600 --> 01:29:32,760
+Okay, so there's housing production but it's not tailored to the to the demand if you will.
+
+1171
+01:29:33,560 --> 01:29:41,560
+So yes, planning plays a role and it's all but a neutral process.
+
+1172
+01:29:41,560 --> 01:29:45,560
+Now, what is geography?
+
+1173
+01:29:45,560 --> 01:29:53,560
+You have one minute to discuss this and geographers, I am looking at you to explain what geography is
+
+1174
+01:29:53,560 --> 01:29:59,560
+because I popped, please discuss what is geography?
+
+1175
+01:29:59,560 --> 01:30:25,560
+[ Background Sounds ]
+
+1176
+01:30:25,560 --> 01:30:28,560
+(audience chattering)
+
+1177
+01:30:28,560 --> 01:30:31,480
+(people chattering)
+
+1178
+01:30:31,480 --> 01:30:59,480
+[ Background Sounds ]
+
+1179
+01:30:59,480 --> 01:31:06,480
+[ Inaudible ]
+
+1180
+01:31:06,480 --> 01:31:11,480
+It's not an S I have to explain not the part of our branch of geology
+
+1181
+01:31:11,480 --> 01:31:14,480
+as the sections as the difficulty will I need now.
+
+1182
+01:31:14,480 --> 01:31:17,480
+Okay, but what's your idea about this?
+
+1183
+01:31:17,480 --> 01:31:28,480
+[ Inaudible ]
+
+1184
+01:31:28,480 --> 01:31:36,480
+And we are leaving the topology of the journey in
+
+1185
+01:31:36,480 --> 01:31:39,480
+like that, looking at that from the left.
+
+1186
+01:31:39,480 --> 01:31:40,480
+Mm-hmm.
+
+1187
+01:31:40,480 --> 01:31:44,480
+That's where a particular location.
+
+1188
+01:31:44,480 --> 01:31:46,480
+OK, so it's about location.
+
+1189
+01:31:46,480 --> 01:31:52,480
+It's about the impact of, you can say, the terrain on activities and those kind of things.
+
+1190
+01:31:52,480 --> 01:31:53,480
+OK.
+
+1191
+01:31:53,480 --> 01:31:54,480
+Thank you.
+
+1192
+01:31:54,480 --> 01:32:16,480
+[ Inaudible ]
+
+1193
+01:32:16,480 --> 01:32:20,480
+I'm saying to repeat the study of space, I can be in contact with anything.
+
+1194
+01:32:20,480 --> 01:32:23,480
+If not, it's not a way to study anything, it's not a case.
+
+1195
+01:32:23,480 --> 01:32:24,480
+Yeah, go.
+
+1196
+01:32:24,480 --> 01:32:25,480
+Does not work.
+
+1197
+01:32:25,480 --> 01:32:26,480
+Yeah.
+
+1198
+01:32:26,480 --> 01:32:27,480
+Okay.
+
+1199
+01:32:27,480 --> 01:32:31,480
+That gives us tremendous power and job of course.
+
+1200
+01:32:31,480 --> 01:32:33,480
+Thank you for that.
+
+1201
+01:32:33,480 --> 01:32:35,480
+Thank you for that.
+
+1202
+01:32:35,480 --> 01:32:37,480
+Any other ideas?
+
+1203
+01:32:37,480 --> 01:32:38,480
+Yeah.
+
+1204
+01:32:38,480 --> 01:32:54,560
+So, dialectics between humans and the environment, okay?
+
+1205
+01:32:54,560 --> 01:32:56,200
+Other ideas?
+
+1206
+01:32:56,200 --> 01:32:57,200
+Yeah?
+
+1207
+01:32:57,200 --> 01:33:07,200
+[ Inaudible ]
+
+1208
+01:33:07,200 --> 01:33:13,200
+[ Inaudible ]
+
+1209
+01:33:13,200 --> 01:33:14,200
+>> Yeah, yeah.
+
+1210
+01:33:14,200 --> 01:33:15,200
+Absolutely. Yeah.
+
+1211
+01:33:15,200 --> 01:33:17,200
+I would say that's human geography.
+
+1212
+01:33:17,200 --> 01:33:18,200
+Yeah.
+
+1213
+01:33:18,200 --> 01:33:19,200
+Okay.
+
+1214
+01:33:19,200 --> 01:33:20,200
+>> Everyone in this?
+
+1215
+01:33:20,200 --> 01:33:21,200
+>> Yeah.
+
+1216
+01:33:21,200 --> 01:33:24,200
+>> I would say that's a lot of the which we will space.
+
+1217
+01:33:24,200 --> 01:33:32,200
+But not for geometrical, you know, the idea is that we can't explain what the problem comes in.
+
+1218
+01:33:32,200 --> 01:33:34,200
+But that's what we're talking about.
+
+1219
+01:33:34,200 --> 01:33:38,200
+So it's just a approach.
+
+1220
+01:33:38,200 --> 01:33:40,200
+It's very interesting, yeah?
+
+1221
+01:33:40,200 --> 01:33:44,200
+And you're right there, still?
+
+1222
+01:33:44,200 --> 01:33:49,200
+Okay, I think, I think this is all, I would say, correct in a way,
+
+1223
+01:33:49,200 --> 01:33:52,200
+but it shows that there's different, different answers to this question.
+
+1224
+01:33:52,200 --> 01:33:57,200
+And the answer to this question has been different throughout the history of geography.
+
+1225
+01:33:57,200 --> 01:34:06,200
+I would say in the 19th century it was indeed about creating detailed information on these sources to geography
+
+1226
+01:34:06,200 --> 01:34:13,200
+and those kind of things because geography was installed in an imperial program of exploiting the colonies.
+
+1227
+01:34:13,200 --> 01:34:21,200
+But throughout the decades the main purpose or as a result of geography has shifted.
+
+1228
+01:34:21,200 --> 01:34:28,200
+Or there's different kind of parallel interpretations of what the purpose of geography should be.
+
+1229
+01:34:28,200 --> 01:34:33,200
+I started a number of definitions where else do we go?
+
+1230
+01:34:33,200 --> 01:34:39,200
+The real, real geographical society, this is kind of the heart of empire, if you will.
+
+1231
+01:34:39,200 --> 01:34:45,200
+One of the first geographical societies, it's kind of part of the British empire,
+
+1232
+01:34:45,200 --> 01:34:52,680
+as it's a kind of root disease and it gives us some idea of what geography could be.
+
+1233
+01:34:52,680 --> 01:34:57,680
+So it's the understanding of social and physical processes within the context.
+
+1234
+01:34:57,680 --> 01:35:03,080
+Place recognizing the great differences in culture, political system, economies, landscapes and environments
+
+1235
+01:35:03,080 --> 01:35:04,960
+because the world and exploring things between.
+
+1236
+01:35:04,960 --> 01:35:12,960
+So it's about the world as a mosaic, it's about geographical difference, sensitivity to contexts.
+
+1237
+01:35:12,960 --> 01:35:21,900
+And also thinking relationally, so how does something that happens in Brussels connects to
+
+1238
+01:35:21,900 --> 01:35:23,140
+quincias operands?
+
+1239
+01:35:23,140 --> 01:35:25,800
+So it's about connections between places.
+
+1240
+01:35:25,800 --> 01:35:30,600
+So these are not, I mean, I'm not saying these are ideal definitions.
+
+1241
+01:35:30,600 --> 01:35:35,760
+By far not, but we can be inspired and take certain things from.
+
+1242
+01:35:35,760 --> 01:35:40,800
+American association of geographers used to be the association of American members by the way,
+
+1243
+01:35:40,800 --> 01:35:47,800
+that they changed their name to reflect more diverse audience in the community.
+
+1244
+01:35:47,800 --> 01:35:52,800
+You want to understand the world, I'm not start with the river, city, mountain and
+
+1245
+01:35:52,800 --> 01:35:55,800
+village erode and follow it to the ends of the earth.
+
+1246
+01:35:55,800 --> 01:36:02,520
+Chography asks the big questions, where, how, why, what if, as you were saying, and gives
+
+1247
+01:36:02,520 --> 01:36:06,600
+you the perspective to answer them with advanced technology and the solid knowledge of
+
+1248
+01:36:06,600 --> 01:36:09,200
+the world in which we all live.
+
+1249
+01:36:09,200 --> 01:36:12,640
+So follow your nose, trace connections,
+
+1250
+01:36:12,640 --> 01:36:15,400
+and indeed ask these big questions.
+
+1251
+01:36:15,400 --> 01:36:22,920
+Perhaps in other disciplines, there's less space to do so.
+
+1252
+01:36:22,920 --> 01:36:25,000
+By the way, if you go to the original,
+
+1253
+01:36:25,000 --> 01:36:27,360
+you could say literal Greek transcription
+
+1254
+01:36:27,360 --> 01:36:31,040
+is heard description.
+
+1255
+01:36:31,040 --> 01:36:34,160
+But that doesn't tell you that much, right?
+
+1256
+01:36:34,160 --> 01:36:40,840
+standard definition would be to describe human activity at the interface of
+
+1257
+01:36:40,840 --> 01:36:47,040
+with the Earth or something like that. So somehow goes back to a very
+
+1258
+01:36:47,040 --> 01:36:53,360
+descriptive idea of what geography should be not necessarily producing any
+
+1259
+01:36:53,360 --> 01:37:00,440
+analytical knowledge or explanatory knowledge. So I tend to not to like that
+
+1260
+01:37:00,440 --> 01:37:08,080
+definition too much but in original Greek it's what I mean. Now to further a little
+
+1261
+01:37:08,080 --> 01:37:13,840
+bit there and I think I mean this is going a little bit more towards my own
+
+1262
+01:37:13,840 --> 01:37:19,160
+interpretation as well just another quote. Take from the handbook while most
+
+1263
+01:37:19,160 --> 01:37:23,760
+social science disciplines can be roughly defined by what they study the
+
+1264
+01:37:23,760 --> 01:37:27,800
+economy culture society and so on. Geography is defined by how is that so that
+
+1265
+01:37:27,800 --> 01:37:32,920
+was you were saying and then so the world by our approach. Geographers studied the
+
+1266
+01:37:32,920 --> 01:37:38,040
+economy's set of politics and culture too but a geographical perspective is one that emphasizes
+
+1267
+01:37:38,040 --> 01:37:46,520
+space and is supposed to any of these things. So it's not just that we can claim like political
+
+1268
+01:37:46,520 --> 01:37:53,880
+scientists or like economists this kind of thematic field. It's really our you could say theoretical
+
+1269
+01:37:53,880 --> 01:37:58,760
+and analytical working with the notion of space,
+
+1270
+01:37:58,760 --> 01:38:03,680
+space as something that explains what human activity
+
+1271
+01:38:03,680 --> 01:38:10,360
+as it interacts with its environment that really identifies.
+
+1272
+01:38:10,360 --> 01:38:13,520
+So sets us apart asographers from us.
+
+1273
+01:38:13,520 --> 01:38:14,000
+Yeah.
+
+1274
+01:38:14,000 --> 01:38:15,200
+Just to question the power system,
+
+1275
+01:38:15,200 --> 01:38:17,600
+the condition and any difference from,
+
+1276
+01:38:17,600 --> 01:38:21,640
+no, as you jump sociology as well.
+
+1277
+01:38:21,640 --> 01:38:26,640
+because there would be far less attention to space, I would say.
+
+1278
+01:38:26,640 --> 01:38:32,640
+So, Charles, the only isn't that space is also the final of human interactions.
+
+1279
+01:38:32,640 --> 01:38:36,640
+Like, the old one is showing.
+
+1280
+01:38:36,640 --> 01:38:40,640
+How space defines, how I wouldn't think so.
+
+1281
+01:38:40,640 --> 01:38:46,640
+I think sociologists would start with a particular history,
+
+1282
+01:38:46,640 --> 01:38:54,480
+histories perhaps, look at the relations, organizational forms, perhaps identity, those kind of processes
+
+1283
+01:38:54,480 --> 01:39:02,000
+that I think, and they perhaps they may describe the variety across different contexts in one way
+
+1284
+01:39:02,000 --> 01:39:10,880
+or another, but perhaps they would not use geography to explain those differences. So, for instance,
+
+1285
+01:39:10,880 --> 01:39:14,400
+I mean, what could I think of as an example?
+
+1286
+01:39:14,400 --> 01:39:20,040
+I mean, when you try to understand urban life,
+
+1287
+01:39:20,040 --> 01:39:23,840
+being sensitive to how you're inserted
+
+1288
+01:39:23,840 --> 01:39:30,280
+in the global network of cities could be one way
+
+1289
+01:39:30,280 --> 01:39:32,040
+to appreciate your own positionality.
+
+1290
+01:39:32,040 --> 01:39:35,320
+So if you're a citizen of a city like in Shasta,
+
+1291
+01:39:35,320 --> 01:39:38,760
+which is an exploitative or subordinate relation
+
+1292
+01:39:38,760 --> 01:39:40,600
+to other cities in the world,
+
+1293
+01:39:40,600 --> 01:39:46,560
+Let me give you a hint of why your living conditions are that bad, whereas sociologist
+
+1294
+01:39:46,560 --> 01:39:53,680
+may perhaps start explaining that from local cultures, local society characteristics,
+
+1295
+01:39:53,680 --> 01:39:55,440
+political system, etc.
+
+1296
+01:39:55,440 --> 01:40:00,240
+The geographer would, for instance, try to put that in perspective, say, look, there's
+
+1297
+01:40:00,240 --> 01:40:06,880
+a no-for-racking system, a world system of sorts, and maybe we can talk about this next
+
+1298
+01:40:06,880 --> 01:40:10,880
+week that allows to explain that a little bit better.
+
+1299
+01:40:10,880 --> 01:40:23,880
+Okay, but I think, yeah, and that connects a little bit to the next thing and the sociological imagination.
+
+1300
+01:40:23,880 --> 01:40:30,880
+And these are the words, I mean, this is what they've created, Harvey writes and social justice in the city.
+
+1301
+01:40:30,880 --> 01:40:38,880
+It enables the possess it when it stands the larger historical scene in terms of its meaning for in-a-life and external career of writing of individuals.
+
+1302
+01:40:38,880 --> 01:40:44,880
+For the sociological imagination enables us to grasp history and biography and relation between the two in society.
+
+1303
+01:40:44,880 --> 01:40:49,880
+So it's about think about issues like class and how knowledge is produced.
+
+1304
+01:40:49,880 --> 01:40:55,960
+what kind of questions that you ask that are predefined or not predefined by
+
+1305
+01:40:55,960 --> 01:41:02,120
+shaped by your own class identity differences or identity. To acknowledge that
+
+1306
+01:41:02,120 --> 01:41:06,400
+would be one thing. But Harvey says the spatial imagination enables the
+
+1307
+01:41:06,400 --> 01:41:11,360
+individual to recognize the role of space and place and so on biography. So take
+
+1308
+01:41:11,360 --> 01:41:21,280
+for instance somebody from South Africa who starts teaching in London as a
+
+1309
+01:41:21,280 --> 01:41:28,000
+geographer, how with this personal trajectory lead to some kind of a focus on
+
+1310
+01:41:28,000 --> 01:41:33,000
+issues of what is modernity, what is non-modernity, what is development, what is
+
+1311
+01:41:33,000 --> 01:41:38,560
+under development and those kinds of things. So how brings us a career as a
+
+1312
+01:41:38,560 --> 01:41:41,440
+to the global south, going to the global north,
+
+1313
+01:41:41,440 --> 01:41:44,680
+might shape the questions that are being asked.
+
+1314
+01:41:44,680 --> 01:41:47,080
+Next to just issues of class at Missity
+
+1315
+01:41:47,080 --> 01:41:51,120
+and other elements that may shape positionality.
+
+1316
+01:41:51,120 --> 01:41:54,120
+I could use the example of Jennifer Robinson, for instance,
+
+1317
+01:41:54,120 --> 01:41:55,520
+from the fitness exercise.
+
+1318
+01:41:55,520 --> 01:41:58,680
+And she came up with the idea of ordinary cities,
+
+1319
+01:41:58,680 --> 01:42:00,480
+somehow debunking the whole idea
+
+1320
+01:42:00,480 --> 01:42:03,280
+that would be extraordinary world cities,
+
+1321
+01:42:03,280 --> 01:42:05,840
+and then the rest, OK?
+
+1322
+01:42:05,840 --> 01:42:10,280
+So just saying that in your personal biographies,
+
+1323
+01:42:10,280 --> 01:42:13,320
+your spatial trajectory and your spatial relations
+
+1324
+01:42:13,320 --> 01:42:16,520
+with other places may also have an impact
+
+1325
+01:42:16,520 --> 01:42:20,160
+on the kind of questions that you're asking.
+
+1326
+01:42:20,160 --> 01:42:23,720
+I'm not saying that sociologists are blind,
+
+1327
+01:42:23,720 --> 01:42:27,000
+but they just ask different kind of questions.
+
+1328
+01:42:27,000 --> 01:42:28,240
+Okay.
+
+1329
+01:42:28,240 --> 01:42:31,400
+Now for me, I mean, these are difficult theoretical discussions
+
+1330
+01:42:31,400 --> 01:42:35,480
+and it's also not a epistemological, epistemology class,
+
+1331
+01:42:35,480 --> 01:42:42,120
+But I think it's safe to say that as human geographers were interested in the interactions
+
+1332
+01:42:42,120 --> 01:42:49,080
+between space and society, how spaces, shape societies and individuals and vice versa,
+
+1333
+01:42:49,080 --> 01:42:53,720
+how individuals and societies shaped their environments.
+
+1334
+01:42:53,720 --> 01:43:01,160
+And this is kind of what, at so jump, a famous American job for a call, the social
+
+1335
+01:43:01,160 --> 01:43:09,640
+spatial dialectic. And then you translate that to cities. It's how urban societies make
+
+1336
+01:43:09,640 --> 01:43:16,360
+the places they live in. And at the same time, how urban space morphologically or otherwise
+
+1337
+01:43:16,360 --> 01:43:21,880
+has, again, back an influence on urban life as groups and individuals. Think about
+
+1338
+01:43:21,880 --> 01:43:28,760
+segregation, which shows a segregated social structure. It's something social, but also
+
+1339
+01:43:28,760 --> 01:43:33,760
+So will the fine kind of interactions that you have with others in driven space.
+
+1340
+01:43:33,760 --> 01:43:37,560
+And they have an impact on what kind of encounters you have in the city.
+
+1341
+01:43:37,560 --> 01:43:46,000
+They have an impact on how privileged you are to what extent you know other social groups
+
+1342
+01:43:46,000 --> 01:43:47,160
+and societies, etc.
+
+1343
+01:43:47,160 --> 01:43:52,640
+So space, one example that you're going to the work of Nikhil later on, that shows that
+
+1344
+01:43:52,640 --> 01:43:59,240
+space has in itself some kind of autonomous form of explanation. I'm very
+
+1345
+01:43:59,240 --> 01:44:05,400
+the friends as a job for as you can see because as all geographers I have an
+
+1346
+01:44:05,400 --> 01:44:10,640
+identity crisis but that's kind of a very productive one I would say because
+
+1347
+01:44:10,640 --> 01:44:16,040
+this kind of typifies the history of post-war history of geography. Maybe
+
+1348
+01:44:16,040 --> 01:44:21,880
+other geographers will recognize that. Yeah so the social spatial dialectic
+
+1349
+01:44:21,880 --> 01:44:27,080
+perhaps as a synthesis what we can land on our society's people,
+
+1350
+01:44:27,080 --> 01:44:33,880
+make spaces and how it works back to them. And thinking about the autonomous power of space
+
+1351
+01:44:33,880 --> 01:44:45,240
+and explaining stuff. As an example, if I can, can I? Yes. Four ways, I mean you mentioned already,
+
+1352
+01:44:45,240 --> 01:44:49,640
+it's thinking about different concepts of space, territory, scale, network,
+
+1353
+01:44:49,640 --> 01:44:57,480
+place or common ways of thinking about space. And we point to different kind of spatial processes.
+
+1354
+01:44:57,480 --> 01:45:03,480
+And again, it's not that one is better than the other to understand what is happening.
+
+1355
+01:45:03,480 --> 01:45:10,520
+But as I will try to show by the example of Brussels, it's kind of seeking tension between these
+
+1356
+01:45:10,520 --> 01:45:16,760
+different concepts that gets us a little bit closer to understanding, for instance, in this case,
+
+1357
+01:45:16,760 --> 01:45:25,000
+the conundrum that Brussels poses. So one way of looking at the city of Brussels is a territorial
+
+1358
+01:45:25,000 --> 01:45:31,000
+one. It has a particular jurisdiction. It's the Brussels capital region which emerged as a region
+
+1359
+01:45:31,000 --> 01:45:38,920
+somewhere in the 1990s, next to Flanger's Hamelonia, and it has so competences, it has a government
+
+1360
+01:45:38,920 --> 01:45:45,720
+argument. We can do stuff, the side stuff on the territory, but not on the culture because that's
+
+1361
+01:45:45,720 --> 01:45:51,920
+something that is being decided by Columbus and the Francophone community.
+
+1362
+01:45:51,920 --> 01:45:58,220
+But other than that, there's kind of sovereignty on that level as what can be decided.
+
+1363
+01:45:58,220 --> 01:46:01,220
+So it's a very strict kind of bounded space.
+
+1364
+01:46:01,220 --> 01:46:06,020
+If you walk 10 meters outside those boundaries in principle,
+
+1365
+01:46:06,020 --> 01:46:09,120
+the Brussels government can't say anything about you.
+
+1366
+01:46:09,120 --> 01:46:14,920
+And on the other hand, it also can erect all kinds of barriers,
+
+1367
+01:46:14,920 --> 01:46:19,720
+as long as one wants to add another lane to the ring road across Brussels,
+
+1368
+01:46:19,720 --> 01:46:23,720
+because it has very centered on car mobility.
+
+1369
+01:46:23,720 --> 01:46:29,720
+Well, there's a waste of blocking that, because there are certain stretches of the ring road,
+
+1370
+01:46:29,720 --> 01:46:32,920
+when Brussels can say, "No, let's not do that here."
+
+1371
+01:46:32,920 --> 01:46:35,320
+And then the end-to-end up still with the bottlenecks.
+
+1372
+01:46:35,320 --> 01:46:49,320
+Okay, so this is territorial power to some extent, which has also been used by the Brussels government saying everything is 50 kilometers an hour max when you entered our territory.
+
+1373
+01:46:49,320 --> 01:46:57,320
+So yeah, take it or leave it. So with territorial view, what Brussels could be?
+
+1374
+01:46:57,320 --> 01:47:02,120
+One would be more scalar view and scale.
+
+1375
+01:47:02,120 --> 01:47:04,560
+Yeah, you could say it's a spatial scale.
+
+1376
+01:47:04,560 --> 01:47:08,800
+It's kind of a sensitivity to different processes
+
+1377
+01:47:08,800 --> 01:47:10,240
+work on different scales.
+
+1378
+01:47:10,240 --> 01:47:12,080
+Some of them are really micro teaching
+
+1379
+01:47:12,080 --> 01:47:16,680
+is a micro process taking place in the scale here
+
+1380
+01:47:16,680 --> 01:47:19,760
+of the classroom.
+
+1381
+01:47:19,760 --> 01:47:22,360
+Whereas you could say, commuting is something that's
+
+1382
+01:47:22,360 --> 01:47:25,000
+big place at the far larger scale.
+
+1383
+01:47:25,000 --> 01:47:31,760
+as we go home, it's a process that radically goes beyond the boundaries of this class.
+
+1384
+01:47:31,760 --> 01:47:35,960
+It's the same when you look at economic activities.
+
+1385
+01:47:35,960 --> 01:47:40,160
+If you look at the metropolitan area more logically,
+
+1386
+01:47:40,160 --> 01:47:45,480
+Brussels is actually much larger than the Brussels capital feature.
+
+1387
+01:47:45,480 --> 01:47:52,440
+So if you were to define Brussels as a scale of where urban activities take place,
+
+1388
+01:47:52,440 --> 01:47:57,240
+you could end up halfway to flongers or halfway to Bologna.
+
+1389
+01:47:57,240 --> 01:48:02,760
+So it radically deborders the territory that is the Brussels capital region.
+
+1390
+01:48:02,760 --> 01:48:11,960
+In contrast to other contexts, there has not been a very successful process of, you could say,
+
+1391
+01:48:11,960 --> 01:48:20,040
+city regionalization, where there was some kind of governance expansion to manage the
+
+1392
+01:48:20,040 --> 01:48:21,960
+the metropolitan process.
+
+1393
+01:48:21,960 --> 01:48:25,480
+And a lot of context to see that new governance structures
+
+1394
+01:48:25,480 --> 01:48:29,200
+have been erected, think about London, for instance,
+
+1395
+01:48:29,200 --> 01:48:33,280
+it hugely exceeds the original heartland of London,
+
+1396
+01:48:33,280 --> 01:48:35,680
+but includes more and more of its peripheries,
+
+1397
+01:48:35,680 --> 01:48:41,240
+because these places are connected to the urban area.
+
+1398
+01:48:41,240 --> 01:48:43,000
+This is not what happened in Brussels,
+
+1399
+01:48:43,000 --> 01:48:45,880
+and this has something to do with the fact
+
+1400
+01:48:45,880 --> 01:48:50,680
+that is a very commonitarian sense definition,
+
+1401
+01:48:50,680 --> 01:48:53,140
+because it deals with all kinds of issues
+
+1402
+01:48:53,140 --> 01:48:57,080
+of redistribution of income, et cetera.
+
+1403
+01:48:57,080 --> 01:49:00,560
+We have to keep in mind that about 60% of Belgian GDP
+
+1404
+01:49:00,560 --> 01:49:05,320
+is generated in Brussels, but it's not being governed
+
+1405
+01:49:05,320 --> 01:49:08,960
+into its totality by the Brussels government.
+
+1406
+01:49:08,960 --> 01:49:11,480
+In fact, and that brings us to the third one,
+
+1407
+01:49:11,480 --> 01:49:13,880
+it's a matter of perspective.
+
+1408
+01:49:13,880 --> 01:49:16,040
+There's all kinds of micro networks,
+
+1409
+01:49:16,040 --> 01:49:19,080
+and in this case, this is the commuting map of Belgium,
+
+1410
+01:49:19,080 --> 01:49:22,000
+that makes that the surplus that has been generated
+
+1411
+01:49:22,000 --> 01:49:24,520
+by all these activities and Brussels,
+
+1412
+01:49:24,520 --> 01:49:26,280
+I think about head order functions,
+
+1413
+01:49:26,280 --> 01:49:28,600
+you're being functioned that apparently
+
+1414
+01:49:28,600 --> 01:49:31,320
+accounts for a quarter of the Brussels economy,
+
+1415
+01:49:31,320 --> 01:49:34,080
+it actually leaks to the periphery.
+
+1416
+01:49:34,080 --> 01:49:36,880
+So it leaks beyond the borders of the territory
+
+1417
+01:49:36,880 --> 01:49:39,000
+of the Brussels capital region,
+
+1418
+01:49:39,000 --> 01:49:41,800
+a lot of people including myself,
+
+1419
+01:49:41,800 --> 01:49:50,120
+work in Brussels, but basically paid taxes outside of Brussels.
+
+1420
+01:49:50,120 --> 01:49:56,440
+So I didn't get this beautiful old city in Belgium.
+
+1421
+01:49:56,440 --> 01:49:59,920
+And I get taxed in flounders.
+
+1422
+01:49:59,920 --> 01:50:02,560
+I spent a lot of money well, not so much,
+
+1423
+01:50:02,560 --> 01:50:03,760
+because I worked too much.
+
+1424
+01:50:03,760 --> 01:50:07,640
+I could spend a lot of money in Ghent.
+
+1425
+01:50:07,640 --> 01:50:10,600
+But it basically is some kind of fiscal leakage
+
+1426
+01:50:10,600 --> 01:50:13,680
+from territory, right?
+
+1427
+01:50:13,680 --> 01:50:17,320
+And this is a problem of Brussels.
+
+1428
+01:50:17,320 --> 01:50:22,320
+We also could talk about Europe, rats, who are not texts at all,
+
+1429
+01:50:22,320 --> 01:50:23,320
+but work in Brussels.
+
+1430
+01:50:23,320 --> 01:50:27,200
+So we can wonder about the multiplier, economic multiplier
+
+1431
+01:50:27,200 --> 01:50:30,200
+that's being created by all these activities in Brussels.
+
+1432
+01:50:30,200 --> 01:50:33,200
+And that means that, yeah, there's a lot of large visiting
+
+1433
+01:50:33,200 --> 01:50:38,840
+class, about 400,000 commuters come to Brussels every day.
+
+1434
+01:50:38,840 --> 01:50:42,520
+Well, pre-corona, let's see if it's still the case.
+
+1435
+01:50:42,520 --> 01:50:46,880
+But the use of city dispense time on the infrastructure,
+
+1436
+01:50:46,880 --> 01:50:50,440
+but not necessarily paying for that.
+
+1437
+01:50:50,440 --> 01:50:53,160
+And I'll spare you details of other kinds of ways
+
+1438
+01:50:53,160 --> 01:50:56,680
+of raging deaths as solidarity then between the regions
+
+1439
+01:50:56,680 --> 01:51:01,320
+of Flounders, for instance, space a number of billions
+
+1440
+01:51:01,320 --> 01:51:04,760
+every year to Brussels as a sign of solidarity,
+
+1441
+01:51:04,760 --> 01:51:07,560
+where you can also frame it as just bamed bill
+
+1442
+01:51:07,560 --> 01:51:11,560
+for being on the metro and Brussels, using it every day.
+
+1443
+01:51:11,560 --> 01:51:15,560
+So there's kind of a discussion there.
+
+1444
+01:51:15,560 --> 01:51:18,720
+And it also is framed in very, at a terrible,
+
+1445
+01:51:18,720 --> 01:51:22,360
+humanitarian terms.
+
+1446
+01:51:22,360 --> 01:51:27,280
+And this is kind of when you use a concept like place,
+
+1447
+01:51:27,280 --> 01:51:29,360
+it gets you a bit closer to these processes,
+
+1448
+01:51:29,360 --> 01:51:31,720
+how people attach meanings to this place.
+
+1449
+01:51:31,720 --> 01:51:35,000
+So Brussels and how it's represented in Belgium media
+
+1450
+01:51:35,000 --> 01:51:43,120
+or Flemming's media, I invite you to buy a Flemming newspaper and run it to Google
+
+1451
+01:51:43,120 --> 01:51:50,120
+to see how Brussels is being represented, is particular frame, which has been augmented
+
+1452
+01:51:50,120 --> 01:51:59,400
+or essentialized even further as we had the terrorist attacks in 2016, where even Mr.
+
+1453
+01:51:59,400 --> 01:52:04,400
+former president Trump described normally as a health hole.
+
+1454
+01:52:04,400 --> 01:52:10,080
+I was very nicely taken over by a Chinese media because it kind of resonates with the idea of
+
+1455
+01:52:10,080 --> 01:52:21,400
+yeah, unsafe image of Brussels, dirty image of Brussels.
+
+1456
+01:52:21,400 --> 01:52:24,240
+And yeah, so it kind of resonates there.
+
+1457
+01:52:24,240 --> 01:52:31,720
+what you see is especially is that this also, say, reenacted in the entire COVID crisis, we're
+
+1458
+01:52:31,720 --> 01:52:38,480
+again, it's the same frame of yeah, Brussels got managed, look at vaccination rates, it doesn't get
+
+1459
+01:52:38,480 --> 01:52:45,480
+it for the relationship control, they're messing up again. If we were independent and flowers, yeah,
+
+1460
+01:52:45,480 --> 01:52:51,960
+that we could be of all kinds of other COVID regulations, etc. That would be free already. So it's kind
+
+1461
+01:52:51,960 --> 01:52:58,840
+of this frame of attaching certain meanings to certain places there's big. So if you just go to
+
+1462
+01:52:58,840 --> 01:53:07,320
+Lidakaka, or you could also take Delbeak, it's a big sign, who are flarming in Thursday. And so it's
+
+1463
+01:53:07,320 --> 01:53:19,080
+Lidakaka, it's somewhere here. So it's really in balance on Brussels in terms of commuting.
+
+1464
+01:53:19,080 --> 01:53:26,600
+But what you see is that with the kind of return of higher and residential functions to city
+
+1465
+01:53:26,600 --> 01:53:32,600
+to city of Brussels, that there's actually a lot of displacement going on and a lot of people
+
+1466
+01:53:32,600 --> 01:53:38,440
+that used to live in what they call the residual housing market still affordable housing in Brussels,
+
+1467
+01:53:38,440 --> 01:53:45,320
+it's actually being pushed out and it's increasingly computing to Brussels from further
+
+1468
+01:53:45,320 --> 01:53:51,920
+further away. So in a sense you can say Brussels is spilling over all the way to
+
+1469
+01:53:51,920 --> 01:53:56,120
+Lidicakka. What you see is that there is a very strong opposition by
+
+1470
+01:53:56,120 --> 01:54:02,760
+either deterring parties, a local mayor, which is really trying to form a
+
+1471
+01:54:02,760 --> 01:54:08,120
+kind of bridge, if you will towards all that is foreign in this case Brussels.
+
+1472
+01:54:08,120 --> 01:54:17,360
+Okay, so, Lydicarica is placed in opposition to this process of urbanization there.
+
+1473
+01:54:17,360 --> 01:54:22,920
+We can think about it what we want when it's certainly something that is explaining a lot
+
+1474
+01:54:22,920 --> 01:54:29,280
+of the tensions between Brussels and its growing intellect.
+
+1475
+01:54:29,280 --> 01:54:37,940
+So for takes of Brussels to a four different kind of spatial approaches and I think
+
+1476
+01:54:37,940 --> 01:54:46,560
+combining them tells us a bit more about what on earth Brussels as a city is.
+
+1477
+01:54:46,560 --> 01:54:50,520
+Okay, is there still time?
+
+1478
+01:54:50,520 --> 01:54:55,040
+You still have time for one minute of thinking about what being critical means?
+
+1479
+01:54:55,040 --> 01:54:58,040
+I think eight minutes we can stop.
+
+1480
+01:54:58,040 --> 01:55:02,560
+So one minute of thinking of what is critical,
+
+1481
+01:55:02,560 --> 01:55:04,800
+not in a sense your condition is critical,
+
+1482
+01:55:04,800 --> 01:55:07,760
+but what is critical urban studies
+
+1483
+01:55:07,760 --> 01:55:10,240
+or critical urban geography for you.
+
+1484
+01:55:10,240 --> 01:55:11,640
+What does that mean?
+
+1485
+01:55:11,640 --> 01:55:14,640
+(audience laughing)
+
+1486
+01:55:22,000 --> 01:55:24,660
+(crowd talking)
+
+1487
+01:55:24,660 --> 01:55:27,320
+(crowd talking)
+
+1488
+01:55:27,320 --> 01:55:55,320
+[ Background Sounds ]
+
+1489
+01:55:55,320 --> 01:56:05,320
+[BLANK_AUDIO]
+
+1490
+01:56:05,320 --> 01:56:09,320
+>> What does that mean?
+
+1491
+01:56:09,320 --> 01:56:16,320
+>> [INAUDIBLE]
+
+1492
+01:56:16,320 --> 01:56:25,320
+[ Inaudible ]
+
+1493
+01:56:25,320 --> 01:56:29,320
+Yeah, so the question is what you hear, what you see?
+
+1494
+01:56:29,320 --> 01:56:31,320
+Okay, even what is being.
+
+1495
+01:56:31,320 --> 01:56:33,320
+Okay. Okay.
+
+1496
+01:56:33,320 --> 01:56:43,320
+[ Inaudible ]
+
+1497
+01:56:43,320 --> 01:56:46,400
+So it connects a bit to what you were saying.
+
+1498
+01:56:46,400 --> 01:56:49,440
+Fact checking certain statements.
+
+1499
+01:56:49,440 --> 01:56:50,720
+See where I just come from.
+
+1500
+01:56:50,720 --> 01:56:51,520
+Yeah?
+
+1501
+01:56:51,520 --> 01:56:52,320
+I want to build on that.
+
+1502
+01:56:52,320 --> 01:56:54,960
+I want to make a stage as being aware of your own bias
+
+1503
+01:56:54,960 --> 01:56:58,040
+with like confirmation bias, cherry picking up
+
+1504
+01:56:58,040 --> 01:57:01,640
+something that's a huge help with being green goes well.
+
+1505
+01:57:01,640 --> 01:57:03,320
+Cherry picking up what is that?
+
+1506
+01:57:03,320 --> 01:57:04,560
+Can you explain that?
+
+1507
+01:57:04,560 --> 01:57:10,760
+Cherry picking is the fun of picking up your sources.
+
+1508
+01:57:10,760 --> 01:57:17,960
+while you have IDA and your only code source that also of same owners that also represent IDA,
+
+1509
+01:57:17,960 --> 01:57:19,760
+it's regarding all the other apps.
+
+1510
+01:57:19,760 --> 01:57:23,760
+Can you go back to the results to the latest selection?
+
+1511
+01:57:23,760 --> 01:57:24,760
+Yeah.
+
+1512
+01:57:24,760 --> 01:57:27,760
+So being reflexive about your madness, yes.
+
+1513
+01:57:27,760 --> 01:57:28,760
+Bye.
+
+1514
+01:57:28,760 --> 01:57:39,760
+[ Inaudible ]
+
+1515
+01:57:39,760 --> 01:57:43,760
+[ Inaudible ]
+
+1516
+01:57:43,760 --> 01:57:45,760
+>> Carried.
+
+1517
+01:57:45,760 --> 01:57:46,760
+And okay.
+
+1518
+01:57:46,760 --> 01:57:47,760
+And Carried.
+
+1519
+01:57:47,760 --> 01:57:48,760
+How exactly?
+
+1520
+01:57:48,760 --> 01:57:50,760
+That's an interesting term.
+
+1521
+01:57:50,760 --> 01:57:53,760
+[ Inaudible ]
+
+1522
+01:57:53,760 --> 01:57:56,520
+and then you can get to life.
+
+1523
+01:57:56,520 --> 01:57:58,120
+And I think it's right here.
+
+1524
+01:57:58,120 --> 01:58:00,160
+And I like to thank the market for that.
+
+1525
+01:58:00,160 --> 01:58:02,200
+- And what should we care about?
+
+1526
+01:58:02,200 --> 01:58:05,080
+- Christine.
+
+1527
+01:58:05,080 --> 01:58:06,520
+(audience laughs)
+
+1528
+01:58:06,520 --> 01:58:07,520
+- True.
+
+1529
+01:58:07,520 --> 01:58:08,360
+- And please.
+
+1530
+01:58:08,360 --> 01:58:09,200
+- Yeah.
+
+1531
+01:58:09,200 --> 01:58:10,720
+Any particular process yet?
+
+1532
+01:58:10,720 --> 01:58:14,760
+- I think I just like being fully and totally
+
+1533
+01:58:14,760 --> 01:58:19,000
+having an approach that is politically engaged
+
+1534
+01:58:19,000 --> 01:58:22,600
+and also making a form of his answer.
+
+1535
+01:58:22,600 --> 01:58:31,600
+This means different actors, especially the marginalized and not the public.
+
+1536
+01:58:31,600 --> 01:58:35,600
+It's crucial to ourselves all knowledge.
+
+1537
+01:58:35,600 --> 01:58:37,600
+Interesting.
+
+1538
+01:58:37,600 --> 01:58:38,600
+Yeah.
+
+1539
+01:58:38,600 --> 01:59:04,600
+[ Inaudible ]
+
+1540
+01:59:04,600 --> 01:59:07,320
+I have to hold myself in the discussion.
+
+1541
+01:59:07,320 --> 01:59:08,760
+But it's an interesting point.
+
+1542
+01:59:08,760 --> 01:59:11,960
+I think it's about the critical about what effect is.
+
+1543
+01:59:11,960 --> 01:59:16,560
+Personally, I would say, it says how to have a fact as produced
+
+1544
+01:59:16,560 --> 01:59:18,640
+to use Bruno La Proul.
+
+1545
+01:59:18,640 --> 01:59:23,280
+In the sense that if you put men in white jackets,
+
+1546
+01:59:23,280 --> 01:59:25,640
+it would give certain people the more power
+
+1547
+01:59:25,640 --> 01:59:27,040
+to actually produce a fact.
+
+1548
+01:59:27,040 --> 01:59:29,720
+Whereas, for voices, marginal voices
+
+1549
+01:59:29,720 --> 01:59:31,080
+would not be in that position.
+
+1550
+01:59:31,080 --> 01:59:32,120
+Yeah?
+
+1551
+01:59:32,120 --> 01:59:37,000
+It seems like, I could feel level and involve, like,
+
+1552
+01:59:37,000 --> 01:59:39,360
+keep your life the implications of the way
+
+1553
+01:59:39,360 --> 01:59:42,160
+you're conceptualizing things are in terms of economic
+
+1554
+01:59:42,160 --> 01:59:46,760
+and social, in terms of that, and re-evaluating
+
+1555
+01:59:46,760 --> 01:59:48,160
+the theory of their framework.
+
+1556
+01:59:48,160 --> 01:59:50,960
+So you're using things not where you're hiding on that.
+
+1557
+01:59:50,960 --> 01:59:52,200
+Yeah, interesting.
+
+1558
+01:59:52,200 --> 01:59:56,240
+So again, being a reflexive about your own positionality,
+
+1559
+01:59:56,240 --> 02:00:00,120
+going to piece out, to what extent your positionality
+
+1560
+02:00:00,120 --> 02:00:07,120
+shapes the questions you ask and I try to address that.
+
+1561
+02:00:07,120 --> 02:00:29,120
+[ Inaudible ]
+
+1562
+02:00:29,120 --> 02:00:35,120
+>> Yeah. So knowledge production as a power-related process.
+
+1563
+02:00:35,120 --> 02:00:40,120
+where some boys are sound louder than others.
+
+1564
+02:00:40,120 --> 02:00:46,120
+It reduces the thing that also has geographical implications
+
+1565
+02:00:46,120 --> 02:00:49,120
+because it's not just some people, I mean,
+
+1566
+02:00:49,120 --> 02:00:52,120
+over in days when spatial structures think about local,
+
+1567
+02:00:52,120 --> 02:00:55,120
+local, local, local self, that's happening.
+
+1568
+02:00:55,120 --> 02:00:56,120
+Okay, thanks a lot.
+
+1569
+02:00:56,120 --> 02:00:57,120
+I mean, exactly.
+
+1570
+02:00:57,120 --> 02:01:00,120
+I mean, I have not so much to add to that.
+
+1571
+02:01:00,120 --> 02:01:03,120
+You can take the definition of Jonas at all
+
+1572
+02:01:03,120 --> 02:01:06,520
+And I think it catches some of the things that were being said.
+
+1573
+02:01:06,520 --> 02:01:14,080
+Think about new concepts that reveal something that we didn't know yet, kind of obvious, but still.
+
+1574
+02:01:14,080 --> 02:01:19,520
+Think about being politically engaged, yes.
+
+1575
+02:01:19,520 --> 02:01:25,200
+Something that matters one way or another, but be reflexive about the fact that
+
+1576
+02:01:25,200 --> 02:01:31,360
+some things might really matter and be picked up, but not necessarily be, you could say, very progressive.
+
+1577
+02:01:31,360 --> 02:01:38,360
+I mean, in a fascist society, there's all kinds of knowledge on segregation to be produced
+
+1578
+02:01:38,360 --> 02:01:43,720
+that is very useful, and you could be extremely politically engaged in that, but not necessarily
+
+1579
+02:01:43,720 --> 02:01:48,840
+thinking about, you could say, marginalized forces there.
+
+1580
+02:01:48,840 --> 02:01:54,760
+Third point indeed, taking seriously the experiences, life, practice, and words of ordinary
+
+1581
+02:01:54,760 --> 02:02:00,200
+urban residents or marginalized social groups to think about, really, okay, we have this
+
+1582
+02:02:00,200 --> 02:02:05,440
+hegemonic representation, what would happen if you would ask different people with
+
+1583
+02:02:05,440 --> 02:02:10,280
+wisdom in a different positionality, etc., etc. Obviously you have your
+
+1584
+02:02:10,280 --> 02:02:15,680
+positionality as a researcher in yourself and maybe sometimes very hard
+
+1585
+02:02:15,680 --> 02:02:22,280
+for instance as a man to study from his perspectives. He may also be not
+
+1586
+02:02:22,280 --> 02:02:29,240
+recognized as being a rightful person to study in these kind of aspects. So I
+
+1587
+02:02:29,240 --> 02:02:37,480
+I think it's a kind of a negotiation process there and then again, or think about women
+
+1588
+02:02:37,480 --> 02:02:45,400
+that focus on the liteness of investment banking in the city, think about work within the
+
+1589
+02:02:45,400 --> 02:02:51,960
+McDowell for instance, and how it's a difficult process for women to actually enter these
+
+1590
+02:02:51,960 --> 02:02:57,480
+spaces, have access. But once they get access, they ask very different questions that
+
+1591
+02:02:57,480 --> 02:03:02,480
+actually leading quite revolutionary concerns.
+
+1592
+02:03:02,480 --> 02:03:06,480
+And now to another formulation, and that's why I was a little bit hesitant with
+
+1593
+02:03:06,480 --> 02:03:14,680
+there are no facts. I don't agree. I think there are facts, in a sense that there are factual
+
+1594
+02:03:14,680 --> 02:03:23,380
+realities. And you see this kind of kind of middle ground between you could say, shoot
+
+1595
+02:03:23,380 --> 02:03:28,980
+as being something that's being constructed, but you always have to construct it on the basis
+
+1596
+02:03:28,980 --> 02:03:37,860
+of some kind of empirical factual reality. So not radical deconstruction or post-structuralist thinking.
+
+1597
+02:03:37,860 --> 02:03:44,660
+There's always a way of saying this is, I don't know the entire truth, but this is probably
+
+1598
+02:03:44,660 --> 02:03:51,460
+a little bit more true than something else. And yeah, you can write the citation, a re-decitation
+
+1599
+02:03:51,460 --> 02:03:55,060
+Sorry, what he says is that the ultimate goal
+
+1600
+02:03:55,060 --> 02:04:00,860
+is to reduce illusion in society and of itself.
+
+1601
+02:04:00,860 --> 02:04:05,180
+So if you have sharp needs, they not go.
+
+1602
+02:04:05,180 --> 02:04:07,540
+And with the vocabulary in concepts,
+
+1603
+02:04:07,540 --> 02:04:08,580
+you can work with that.
+
+1604
+02:04:08,580 --> 02:04:11,140
+And you will see things perhaps in a different life
+
+1605
+02:04:11,140 --> 02:04:17,420
+and take away false beliefs and illusions in society.
+
+1606
+02:04:17,420 --> 02:04:21,420
+And it also means that it's a kind of a placeless
+
+1607
+02:04:21,420 --> 02:04:25,480
+and timeless definition is sense that this could be the mission, for instance, of critical
+
+1608
+02:04:25,480 --> 02:04:31,040
+urban studies or critical urban geography. And what is critical and what is a false belief
+
+1609
+02:04:31,040 --> 02:04:35,760
+and what is an illusion may change over time. But it's kind of, it keeps holding as a
+
+1610
+02:04:35,760 --> 02:04:45,080
+finishing, but it may have to be updated in terms of habits. So some rules of thumb, there's
+
+1611
+02:04:45,080 --> 02:04:51,920
+There's no universal theory of anything, and I think we'll show that.
+
+1612
+02:04:51,920 --> 02:04:58,400
+We have to be sensitive to the fact that every theory has its birthmarks.
+
+1613
+02:04:58,400 --> 02:05:04,760
+What were the questions that really gave rise to formulating a research question to a theory
+
+1614
+02:05:04,760 --> 02:05:06,240
+in a particular way?
+
+1615
+02:05:06,240 --> 02:05:12,720
+Well, we'll have to take a look at the context of historical and station to understand
+
+1616
+02:05:12,720 --> 02:05:13,880
+what that was.
+
+1617
+02:05:13,880 --> 02:05:19,920
+So think about the Chicago School that you'll be talking about with Nick.
+
+1618
+02:05:19,920 --> 02:05:23,360
+It was assumed to be universal model.
+
+1619
+02:05:23,360 --> 02:05:29,840
+There's actually a model of a city that captures rapid urbanization in the early 20th century
+
+1620
+02:05:29,840 --> 02:05:31,520
+and northern Europe.
+
+1621
+02:05:31,520 --> 02:05:34,880
+And then the question to what extent it actually explains something in different locations
+
+1622
+02:05:34,880 --> 02:05:36,600
+and different times.
+
+1623
+02:05:36,600 --> 02:05:40,460
+We're not going to reject that, but we have to mobilize that concept and see how far
+
+1624
+02:05:40,460 --> 02:05:41,460
+we get.
+
+1625
+02:05:41,460 --> 02:05:44,740
+So we have to be reflexive about these bird marks.
+
+1626
+02:05:44,740 --> 02:05:50,180
+So, even the concept of class is something that is a western inception, if you will.
+
+1627
+02:05:50,180 --> 02:05:54,660
+To an extent, does it allow to actually capture, for instance, Indian society?
+
+1628
+02:05:54,660 --> 02:06:01,540
+So we need to kind of provincialize theory and say, okay, it originated at some point.
+
+1629
+02:06:01,540 --> 02:06:05,780
+And now we can meaningfully think about how we can speak of course context.
+
+1630
+02:06:05,780 --> 02:06:11,940
+So think about a global city as a concept that emerged,
+
+1631
+02:06:11,940 --> 02:06:14,540
+say mostly in Northern America, Western Europe,
+
+1632
+02:06:14,540 --> 02:06:16,740
+what extent does it allow to capture what is going on
+
+1633
+02:06:16,740 --> 02:06:18,660
+in Singapore for instance?
+
+1634
+02:06:18,660 --> 02:06:23,540
+So to play while being reflexive about these concepts
+
+1635
+02:06:23,540 --> 02:06:25,900
+with the application across the country.
+
+1636
+02:06:25,900 --> 02:06:28,580
+And engaged pluralism, that's kind of, I mean,
+
+1637
+02:06:28,580 --> 02:06:30,100
+might be for engaged pluralism.
+
+1638
+02:06:30,100 --> 02:06:32,540
+It means that there are different kind of theoretical stances,
+
+1639
+02:06:32,540 --> 02:06:34,740
+different kind of question being passed,
+
+1640
+02:06:34,740 --> 02:06:37,100
+entering from different kind of teams.
+
+1641
+02:06:37,100 --> 02:06:42,020
+And I think it's not just about acknowledging that,
+
+1642
+02:06:42,020 --> 02:06:44,180
+but it's actually engaging with this kind of
+
+1643
+02:06:44,180 --> 02:06:48,100
+dissenting opinions and trying to look for a conversation.
+
+1644
+02:06:48,100 --> 02:06:50,980
+And maybe we can talk a little bit more about that
+
+1645
+02:06:50,980 --> 02:06:53,580
+next week or in the next sessions.
+
+1646
+02:06:53,580 --> 02:06:58,300
+As Purbin studies has drawn and become ever more global,
+
+1647
+02:06:58,300 --> 02:07:01,140
+as the urbanization has also globalized,
+
+1648
+02:07:01,140 --> 02:07:09,940
+There's always a risk that has some work that will become lost and in comparison to use the words of Jamie back.
+
+1649
+02:07:09,940 --> 02:07:18,700
+That we lose our points of reference to actually be able to have some kind of coherent urban studies project or at least speak to one another.
+
+1650
+02:07:18,700 --> 02:07:24,380
+So I think there's a danger with a global research agenda with so many contextual differences.
+
+1651
+02:07:24,380 --> 02:07:27,540
+How do we still make sense of urban processes
+
+1652
+02:07:27,540 --> 02:07:31,100
+when Singapore versus Brussels?
+
+1653
+02:07:31,100 --> 02:07:33,300
+How do you put them there?
+
+1654
+02:07:33,300 --> 02:07:36,140
+Now, I want to bore you now to that with the next two slides
+
+1655
+02:07:36,140 --> 02:07:41,340
+too much, but I just want to say that what geography was
+
+1656
+02:07:41,340 --> 02:07:43,020
+and what kind of critical questions
+
+1657
+02:07:43,020 --> 02:07:48,300
+were asked has changed tremendously throughout time.
+
+1658
+02:07:48,300 --> 02:07:51,420
+Much of geography originally was really
+
+1659
+02:07:51,420 --> 02:07:56,300
+about human interaction with the environment,
+
+1660
+02:07:56,300 --> 02:07:59,880
+say environmental determinism where it was really
+
+1661
+02:07:59,880 --> 02:08:02,340
+believed, yes, it's really the physical environment
+
+1662
+02:08:02,340 --> 02:08:05,380
+that would shape human activities.
+
+1663
+02:08:05,380 --> 02:08:07,820
+Regional geography was also a very big tradition,
+
+1664
+02:08:07,820 --> 02:08:10,460
+especially before the Second World War,
+
+1665
+02:08:10,460 --> 02:08:12,540
+where it was really about the description
+
+1666
+02:08:12,540 --> 02:08:15,900
+of human activities in their physical region.
+
+1667
+02:08:15,900 --> 02:08:17,100
+There's still some tradition there.
+
+1668
+02:08:17,100 --> 02:08:20,220
+But what really happened after the Second World War,
+
+1669
+02:08:20,220 --> 02:08:22,420
+Most were any, especially since the 70s,
+
+1670
+02:08:22,420 --> 02:08:24,280
+it was a period of, let's say,
+
+1671
+02:08:24,280 --> 02:08:27,660
+a social and political economic upheaval
+
+1672
+02:08:27,660 --> 02:08:32,360
+is a huge branching out of geography.
+
+1673
+02:08:32,360 --> 02:08:36,100
+So there's quite a plurality of traditions there.
+
+1674
+02:08:36,100 --> 02:08:40,780
+And they take us quite far from the origins of geography,
+
+1675
+02:08:40,780 --> 02:08:44,060
+which was really about settlements, if you will,
+
+1676
+02:08:44,060 --> 02:08:48,980
+and the pre-World War era was about, okay,
+
+1677
+02:08:48,980 --> 02:08:51,940
+show East India and where are the settlements
+
+1678
+02:08:51,940 --> 02:08:55,540
+or describe me the structure of a city.
+
+1679
+02:08:55,540 --> 02:08:58,900
+Of the second world war, especially in the United States,
+
+1680
+02:08:58,900 --> 02:09:01,140
+it was a kind of a nomotetic move.
+
+1681
+02:09:01,140 --> 02:09:03,300
+And we have to formalize this.
+
+1682
+02:09:03,300 --> 02:09:05,380
+And you have for instance, Walter Castella
+
+1683
+02:09:05,380 --> 02:09:09,660
+who came with quite a neat model to explain
+
+1684
+02:09:09,660 --> 02:09:12,820
+why at certain locations you had certain settlements
+
+1685
+02:09:12,820 --> 02:09:14,620
+over certain sides.
+
+1686
+02:09:14,620 --> 02:09:17,900
+Or for instance, the O's and what's going on,
+
+1687
+02:09:17,900 --> 02:09:19,620
+start formalizing the idea.
+
+1688
+02:09:19,620 --> 02:09:22,780
+OK, if there's certain activities within the city
+
+1689
+02:09:22,780 --> 02:09:26,180
+at a certain space, it must have something to do with the kind
+
+1690
+02:09:26,180 --> 02:09:29,900
+of value that is being generated by those activities.
+
+1691
+02:09:29,900 --> 02:09:32,060
+And the fact that some activities out
+
+1692
+02:09:32,060 --> 02:09:34,220
+with others on a certain location.
+
+1693
+02:09:34,220 --> 02:09:36,620
+So these are kind of foundational approaches.
+
+1694
+02:09:36,620 --> 02:09:37,860
+And I'm going very fast here.
+
+1695
+02:09:37,860 --> 02:09:41,860
+I know, but it's just to take note of that,
+
+1696
+02:09:41,860 --> 02:09:48,660
+This led to much more plural discussion as of the '70s.
+
+1697
+02:09:48,660 --> 02:09:52,060
+And I can't really do justice to hold these different traditions
+
+1698
+02:09:52,060 --> 02:09:52,860
+here.
+
+1699
+02:09:52,860 --> 02:09:56,500
+But what you could say, more radical and critical voices
+
+1700
+02:09:56,500 --> 02:09:58,700
+share in one tradition, you could say,
+
+1701
+02:09:58,700 --> 02:10:04,020
+yes, questions of social justice, distribution.
+
+1702
+02:10:04,020 --> 02:10:08,340
+They work in a materialist setting for what people have
+
+1703
+02:10:08,340 --> 02:10:10,300
+and how this class, for instance, income,
+
+1704
+02:10:10,300 --> 02:10:16,380
+It's a track pass, how does that explain the visions in the city?
+
+1705
+02:10:16,380 --> 02:10:20,060
+Nice names, such as David Harvey, Neil Smith,
+
+1706
+02:10:20,060 --> 02:10:22,260
+and I think the fair that those were kind of
+
+1707
+02:10:22,260 --> 02:10:24,260
+periods with a lot of social change,
+
+1708
+02:10:24,260 --> 02:10:29,100
+where social mobility of the working class in 1970s.
+
+1709
+02:10:29,100 --> 02:10:33,980
+Feminine's geographies that also emerged at this point,
+
+1710
+02:10:33,980 --> 02:10:39,140
+questioning male dominated views on society, et cetera.
+
+1711
+02:10:39,140 --> 02:10:42,260
+So thinking about placing geography,
+
+1712
+02:10:42,260 --> 02:10:46,340
+relating it to the process of capitalism.
+
+1713
+02:10:46,340 --> 02:10:50,420
+The other big strands you could say,
+
+1714
+02:10:50,420 --> 02:10:56,020
+is more you could say a humanistic geography
+
+1715
+02:10:56,020 --> 02:11:00,180
+that thinks about urban lifestyles, urban behaviors,
+
+1716
+02:11:00,180 --> 02:11:04,940
+urban cultures, which less kind of relates itself
+
+1717
+02:11:04,940 --> 02:11:08,860
+to capitalism in a sense.
+
+1718
+02:11:08,860 --> 02:11:11,860
+but really starts with, okay, what kind of forces
+
+1719
+02:11:11,860 --> 02:11:13,820
+haven't we heard in the city?
+
+1720
+02:11:13,820 --> 02:11:16,260
+How are cities being experienced?
+
+1721
+02:11:16,260 --> 02:11:18,980
+Can we think about the power of representation?
+
+1722
+02:11:18,980 --> 02:11:21,100
+How different spaces are being represented?
+
+1723
+02:11:21,100 --> 02:11:23,380
+What the power of discourse is?
+
+1724
+02:11:23,380 --> 02:11:25,460
+It's not just about material circumstances,
+
+1725
+02:11:25,460 --> 02:11:27,620
+it's also how we think about certain places
+
+1726
+02:11:27,620 --> 02:11:30,460
+that will explain what they've explained.
+
+1727
+02:11:30,460 --> 02:11:32,220
+And also, we shift towards more important things,
+
+1728
+02:11:32,220 --> 02:11:34,460
+all of the different methods
+
+1729
+02:11:34,460 --> 02:11:39,460
+that kind of specifies the cultural term more widely.
+
+1730
+02:11:39,460 --> 02:11:41,660
+And this is not the end of a conversation,
+
+1731
+02:11:41,660 --> 02:11:43,740
+I would say, and that's kind of your buttons
+
+1732
+02:11:43,740 --> 02:11:46,740
+of purpose of this more widely
+
+1733
+02:11:46,740 --> 02:11:48,500
+and urban journey, particularly,
+
+1734
+02:11:48,500 --> 02:11:51,700
+that all these different approaches exist next to one another.
+
+1735
+02:11:51,700 --> 02:11:54,340
+But you have to kind of be aware
+
+1736
+02:11:54,340 --> 02:11:56,460
+that they work in different kinds of traditions
+
+1737
+02:11:56,460 --> 02:12:00,100
+and then formulate questions in a particular way.
+
+1738
+02:12:00,100 --> 02:12:03,060
+And I think you will see returning here and there
+
+1739
+02:12:03,060 --> 02:12:05,380
+throughout the course, somebody who works,
+
+1740
+02:12:05,380 --> 02:12:07,180
+perhaps a little bit more in that framework,
+
+1741
+02:12:07,180 --> 02:12:09,180
+was thought to refer to that tradition,
+
+1742
+02:12:09,180 --> 02:12:10,740
+and it's something to be aware of.
+
+1743
+02:12:10,740 --> 02:12:12,780
+I can't adjust this to the history of geography
+
+1744
+02:12:12,780 --> 02:12:16,780
+in three slides, that would be over the top,
+
+1745
+02:12:16,780 --> 02:12:18,820
+but it's something to think about.
+
+1746
+02:12:18,820 --> 02:12:21,020
+Okay, I'll end there.
+
+1747
+02:12:21,020 --> 02:12:23,180
+Sorry, it's for taking a little bit longer.
+
+1748
+02:12:23,180 --> 02:12:26,060
+By next week, please try to get over
+
+1749
+02:12:26,060 --> 02:12:29,700
+over these two texts, or share it with your colleagues,
+
+1750
+02:12:29,700 --> 02:12:34,700
+And the world city hypothesis by John Friedman and Paul B.
+
+1751
+02:12:34,700 --> 02:12:38,740
+And somewhat less old, but still already bit later.
+
+1752
+02:12:38,740 --> 02:12:40,780
+Text by Sosel.
+
+1753
+02:12:40,780 --> 02:12:41,620
+Sosel.
+
+1754
+02:12:41,620 --> 02:12:47,820
+Not to be quite a mixed bit of muscles.
+
+1755
+02:12:47,820 --> 02:12:51,460
+All right.
+
+1756
+02:12:51,460 --> 02:12:52,980
+Thank you very much.
+
+1757
+02:12:52,980 --> 02:12:56,020
+And see you next week.
+
+1758
+02:12:56,900 --> 02:12:59,900
+[GUN hit discrete noise]
+
+1759
+02:12:59,900 --> 02:13:09,460
+[ additions sounding ]
+
